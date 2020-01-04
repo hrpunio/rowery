@@ -1,0 +1,1573 @@
+<?xml version='1.0' encoding='iso-8859-2' standalone='no' ?>
+<!DOCTYPE year SYSTEM "rowery.dtd" >
+
+<year no="2015" done='173680'>
+ 
+ <month no="1">
+
+  <day date="2015/01/04">
+    <ride dist="25" exdist="25.10" bike='cx' gpx='20150104'>
+      <by name='Gdańsk'/>
+      <by name='Osowa'/>
+    </ride>
+  </day>
+
+  <day date="2015/01/05">
+    <ride dist="30" exdist="30.10" bike='cx' gpx='20150105'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+      <by name='Gdańsk'/>
+
+    </ride>
+  </day>
+  <day date="2015/01/13">
+    <ride dist="40" exdist="40.10" bike='cx' gpx='20150113'>
+      <by name='Gdańsk'/>
+      <by name='Matarnia'/>
+      <by name='Osowa'/>
+    </ride>
+  </day>
+
+  <day date="2015/01/14">
+    <ride dist="30" exdist="30.10" bike='cx' gpx='20150114'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
+
+  <day date="2015/01/15">
+    <ride dist='35' exdist="38.00" bike='cx' gpx='20150115'>
+      <by name='Osowa'/>
+      <by name='Warzenko'/>
+      <by name='Chwaszczyno'/>
+   </ride>
+  </day>
+  <day date="2015/01/17">
+    <ride dist='30' exdist="31.00" bike='cx' gpx='20150117'>
+      <by name='Gdańsk'/>
+      <by name='Matarnia'/>
+      <by name='Osowa'/>
+   </ride>
+  </day>
+  <day date="2015/01/18" temp='-2.0'>
+    <ride dist='30' exdist="31.00" bike='cx' gpx='20150118' >
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Gdynia'/>
+   </ride>
+  </day>
+
+  <day date="2015/01/19" temp='1.0'>
+    <ride dist='30' exdist="31.00" bike='cx' gpx='20150119' >
+      <by name='Gdańsk'/>
+      <by name='Matarnia'/>
+      <by name='Osowa'/>
+   </ride>
+  </day>
+
+  <day date="2015/01/22" temp='0.0'>
+    <ride dist='30' exdist="29.00" bike='mtb' gpx='20150122' >
+      <by name='Gdańsk'/>
+      <by name='Matarnia'/>
+      <by name='Osowa'/>
+   </ride>
+  </day>
+
+  <day date="2015/01/24" temp='0.0'>
+    <ride dist='35' exdist="36.00" bike='mtb' gpx='20150124' >
+      <by name='Osowa'/>
+      <by name='Rębiechowo'/>
+      <by name='Barniewice'/>
+   </ride>
+  </day>
+  <day date="2015/01/25" temp='0.0'>
+    <ride dist='30' exdist="29.80" bike='mtb' gpx='20150125' >
+      <by name='Gdańsk'/>
+      <by name='Matarnia'/>
+      <by name='Osowa'/>
+   </ride>
+  </day>
+  <day date="2015/01/28" temp='1.5'>
+    <ride dist='30' exdist="29.65" bike='mtb' gpx='20150128' >
+      <by name='Gdańsk'/>
+      <by name='Matarnia'/>
+      <by name='Osowa'/>
+   </ride>
+  </day>
+  <day date="2015/01/29" temp='2.5'>
+    <ride dist='30' exdist="30.45" bike='mtb' gpx='20150129' >
+      <!-- po ścieżce wzdłuż plaży -->
+      <by name='Gdańsk'/>
+   </ride>
+  </day>
+  <day date="2015/01/31">
+    <ride dist='35' exdist="35.80" bike='cx' gpx='20150131'>
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Gdynia'/>
+   </ride>
+  </day>
+ </month>
+ <month no='2'>
+ 
+  <day date="2015/02/01" temp='1.2'>
+    <ride dist='30' exdist="29.80" bike='mtb' gpx='20150201' >
+      <!-- po ścieżce wzdłuż plaży -->
+      <by name='Gdańsk'/>
+   </ride>
+  </day>
+  <day date="2015/02/03" temp='1.0'>
+    <ride dist='40' exdist="43.70" bike='cx' gpx='20150203' >
+      <by name='Gdańsk'/>
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+   </ride>
+  </day>
+
+  <day date="2015/02/04" temp='0.0'>
+    <ride dist='25' exdist="25.90" bike='mtb' gpx='20150204' >
+      <!-- po ścieżce wzdłuż plaży -->
+      <by name='Gdańsk'/>
+   </ride>
+  </day>
+
+  <day date="2015/02/06">
+    <ride dist='35' exdist="34.80" bike='cx' gpx='20150206'>
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Gdynia'/>
+   </ride>
+  </day>
+  <day date="2015/02/08" temp='0.0'>
+    <ride dist='30' exdist="29.10" bike='mtb' gpx='20150208' >
+      <!-- po ścieżce wzdłuż plaży z JF -->
+      <by name='Gdańsk'/>
+   </ride>
+  </day>
+
+  <day date="2015/02/10">
+    <ride dist='35' exdist="35.01" bike='mtb' gpx='20150210' >
+      <!-- po ścieżce wzdłuż plaży z JF -->
+      <by name='Smołdzino'/>
+      <by name='Choćmirówko'/>
+      <by name='Rumsko'/>
+   </ride>
+  </day>
+  <day date="2015/02/11" >
+    <ride dist='50' exdist="49.90" bike='mtb' gpx='20150211' >
+      <by name='Smołdzino'/>
+      <by name='Gąbino'/>
+      <by name='Machowino'/>
+      <by name='Gałęzinowo'/>
+      <by name='Ustka'/>
+   </ride>
+  </day>
+
+  <day date="2015/02/12">
+    <ride dist='30' exdist="30.00" bike='mtb' gpx='20150212' >
+      <by name='Gdańsk'/>
+      <by name='Matarnia'/>
+      <by name='Osowa'/>
+   </ride>
+  </day>
+
+  <day date="2015/02/14">
+    <ride dist='40' exdist="42.10" bike='cx' gpx='20150214' >
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+   </ride>
+  </day>
+  <day date="2015/02/15">
+    <ride dist='45' exdist="43.60" bike='cx' gpx='20150215' >
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+   </ride>
+  </day>
+
+  <day date="2015/02/17" temp='1.5'>
+    <ride dist='35' exdist="34.95" bike='cx' gpx='20150217' >
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+   </ride>
+  </day>
+  <day date="2015/02/18">
+    <!-- zmiana pedałów w rowerze CX na ritchey comp v4 -->
+    <ride dist='40' exdist="38.48" bike='cx' gpx='20150218' >
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+   </ride>
+  </day>
+
+  <day date="2015/02/19">
+    <ride dist='40' exdist="39.01" bike='cx' gpx='20150219' >
+      <by name='Gdańsk'/>
+      <by name='Matarnia'/>
+      <by name='Rębiechowo'/>
+      <by name='Barniewice'/>
+   </ride>
+  </day>
+
+  <day date="2015/02/21">
+    <ride dist='50' exdist="51.01" bike='cx' gpx='20150221' >
+      <!-- z RB+inni -->
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Kielno'/>
+      <by name='Kamień'/>
+   </ride>
+  </day>
+
+  <day date="2015/02/22">
+    <ride dist='45' exdist="44.10" bike='cx' gpx='20150222' >
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+   </ride>
+  </day>
+
+  <day date="2015/02/23">
+    <ride dist='40' exdist="41.10" bike='cx' gpx='20150223' >
+      <by name='Gdynia'/>
+      <by name='Chwaszczyno'/>
+      <by name='Osowa'/>
+   </ride>
+  </day>
+
+  <day date="2015/02/24">
+    <ride dist='40' exdist="39.60" bike='cx' gpx='20150224' >
+      <by name='Chwaszczyno'/>
+      <by name='Koleczkowo'/>
+      <by name='Gdynia'/>
+   </ride>
+  </day>
+  <day date="2015/02/25">
+    <ride dist='45' exdist="46.10" bike='cx' gpx='20150225' >
+      <by name='Chwaszczyno'/>
+      <by name='Koleczkowo'/>
+      <by name='Bojano'/>
+   </ride>
+  </day>
+
+  <day date="2015/02/26">
+    <ride dist='30' exdist="31.02" bike='cx' gpx='20150226' >
+      <by name='Matarnia'/>
+      <by name='Osowa'/>
+   </ride>
+  </day>
+
+  <day date="2015/02/28">
+    <ride dist='45' exdist="46.02" bike='cx' gpx='20150228' >
+      <by name='Chwaszczyno'/>
+      <by name='Koleczkowo'/>
+      <by name='Bojano'/>
+   </ride>
+  </day>
+ </month>
+ <month no='3'>
+ 
+  <day date="2015/03/01">
+    <ride dist='45' exdist="46.02" bike='cx' gpx='20150301' >
+      <by name='Chwaszczyno'/>
+      <by name='Koleczkowo'/>
+      <by name='Bojano'/>
+   </ride>
+  </day>
+  <day date="2015/03/03">
+    <ride dist='30' exdist="31.02" bike='cx' gpx='20150303' >
+      <by name='Matarnia'/>
+      <by name='Osowa'/>
+   </ride>
+  </day>
+
+  <day date="2015/03/04">
+    <ride dist='35' exdist="38.02" bike='mtb' gpx='20150304' >
+      <by name='Gdańsk'/>
+   </ride>
+  </day>
+  <day date="2015/03/05">
+    <ride dist='35' exdist="37.12" bike='cx' gpx='20150305' >
+      <by name='Gdańsk'/>
+   </ride>
+  </day>
+
+  <day date="2015/03/08">
+    <ride dist='50' exdist="51.01" bike='ridley' gpx='20150308' >
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Kielno'/>
+      <by name='Kamień'/>
+   </ride>
+  </day>
+
+  <day date="2015/03/09">
+    <ride dist='35' exdist="36.01" bike='cx' gpx='20150309' >
+      <by name='Gdańsk'/>
+      <by name='Matarnia'/>
+      <by name='Rębiechowo'/>
+      <by name='Barniewice'/>
+    </ride>
+    <comment>CX=1000km</comment>
+  </day>
+  <day date="2015/03/10">
+    <ride dist='40' exdist="39.50" bike='cx' gpx='20150310' >
+      <by name='Chwaszczyno'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+   </ride>
+  </day>
+  <day date="2015/03/11">
+    <ride dist='35' exdist="36.50" bike='ridley' gpx='20150311' >
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+   </ride>
+  </day>
+
+  <day date="2015/03/12">
+    <ride dist='40' exdist="39.10" bike='ridley' gpx='20150312' >
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+   </ride>
+  </day>
+
+  <day date="2015/03/15">
+    <ride dist='65' exdist="65.30" bike='ridley' gpx='20150315' >
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+      <by name='Bojano'/>
+   </ride>
+  </day>
+  <day date="2015/03/16">
+    <ride dist='50' exdist="51.01" bike='ridley' gpx='20150316' >
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Kielno'/>
+      <by name='Kamień'/>
+   </ride>
+  </day>
+
+  <day date="2015/03/17">
+    <ride dist='45' exdist="45.00" bike='ridley' gpx='20150317' >
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+      <by name='Bojano'/>
+   </ride>
+  </day>
+
+  <day date="2015/03/18">
+    <ride dist='50' exdist="53.01" bike='ridley' gpx='20150318' >
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Kielno'/>
+      <by name='Kamień'/>
+   </ride>
+  </day>
+
+  <day date="2015/03/19">
+    <ride dist='35' exdist="37.24" bike='cx' gpx='20150319' >
+      <by name='Gdańsk'/>
+   </ride>
+  </day>
+
+  <day date="2015/03/22">
+    <ride dist='45' exdist="45.24" bike='ridley' gpx='20150322' >
+      <by name='Chwaszczyno'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+   </ride>
+  </day>
+
+  <day date="2015/03/24">
+    <ride dist='55' exdist="54.01" bike='ridley' gpx='20150324' >
+      <by name='Sopot'/>
+   </ride>
+  </day>
+
+  <day date="2015/03/25">
+    <ride dist='35' exdist="37.01" bike='ridley' gpx='20150325' >
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+   </ride>
+  </day>
+  <day date="2015/03/27">
+    <ride dist='40' exdist="38.50" bike='cx' gpx='20150327' >
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+   </ride>
+  </day>
+  <day date="2015/03/28">
+    <ride dist='55' exdist="55.50" bike='ridley' gpx='20150328' >
+      <by name='Osowa'/>
+      <by name='Kielno'/>
+      <by name='Kamień'/>
+   </ride>
+  </day>
+
+  <day date="2015/03/31">
+    <ride dist='40' exdist="42.50" bike='cx' gpx='20150331' >
+      <by name='Gdańsk'/>
+      <by name='Osowa'/>
+   </ride>
+  </day>
+ </month>
+ <month no='4'>
+ 
+  <day date="2015/04/02">
+    <ride dist='40' exdist="42.50" bike='cx' gpx='20150402' >
+      <by name='Matarnia'/>
+      <by name='Osowa'/>
+   </ride>
+  </day>
+  <day date="2015/04/03">
+    <!-- jarzmo siodła pękło -->
+    <ride dist='25' exdist="27.00" bike='cx' gpx='20150403' >
+      <by name='Matarnia'/>
+   </ride>
+  </day>
+  <day date="2015/04/04">
+    <ride dist='35' exdist="36.00" bike='ridley' gpx='20150404' >
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+   </ride>
+  </day>
+
+  <day date="2015/04/06">
+    <ride dist='25' exdist="27.00" bike='mtb' gpx='20150406' >
+      <by name='Gdańsk'/>
+   </ride>
+  </day>
+
+  <day date="2015/04/07">
+    <ride dist='45' exdist="44.30" bike='ridley' gpx='20150407' >
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+   </ride>
+  </day>
+  <day date="2015/04/08">
+    <ride dist='50' exdist="53.50" bike='ridley' gpx='20150408' >
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+      <by name='Kamień'/>
+   </ride>
+  </day>
+  <day date="2015/04/09">
+    <!-- 15 + 25 -->
+    <ride dist='40' exdist="40.50" bike='ridley' gpx='20150409' >
+      <by name='Gdańsk'/>
+   </ride>
+  </day>
+  <day date="2015/04/11" temp='+22.0'>
+    <!-- pierwszy raz w krótkich spodniach -->
+    <ride dist='55' exdist="54.80" bike='ridley' gpx='20150411' >
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+      <by name='Kamień'/>
+   </ride>
+  </day>
+
+  <day date="2015/04/12" temp='12.0'>
+    <ride dist='45' exdist="46.50" bike='ridley' gpx='20150412' >
+      <by name='Kielno'/>
+      <by name='Bojano'/>
+   </ride>
+  </day>
+
+  <day date="2015/04/22" >
+    <ride dist='45' exdist="46.50" bike='ridley' gpx='20150422' >
+      <by name='Kielno'/>
+      <by name='Bojano'/>
+   </ride>
+  </day>
+
+  <day date="2015/04/23" >
+    <ride dist='30' exdist="31.10" bike='cx' gpx='20150423' >
+      <by name='Matarnia'/>
+      <by name='Osowa'/>
+   </ride>
+  </day>
+
+  <day date="2015/04/25" >
+    <ride dist='50' exdist="51.10" bike='ridley' gpx='20150425' >
+      <by name='Kielno'/>
+      <by name='Kamień'/>
+    </ride>
+  </day>
+    
+  <day date="2015/04/26" >
+    <ride dist='45' exdist="44.70" bike='ridley' gpx='20150426' >
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+    </ride>
+  </day>
+
+    <day date="2015/04/29" >
+    <ride dist='35' exdist="37.10" bike='ridley' gpx='20150429' >
+      <by name='Iława'/>
+      <by name='Bachotek'/>
+    </ride>
+
+  </day>
+ 
+ </month>
+ 
+ <month no='5'>
+
+   <day date="2015/05/06" >
+    <ride dist='30' exdist="33.10" bike='ridley' gpx='20150506' >
+      <by name='Matarnia'/>
+      <by name='Osowa'/>
+    </ride>
+
+   </day>
+
+   <day date="2015/05/09" >
+     <ride dist='35' exdist="36.10" bike='ridley' gpx='20150509' >
+       <by name='Osowa'/>
+       <by name='Matarnia'/>
+    </ride>
+  </day>
+
+   <day date="2015/05/10" >
+     <ride dist='45' exdist="47.11" bike='ridley' gpx='20150510' >
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+      <by name='Osowa'/>
+    </ride>
+   </day>
+
+   <day date="2015/05/11" >
+     <ride dist='35' exdist="36.10" bike='ridley' gpx='20150511' >
+       <by name='Osowa'/>
+       <by name='Matarnia'/>
+     </ride>
+   </day>
+
+   <day date="2015/05/13" >
+     <ride dist='35' exdist="36.10" bike='ridley' gpx='20150513' >
+       <by name='Osowa'/>
+       <by name='Sopot'/>
+     </ride>
+   </day>
+
+   <day date="2015/05/14" >
+     <ride dist='35' exdist="36.10" bike='cx' gpx='20150514' >
+       <by name='Osowa'/>
+       <by name='Rębiechowo'/>
+     </ride>
+      </day>
+   <day date="2015/05/16" >
+     <ride dist='65' exdist="65.10" bike='ridley' gpx='20150516' >
+       <by name='Osowa'/>
+       <by name='Sopot'/>
+     </ride>
+   </day>
+
+   <day date="2015/05/17" >
+     <ride dist='45' exdist="47.00" bike='ridley' gpx='20150517' >
+       <by name='Kielno'/>
+       <by name='Koleczkowo'/>
+       <by name='Osowa'/>
+     </ride>
+   </day>
+
+   <day date="2015/05/18" >
+     <ride dist='30' exdist="32.00" bike='cx' gpx='20150518' >
+       <by name='Gdańsk'/>
+       <by name='Osowa'/>
+     </ride>
+   </day>
+
+   <day date="2015/05/19" >
+     <ride dist='30' exdist="33.00" bike='cx' gpx='20150519' >
+       <by name='Gdańsk'/>
+       <by name='Matarnia'/>
+       <by name='Osowa'/>
+     </ride>
+   </day>
+
+   <day date="2015/05/21" >
+     <ride dist='30' exdist="31.00" bike='cx' gpx='20150521' >
+       <by name='Gdańsk'/>
+       <by name='Osowa'/>
+     </ride>
+   </day>
+
+   <day date="2015/05/23" >
+     <ride dist='45' exdist="44.00" bike='ridley' gpx='20150523' >
+       <by name='Kielno'/>
+       <by name='Koleczkowo'/>
+       <by name='Wiczlino'/>
+     </ride>
+   </day>
+   <day date="2015/05/24" >
+     <ride dist='45' exdist="44.00" bike='ridley' gpx='20150524' >
+       <by name='Kielno'/>
+       <by name='Koleczkowo'/>
+       <by name='Wiczlino'/>
+     </ride>
+   </day>
+
+   <day date="2015/05/27" >
+     <ride dist='45' exdist="47.00" bike='ridley' gpx='20150527' >
+       <by name='Kielno'/>
+       <by name='Koleczkowo'/>
+       <by name='Osowa'/>
+     </ride>
+   </day>
+
+   <day date="2015/05/28" >
+     <ride dist='35' exdist="37.00" bike='cx' gpx='20150528' >
+       <by name='Gdańsk'/>
+       <by name='Osowa'/>
+     </ride>
+   </day>
+
+   <day date="2015/05/30" >
+     <ride dist='30' exdist="30.50" bike='ridley' gpx='20150530' >
+       <by name='Osowa'/>
+       <by name='Chwaszczyno'/>
+     </ride>
+   </day>
+
+   <day date="2015/05/31" >
+     <ride dist='45' exdist="47.00" bike='ridley' gpx='20150531' >
+       <by name='Kielno'/>
+       <by name='Koleczkowo'/>
+       <by name='Osowa'/>
+     </ride>
+   </day>
+ </month>
+ <month no='6'>
+
+   <day date="2015/06/02">
+    <ride dist="35" exdist="36.00" bike='mtb' gpx='20150602_s'>
+      <by name='Cavigliano' country='CH'/>
+      <by name='Brisago' country='CH'/>
+    </ride>
+   </day>
+   <day date="2015/06/03">
+     <ride dist="60" exdist="61.00" bike='mtb' gpx='20150603_s'>
+       <by name='Locarno' country='CH'/>
+       <by name='Bignasco' country='CH'/>
+       <by name='Cavigliano' country='CH'/>
+    </ride>
+   </day>
+   <day date="2015/06/04">
+    <ride dist="25" exdist="26.00" bike='mtb' gpx='20150604_s'>
+      <by name='Cavigliano' country='CH'/>
+      <by name='Ronco' country='CH'/>
+      <by name='Ascona' country='CH'/>
+      <by name='Locarno' country='CH'/>
+    </ride>
+  </day>
+   
+  <day date="2015/06/05">
+    <ride dist="70" exdist="72.00" bike='mtb' gpx='20150605_s'>
+      <by name='Cavigliano' country='CH'/>
+      <by name='Intragna' country='IT'/>
+      <by name='Re' country='IT'/>
+      <by name='Malesco' country='IT'/>
+      <by name='Finero' country='CH'/>
+      <by name='Cannobio' country='CH'/>
+      <by name='Ascona' country='CH'/>
+      <by name='Locarno' country='CH'/>
+    </ride>
+  </day>
+
+  <day date="2015/06/07" >
+    <ride dist='65' exdist="64.00" bike='ridley' gpx='20150607' >
+       <by name='Kielno'/>
+       <by name='Kamień'/>
+       <by name='Czeczewo'/>
+     </ride>
+  </day>
+
+  <day date="2015/06/10" >
+    <ride dist='45' exdist="47.00" bike='ridley' gpx='20150610' >
+       <by name='Kielno'/>
+       <by name='Koleczkowo'/>
+       <by name='Osowa'/>
+     </ride>
+  </day>
+
+  <day date="2015/06/11" >
+    <ride dist='45' exdist="44.23" bike='ridley' gpx='20150611' >
+       <by name='Kielno'/>
+       <by name='Koleczkowo'/>
+       <by name='Wiczlino'/>
+     </ride>
+  </day>
+  <day date="2015/06/13" >
+    <ride dist='45' exdist="45.10" bike='ridley' gpx='20150613' >
+       <by name='Kielno'/>
+       <by name='Koleczkowo'/>
+       <by name='Wiczlino'/>
+     </ride>
+  </day>
+  <day date="2015/06/14" >
+    <ride dist='65' exdist="65.10" bike='ridley' gpx='20150614' >
+       <by name='Kielno'/>
+       <by name='Koleczkowo'/>
+       <by name='Kamień'/>
+       <by name='Szemud'/>
+     </ride>
+  </day>
+  <day date="2015/06/15" >
+    <ride dist='35' exdist="37.10" bike='ridley' gpx='20150615' >
+       <by name='Osowa'/>
+    </ride>
+  </day>
+  <day date="2015/06/17" >
+    <ride dist='40' exdist="39.10" bike='cx' gpx='20150617' >
+      <by name='Matarnia'/>
+      <by name='Osowa'/>
+    </ride>
+  </day>
+  
+  <day date="2015/06/22" >
+    <ride dist='35' exdist="37.05" bike='cx' gpx='20150622' >
+      <by name='Matarnia'/>
+      <by name='Osowa'/>
+    </ride>
+  </day>
+  <day date="2015/06/23" >
+    <ride dist='25' exdist="27.10" bike='cx' gpx='20150623' >
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
+
+  <day date="2015/06/24" >
+    <ride dist='40' exdist="43.00" bike='ridley' gpx='20150624' >
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+    </ride>
+  </day>
+  <day date="2015/06/25" >
+    <ride dist='35' exdist="37.10" bike='cx' gpx='20150625' >
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
+
+  <day date="2015/06/27">
+    <ride dist='50' exdist="50.11" bike='ridley' gpx='20150627' >
+      <!-- prawie do kamienia / do połowy góry -->
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Kielno'/>
+      <by name='Kamień'/>
+    </ride>
+  </day>
+  <day date="2015/06/28">
+    <ride dist='50' exdist="49.50" bike='ridley' gpx='20150628' >
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Kielno'/>
+      <by name='Kamień'/>
+    </ride>
+  </day>
+
+  <day date="2015/06/29">
+    <ride dist='40' exdist="42.50" bike='cx' gpx='20150629' >
+      <by name='Osowa'/>
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+    </ride>
+  </day>
+
+ </month>
+ <month no='7'>
+
+   <day date="2015/07/01">
+    <ride dist='40' exdist="40.50" bike='cx' gpx='20150701' >
+      <by name='Gdańsk'/>
+      <by name='Matarnia'/>
+      <by name='Osowa'/>
+    </ride>
+   </day>
+   <day date="2015/07/04">
+    <ride dist="50" exdist="53.00" bike='ridley' gpx='20150704'>
+      <by name='Matarnia'/>
+      <by name='Banino'/>
+      <by name='Miszewo'/>
+      <by name='Chwaszczyno'/>
+      <by name='Osowa'/>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
+
+  <day date="2015/07/05" >
+    <ride dist='55' exdist="54.80" bike='ridley' gpx='20150705' >
+       <by name='Kielno'/>
+       <by name='Kamień'/>
+     </ride>
+  </day>
+  <day date="2015/07/06">
+    <ride dist='35' exdist="36.50" bike='cx' gpx='20150706' >
+      <by name='Gdańsk'/>
+      <by name='Matarnia'/>
+      <by name='Osowa'/>
+    </ride>
+  </day>
+
+  <day date="2015/07/08">
+    <ride dist='50' exdist="52.10" bike='ridley' gpx='20150708' >
+      <by name='Osowa'/>
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+    </ride>
+  </day>
+
+  <day date="2015/07/09">
+    <ride dist='45' exdist="44.00" bike='ridley' gpx='20150709' >
+      <by name='Osowa'/>
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+    </ride>
+  </day>
+  <!-- wymiana łańcucha/kasety: Ridley -->
+  <day date="2015/07/11">
+    <comment>Ridley:zmiana łańcucha/kasety</comment>
+    <ride dist='45' exdist="45.00" bike='ridley' gpx='20150711' >
+      <by name='Osowa'/>
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+    </ride>
+  </day>
+  <day date="2015/07/12">
+    <ride dist='50' exdist="51.00" bike='ridley' gpx='20150712' >
+      <by name='Osowa'/>
+      <by name='Kielno'/>
+      <by name='Kamień'/>
+    </ride>
+  </day>
+
+  <day date="2015/07/15">
+    <ride dist='140' exdist="140.00" bike='ridley' gpx='20150715' >
+      <comment>20+120 do Majewo-Kwidzyn+Kwidzyn-Sopot</comment>
+      <by name='Majewo'/>
+      <by name='Kwidzyn'/>
+      <by name='Sztum'/>
+      <by name='Biała Góra'/>
+      <by name='Tczew'/>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
+  <day date="2015/07/16">
+    <ride dist='35' exdist="34.00" bike='cx' gpx='20150716' >
+      <by name='Gdańsk'/>
+      <by name='Matarnia'/>
+      <by name='Osowa'/>
+    </ride>
+  </day>  
+
+  <day date="2015/07/18">
+    <ride dist='60' exdist="59.00" bike='ridley' gpx='20150718' >
+      <by name='Koleczkowo'/>
+      <by name='Bieszkowice'/>
+      <by name='Nowy Dwór Wejherowski'/>
+    </ride>
+  </day>
+
+  <day date="2015/07/19">
+    <ride dist='75' exdist="74.00" bike='ridley' gpx='20150719' >
+      <by name='Koleczkowo'/>
+      <by name='Bieszkowice'/>
+      <by name='Nowy Dwór Wejherowski'/>
+      <by name='Szemud'/>
+      <by name='Kamień'/>
+      <by name='Koleczkowo'/>
+    </ride>
+  </day>
+  <day date="2015/07/20">
+    <ride dist='40' exdist="40.00" bike='cx' gpx='20150720' >
+      <by name='Gdańsk'/>
+      <by name='Matarnia'/>
+      <by name='Rębiechowo'/>
+      <by name='Barniewice'/>
+    </ride>
+  </day>
+
+  <day date="2015/07/22">
+    <ride dist='45' exdist="47.00" bike='ridley' gpx='20150722' >
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+    </ride>
+  </day>
+
+  <day date="2015/07/24">
+    <ride dist='140' exdist="140.00" bike='ridley' gpx='20150722' >
+      <by name='Olsztyn'/>
+      <by name='Dźwierzuty'/>
+      <by name='Stare Kiełbonki'/>
+      <by name='Ukta'/>
+      <by name='Ruciane Nida'/>
+      <by name='Spychowo'/>
+    </ride>
+  </day>
+  <day date="2015/07/25">
+    <ride dist='80' exdist="80.00" bike='ridley' gpx='20150725' >
+      <by name='Spychowo'/>
+      <by name='Łyse'/>
+      <by name='Nowogród'/>
+      <by name='Nowe Kupiski'/>
+    </ride>
+  </day>  
+  <day date="2015/07/27">
+    <ride dist='30' exdist="30.79" bike='cx' gpx='20150727' >
+      <by name='Gdańsk'/>
+      <by name='Matarnia'/>
+      <by name='Osowa'/>
+    </ride>
+  </day>
+  <day date="2015/07/29">
+    <ride dist='40' exdist="42.00" bike='ridley' gpx='20150729' >
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+    </ride>
+  </day>
+ </month>
+ <month no='8'>
+ 
+  <day date="2015/08/01">
+    <ride dist='60' exdist="59.00" bike='ridley' gpx='20150801' >
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+      <by name='Kamień'/>
+    </ride>
+  </day>
+
+  <day date="2015/08/02">
+    <ride dist='60' exdist="62.00" bike='ridley' gpx='20150802' >
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+      <by name='Bieszkowice'/>
+      <by name='Nowy Dwór Wejherowski'/>
+      <by name='Wiczlino'/>
+    </ride>
+  </day>
+
+  <day date="2015/08/05">
+    <ride dist='45' exdist="46.00" bike='cx' gpx='20150805' >
+      <by name='Matarnia'/>
+      <by name='Otomin'/>
+      <by name='Osowa'/>
+    </ride>
+  </day>
+  <day date="2015/08/06">
+    <ride dist='60' exdist="58.30" bike='cx' gpx='20150806' >
+      <by name='Osowa'/>
+      <by name='Rębiechowo'/>
+    </ride>
+  </day>
+  <day date="2015/08/08">
+    <ride dist='50' exdist="53.10" bike='ridley' gpx='20150808' stravaid='411823786'>
+      <by name='Chwaszczyno'/>
+      <by name='Kielno'/>
+      <by name='Kamień'/>
+    </ride>
+  </day>
+  <day date="2015/08/09">
+    <ride dist='60' exdist="60.50" bike='ridley' gpx='20150809' >
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+      <by name='Bieszkowice'/>
+      <by name='Nowy Dwór Wejherowski'/>
+      <by name='Wiczlino'/>
+    </ride>
+  </day>
+  <day date="2015/08/15">
+    <ride dist='50' exdist="52.01" bike='ridley' gpx='20150815' stravaid='417160011'>
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Kielno'/>
+      <by name='Kamień'/>
+   </ride>
+  </day>
+
+  <day date="2015/08/16">
+    <ride dist='50' exdist="51.01" bike='ridley' gpx='20150816' stravaid='418054317'>
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Kielno'/>
+      <by name='Kamień'/>
+   </ride>
+  </day>
+  <day date="2015/08/17">
+    <ride dist='40' exdist="40.10" bike='cx' gpx='20150817' >
+      <by name='Osowa'/>
+      <by name='Rębiechowo'/>
+    </ride>
+  </day>
+
+  <day date="2015/08/18">
+    <ride dist='45' exdist="44.10" bike='ridley' gpx='20150818' >
+      <by name='Osowa'/>
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+    </ride>
+  </day>
+  <day date="2015/08/19">
+    <ride dist='50' exdist="49.10" bike='ridley' gpx='20150819' >
+      <by name='Osowa'/>
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+    </ride>
+  </day>
+  <day date="2015/08/31">
+    <ride dist='35' exdist="35.50" bike='ridley' gpx='20150831' >
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+ </month>
+ 
+ <month no='9'>
+
+   <day date="2015/09/02">
+    <ride dist='30' exdist="33.40" bike='cx' gpx='20150902' >
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+   </day>
+   <day date="2015/09/03">
+    <ride dist='45' exdist="43.50" bike='ridley' gpx='20150903' >
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+    </ride>
+   </day>
+
+   <day date="2015/09/05">
+    <ride dist='50' exdist="50.00" bike='ridley' gpx='20150905' >
+      <by name='Kielno'/>
+      <by name='Kamień'/>
+    </ride>
+   </day>
+
+   <day date="2015/09/06">
+    <ride dist='45' exdist="44.00" bike='ridley' gpx='20150906' >
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+    </ride>
+   </day>
+
+   <day date="2015/09/08">
+    <ride dist='30' exdist="32.00" bike='cx' gpx='20150908' >
+      <by name='Gdańsk'/>
+      <by name='Matarnia'/>
+      <by name='Osowa'/>
+    </ride>
+   </day>
+
+   <day date="2015/09/09">
+     <ride dist='40' exdist="42.00" bike='ridley' gpx='20150909' >
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+    </ride>
+   </day>
+
+   <day date="2015/09/10">
+     <ride dist='45' exdist="44.90" bike='ridley' gpx='20150910' >
+       <by name='Kielno'/>
+       <by name='Koleczkowo'/>
+       <by name='Wiczlino'/>
+     </ride>
+   </day>
+    <day date="2015/09/12">
+     <ride dist='45' exdist="47.00" bike='ridley' gpx='20150912' >
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+    </ride>
+    </day>
+
+   <day date="2015/09/13">
+    <ride dist='50' exdist="51.00" bike='ridley' gpx='20150913' >
+      <by name='Kielno'/>
+      <by name='Kamień'/>
+    </ride>
+   </day>
+
+   <day date="2015/09/15">
+    <ride dist='40' exdist="41.50" bike='cx' gpx='20150915' >
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+    </ride>
+   </day>
+
+   <day date="2015/09/16">
+     <ride dist='45' exdist="47.00" bike='ridley' gpx='20150916' >
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+    </ride>
+   </day>
+
+   <day date="2015/09/15">
+    <ride dist='45' exdist="46.40" bike='ridley' gpx='20150917' >
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+    </ride>
+   </day>
+
+   <day date="2015/09/25">
+     <ride dist='35' exdist="37.50" bike='ridley' gpx='20150925' >
+       <by name='Gdańsk'/>
+       <by name='Rębiechowo'/>
+       <by name='Barniewice'/>
+     </ride>
+   </day>
+   <day date="2015/09/26">
+    <ride dist='50' exdist="53.00" bike='ridley' gpx='20150926' >
+      <by name='Kielno'/>
+      <by name='Kamień'/>
+    </ride>
+   </day>
+
+   <day date="2015/09/27">
+    <ride dist='60' exdist="59.50" bike='ridley' gpx='20150927' >
+      <by name='Kielno'/>
+      <by name='Kamień'/>
+      <by name='Kowalewo'/>
+    </ride>
+   </day>
+   <day date="2015/09/28">
+     <ride dist='35' exdist="34.50" bike='cx' gpx='20150928' >
+      <by name='Gdańsk'/>
+      <by name='Matarnia'/>
+     </ride>
+   </day>   
+    <day date="2015/09/30">
+     <ride dist='50' exdist="48.94" bike='ridley' gpx='20150930' >
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+    </ride>
+    </day>
+ </month>
+ <month no='10'>
+ 
+   <day date="2015/10/01">
+     <ride dist='35' exdist="34.50" bike='cx' gpx='20151001' >
+      <by name='Gdańsk'/>
+      <by name='Matarnia'/>
+     </ride>
+   </day>   
+
+   <day date="2015/10/04">
+     <ride dist='40' exdist="39.60" bike='cx' gpx='20151004' >
+       <by name='Kielno'/>
+       <by name='Koleczkowo'/>
+       <by name='Wiczlino'/>
+       <by name='Gdynia'/>
+    </ride>
+    </day>
+   
+   <day date="2015/10/05">
+     <ride dist='40' exdist="41.01" bike='ridley' gpx='20151005' >
+      <by name='Kielno'/>
+    </ride>
+   </day>
+   <day date="2015/10/07">
+     <ride dist='45' exdist="47.80" bike='ridley' gpx='20151007' >
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+    </ride>
+   </day>
+
+   <day date="2015/10/08">
+     <ride dist='40' exdist="39.60" bike='ridley' gpx='20151008' >
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+     </ride>
+   </day>
+
+   <day date="2015/10/09">
+    <ride dist='50' exdist="50.05" bike='ridley' gpx='20151009' >
+      <by name='Koleczkowo'/>
+      <by name='Bieszkowice'/>
+    </ride>
+   </day>
+
+   <day date="2015/10/12">
+     <ride dist='35' exdist="34.90" bike='cx' gpx='20151012' >
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+     </ride>
+   </day>
+
+   <day date="2015/10/14">
+     <ride dist='45' exdist="48.60" bike='ridley' gpx='20151014' >
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+     </ride>
+   </day>
+
+   <day date="2015/10/15">
+     <ride dist='35' exdist="36.60" bike='ridley' gpx='20151015' >
+      <by name='Sopot'/>
+     </ride>
+   </day>
+
+   <day date="2015/10/17">
+     <ride dist='55' exdist="56.60" bike='ridley' gpx='20151017' >
+       <by name='Kielno'/>
+       <by name='Koleczkowo'/>
+       <by name='Bieszkowice'/>
+       <by name='Wiczlino'/>
+     </ride>
+   </day>
+   <day date="2015/10/19">
+     <ride dist='35' exdist="35.80" bike='cx' gpx='20151019' >
+       <by name='Gdańsk'/>
+       <by name='Osowa'/>
+       <by name='Matarnia'/>
+     </ride>
+   </day>
+   <day date="2015/10/21">
+     <ride dist='45' exdist="46.90" bike='ridley' gpx='20151021' >
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+     </ride>
+   </day>
+
+   <day date="2015/10/24">
+    <ride dist='60' exdist="59.01" bike='ridley' gpx='20151024' >
+      <by name='Kielno'/>
+      <by name='Kamień'/>
+      <by name='Kowalewo'/>
+    </ride>
+   </day>
+
+ <day date="2015/10/25">
+   <ride dist='50' exdist="51.01" bike='ridley' gpx='20151025' >
+      <by name='Kielno'/>
+      <by name='Kamień'/>
+    </ride>
+   </day>
+
+  <day date="2015/10/26">
+   <ride dist='40' exdist="39.70" bike='cx' gpx='20151026' >
+     <by name='Chwaszczyno'/>
+     <by name='Warzenko'/>
+    </ride>
+   </day>
+   <day date="2015/10/28">
+     <ride dist='50' exdist="49.20" bike='ridley' gpx='20151028' >
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+     </ride>
+   </day>
+   <day date="2015/10/29">
+     <ride dist='35' exdist="37.10" bike='ridley' gpx='20151029' >
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+     </ride>
+   </day>
+
+   <day date="2015/10/31">
+    <ride dist='60' exdist="59.40" bike='ridley' gpx='20151031' >
+      <by name='Kielno'/>
+      <by name='Kamień'/>
+      <by name='Kowalewo'/>
+    </ride>
+   </day>
+
+ </month>
+ <month no='11'>
+
+   <day date="2015/11/02">
+     <ride dist='40' exdist="40.30" bike='cx' gpx='20151102' >
+      <by name='Osowa'/>
+      <by name='Rębiechowo'/>
+      <by name='Matarnia'/>
+     </ride>
+   </day>
+
+   <day date="2015/11/04">
+     <ride dist='40' exdist="43.30" bike='ridley' gpx='20151104' >
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Kielno'/>
+      <by name='Bojano'/>
+     </ride>
+   </day>
+   <day date="2015/11/05">
+     <ride dist='40' exdist="42.30" bike='cx' gpx='20151105' >
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Bojano'/>
+      <by name='Gdynia'/>
+     </ride>
+   </day>
+
+   <day date="2015/11/07">
+     <ride dist='50' exdist="50.60" bike='cx' gpx='20151007' >
+       <by name='Kielno'/>
+       <by name='Koleczkowo'/>
+       <by name='Wiczlino'/>
+       <by name='Gdynia'/>
+     </ride>
+   </day>
+   <day date="2015/11/08">
+     <ride dist='40' exdist="40.00" bike='cx' gpx='20151008' >
+       <by name='Osowa'/>
+       <by name='Matarnia'/>
+       <by name='Gdańsk'/>
+     </ride>
+   </day>
+
+   <day date="2015/11/11">
+     <ride dist='60' exdist="59.50" bike='cx' gpx='20151011' >
+       <by name='Kielno'/>
+       <by name='Kamień'/>
+       <by name='Kowalewo'/>
+     </ride>
+   </day>
+   <day date="2015/11/12">
+     <ride dist='40' exdist="39.34" bike='cx' gpx='20151112' >
+       <by name='Chwaszczyno'/>
+       <by name='Warzenko'/>
+     </ride>
+   </day>
+   <day date="2015/11/14">
+     <ride dist='40' exdist="41.40" bike='mtb' gpx='20151114' >
+       <by name='Osowa'/>
+     </ride>
+   </day>
+   <day date="2015/11/15">
+     <ride dist='45' exdist="44.30" bike='cx' gpx='20151115' >
+       <by name='Chwaszczyno'/>
+       <by name='Bojano'/>
+       <by name='Wiczlino'/>
+       <by name='Gdynia'/>
+     </ride>
+   </day>
+
+   <day date="2015/11/17">
+     <ride dist='30' exdist="31.00" bike='cx' gpx='20151117' >
+       <by name='Matarnia'/>
+       <by name='Osowa'/>
+     </ride>
+   </day>
+
+   <day date="2015/11/18">
+     <ride dist='30' exdist="31.00" bike='cx' gpx='20151118' >
+       <by name='Matarnia'/>
+       <by name='Osowa'/>
+     </ride>
+   </day>
+
+   <day date="2015/11/20">
+     <ride dist='40' exdist="41.00" bike='cx' gpx='20151120' >
+       <by name='Gdynia'/>
+     </ride>
+   </day>
+
+   <day date="2015/11/22">
+     <ride dist='35' exdist="34.10" bike='cx' gpx='20151122' >
+       <by name='Osowa'/>
+       <by name='Matarnia'/>
+     </ride>
+   </day>
+
+   <day date="2015/11/24">
+     <ride dist='40' exdist="43.10" bike='cx' gpx='20151124' >
+       <by name='Chwaszczyno'/>
+       <by name='Warzenko'/>
+     </ride>
+   </day>
+
+   <day date="2015/11/25">
+     <ride dist='30' exdist="33.10" bike='cx' gpx='20151125' >
+       <by name='Osowa'/>
+       <by name='Matarnia'/>
+     </ride>
+   </day>
+
+   <day date="2015/11/27">
+     <ride dist='35' exdist="37.10" bike='cx' gpx='20151127' >
+       <by name='Chwaszczyno'/>
+       <by name='Warzenko'/>
+     </ride>
+   </day>
+
+   <day date="2015/11/28">
+     <ride dist='40' exdist="39.10" bike='cx' gpx='20151128' >
+       <by name='Osowa'/>
+       <by name='Gdańsk'/>
+     </ride>
+   </day>
+
+   <day date="2015/11/29">
+     <ride dist='40' exdist="40.30" bike='cx' gpx='20151129' >
+       <by name='Osowa'/>
+       <by name='Gdańsk'/>
+     </ride>
+   </day>
+ </month>
+ <month no='12'>
+   <day date="2015/12/02">
+     <ride dist='50' exdist="49.10" bike='cx' gpx='20151202' >
+       <by name='Kielno'/>
+       <by name='Koleczkowo'/>
+       <by name='Bojano'/>
+     </ride>
+   </day>
+
+   <day date="2015/12/03">
+     <ride dist='40' exdist="39.50" bike='cx' gpx='20151203' >
+       <by name='Chwaszczyno'/>
+       <by name='Warzenko'/>
+     </ride>
+   </day>
+  <day date="2015/12/05">
+    <ride dist='50' exdist="52.00" bike='cx' gpx='20151205' >
+      <by name='Gdańsk'/>
+      <by name='Otomin'/>
+      <by name='Osowa'/>
+    </ride>
+  </day>
+
+  <day date="2015/12/06">
+    <ride dist='45' exdist="47.00" bike='cx' gpx='20151206' >
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+    </ride>
+  </day>
+
+  <day date="2015/12/08">
+    <ride dist='40' exdist="42.00" bike='cx' gpx='20151208' >
+      <by name='Gdańsk'/>
+      <by name='Matarnia'/>
+      <by name='Osowa'/>
+    </ride>
+  </day>
+  
+  <day date="2015/12/09">
+    <ride dist='45' exdist="46.00" bike='cx' gpx='20151209' >
+       <by name='Kielno'/>
+       <by name='Koleczkowo'/>
+       <by name='Bojano'/>
+    </ride>
+  </day>
+
+  <day date="2015/12/12">
+    <ride dist='45' exdist="46.00" bike='cx' gpx='20151212' >
+       <by name='Chwaszczyno'/>
+       <by name='Tokary'/>
+       <by name='Warzenko'/>
+    </ride>
+  </day>
+
+  <day date="2015/12/14">
+    <ride dist='45' exdist="47.00" bike='cx' gpx='20151214' >
+       <by name='Banino'/>
+       <by name='Miszewo'/>
+       <by name='Tokary'/>
+       <by name='Chwaszczyno'/>
+    </ride>
+  </day>
+  <!-- wymiana trybu/łańcucha w CX: 2015/12/14 (po ok 6500 km) -->
+
+  <day date="2015/12/16">
+    <ride dist='40' exdist="38.90" bike='cx' gpx='20151216' >
+       <by name='Osowa'/>
+       <by name='Matarnia'/>
+    </ride>
+  </day>
+
+  <day date="2015/12/18">
+    <ride dist='35' exdist="36.00" bike='cx' gpx='20151218' >
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Warzenko'/>
+    </ride>
+  </day>
+
+  <day date="2015/12/20">
+    <ride dist='50' exdist="51.00" bike='ridley' gpx='20151220' >
+      <by name='Kielno'/>
+      <by name='Kamień'/>
+    </ride>
+  </day>
+
+  <day date="2015/12/22">
+    <ride dist='40' exdist="41.00" bike='cx' gpx='20151222' >
+      <by name='Osowa'/>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
+
+  <day date="2015/12/23">
+    <ride dist='40' exdist="39.25" bike='cx' gpx='20151223' >
+      <by name='Gdynia'/>
+      <by name='Chwaszczyno'/>
+      <by name='Osowa'/>
+    </ride>
+  </day>
+
+  <day date="2015/12/25">
+    <ride dist='50' exdist="49.25" bike='cx' gpx='20151225' >
+      <by name='Gdynia'/>
+    </ride>
+  </day>
+  <day date="2015/12/27">
+    <ride dist='40' exdist="42.25" bike='cx' gpx='20151227' >
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+    </ride>
+  </day>
+  <day date="2015/12/28">
+    <ride dist='35' exdist="35.60" bike='cx' gpx='20151228' >
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+  <day date="2015/12/30">
+    <ride dist='30' exdist="29.92" bike='cx' gpx='20151230' temp='-3.0' >
+      <by name='Matarnia'/>
+      <by name='Osowa'/>
+    </ride>
+  </day>
+
+  <day date="2015/12/31">
+    <ride dist='30' exdist="33.10" bike='cx' gpx='20151231' temp='-3.0' >
+      <by name='Matarnia'/>
+      <by name='Osowa'/>
+    </ride>
+  </day>
+
+ </month>
+
+</year>
+
+<!-- Keep this comment at the end of the file
+Local variables:
+mode: xml
+coding: iso-8859-2
+sgml-indent-step:1
+sgml-indent-data:t
+sgml-parent-document:nil
+End:
+-->

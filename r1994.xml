@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="iso-8859-2"?>
+
+<?xml-stylesheet href='rowery.xsl' type='text/xsl'?>
+
+<!--Generated file *** do not edit ***-->
+<year no="1994" done="26040">
+
+
+<month no="1">
+
+  <item data="1994/01/16" dist="30" exdist="30"><by country="UK" name="Leicester"/><by country="UK" name="Foxley"/></item>
+
+
+
+  <item data="1994/01/22" dist="30" exdist="30"><by country="UK" name="Leicester"/><by country="UK" name="Foxley"/></item>
+
+
+
+  <item data="1994/01/23" dist="30" exdist="30"><by country="UK" name="Leicester"/><by country="UK" name="Asbury Park"/></item>
+
+
+
+  <item data="1994/01/28" dist="20" exdist="20"><by country="UK" name="Leicester"/><by country="UK" name="Great Glenn"/></item>
+
+
+
+  <item data="1994/01/29" dist="40" exdist="40"><by country="UK" name="Leicester"/><by country="UK" name="Houghington"/><by country="UK" name="Tilton"/></item>
+
+
+</month>
+<month no="2">
+
+  <item data="1994/02/05" dist="30" exdist="30"><by country="UK" name="Leicester"/><by country="UK" name="Houghington"/><by country="UK" name="Tilton"/></item>
+
+
+
+  <item data="1994/02/06" dist="25" exdist="25"><by country="UK" name="Leicester"/><by country="UK" name="Gilmorton"/></item>
+
+
+
+  <item data="1994/02/12" dist="40" exdist="40"><by country="UK" name="Leicester"/><by country="UK" name="Gilmorton"/></item>
+
+
+
+  <item data="1994/02/13" dist="35" exdist="35"><by country="UK" name="Leicester"/><by country="UK" name="Lutterworth"/></item>
+
+
+
+  <item data="1994/02/19" dist="60" exdist="60"><by country="UK" name="Leicester"/><by country="UK" name="Rugby"/></item>
+
+
+
+  <item data="1994/02/20" dist="70" exdist="70"><by country="UK" name="Leicester"/><by country="UK" name="Whitwell"/></item>
+
+
+
+  <item data="1994/02/27" dist="30" exdist="30"><by country="UK" name="Leicester"/><by country="UK" name="Lutterworth"/></item>
+
+
+</month>
+<month no="3">
+
+  <item data="1994/03/01" dist="40" exdist="40"><by country="UK" name="Leicester"/><by country="UK" name="Warwick"/></item>
+
+
+
+  <item data="1994/03/02" dist="40" exdist="40"><by country="UK" name="Warwick"/><by country="UK" name="Leicester"/></item>
+
+
+
+  <item data="1994/03/10" dist="60" exdist="60"><by country="UK" name="Leicester"/><by country="UK" name="Rugby"/></item>
+
+
+
+  <item data="1994/03/12" dist="30" exdist="30"/>
+
+
+
+  <item data="1994/03/31" dist="60" exdist="60"><by name="Dzierżążno" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+</month>
+<month no="4">
+
+  <item data="1994/04/01" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/04/05" dist="50" exdist="50"><by name="Sopot" country="pl"/><by name="Żukowo" country="pl"/></item>
+
+
+
+  <item data="1994/04/06" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/04/08" dist="50" exdist="50"><by name="Sopot" country="pl"/><by name="Żukowo" country="pl"/></item>
+
+
+
+  <item data="1994/04/09" dist="70" exdist="70"><by name="Pępowo" country="pl"/></item>
+
+
+
+  <item data="1994/04/10" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/04/11" dist="40" exdist="40"><by name="Sopot" country="pl"/><by name="Chwaszczyno" country="pl"/><by name="Pępowo" country="pl"/></item>
+
+
+
+  <item data="1994/04/12" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/04/13" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/04/14" dist="40" exdist="40"><by name="Sopot" country="pl"/><by name="Chwaszczyno" country="pl"/><by name="Pępowo" country="pl"/></item>
+
+
+
+  <item data="1994/04/15" dist="50" exdist="50"><by name="Sopot" country="pl"/><by name="Żukowo" country="pl"/></item>
+
+
+
+  <item data="1994/04/16" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/04/17" dist="70" exdist="70"><by name="Pępowo" country="pl"/></item>
+
+
+
+  <item data="1994/04/18" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/04/19" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/04/20" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/04/21" dist="40" exdist="40"><by name="Sopot" country="pl"/><by name="Chwaszczyno" country="pl"/><by name="Pępowo" country="pl"/></item>
+
+
+
+  <item data="1994/04/22" dist="40" exdist="40"><by name="Sopot" country="pl"/><by name="Chwaszczyno" country="pl"/><by name="Pępowo" country="pl"/></item>
+
+
+
+  <item data="1994/04/23" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/04/24" dist="80" exdist="80"><by name="Wejherowo" country="pl"/></item>
+
+
+
+  <item data="1994/04/25" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/04/27" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/04/28" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/04/29" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+</month>
+<month no="5">
+
+  <item data="1994/05/04" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/05/05" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/05/06" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/05/07" dist="30" exdist="30"><by name="Gdynia" country="pl"/><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1994/05/09" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/05/10" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/05/11" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/05/12" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/05/13" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/05/14" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/05/15" dist="40" exdist="40"><by name="Pępowo" country="pl"/></item>
+
+
+
+  <item data="1994/05/16" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/05/17" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/05/18" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/05/19" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/05/21" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/05/23" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/05/24" dist="40" exdist="40"><by name="Pępowo" country="pl"/></item>
+
+
+
+  <item data="1994/05/25" dist="40" exdist="40"><by name="Pępowo" country="pl"/></item>
+
+
+
+  <item data="1994/05/26" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/05/27" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/05/28" dist="70" exdist="70"><by name="Kartuzy" country="pl"/></item>
+
+
+
+  <item data="1994/05/30" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/05/31" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+</month>
+<month no="6">
+
+  <item data="1994/06/01" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/06/03" dist="40" exdist="40"/>
+
+
+
+  <item data="1994/06/04" dist="45" exdist="45"/>
+
+
+
+  <item data="1994/06/05" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/06/06" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/06/07" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/06/08" dist="40" exdist="40"/>
+
+
+
+  <item data="1994/06/09" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/06/10" dist="35" exdist="35"/>
+
+
+
+  <item data="1994/06/11" dist="35" exdist="35"/>
+
+
+
+  <item data="1994/06/12" dist="45" exdist="45"/>
+
+
+
+  <item data="1994/06/13" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/06/14" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/06/15" dist="35" exdist="35"/>
+
+
+
+  <item data="1994/06/17" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/06/18" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/06/19" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/06/24" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/06/25" dist="70" exdist="70"/>
+
+
+
+  <item data="1994/06/25" dist="60" exdist="60"/>
+
+
+
+  <item data="1994/06/27" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/06/28" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/06/29" dist="40" exdist="40"/>
+
+
+
+  <item data="1994/06/30" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+</month>
+<month no="7">
+
+  <item data="1994/07/01" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1994/07/02" dist="50" exdist="50"/>
+
+
+
+  <item data="1994/07/03" dist="80" exdist="80"><by name="Chmielno" country="pl"/><by name="Kartuzy" country="pl"/></item>
+
+
+
+  <item data="1994/07/04" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/07/05" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/07/06" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/07/07" dist="40" exdist="40"/>
+
+
+
+  <item data="1994/07/09" dist="50" exdist="50"/>
+
+
+
+  <item data="1994/07/11" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/07/12" dist="40" exdist="40"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/07/13" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/07/14" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/07/15" dist="60" exdist="60"/>
+
+
+
+  <item data="1994/07/16" dist="60" exdist="60"><by name="Kartuzy" country="pl"/></item>
+
+
+
+  <item data="1994/07/17" dist="40" exdist="40"/>
+
+
+
+  <item data="1994/07/18" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/07/19" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/07/20" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/07/21" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/07/22" dist="45" exdist="45"><by name="Żukowo" country="pl"/></item>
+
+
+
+  <item data="1994/07/23" dist="40" exdist="40"><by name="Żukowo" country="pl"/></item>
+
+
+
+  <item data="1994/07/25" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/07/26" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/07/27" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/07/28" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/07/29" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/07/30" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+</month>
+<month no="8">
+
+  <item data="1994/08/01" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/08/02" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/08/03" dist="40" exdist="40"/>
+
+
+
+  <item data="1994/08/04" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/08/05" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/08/06" dist="40" exdist="40"/>
+
+
+
+  <item data="1994/08/07" dist="35" exdist="35"/>
+
+
+
+  <item data="1994/08/08" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/08/09" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/08/10" dist="35" exdist="35"/>
+
+
+
+  <item data="1994/08/11" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/08/12" dist="35" exdist="35"/>
+
+
+
+  <item data="1994/08/13" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/08/14" dist="40" exdist="40"/>
+
+
+
+  <item data="1994/08/15" dist="35" exdist="35"/>
+
+
+
+  <item data="1994/08/16" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/08/19" dist="35" exdist="35"/>
+
+
+
+  <item data="1994/08/29" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/08/30" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/08/31" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+</month>
+<month no="9">
+
+  <item data="1994/09/01" dist="35" exdist="35"/>
+
+
+
+  <item data="1994/09/02" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/09/05" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/09/06" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/09/07" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/09/08" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/09/09" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/09/12" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/09/13" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/09/14" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/09/15" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/09/16" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/09/19" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/09/20" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1994/09/23" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+</month>
+
+</year>

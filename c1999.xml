@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="iso-8859-2" standalone="no" ?>
+<!DOCTYPE year SYSTEM "rowery.dtd" >
+
+<year no="1999" done="50370">
+
+<month no="3">
+
+<day date="1999/03/09">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/03/19">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/03/20">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/03/22">
+  <ride dist="45" exdist="45">
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+    <comment>Kielno/Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/03/24">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/03/25">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/03/27">
+  <ride dist="50" exdist="50">
+    <by name="Kamień"/>
+    <comment>Kamień</comment>
+  </ride>
+</day>
+
+<day date="1999/03/29">
+  <ride dist="40" exdist="40">
+    <by name="Sopot"/>
+    <comment>7_kółek_po_reja</comment>
+  </ride>
+</day>
+
+<day date="1999/03/31">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+</month>
+
+<month no="4">
+<day date="1999/04/01">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/04/02">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/04/03">
+  <ride dist="100" exdist="100">
+    <by name="Strzepcz"/>
+    <comment>Strzepcz (z JF,DM)</comment>
+  </ride>
+</day>
+
+<day date="1999/04/05">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/04/15">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/04/19">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/04/24">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/04/25">
+  <ride dist="45" exdist="45">
+    <by name="Wiczlino"/>
+    <by name="Kielno"/>
+    <comment>Wiczlino przez Kielno</comment>
+  </ride>
+</day>
+
+<day date="1999/04/26">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/04/27">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/04/28">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/04/30">
+  <ride dist="65" exdist="65">
+    <by name="Susz"/>
+    <by name="Bachotek"/>
+    <comment>Susz-Bachotek (z Rafim)</comment>
+  </ride>
+</day>
+
+</month>
+
+<month no="5">
+<day date="1999/05/02">
+  <ride dist="65" exdist="65">
+    <by name="Bachotek"/>
+    <by name="Lubawa"/>
+    <comment>Bachotek-Lubawa-Bachotek</comment>
+  </ride>
+</day>
+
+<day date="1999/05/03">
+  <ride dist="40" exdist="40">
+    <by name="Bachotek"/>
+    <by name="Iława"/>
+    <comment>Bachotek-Iława (Rafi)</comment>
+  </ride>
+</day>
+
+<day date="1999/05/04">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/05/05">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/05/06">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/05/08">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/05/10">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/05/12">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/05/16">
+  <ride dist="50" exdist="50">
+    <by name="Kamień"/>
+    <comment>Kamień (z JF)</comment>
+  </ride>
+</day>
+
+<day date="1999/05/17">
+  <ride dist="60" exdist="60">
+    <by name="Szemud"/>
+    <comment>Szemud (JF,DM)</comment>
+  </ride>
+</day>
+
+<day date="1999/05/18">
+  <ride dist="80" exdist="80">
+    <by name="Szemud"/>
+    <comment>Szemud + pętle po Reja JF</comment>
+  </ride>
+</day>
+
+<day date="1999/05/19">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/05/21">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/05/22">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/05/23">
+  <ride dist="45" exdist="45">
+    <by name="Wiczlino"/>
+    <by name="Kielno"/>
+    <comment>Wiczlino przez Kielno</comment>
+  </ride>
+</day>
+
+<day date="1999/05/24">
+  <ride dist="45" exdist="45">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino + do_Rysia (Oliwa)</comment>
+  </ride>
+</day>
+
+<day date="1999/05/26">
+  <ride dist="55" exdist="55">
+    <by name="Wiczlino"/>
+    <by name="Osowa"/>
+    <comment>Wiczlino + do_Osowy </comment>
+  </ride>
+</day>
+
+<day date="1999/05/27">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/05/28">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/05/29">
+  <ride dist="50" exdist="50">
+    <by name="Kamień"/>
+    <comment>Kamień</comment>
+  </ride>
+</day>
+
+<day date="1999/05/30">
+  <ride dist="45" exdist="45">
+    <by name="Wiczlino"/>
+    <by name="Kielno"/>
+    <comment>Wiczlino przez Kielno </comment>
+  </ride>
+</day>
+
+<day date="1999/05/31">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+</month>
+
+<month no="6">
+<day date="1999/06/02">
+  <ride dist="45" exdist="45">
+    <by name="Wiczlino"/>
+    <by name="Kielno"/>
+    <comment>Wiczlino przez Kielno</comment>
+  </ride>
+</day>
+
+<day date="1999/06/03">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/06/04">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/06/05">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/06/06">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/06/07">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/06/08">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino </comment>
+  </ride>
+</day>
+
+<day date="1999/06/10">
+  <ride dist="45" exdist="45">
+    <by name="Wiczlino"/>
+    <by name="Kielno"/>
+    <comment>Wiczlino przez Kielno</comment>
+  </ride>
+</day>
+
+<day date="1999/06/11">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino, trial:41.01km+1.20min+mea:30.6kmph+max:52.5</comment>
+  </ride>
+</day>
+
+<day date="1999/06/13">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/06/14">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/06/15">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino </comment>
+  </ride>
+</day>
+
+<day date="1999/06/16">
+  <ride dist="60" exdist="60">
+    <by name="Szemud"/>
+    <comment>Szemud, D;mean:30.7kmph;max:51.5</comment>
+  </ride>
+</day>
+
+<day date="1999/06/17">
+  <ride dist="45" exdist="45">
+    <by name="Wiczlino"/>
+    <by name="Kielno"/>
+    <comment>Wiczlino przez Kielno, (DM), mea=31.2:dist=46.45:1.29.08:max=48</comment>
+  </ride>
+</day>
+
+<day date="1999/06/19">
+  <ride dist="60" exdist="60">
+    <by name="Szemud"/>
+    <comment>Szemud (T)</comment>
+  </ride>
+</day>
+
+<day date="1999/06/20">
+  <ride dist="50" exdist="50">
+    <by name="Kamień"/>
+    <comment>Kamień (D)</comment>
+  </ride>
+</day>
+
+<day date="1999/06/21">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/06/23">
+  <ride dist="50" exdist="50">
+    <by name="Kamień"/>
+    <comment>half way between Kielno/Szemud (J)</comment>
+  </ride>
+</day>
+
+<day date="1999/06/24">
+  <ride dist="70" exdist="70">
+    <by name="Szemud"/>
+    <by name="Gdynia"/>
+    <comment>Karwiny_Szemud (J,D,T)</comment>
+  </ride>
+</day>
+
+<day date="1999/06/25">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/06/26">
+  <ride dist="65" exdist="65">
+    <by name="Szemud"/>
+    <comment>Szemud (T,M)</comment>
+  </ride>
+</day>
+
+<day date="1999/06/28">
+  <ride dist="45" exdist="45">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/06/29">
+  <ride dist="50" exdist="50">
+    <by name="Wiczlino"/>
+    <by name="Gdańsk"/>
+    <comment>do Wrzeszcza_+_Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/06/30">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino{mean: 29.0}</comment>
+  </ride>
+</day>
+
+</month>
+
+<month no="7">
+<day date="1999/07/02">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/07/03">
+  <ride dist="65" exdist="65">
+    <by name="Szemud"/>
+    <comment>Szemud {mean: 29.9 {D}}</comment>
+  </ride>
+</day>
+
+<day date="1999/07/05">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino{mean: 29.0}</comment>
+  </ride>
+</day>
+
+<day date="1999/07/06">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino[fall!]</comment>
+  </ride>
+</day>
+
+<day date="1999/07/09">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/07/10">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/07/11">
+  <ride dist="105" exdist="105">
+    <by name="Kartuzy"/>
+    <by name="Garczyn"/>
+    <by name="Łapalice"/>
+    <comment>Kartuzy-Garczyn-Łapalice-K. {D, mea=30{last 102.km}</comment>
+  </ride>
+</day>
+
+<day date="1999/07/13">
+  <ride dist="60" exdist="60">
+    <by name="Szemud"/>
+    <comment>Szemud {mea=31.7;max=55.5;cdst=59.07;t=1.51.29 {D}</comment>
+  </ride>
+</day>
+
+<day date="1999/07/15">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/07/16">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/07/17">
+  <ride dist="45" exdist="45">
+    <by name="Wiczlino"/>
+    <by name="Kielno"/>
+    <comment>Wiczlino przez Kielno</comment>
+  </ride>
+</day>
+
+<day date="1999/07/18">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/07/19">
+  <ride dist="60" exdist="60">
+    <by name="Szemud"/>
+    <comment>Szemud {mea=31.3} {D}</comment>
+  </ride>
+</day>
+
+<day date="1999/07/20">
+  <ride dist="60" exdist="60">
+    <by name="Szemud"/>
+    <comment>Szemud {mea=30.2} {D}</comment>
+  </ride>
+</day>
+
+<day date="1999/07/21">
+  <ride dist="60" exdist="60">
+    <by name="Szemud"/>
+    <comment>Szemud {mea=30.4} {J,D}</comment>
+  </ride>
+</day>
+
+<day date="1999/07/24">
+  <ride dist="50" exdist="50">
+    <by name="Wiczlino"/>
+    <by name="Kielno"/>
+    <comment>Wiczlino_p_Kielno+</comment>
+  </ride>
+</day>
+
+<day date="1999/07/25">
+  <ride dist="45" exdist="45">
+    <by name="Wiczlino"/>
+    <by name="Kielno"/>
+    <comment>Wiczlino_p_Kielno {mea=31.9;cdst=46.22</comment>
+  </ride>
+</day>
+
+<day date="1999/07/26">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino {mea=29.2;cdst=41}</comment>
+  </ride>
+</day>
+
+<day date="1999/07/27">
+  <ride dist="60" exdist="60">
+    <by name="Szemud"/>
+    <comment>Szemud {mea=31.6;cdst=58.85}</comment>
+  </ride>
+</day>
+
+<day date="1999/07/29">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino_w_odwr_str.{mea=32.1;cdst=42.00;time=1.18.34</comment>
+  </ride>
+</day>
+
+<day date="1999/07/31">
+  <ride dist="80" exdist="80">
+    <by name="Wejherowo"/>
+    <by name="Bieszkowice"/>
+    <comment>Wjhr_by_NDWjhr.{mea=31.1;cdst=79.76;time=2.33.45</comment>
+  </ride>
+</day>
+
+</month>
+
+<month no="8">
+<day date="1999/08/01">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino {mea=30.1}</comment>
+  </ride>
+</day>
+
+<day date="1999/08/02">
+  <ride dist="55" exdist="55">
+    <by name="Szemud"/>
+    <comment>Szemud_p_str_pdj {D}{mea/cdst/tim:=31.5/56.85/1.48.00}</comment>
+  </ride>
+</day>
+
+<day date="1999/08/03">
+  <ride dist="65" exdist="65">
+    <by name="Szemud"/>
+    <comment>Szmd {mea=27.5}{J}</comment>
+  </ride>
+</day>
+
+<day date="1999/08/04">
+  <ride dist="60" exdist="60">
+    <by name="Szemud"/>
+    <comment>Szmd {D}{mea/cdst/tim:=31.4/58.71/1.50.20}</comment>
+  </ride>
+</day>
+
+<day date="1999/08/06">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino {mea=29.2}</comment>
+  </ride>
+</day>
+
+<day date="1999/08/07">
+  <ride dist="100" exdist="100">
+    <by name="Gdańsk"/>
+    <by name="Przodkowo"/>
+    <by name="Łebno"/>
+    <by name="Szemud"/>
+    <comment>Wrzszcz_izp+Przdk_/Lebno_Szmd {mea/cdst/tim:=32.2/82.47/2.33.11}{D}</comment>
+  </ride>
+</day>
+
+<day date="1999/08/09">
+  <ride dist="55" exdist="55">
+    <by name="Kielno"/>
+    <by name="Bieszkowice"/>
+    <by name="Wiczlino"/>
+    <comment>Klno-Bszk-Wiczlino {mea/cdst/tim:=32.1/55.44/1.43.27</comment>
+  </ride>
+</day>
+
+<day date="1999/08/12">
+  <ride dist="60" exdist="60">
+    <by name="Szemud"/>
+    <comment>Szemud {mea/cdst:=29.1/60.16}{D,J}</comment>
+  </ride>
+</day>
+
+<day date="1999/08/14">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino {mea/cdst:=29.6/40.91}</comment>
+  </ride>
+</day>
+
+<day date="1999/08/17">
+  <ride dist="45" exdist="45">
+    <by name="Wiczlino"/>
+    <by name="Kielno"/>
+    <comment>Wiczlino_p_Kielno {mea/cdst:=32.2/46.00}</comment>
+  </ride>
+</day>
+
+<day date="1999/08/18">
+  <ride dist="60" exdist="60">
+    <by name="Szemud"/>
+    <comment>Szemud {mea/cdst:=31.3/59.33}{D}</comment>
+  </ride>
+</day>
+
+<day date="1999/08/20">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/08/21">
+  <ride dist="150" exdist="149.63">
+    <by name="Stężyca"/>
+    <comment>Stężyca d_niżej* {mea/cdst/tim:=28.6/149.63/5.14.09}{D}</comment>
+  </ride>
+</day>
+
+<day date="1999/08/23">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino{mea/cdst:=30.6/36.5} {D}</comment>
+  </ride>
+</day>
+
+<day date="1999/08/24">
+  <ride dist="60" exdist="60">
+    <by name="Szemud"/>
+    <comment>Szemud{mea/cdst:=27.9/61.3} {J,M}</comment>
+  </ride>
+</day>
+
+<day date="1999/08/25">
+  <ride dist="60" exdist="60">
+    <by name="Szemud"/>
+    <comment>Szemud{mea/cdst:=30.6/59.3} {D}</comment>
+  </ride>
+</day>
+
+<day date="1999/08/27">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino {mea:=28.5}</comment>
+  </ride>
+</day>
+
+<day date="1999/08/28">
+  <ride dist="135" exdist="135">
+    <by name="Jastrzębia Góra"/>
+    <comment>Rozewie {mea/cdst/tim:=28.8/133.80/4.39.52}</comment>
+  </ride>
+</day>
+
+<day date="1999/08/30">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+</month>
+
+<month no="9">
+<day date="1999/09/01">
+  <ride dist="55" exdist="55">
+    <by name="Sopot"/>
+    <by name="Wiczlino"/>
+    <by name="Rumia"/>
+    <by name="Koleczkowo"/>
+    <comment>Sopot-Wiczlino-Szmelta-Koleczk-Sopot {mea:=29.1}{D}</comment>
+  </ride>
+</day>
+
+<day date="1999/09/02">
+  <ride dist="65" exdist="65">
+    <by name="Szemud"/>
+    <comment>Szemud {mea:=29.6}{D,J}</comment>
+  </ride>
+</day>
+
+<day date="1999/09/03">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino {mea:=29.6}</comment>
+  </ride>
+</day>
+
+<day date="1999/09/04">
+  <ride dist="45" exdist="45">
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+    <comment>Wiczlino_p_Kielno {mea:=28.6}</comment>
+  </ride>
+</day>
+
+<day date="1999/09/06">
+  <ride dist="55" exdist="55">
+    <by name="Szemud"/>
+    <comment>Szemud {mea/cdst:=30.1/52.25}{D,J}</comment>
+  </ride>
+</day>
+
+<day date="1999/09/07">
+  <ride dist="55" exdist="55">
+    <by name="Kamień"/>
+    <by name="Szemud"/>
+    <comment>prawie_Szemud {mea/cdst:=30.4/54.25}{J}</comment>
+  </ride>
+</day>
+
+<day date="1999/09/08">
+  <ride dist="40" exdist="40">
+    <by name="Kielno"/>
+    <comment>Kielno {D}</comment>
+  </ride>
+</day>
+
+<day date="1999/09/09">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino {mea:=29.6}</comment>
+  </ride>
+</day>
+
+<day date="1999/09/10">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino {mea:=29.2}</comment>
+  </ride>
+</day>
+
+<day date="1999/09/11">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/09/13">
+  <ride dist="40" exdist="40">
+    <by name="Kielno"/>
+    <comment>Kielno {D}</comment>
+  </ride>
+</day>
+
+<day date="1999/09/14">
+  <ride dist="50" exdist="50">
+    <by name="Kowalewo"/>
+    <comment>Kowalewo {D}</comment>
+  </ride>
+</day>
+
+<day date="1999/09/15">
+  <ride dist="45" exdist="45">
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+    <comment>Kielno_p_Wiczlino {mea/cdst:=31.3/46.25}{D}</comment>
+  </ride>
+</day>
+
+<day date="1999/09/16">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/09/18">
+  <ride dist="70" exdist="70">
+    <by name="Szemud"/>
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+    <comment>Szemud_p_Kielno_Wiczlino {mea/cdst/tim:=31.6 {D}</comment>
+  </ride>
+</day>
+
+<day date="1999/09/19">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino</comment>
+  </ride>
+</day>
+
+<day date="1999/09/24">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+    <comment>Wiczlino {mea:=28.6 }</comment>
+  </ride>
+</day>
+
+<day date="1999/09/25">
+  <ride dist="55" exdist="55">
+    <by name="Szemud"/>
+    <comment>Szemud {mea:=28.3{D, awaria_fajki }}</comment>
+  </ride>
+</day>
+
+</month>
+
+<month no="10">
+<day date="1999/10/03">
+  <ride dist="40" exdist="40">
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+    <comment>Wiczlino_p_Kielno {D}}</comment>
+  </ride>
+</day>
+
+<day date="1999/10/05">
+  <ride dist="40" exdist="40">
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+    <comment>Wiczlino_p_Kielno</comment>
+  </ride>
+</day>
+
+<day date="1999/10/06">
+  <ride dist="40" exdist="40">
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+    <comment>Wiczlino_p_Kielno</comment>
+  </ride>
+</day>
+
+<day date="1999/10/10">
+  <ride dist="40" exdist="40">
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+    <comment>Wiczlino_p_Kielno</comment>
+  </ride>
+</day>
+
+<day date="1999/10/25">
+  <ride dist="40" exdist="40">
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+    <comment>Wiczlino_p_Kielno (Adam)</comment>
+  </ride>
+</day>
+
+<day date="1999/10/31">
+  <ride dist="40" exdist="40">
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+    <comment>Wiczlino_p_Kielno</comment>
+  </ride>
+</day>
+
+</month>
+
+</year>
+
+<!-- Keep this comment at the end of the file
+Local variables:
+mode: xml
+coding: iso-8859-2
+sgml-indent-step:1
+sgml-indent-data:t
+sgml-parent-document:nil
+End:
+-->

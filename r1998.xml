@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="iso-8859-2"?>
+
+<?xml-stylesheet href='rowery.xsl' type='text/xsl'?>
+
+<!--Generated file *** do not edit ***-->
+<year no="1998" done="43735">
+
+<month no="1">
+
+  <item data="1998/01/03" dist="25" exdist="25"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1998/01/10" dist="25" exdist="25"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1998/01/11" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/01/12" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/01/19" dist="25" exdist="25"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1998/01/26" dist="25" exdist="25"><by name="Sopot" country="pl"/></item>
+
+
+</month>
+
+<month no="2">
+
+  <item data="1998/02/10" dist="25" exdist="25"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1998/02/11" dist="25" exdist="25"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1998/02/20" dist="25" exdist="25"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1998/02/21" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+</month>
+
+<month no="4">
+
+  <item data="1998/04/10" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1998/04/12" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/04/13" dist="25" exdist="25"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1998/04/14" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/04/15" dist="45" exdist="45"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/04/17" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/04/18" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/04/20" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/04/22" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/04/24" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/04/25" dist="60" exdist="60"><by name="Szemud" country="pl"/></item>
+
+
+
+  <item data="1998/04/26" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/04/28" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+</month>
+<month no="5">
+
+  <item data="1998/05/05" dist="45" exdist="45"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1998/05/06" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/05/11" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/05/12" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/05/13" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/05/15" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/05/17" dist="70" exdist="70"><by name="Szemud" country="pl"/><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/05/18" dist="50" exdist="50"><by name="Kamień" country="pl"/></item>
+
+
+
+  <item data="1998/05/19" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/05/20" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/05/23" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/05/26" dist="50" exdist="50"><by name="Kamień" country="pl"/></item>
+
+
+
+  <item data="1998/05/27" dist="50" exdist="50"><by name="Kamień" country="pl"/></item>
+
+
+
+  <item data="1998/05/29" dist="50" exdist="50"><by name="Kamień" country="pl"/></item>
+
+
+
+  <item data="1998/05/30" dist="100" exdist="100"><by name="Szemud" country="pl"/></item>
+
+
+
+  <item data="1998/05/31" dist="65" exdist="65"><by name="Szemud" country="pl"/></item>
+
+
+</month>
+
+<month no="6">
+
+  <item data="1998/06/01" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/06/04" dist="60" exdist="60"><by name="Kamień" country="pl"/><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/06/05" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/06/06" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/06/07" dist="60" exdist="60"><by name="Szemud" country="pl"/></item>
+
+
+
+  <item data="1998/06/08" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/06/10" dist="60" exdist="60"><by name="Szemud" country="pl"/></item>
+
+
+
+  <item data="1998/06/13" dist="60" exdist="60"><by name="Szemud" country="pl"/></item>
+
+
+
+  <item data="1998/06/14" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/06/17" dist="45" exdist="45"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/06/20" dist="45" exdist="45"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/06/21" dist="45" exdist="45"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/06/22" dist="50" exdist="50"><by name="Sopot" country="pl"/><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/06/24" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/06/25" dist="45" exdist="45"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/06/26" dist="45" exdist="45"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/06/27" dist="45" exdist="45"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/06/28" dist="45" exdist="45"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/06/29" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/06/30" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+</month>
+
+<month no="7">
+
+  <item data="1998/07/02" dist="45" exdist="45"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/07/06" dist="60" exdist="60"><by name="Szemud" country="pl"/></item>
+
+
+
+  <item data="1998/07/07" dist="45" exdist="45"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/07/08" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/07/11" dist="45" exdist="45"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/07/12" dist="45" exdist="45"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/07/14" dist="45" exdist="45"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/07/15" dist="45" exdist="45"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/07/16" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/07/17" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/07/18" dist="45" exdist="45"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/07/20" dist="50" exdist="50"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/07/21" dist="50" exdist="50"><by name="Kamień" country="pl"/></item>
+
+
+
+  <item data="1998/07/22" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/07/23" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/07/24" dist="45" exdist="45"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/07/25" dist="55" exdist="55"><by name="Szemud" country="pl"/></item>
+
+
+
+  <item data="1998/07/26" dist="60" exdist="60"><by name="Szemud" country="pl"/></item>
+
+
+
+  <item data="1998/07/29" dist="60" exdist="60"><by name="Szemud" country="pl"/></item>
+
+
+
+  <item data="1998/07/30" dist="50" exdist="50"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/07/31" dist="60" exdist="60"><by name="Szemud" country="pl"/></item>
+
+
+</month>
+
+<month no="8">
+
+  <item data="1998/08/01" dist="55" exdist="55"><by name="Kamień" country="pl"/><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/08/02" dist="70" exdist="70"><by name="Wejherowo" country="pl"/><by name="Szemud" country="pl"/><by name="Bieszkowice" country="pl"/><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/08/04" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/08/05" dist="50" exdist="50"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/08/07" dist="50" exdist="50"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1998/08/08" dist="120" exdist="120"><by name="Potęgowo" country="pl"/></item>
+
+
+
+  <item data="1998/08/09" dist="65" exdist="65"><by name="Szemud" country="pl"/></item>
+
+
+
+  <item data="1998/08/10" dist="55" exdist="55"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1998/08/11" dist="45" exdist="45"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/08/12" dist="45" exdist="45"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1998/08/14" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/08/15" dist="60" exdist="60"><by name="Szemud" country="pl"/></item>
+
+
+
+  <item data="1998/08/16" dist="205" exdist="205"><by name="Starogard Gdański" country="pl"/><by name="Skórcz" country="pl"/><by name="Grudziądz" country="pl"/><by name="Toruń" country="pl"/></item>
+  
+
+
+
+  <item data="1998/08/21" dist="200" exdist="200"><by name="Toruń" country="pl"/></item>
+  
+
+
+
+  <item data="1998/08/23" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/08/25" dist="65" exdist="65"><by name="Szemud" country="pl"/></item>
+
+
+
+  <item data="1998/08/26" dist="45" exdist="45"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1998/08/27" dist="55" exdist="55"><by name="Szemud" country="pl"/></item>
+
+
+</month>
+
+<month no="9">
+
+  <item data="1998/09/01" dist="50" exdist="50"><by name="Sopot" country="pl"/><by name="Osowa" country="pl"/></item>
+
+
+
+  <item data="1998/09/02" dist="55" exdist="55"><by name="Szemud" country="pl"/></item>
+
+
+
+  <item data="1998/09/03" dist="45" exdist="45"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/09/04" dist="50" exdist="50"><by name="Bieszkowice" country="pl"/></item>
+
+
+
+  <item data="1998/09/05" dist="45" exdist="45"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/09/06" dist="50" exdist="50"><by name="Bieszkowice" country="pl"/></item>
+
+
+
+  <item data="1998/09/07" dist="50" exdist="50"><by name="Kamień" country="pl"/></item>
+
+
+
+  <item data="1998/09/08" dist="60" exdist="60"><by name="Kamień" country="pl"/><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/09/09" dist="45" exdist="45"><by name="Sopot" country="pl"/><by name="Chwaszczyno" country="pl"/></item>
+
+
+
+  <item data="1998/09/10" dist="50" exdist="50"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1998/09/13" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/09/14" dist="50" exdist="50"><by name="Bieszkowice" country="pl"/></item>
+
+
+
+  <item data="1998/09/15" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/09/17" dist="45" exdist="45"><by name="Bieszkowice" country="pl"/></item>
+
+
+
+  <item data="1998/09/18" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/09/19" dist="60" exdist="60"><by name="Szemud" country="pl"/></item>
+
+
+
+  <item data="1998/09/21" dist="45" exdist="45"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1998/09/22" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/09/23" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/09/25" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/09/26" dist="45" exdist="45"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/09/27" dist="105" exdist="105"><by name="Jantar" country="pl"/></item>
+
+
+
+  <item data="1998/09/30" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+</month>
+
+<month no="10">
+
+  <item data="1998/10/01" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/10/02" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/10/04" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/10/06" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/10/07" dist="50" exdist="50"><by name="Kamień" country="pl"/></item>
+
+
+
+  <item data="1998/10/08" dist="40" exdist="40"><by name="Kamień" country="pl"/></item>
+
+
+
+  <item data="1998/10/10" dist="40" exdist="40"><by name="Kamień" country="pl"/></item>
+
+
+
+  <item data="1998/10/12" dist="60" exdist="60"><by name="Szemud" country="pl"/></item>
+
+
+
+  <item data="1998/10/13" dist="45" exdist="45"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1998/10/18" dist="70" exdist="70"><by name="Szemud" country="pl"/></item>
+
+
+
+  <item data="1998/10/19" dist="60" exdist="60"><by name="Szemud" country="pl"/></item>
+
+
+
+  <item data="1998/10/21" dist="40" exdist="40"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1998/10/26" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1998/10/27" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+</month>
+
+<month no="11">
+
+  <item data="1998/11/14" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+</month>
+
+</year>

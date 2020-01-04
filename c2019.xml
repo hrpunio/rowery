@@ -1,0 +1,1506 @@
+<?xml version='1.0' encoding='iso-8859-2' standalone='no' ?>
+<!DOCTYPE year SYSTEM "rowery.dtd" >
+
+<year no="2019" done='230620'>
+   <month no="1">
+ 
+     <day date="2019/01/01">
+       <!-- pogoda fatalna -->
+       <ride dist="30" exdist="29.40" bike='cx' gpx='20190101'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2019/01/04">
+       <!-- pogoda fatalna/wyjazd po podbierak -->
+       <ride dist="25" exdist="25.10" bike='mtb' gpx='20190104'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2019/01/05">
+       <ride dist="70" exdist="69.90" bike='cx' gpx='20190105'>
+	 <by name='Rumia'/>
+	 <by name='Mechelinki'/>
+       </ride>
+     </day>
+     <day date="2019/01/07">
+       <!-- sobieszewo/zbieranie bursztynu na plaży -->
+       <ride dist="55" exdist="56.40" bike='mtb' gpx='20190107'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2019/01/08">
+       <ride dist="45" exdist="45.00" bike='cx' gpx='20190108'>
+	 <by name='Kielno'/>
+       </ride>
+     </day>
+     <day date="2019/01/10">
+       <ride dist="60" exdist="61.00" bike='cx' gpx='20190110'>
+	 <by name='Pępowo'/>
+	 <by name='Miszewo'/>
+       </ride>
+     </day>
+     <day date="2019/01/11">
+       <ride dist="50" exdist="51.00" bike='cx' gpx='20190111'>
+	 <by name='Banino'/>
+	 <by name='Miszewo'/>
+       </ride>
+     </day>
+
+     <day date="2019/01/13">
+       <ride dist="55" exdist="56.00" bike='cx' gpx='20190113'>
+	 <by name='Kowalewo'/>
+	 <by name='Kamień'/>
+       </ride>
+     </day>
+     
+     <day date="2019/01/14">
+       <ride dist="50" exdist="51.00" bike='cx' gpx='20190114'>
+	 <by name='Banino'/>
+	 <by name='Pępowo'/>
+       </ride>
+     </day>
+     
+     <day date="2019/01/18">
+       <!-- 35+10 -->
+       <ride dist="45" exdist="45.00" bike='cx' gpx='20190118'>
+	 <by name='Bojano'/>
+	 <by name='Gdynia'/>
+       </ride>
+     </day>
+     <!-- Sobota wyjazd do K -->
+     <day date="2019/01/20">
+       <ride dist="35" exdist="35.00" bike='mtb' gpx='20190120'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2019/01/22">
+       <!-- zima -->
+       <ride dist="60" exdist="59.00" bike='mtb' gpx='20190122'>
+	 <by name='Gdańsk'/>
+	 <by name='Chwaszczyno'/>
+       </ride>
+     </day>
+     <day date="2019/01/23">
+       <!-- zima -6C -->
+       <ride dist="35" exdist="34.00" bike='mtb' gpx='20190123'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2019/01/26">
+       <!-- zima -4C -->
+       <ride dist="75" exdist="77.00" bike='cx' gpx='20190126'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2019/01/27">
+       <!-- zima opady śniegu + -2C -->
+       <ride dist="30" exdist="30.00" bike='mtb' gpx='20190127'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2019/01/28">
+       <!-- 1C -->
+       <ride dist="40" exdist="40.00" bike='mtb' gpx='20190128'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     
+     <day date="2019/01/30">
+       <ride dist="60" exdist="59.18" bike='mtb' gpx='20190128'>
+	 <by name='Cavigliano' country='CH' />
+	 <by name='Intragna' country='CH' />
+	 <by name='Borgnone' country='CH' />
+	 <by name='Malesco' country='IT'/>
+       </ride>
+     </day>
+
+   </month>
+   <month no='2'>
+     <day date="2019/02/08">
+       <ride dist="45" exdist="45.00" bike='ridley' gpx='20190208'>
+	 <by name='Kielno'/>
+	 <by name='Koleczkowo'/>
+       </ride>
+     </day>
+     <day date="2019/02/16">
+       <ride dist="35" exdist="35.00" bike='ridley' gpx='20190216'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2019/02/17">
+       <ride dist="35" exdist="62.00" bike='ridley' gpx='20190217'>
+	 <by name='Pępowo'/>
+	 <by name='Miszewo'/>
+	 <by name='Koleczkowo'/>
+	 <by name='Kielno'/>
+       </ride>
+     </day>
+     <day date="2019/02/18">
+       <ride dist="30" exdist="30.00" bike='ridley' gpx='20190218'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     
+     <day date="2019/02/19">
+       <ride dist="50" exdist="51.00" bike='ridley' gpx='20190219'>
+	 <by name='Koleczkowo'/>
+	 <by name='Kielno'/>
+       </ride>
+     </day>
+     
+     <day date="2019/02/20">
+       <ride dist="25" exdist="25.00" bike='ridley' gpx='20190220'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     
+     <day date="2019/02/23">
+       <!-- -1C -->
+       <ride dist="35" exdist="35.00" bike='mtb' gpx='20190223'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2019/02/24">
+       <!-- 10C -->
+       <ride dist="65" exdist="67.00" bike='ridley' gpx='20190224'>
+	 <by name='Mechelinki'/>
+       </ride>
+     </day>
+     <day date="2019/02/25">
+       <ride dist="45" exdist="45.00" bike='ridley' gpx='20190225'>
+	 <by name='Bojano'/>
+	 <by name='Koleczkowo'/>
+       </ride>
+     </day>
+     <day date="2019/02/26">
+       <ride dist="55" exdist="56.00" bike='ridley' gpx='20190226'>
+	 <by name='Miszewo'/>
+	 <by name='Pępowo'/>
+       </ride>
+     </day>
+
+     <day date="2019/02/27">
+       <ride dist="35" exdist="35.00" bike='ridley' gpx='20190227'>
+	 <by name='Chwaszczyno'/>
+	 <by name='Karczemki'/>
+       </ride>
+     </day>
+     <day date="2019/02/28">
+       <ride dist="50" exdist="50.00" bike='ridley' gpx='20190228'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+   </month>
+   <month no='3'>
+     <day date="2019/03/01">
+       <ride dist="45" exdist="44.00" bike='ridley' gpx='20190301'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2019/03/03">
+       <ride dist="75" exdist="78.00" bike='ridley' gpx='20190303'>
+	 <by name='Kiezmark'/>
+	 <by name='Jantar'/>
+       </ride>
+     </day>
+
+     <day date="2019/03/04">
+       <ride dist="55" exdist="55.00" bike='ridley' gpx='20190304'>
+	 <by name='Kamień'/>
+       </ride>
+     </day>
+     <day date="2019/03/07">
+       <ride dist="60" exdist="60.00" bike='ridley' gpx='20190307'>
+	 <by name='Kamień'/>
+       </ride>
+     </day>
+     
+     <day date="2019/03/09">
+       <ride dist="45" exdist="44.00" bike='ridley' gpx='20190309'>
+	 <by name='Bojano'/>
+	 <by name='Koleczkowo'/>
+	 <by name='Wiczlino'/>
+       </ride>
+     </day>
+
+     <day date="2019/03/10">
+       <ride dist="50" exdist="52.00" bike='ridley' gpx='20190310'>
+	 <by name='Kamień'/>
+       </ride>
+     </day>
+
+     <day date="2019/03/11">
+       <ride dist="45" exdist="44.00" bike='ridley' gpx='20190311'>
+	 <by name='Gdańsk'/>
+	 <by name='Matarnia'/>
+       </ride>
+     </day>
+     <day date="2019/03/12">
+       <ride dist="50" exdist="52.00" bike='ridley' gpx='20190312'>
+	 <by name='Gdynia'/>
+	 <by name='Koleczkowo'/>
+	 <by name='Banino'/>
+       </ride>
+     </day>
+     <day date="2019/03/13">
+       <ride dist="50" exdist="50.00" bike='mtb' gpx='20190313'>
+	 <by name='Gdynia'/>
+	 <by name='Kamień'/>
+       </ride>
+     </day>
+
+     <day date="2019/03/14">
+       <ride dist="30" exdist="30.00" bike='mtb' gpx='20190314'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2019/03/15">
+       <ride dist="50" exdist="50.00" bike='mtb' gpx='20190315'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2019/03/17">
+       <ride dist="30" exdist="30.00" bike='mtb' gpx='20190317'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2019/03/18">
+       <ride dist="30" exdist="30.00" bike='mtb' gpx='20190318'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2019/03/19">
+       <ride dist="80" exdist="80.00" bike='mtb' gpx='20190319'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2019/03/20">
+       <ride dist="60" exdist="60.00" bike='mtb' gpx='20190320'>
+	 <by name='Gdańsk'/>
+	 <by name='Karczemki'/>
+       </ride>
+     </day>
+
+     <day date="2019/03/21">
+       <ride dist="55" exdist="50.20" bike='mtb' gpx='20190321'>
+	 <by name='Gdańsk'/>
+	 <by name='Bojano'/>
+	 <by name='Koleczkowo'/>
+	 <by name='Kielno'/>
+       </ride>
+     </day>
+     
+     <day date="2019/03/22">
+       <ride dist="80" exdist="83.20" bike='mtb' gpx='20190322'>
+	 <by name='Gdańsk'/>
+	 <by name='Gdynia'/>
+	 <by name='Wiczlino'/>
+	 <by name='Koleczkowo'/>
+       </ride>
+     </day>
+
+     <day date="2019/03/23">
+       <ride dist="120" exdist="122.20" bike='ridley' gpx='20190323'>
+	 <by name='Kwidzyn'/>
+	 <by name='Tczew'/>
+       </ride>
+     </day>
+     <day date="2019/03/24">
+       <ride dist="25" exdist="25.20" bike='ridley' gpx='20190324'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+   </month>
+   <month no='4'>
+
+     <day date="2019/04/01">
+       <ride dist="25" exdist="25.20" bike='ridley' gpx='20190401'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2019/04/02">
+       <ride dist="65" exdist="65.20" bike='ridley' gpx='20190402'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2019/04/03">
+       <ride dist="40" exdist="42.20" bike='ridley' gpx='20190403'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2019/04/05">
+       <ride dist="40" exdist="40.20" bike='ridley' gpx='20190405'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2019/04/06">
+       <ride dist="60" exdist="60.20" bike='ridley' gpx='20190406'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2019/04/07">
+       <ride dist="95" exdist="95.20" bike='ridley' gpx='20190407'>
+	 <by name='Prabuty'/>
+	 <by name='Kwidzyn'/>
+       </ride>
+     </day>
+
+     <day date="2019/04/08">
+       <ride dist="45" exdist="45.20" bike='ridley' gpx='20190408'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2019/04/11">
+       <ride dist="185" exdist="186.20" bike='ridley' gpx='20190411'>
+	 <by name='Stare Jabłonki'/>
+	 <by name='Olsztyn'/>
+	 <by name='Morąg'/>
+	 <by name='Dzierzgoń'/>
+	 <by name='Sztum'/>
+       </ride>
+     </day>
+
+     <day date="2019/04/13">
+       <ride dist="75" exdist="75.20" bike='ridley' gpx='20190413'>
+	 <by name='Kamień'/>
+	 <by name='Szemud'/>
+	 <by name='Nowy Dwór Wejherowski'/>
+	 <by name='Bieszkowice'/>
+       </ride>
+     </day>
+
+     <day date="2019/04/14">
+       <ride dist="90" exdist="92.20" bike='ridley' gpx='20190414'>
+	 <by name='Tczew'/>
+	 <by name='Pelplin'/>
+	 <by name='Pruszcz Gdański'/>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2019/04/15">
+       <ride dist="25" exdist="27.20" bike='ridley' gpx='20190415'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2019/04/16">
+       <ride dist="50" exdist="50.20" bike='ridley' gpx='20190416'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     
+     <day date="2019/04/17">
+       <ride dist="50" exdist="52.50" bike='ridley' gpx='20190417'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2019/04/18">
+       <ride dist="40" exdist="40.20" bike='cx' gpx='20190418'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2019/04/19">
+       <ride dist="20" exdist="22.20" bike='ridley' gpx='20190419'>
+	 <by name='Sopot'/>
+	 <by name='Gdańsk'/>
+       </ride>
+       <ride dist="45" exdist="45.20" bike='cx' gpx='20190419'>
+	 <by name='Gdańsk'/>
+	 <by name='Matarnia'/>
+	 <by name='Rębiechowo'/>
+       </ride>
+     </day>
+     <day date="2019/04/20">
+       <ride dist="40" exdist="50.20" bike='cx' gpx='20190420'>
+	 <by name='Gdynia'/>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2019/04/21">
+       <ride dist="55" exdist="55.00" bike='cx' gpx='20190421'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2019/04/24">
+       <ride dist="50" exdist="50.00" bike='cx' gpx='20190424'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2019/04/25">
+       <ride dist="25" exdist="24.10" bike='cx' gpx='20190425'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2019/04/27">
+       <ride dist="65" exdist="64.10" bike='mtb' gpx='20190427'>
+	 <by name='Kos' country='GR'/>
+	 <by name='Tigaki' country='GR'/>
+	 <by name='Antimachia' country='GR'/>
+       </ride>
+     </day>
+
+   </month>
+
+   <month no='5'>
+     <day date="2019/05/04">
+       <ride dist="125" exdist="128.10" bike='ridley' gpx='20190516'>
+	 <by name='Malbork'/>
+	 <by name='Susz'/>
+	 <by name='Iława'/>
+	 <by name='Nowe Miasto Lubawskie'/>
+	 <by name='Bachotek'/>
+       </ride>
+     </day>
+     <day date="2019/05/05">
+       <ride dist="105" exdist="105.10" bike='ridley' gpx='20190516'>
+	 <by name='Bachotek'/>
+	 <by name='Nowe Miasto Lubawskie'/>
+	 <by name='Iława'/>
+	 <by name='Susz'/>
+	 <by name='Prabuty'/>
+	 <by name='Stary Targ'/>
+	 <by name='Mleczewo'/>
+       </ride>
+     </day>
+	  
+     <day date="2019/05/16">
+       <ride dist="60" exdist="62.10" bike='mtb' gpx='20190516'>
+	 <by name='Batumi' country='GE'/>
+	 <by name='Gonio' country='GE'/>
+	 <by name='Sarpi' country='GE'/>
+       </ride>
+     </day>
+     <day date="2019/05/17">
+       <ride dist="110" exdist="111.10" bike='mtb' gpx='20190517'>
+	 <by name='Batumi' country='GE'/>
+	 <by name='Kobuleti' country='GE'/>
+	 <by name='Grigoleti' country='GE'/>
+       </ride>
+     </day>
+
+     <day date="2019/05/19">
+       <ride dist="55" exdist="55.10" bike='ridley' gpx='20190519'>
+	 <by name='Kamień'/>
+       </ride>
+     </day>
+     <day date="2019/05/20">
+       <ride dist="25" exdist="25.10" bike='ridley' gpx='20190520'>
+	 <by name='Sopot'/>
+       </ride>
+     </day>
+     <day date="2019/05/26">
+       <ride dist="60" exdist="60.10" bike='ridley' gpx='20190526'>
+	 <by name='Kamień'/>
+	 <by name='Szemud'/>
+       </ride>
+     </day>
+     <day date="2019/05/27">
+       <ride dist="45" exdist="45.32" bike='ridley' gpx='20190527'>
+	 <by name='Kielno'/>
+       </ride>
+     </day>
+     <day date="2019/05/29">
+       <ride dist="75" exdist="76.77" bike='cx' gpx='20190529'>
+	 <!-- Sobieszewo -->
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2019/05/31">
+       <ride dist="70" exdist="73.77" bike='cx' gpx='20190531'>
+	 <by name='Gdańsk'/>
+	 <by name='Kamień'/>
+       </ride>
+     </day>
+   </month>
+   <month no='6'>
+
+     <day date="2019/06/01">
+       <ride dist="60" exdist="62.01" bike='ridley' gpx='20190601'>
+	 <by name='Rumia'/>
+	 <by name='Mechelinki'/>
+	 <by name='Gdynia'/>
+       </ride>
+     </day>
+     <day date="2019/06/02">
+       <ride dist="55" exdist="55.86" bike='ridley' gpx='20190602'>
+	 <by name='Leźno'/>
+	 <by name='Miszewo'/>
+	 <by name='Chwaszczyno'/>
+       </ride>
+     </day>
+     <day date="2019/06/03">
+       <ride dist="55" exdist="54.31" bike='ridley' gpx='20190603'>
+	 <by name='Leźno'/>
+	 <by name='Rębiechowo'/>
+	 <by name='Osowa'/>
+       </ride>
+     </day>
+
+     <day date="2019/06/04">
+       <ride dist="65" exdist="64.89" bike='ridley' gpx='20190604'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2019/06/05">
+       <ride dist="40" exdist="40.05" bike='cx' gpx='20190605'>
+	 <by name='Gdańsk'/>
+	 <by name='Rębiechowo'/>
+	 <by name='Osowa'/>
+       </ride>
+     </day>
+
+
+     <day date="2019/06/08">
+       <ride dist="60" exdist="59.05" bike='ridley' gpx='20190608'>
+	 <by name='Rębiechowo'/>
+	 <by name='Miszewo'/>
+	 <by name='Czeczewo'/>
+	 <by name='Kielno'/>
+       </ride>
+     </day>
+     <day date="2019/06/09">
+       <ride dist="80" exdist="80.03" bike='ridley' gpx='20190609'>
+	 <by name='Nowy Dwór Gdański'/>
+	 <by name='Rybna'/>
+	 <by name='Sztutowo'/>
+	 <by name='Stegna'/>
+	 <by name='Cedry Małe'/>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2019/06/11">
+       <ride dist="60" exdist="61.05" bike='ridley' gpx='20190611'>
+	 <by name='Rębiechowo'/>
+	 <by name='Miszewo'/>
+	 <by name='Czeczewo'/>
+	 <by name='Kielno'/>
+       </ride>
+     </day>
+
+     <day date="2019/06/12">
+       <ride dist="40" exdist="39.29" bike='cx' gpx='20190612'>
+	 <by name='Rębiechowo'/>
+	 <by name='Osowa'/>
+       </ride>
+     </day>
+          
+     <day date="2019/06/13">
+       <ride dist="70" exdist="71.19" bike='ridley' gpx='20190613'>
+	 <by name='Rębiechowo'/>
+	 <by name='Miszewo'/>
+	 <by name='Czeczewo'/>
+	 <by name='Kielno'/>
+       </ride>
+     </day>
+     <day date="2019/06/14">
+       <ride dist="60" exdist="61.29" bike='ridley' gpx='20190614'>
+	 <by name='Rębiechowo'/>
+	 <by name='Miszewo'/>
+	 <by name='Czeczewo'/>
+	 <by name='Kielno'/>
+       </ride>
+     </day>
+     
+     <day date="2019/06/15">
+       <ride dist="50" exdist="52.05" bike='ridley' gpx='20190615'>
+	 <by name='Czeczewo'/>
+	 <by name='Kielno'/>
+       </ride>
+     </day>
+     <day date="2019/06/16">
+       <ride dist="50" exdist="54.05" bike='ridley' gpx='20190616'>
+	 <by name='Czeczewo'/>
+	 <by name='Kielno'/>
+       </ride>
+     </day>
+     
+     <day date="2019/06/18">
+       <ride dist="55" exdist="55.05" bike='ridley' gpx='20190618'>
+	 <by name='Czeczewo'/>
+	 <by name='Kielno'/>
+       </ride>
+     </day>
+
+     <day date="2019/06/19">
+       <ride dist="55" exdist="56.05" bike='cx' gpx='20190619'>
+	 <by name='Rębiechowo'/>
+	 <by name='Miszewo'/>
+	 <by name='Chwaszczyno'/>
+       </ride>
+     </day>
+     <day date="2019/06/20">
+       <ride dist="60" exdist="61.05" bike='cx' gpx='20190620'>
+	 <by name='Miszewo'/>
+	 <by name='Przodkowo'/>
+	 <by name='Kielno'/>
+       </ride>
+     </day>
+     <day date="2019/06/21">
+       <ride dist="40" exdist="39.05" bike='cx' gpx='20190621'>
+	 <by name='Matarnia'/>
+	 <by name='Rębiechowo'/>
+	 <by name='Osowa'/>
+       </ride>
+     </day>
+     <day date="2019/06/22">
+       <!-- 10 + 30 + 10 -->
+       <ride dist="50" exdist="52.05" bike='cx' gpx='20190622'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2019/06/23">
+       <ride dist="70" exdist="71.15" bike='cx' gpx='20190623'>
+	 <by name='Przodkowo'/>
+	 <by name='Czeczewo'/>
+	 <by name='Kielno'/>
+       </ride>
+     </day>
+     <day date="2019/06/25">
+       <ride dist="75" exdist="74.00" bike='ridley' gpx='20190625'>
+	 <by name='Kielno'/>
+	 <by name='Koleczkowo'/>
+	 <by name='Rumia'/>
+	 <by name='Mechelinki'/>
+       </ride>
+     </day>
+     <day date="2019/06/26">
+       <ride dist="55" exdist="58.00" bike='ridley' gpx='20190626'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2019/06/29">
+       <ride dist="80" exdist="79.00" bike='ridley' gpx='20190629'>
+	 <by name='Rumia'/>
+	 <by name='Gdynia'/>
+       </ride>
+     </day>
+
+     <day date="2019/06/30">
+       <ride dist="50" exdist="49.00" bike='ridley' gpx='20190630'>
+	 <by name='Gdańsk'/>
+	 <by name='Banino'/>
+	 <by name='Miszewo'/>
+       </ride>
+     </day>
+
+
+   </month>
+   
+   <month no='7'>
+     <day date="2019/07/01">
+       <ride dist="35" exdist="35.00" bike='ridley' gpx='20190701'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2019/07/03">
+       <ride dist="25" exdist="27.00" bike='ridley' gpx='20190703'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2019/07/05">
+       <ride dist="45" exdist="47.00" bike='ridley' gpx='20190705'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2019/07/07">
+       <ride dist="45" exdist="44.33" bike='ridley' gpx='20190707'>
+	 <by name='Miszewo'/>
+	 <by name='Chwaszczyno'/>
+       </ride>
+     </day>
+
+     <day date="2019/07/09">
+       <ride dist="30" exdist="29.33" bike='cx' gpx='20190709'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2019/07/10">
+       <ride dist="35" exdist="36.33" bike='cx' gpx='20190710'>
+	 <by name='Matarnia'/>
+	 <by name='Osowa'/>
+       </ride>
+     </day>
+     
+     <day date="2019/07/11">
+       <ride dist="50" exdist="52.00" bike='ridley' gpx='20190711'>
+	 <by name='Kielno'/>
+	 <by name='Czeczewo'/>
+       </ride>
+     </day>
+     <day date="2019/07/12">
+       <ride dist="50" exdist="52.00" bike='ridley' gpx='20190712'>
+	 <by name='Kielno'/>
+	 <by name='Czeczewo'/>
+       </ride>
+     </day>
+     
+     <day date="2019/07/13">
+       <ride dist="175" exdist="174.10" bike='ridley' gpx='20190713'>
+	 <by name='Malbork'/>
+	 <by name='Grunwald'/>
+       </ride>
+     </day>
+     
+     <day date="2019/07/14">
+       <ride dist="60" exdist="59.00" bike='ridley' gpx='20190714'>
+	 <by name='Pępowo'/>
+	 <by name='Żukowo'/>
+       </ride>
+     </day>
+
+     <day date="2019/07/15">
+       <ride dist="85" exdist="84.75" bike='ridley' gpx='20190715'>
+	 <by name='Gdańsk'/>
+	 <by name='Cedry Wielkie'/>
+       </ride>
+     </day>
+     
+     <day date="2019/07/16">
+       <ride dist="30" exdist="32.75" bike='cx' gpx='20190716'>
+	 <by name='Gdańsk'/>
+	 <by name='Cedry Wielkie'/>
+       </ride>
+     </day>
+
+     
+     <day date="2019/07/17">
+       <ride dist="55" exdist="56.75" bike='cx' gpx='20190717'>
+	 <by name='Gdańsk'/>
+	 <by name='Cedry Wielkie'/>
+       </ride>
+     </day>
+
+
+     <day date="2019/07/18">
+       <ride dist="115" exdist="114.75" bike='ridley' gpx='20190718'>
+	 <by name='Kiezmark'/>
+	 <by name='Mikoszewo'/>
+	 <by name='Cedry Wielkie'/>
+       </ride>
+     </day>
+     <day date="2019/07/20">
+       <ride dist="140" exdist="140.10" bike='ridley' gpx='20190720'>
+	 <by name='Pruszcz Gdański'/>
+	 <by name='Tczew'/>
+	 <by name='Malbork'/>
+	 <by name='Nowy Staw'/>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2019/07/22">
+       <ride dist="55" exdist="56.10" bike='cx' gpx='20190722'>
+	 <by name='Bojano'/>
+	 <by name='Koleczkowo'/>
+	 <by name='Gdynia'/>
+       </ride>
+     </day>
+     <day date="2019/07/23">
+       <ride dist="50" exdist="53.10" bike='cx' gpx='20190723'>
+	 <by name='Banino'/>
+	 <by name='Miszewo'/>
+	 <by name='Czeczewo'/>
+       </ride>
+     </day>
+
+     <day date="2019/07/25">
+       <ride dist="45" exdist="45.10" bike='cx' gpx='20190725'>
+	 <by name='Banino'/>
+	 <by name='Miszewo'/>
+	 <by name='Chwaszczyno'/>
+       </ride>
+     </day>
+ 
+     <day date="2019/07/26">
+       <ride dist="60" exdist="60.10" bike='cx' gpx='20190726'>
+	 <by name='Suchy Dąb'/>
+	 <by name='Skowarcz'/>
+	 <by name='Pruszcz Gdański'/>
+       </ride>
+     </day>
+     <day date="2019/07/27">
+       <!-- Do zagańczyka Sosnowa/9-->
+       <ride dist="40" exdist="40.10" bike='ridley' gpx='20190727'>
+	 <by name='Pruszcz Gdański'/>
+       </ride>
+     </day>
+     <day date="2019/07/28">
+       <ride dist="135" exdist="137.50" bike='ridley' gpx='20190728'>
+	 <by name='Żukowo'/>
+	 <by name='Kartuzy'/>
+	 <by name='Stężyca'/>
+	 <by name='Chmielno'/>
+       </ride>
+     </day>
+
+   </month>
+   
+   <month no='8'>
+     <day date="2019/08/02">
+       <ride dist="75" exdist="75.10" bike='ridley' gpx='20190802'>
+	 <by name='Rumia'/>
+	 <by name='Rewa'/>
+       </ride>
+     </day>
+     <day date="2019/08/03">
+       <ride dist="60" exdist="59.10" bike='ridley' gpx='20190803'>
+	 <by name='Przodkowo'/>
+	 <by name='Kielno'/>
+       </ride>
+     </day>
+
+     <day date="2019/08/05">
+     <ride dist="55" exdist="54.90" bike='ridley' gpx='20190805'>
+       <by name='Lniska'/>
+       <by name='Rębiechowo'/>
+     </ride>
+     </day>
+     
+   <day date="2019/08/07">
+     <ride dist="75" exdist="75.10" bike='ridley' gpx='20190807'>
+       <by name='Lniska'/>
+       <by name='Żukowo'/>
+       <by name='Miszewo'/>
+     </ride>
+   </day>
+
+   <day date="2019/08/08">
+     <ride dist="45" exdist="45.10" bike='ridley' gpx='20190809'>
+       <by name='Pępowo'/>
+       <by name='Miszewo'/>
+     </ride>
+   </day>
+
+
+   <day date="2019/08/09">
+     <ride dist="55" exdist="55.10" bike='ridley' gpx='20190809'>
+       <by name='Pępowo'/>
+       <by name='Miszewo'/>
+       <by name='Chwaszczyno'/>
+     </ride>
+   </day>
+
+  
+   <day date="2019/08/10">
+     <ride dist="50" exdist="49.10" bike='ridley' gpx='20190810'>
+       <by name='Pępowo'/>
+       <by name='Miszewo'/>
+       <by name='Chwaszczyno'/>
+     </ride>
+   </day>
+
+   <day date="2019/08/11">
+     <ride dist="65" exdist="65.10" bike='ridley' gpx='20190811'>
+       <by name='Koleczkowo'/>
+       <by name='Rumia'/>
+     </ride>
+   </day>
+
+   <day date="2019/08/12">
+     <ride dist="50" exdist="49.10" bike='ridley' gpx='20190812'>
+       <by name='Pępowo'/>
+       <by name='Miszewo'/>
+     </ride>
+   </day>
+
+   <day date="2019/08/13">
+     <ride dist="60" exdist="61.10" bike='ridley' gpx='20190813'>
+       <by name='Przodkowo'/>
+       <by name='Banino'/>
+       <by name='Pępowo'/>
+     </ride>
+   </day>
+   <day date="2019/08/14">
+     <ride dist="70" exdist="71.40" bike='ridley' gpx='20190814'>
+       <by name='Gdańsk'/>
+       <by name='Pruszcz Gdański'/>
+     </ride>
+   </day>
+   <day date="2019/08/15">
+     <ride dist="70" exdist="71.40" bike='ridley' gpx='20190815'>
+       <by name='Przodkowo'/>
+       <by name='Hopy'/>
+       <by name='Trzy Rzeki'/>
+       <by name='Czeczewo'/>
+     </ride>
+   </day>
+
+   <day date="2019/08/29">
+     <!-- 29.0 zarejestrowanych -->
+     <ride dist="30" exdist="29.10" bike='ridley' gpx='20190829'>
+       <by name='Przodkowo'/>
+     </ride>
+   </day>
+   <day date="2019/08/30">
+     <ride dist="60" exdist="62.10" bike='ridley' gpx='20190830'>
+       <by name='Przodkowo'/>
+     </ride>
+   </day>
+
+   </month>
+   
+   <month no='9'>
+     <day date="2019/09/01">
+       <ride dist="50" exdist="49.10" bike='ridley' gpx='20190901'>
+	 <by name='Pępowo'/>
+	 <by name='Banino'/>
+       </ride>
+     </day>
+
+     <day date="2019/09/03">
+       <ride dist="50" exdist="49.10" bike='ridley' gpx='20190903'>
+	 <by name='Pępowo'/>
+	 <by name='Banino'/>
+       </ride>
+     </day>
+     <day date="2019/09/04">
+       <ride dist="50" exdist="49.10" bike='ridley' gpx='20190904'>
+	 <by name='Pępowo'/>
+	 <by name='Banino'/>
+       </ride>
+     </day>
+     
+     <day date="2019/09/06">
+       <ride dist="45" exdist="45.10" bike='ridley' gpx='20190906'>
+	 <by name='Miszewo'/>
+	 <by name='Banino'/>
+       </ride>
+     </day>
+
+     <day date="2019/09/07">
+       <ride dist="70" exdist="71.40" bike='ridley' gpx='20190907'>
+	 <by name='Koleczkowo'/>
+	 <by name='Rumia'/>
+	 <by name='Gdynia'/>
+       </ride>
+     </day>
+     
+     <day date="2019/09/08">
+       <ride dist="80" exdist="79.10" bike='ridley' gpx='20190908'>
+	 <!-- Sobieszewo -->
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2019/09/09">
+       <ride dist="50" exdist="49.20" bike='ridley' gpx='20190909'>
+	 <by name='Miszewo'/>
+	 <by name='Pępowo'/>
+       </ride>
+     </day>
+
+     <day date="2019/09/11">
+       <!-- 38+25 -->
+       <ride dist="60" exdist="63.20" bike='ridley' gpx='20190910'>
+	 <by name='Gdańsk'/>
+	 <by name='Osowa'/>
+       </ride>
+     </day>
+
+     <day date="2019/09/12">
+       <ride dist="50" exdist="49.11" bike='ridley' gpx='20190912'>
+	 <by name='Miszewo'/>
+       </ride>
+     </day>
+     <day date="2019/09/13">
+       <ride dist="25" exdist="25.01" bike='ridley' gpx='20190913'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2019/09/14">
+       <ride dist="90" exdist="93.01" bike='ridley' gpx='20190914'>
+	 <by name='Gdańsk'/>
+	 <by name='Kiezmark'/>
+	 <by name='Pruszcz Gdański'/>
+       </ride>
+     </day>
+     
+     <day date="2019/09/16">
+       <ride dist="70" exdist="69.01" bike='ridley' gpx='20190916'>
+	 <by name='Gdańsk'/>
+	 <by name='Kiezmark'/>
+       </ride>
+     </day>
+
+     <day date="2019/09/18">
+       <ride dist="55" exdist="54.01" bike='ridley' gpx='20190918'>
+	 <by name='Miszewo'/>
+	 <by name='Pępowo'/>
+	 <by name='Leźno'/>
+       </ride>
+     </day>
+
+     <day date="2019/09/19">
+       <ride dist="35" exdist="34.90" bike='ridley' gpx='20190919'>
+	 <by name='Gdańsk'/>
+	 <by name='Osowa'/>
+       </ride>
+     </day>
+
+     <day date="2019/09/20">
+       <ride dist="55" exdist="56.10" bike='cx' gpx='20190920'>
+	 <by name='Miszewo'/>
+	 <by name='Pępowo'/>
+	 <by name='Leźno'/>
+       </ride>
+     </day>
+	  
+     <day date="2019/09/21">
+       <ride dist="30" exdist="29.10" bike='cx' gpx='20190921'>
+	 <by name='Osowa'/>
+       </ride>
+     </day>
+
+     <day date="2019/09/22">
+       <ride dist="85" exdist="86.10" bike='ridley' gpx='20190922'>
+	 <by name='Rumia'/>
+	 <by name='Żelistrzewo'/>
+	 <by name='Puck'/>
+	 <by name='Gdynia'/>
+       </ride>
+     </day>
+     <day date="2019/09/23">
+       <ride dist="45" exdist="45.10" bike='ridley' gpx='20190922'>
+	 <by name='Miszewo'/>
+       </ride>
+     </day>
+
+     <day date="2019/09/24">
+       <ride dist="30" exdist="29.10" bike='cx' gpx='20190924'>
+	 <by name='Osowa'/>
+       </ride>
+     </day>
+     <day date="2019/09/25">
+       <ride dist="50" exdist="50.10" bike='ridley' gpx='20190925'>
+	 <by name='Miszewo'/>
+	 <by name='Pępowo'/>
+       </ride>
+     </day>
+     <day date="2019/09/26">
+       <ride dist="40" exdist="39.54" bike='cx' gpx='20190926'>
+	 <by name='Osowa'/>
+       </ride>
+     </day>
+
+   </month>
+   <month no='10'>
+     <day date="2019/10/02">
+       <!-- deszcz -->
+       <ride dist="40" exdist="39.10" bike='cx' gpx='20191002'>
+	 <by name='Gdańsk'/>
+	 <by name='Osowa'/>
+	 <!-- do lotniska -->
+       </ride>
+     </day>
+     <day date="2019/10/03">
+       <ride dist="50" exdist="53.10" bike='cx' gpx='20191003'>
+	 <by name='Miszewo'/>
+	 <by name='Pępowo'/>
+	 <!-- do lotniska -->
+       </ride>
+     </day>
+     <day date="2019/10/04">
+       <ride dist="55" exdist="54.50" bike='cx' gpx='20191004'>
+	 <by name='Kielno'/>
+	 <by name='Czeczewo'/>
+	 <!-- do lotniska -->
+       </ride>
+     </day>
+
+     <day date="2019/10/08">
+       <ride dist="45" exdist="47.30" bike='ridley' gpx='20191008'>
+	 <by name='Rębiechowo'/>
+       </ride>
+     </day>
+
+     <day date="2019/10/10">
+       <ride dist="45" exdist="47.30" bike='ridley' gpx='20191010'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2019/10/13">
+       <ride dist="105" exdist="105.80" bike='ridley' gpx='20191013'>
+	 <by name='Żukowo'/>
+	 <by name='Kartuzy'/>
+	 <by name='Brodnica Górna'/>
+	 <by name='Przodkowo'/>
+       </ride>
+     </day>
+
+     <day date="2019/10/14">
+       <ride dist="50" exdist="53.80" bike='ridley' gpx='20191014'>
+	 <by name='Miszewo'/>
+	 <by name='Pępowo'/>
+       </ride>
+     </day>
+
+     <day date="2019/10/15">
+       <ride dist="40" exdist="39.01" bike='ridley' gpx='20191015'>
+	 <by name='Rębiechowo'/>
+       </ride>
+     </day>
+     <day date="2019/10/16">
+       <ride dist="50" exdist="50.25" bike='cx' gpx='20191016'>
+	 <!-- Otomin -->
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2019/10/17">
+       <ride dist="25" exdist="24.35" bike='cx' gpx='20191017'>
+	 <by name='Sopot'/>
+       </ride>
+     </day>
+     <day date="2019/10/19">
+       <ride dist="70" exdist="71.35" bike='cx' gpx='20191019'>
+	 <!-- rano/po południu-->
+	 <by name='Sopot'/>
+	 <by name='Miszewo'/>
+       </ride>
+     </day>
+     
+     <day date="2019/10/20">
+       <ride dist="40" exdist="39.35" bike='cx' gpx='20191020'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2019/10/21">
+       <ride dist="75" exdist="77.35" bike='cx' gpx='20191021'>
+	 <!-- rano/po południu: Sobieszewo-->
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2019/10/22">
+       <ride dist="65" exdist="64.15" bike='cx' gpx='20191022'>
+	 <by name='Gdańsk'/>
+	 <by name='Chwaszczyno'/>
+       </ride>
+     </day>
+
+     <day date="2019/10/23">
+       <ride dist="55" exdist="55.15" bike='ridley' gpx='20191023'>
+	 <by name='Kamień'/>
+       </ride>
+     </day>     
+     <day date="2019/10/24">
+       <ride dist="65" exdist="66.35" bike='cx' gpx='20191024'>
+	 <by name='Gdańsk'/>
+	 <by name='Chwaszczyno'/>
+	 <by name='Kielno'/>
+	 <by name='Koleczkowo'/>
+	 <by name='Wiczlino'/>
+       </ride>
+     </day>
+
+     <day date="2019/10/25">
+       <ride dist="25" exdist="66.35" bike='cx' gpx='20191025'>
+	 <by name='Gdańsk'/>
+	 <by name='Sopot'/>
+       </ride>
+     </day>
+     <day date="2019/10/26">
+       <!-- 55+15-->
+       <ride dist="70" exdist="75.35" bike='cx' gpx='20191026'>
+	 <by name='Gdańsk'/>
+	 <by name='Sopot'/>
+       </ride>
+     </day>
+     <day date="2019/10/27">
+       <ride dist="30" exdist="32.35" bike='cx' gpx='20191027'>
+	 <by name='Gdańsk'/>
+	 <by name='Sopot'/>
+       </ride>
+     </day>
+
+     <day date="2019/10/28">
+       <ride dist="50" exdist="53.15" bike='cx' gpx='20191028'>
+	 <by name='Gdańsk'/>
+	 <by name='Sopot'/>
+       </ride>
+     </day>
+     
+     <day date="2019/10/29">
+       <ride dist="65" exdist="65.35" bike='cx' gpx='20191029'>
+	 <by name='Gdańsk'/>
+	 <by name='Sopot'/>
+       </ride>
+     </day>
+     
+     <day date="2019/10/30">
+       <ride dist="55" exdist="55.35" bike='cx' gpx='20191030'>
+	 <by name='Gdańsk'/>
+	 <by name='Sopot'/>
+       </ride>
+     </day>
+     <day date="2019/10/31">
+       <!-- 25+30-->
+       <ride dist="55" exdist="55.35" bike='cx' gpx='20191031'>
+	 <by name='Gdańsk'/>
+	 <by name='Sopot'/>
+       </ride>
+     </day>
+   </month>
+   
+   <month no='11'>
+     <day date="2019/11/01">
+       <!-- rano -->
+       <ride dist="30" exdist="29.55" bike='cx' gpx='20191101'>
+	 <by name='Gdańsk'/>
+	 <by name='Sopot'/>
+       </ride>
+     </day>
+
+     <day date="2019/11/12">
+       <!-- rano -->
+       <ride dist="45" exdist="45.55" bike='cx' gpx='20191112'>
+	 <by name='Chwaszczyno'/>
+	 <by name='Miszewo'/>
+       </ride>
+     </day>
+     <day date="2019/11/13">
+       <!-- rano -->
+       <ride dist="25" exdist="25.55" bike='cx' gpx='20191113'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2019/11/14">
+       <ride dist="45" exdist="44.05" bike='ridley' gpx='20191114'>
+	 <by name='Kielno'/>
+	 <by name='Koleczkowo'/>
+	 <by name='Wiczlino'/>
+       </ride>
+     </day>
+
+     <day date="2019/11/15">
+       <!-- do olczaka -->
+       <ride dist="50" exdist="51.05" bike='ridley' gpx='20191115'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2019/11/17">
+       <!-- do olczaka -->
+       <ride dist="70" exdist="69.05" bike='ridley' gpx='20191117'>
+	 <by name='Gdańsk'/>
+	 <by name='Lniska'/>
+	 <by name='Żukowo'/>
+	 <by name='Pępowo'/>
+       </ride>
+     </day>
+     <day date="2019/11/18">
+       <ride dist="55" exdist="54.05" bike='ridley' gpx='20191118'>
+	 <by name='Chwaszczyno'/>
+	 <by name='Warzenko'/>
+	 <by name='Miszewo'/>
+	 <by name='Pępowo'/>
+       </ride>
+     </day>
+
+     <day date="2019/11/19">
+       <ride dist="35" exdist="35.04" bike='cx' gpx='20191119'>
+	 <by name='Sopot'/>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2019/11/20">
+       <ride dist="35" exdist="35.04" bike='cx' gpx='20191120'>
+	 <by name='Sopot'/>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+
+     <day date="2019/11/21">
+       <ride dist="25" exdist="25.04" bike='cx' gpx='20191121'>
+	 <by name='Sopot'/>
+       </ride>
+     </day>
+
+     <day date="2019/11/22">
+       <ride dist="60" exdist="64.06" bike='ridley' gpx='20191122'>
+	 <by name='Kamień'/>
+	 <by name='Kielno'/>
+       </ride>
+     </day>
+
+     <day date="2019/11/23">
+       <ride dist="50" exdist="50.10" bike='ridley' gpx='20191123'>
+	 <by name='Banino'/>
+	 <by name='Miszewo'/>
+	 <by name='Chwaszczyno'/>
+       </ride>
+     </day>
+
+     <!-- w niedzielę nie jeździłem -->
+     <day date="2019/11/25">
+       <ride dist="45" exdist="44.10" bike='ridley' gpx='20191125'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2019/11/26">
+       <ride dist="50" exdist="50.10" bike='ridley' gpx='20191126'>
+	 <by name='Kielno'/>
+	 <by name='Koleczkowo'/>
+       </ride>
+     </day>
+     <day date="2019/11/28">
+       <ride dist="60" exdist="60.20" bike='ridley' gpx='20191128'>
+	 <by name='Kamień'/>
+	 <by name='Szemud'/>
+       </ride>
+     </day>
+
+
+   </month>
+   <month no='12'>
+
+     <day date="2019/12/03">
+       <ride dist="45" exdist="45.20" bike='cx' gpx='20191203'>
+	 <by name='Bieszkowice'/>
+	 <by name='Banino'/>
+	 <by name='Miszewo'/>
+       </ride>
+     </day>
+
+     <day date="2019/12/04">
+       <ride dist="55" exdist="58.20" bike='cx' gpx='20191204'>
+	 <by name='Kamień'/>
+	 <by name='Szemud'/>
+       </ride>
+     </day>
+
+     <day date="2019/12/05">
+       <ride dist="50" exdist="49.01" bike='cx' gpx='20191205'>
+	 <by name='Kielno'/>
+	 <by name='Koleczkowo'/>
+       </ride>
+     </day>
+
+     <day date="2019/12/06">
+       <ride dist="45" exdist="45.20" bike='cx' gpx='20191206'>
+	 <by name='Kamień'/>
+	 <by name='Szemud'/>
+       </ride>
+     </day>
+     <day date="2019/12/08">
+       <ride dist="50" exdist="50.10" bike='cx' gpx='20191208'>
+	 <by name='Chwaszczyno'/>
+	 <by name='Warzenko'/>
+       </ride>
+     </day>
+
+     <day date="2019/12/09">
+       <!-- Do Olszynki-->
+       <ride dist="40" exdist="39.11" bike='cx' gpx='20191209'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2019/12/12">
+       <ride dist="45" exdist="44.20" bike='cx' gpx='20191212'>
+	 <by name='Miszewo'/>
+	 <by name='Chwaszczyno'/>
+       </ride>
+     </day>
+     <day date="2019/12/16">
+       <ride dist="50" exdist="52.20" bike='cx' gpx='20191216'>
+	 <by name='Miszewo'/>
+	 <by name='Warzenko'/>
+	 <by name='Chwaszczyno'/>
+       </ride>
+     </day>
+     <day date="2019/12/17">
+       <ride dist="55" exdist="56.20" bike='cx' gpx='20191217'>
+	 <by name='Kielno'/>
+	 <by name='Kowalewo'/>
+	 <by name='Chwaszczyno'/>
+       </ride>
+     </day>
+     <day date="2019/12/18">
+       <ride dist="50" exdist="50.20" bike='cx' gpx='20191218'>
+	 <by name='Gdańsk'/>
+       </ride>
+       <ride dist="25" exdist="26.20" bike='cx' gpx='20191218P'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2019/12/19">
+       <!-- Sobieszewo -->
+       <ride dist="45" exdist="45.02" bike='cx' gpx='20191219'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2019/12/20">
+       <ride dist="25" exdist="25.02" bike='cx' gpx='20191220'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2019/12/21">
+       <ride dist="40" exdist="40.12" bike='ridley' gpx='20191221'>
+	 <by name='Miszewo'/>
+	 <by name='Chwaszczyno'/>
+       </ride>
+     </day>
+     <day date="2019/12/22">
+       <ride dist="50" exdist="49.90" bike='cx' gpx='20191222'>
+	 <by name='Warzenko'/>
+	 <by name='Chwaszczyno'/>
+       </ride>
+     </day>
+     <day date="2019/12/23">
+       <!-- Kidzińscy -->
+       <ride dist="35" exdist="35.00" bike='cx' gpx='20191223'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2019/12/24">
+       <!-- Gdańsk/Gdynia -->
+       <ride dist="45" exdist="48.00" bike='cx' gpx='20191224'>
+	 <by name='Gdańsk'/>
+	 <by name='Gdynia'/>
+       </ride>
+     </day>
+     <day date="2019/12/25">
+       <ride dist="55" exdist="55.00" bike='cx' gpx='20191225'>
+	 <by name='Gdynia'/>
+	 <by name='Mechelinki'/>
+       </ride>
+     </day>
+     <day date="2019/12/27">
+       <ride dist="35" exdist="35.00" bike='cx' gpx='20191227'>
+	 <by name='Warzenko'/>
+       </ride>
+     </day>
+
+     <day date="2019/12/30">
+       <ride dist="25" exdist="24.00" bike='cx' gpx='20191230'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2019/12/31">
+       <ride dist="60" exdist="64.00" bike='cx' gpx='20191231'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+   </month>
+   
+</year>
+

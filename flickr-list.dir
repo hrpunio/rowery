@@ -1,0 +1,6 @@
+# Opisy do zdjêæ na flickr.com **
+# Po NAZWA-ZDJECIA >> wstaw: @g gnazwa @k taglist @s set @p pool @t tytu³ @lrot @rrot
+# gnazwa jezeli _zaczyna_ sie od # jest interpretowana jako para lat:lon
+# gnazwa jezeli _zaczyna_ sie od = jest interpretowana jako nazwa pliku z ktorego wsp. GEO zostana sklonowane
+# wstaw `###STOP###' aby przerwac wysylanie zdjec
+#

@@ -1,0 +1,115 @@
+#!/bin/awk -f
+#
+# (c) t. przechlewski, 2004 (tomasz@gnu.univ.gda.pl) 
+# Zezwala sie na wykorzystanie na warunkach licencji GPL
+# patrz: http://www.gnu.org/licenses/gpl.html 
+#
+# $Id: sr,v 1.1 2007/01/02 12:02:00 tomek Exp $
+BEGIN {
+   L = "=====================================================================";
+   MY_IN_FILE="c2004"
+   FILE_EX = ".txt";
+}
+BEGIN { if (ARGC < 2) {
+   MY_IN_FILE=MY_IN_FILE FILE_EX;
+   print "*** Sposób uruchomienia: sr plik1 plik2... ******************";
+   print "*** Nie podano nazwy pliku. Obliczam domy¶lny:", MY_IN_FILE "! ***";
+
+   ARGC=2; ARGV[1]=MY_IN_FILE; } 
+
+   # Mo¿na podaæ po prostu rok jako argument w takim wypadku
+   # dodawany jest przedrostek `c' i koñcówka FILE_EX
+   for (i=1; i<ARGC; i++) {
+       if (match (ARGV[i],/^[0-9]+$/)) { 
+         ARGV[i] = "c" ARGV[i] FILE_EX;
+       }
+   }
+}
+
+function RESETC(){
+  if (total > 0) {
+     if ( total/NORMA >= 1 ) {N_done ="*"} else {N_done =""}
+
+     g_total += total;
+     g_prc += prc;          
+
+     printf "%11.11s: %5d %4d %4d %8.2f %7.2f %7d %8.4f %1.1s   %s\n",  
+       p_month, 
+       total, 
+       prc, g_prc, # liczba-jazd_[practices]
+       total/prc,
+       total/NORMA * 100,
+       g_total,
+       g_total/g_prc,
+       N_done,
+       longRides;
+  }
+
+  total    = 0;                   
+  prc    = 0;            p_month  = $3;
+  longRides = "";
+
+}#eof
+
+BEGIN {NORMA = 1000; targetdist = 5000; }
+BEGIN {print "=== STATYSTYKA TRENINGÓW ROWEROWYCH =================================";
+       print "    miesi±c: dyst.: jazdy/jc: ¶rednia p.normy  D. cum   przec. N  >95";
+       print L;
+       max = 0;
+}
+
+
+/^[ \t]*$/ {next }
+
+/TARGETDIST/     {targetdist = $4; next}
+/YEARTOTALDIST/  {g_total   += $4; next}
+/YEARTOTALRIDES/ {g_prc     += $4; next}
+/WINTERRIDES/    {next; }
+
+/DATASTART/,/DATAEND/{
+    if ($0 ~ /^#/)  {next; } # komentarz
+    if ($0 ~ /^%#/) {next; } # komentarz
+    if ($0 ~ /DATASTART/) {
+       curryear = $3;
+       print "<----------------------------", curryear, 
+                        "--------------------------------->";
+    }
+
+    if ($0 ~ /DATAEND/) { ctargetdist += targetdist; }
+
+    if ($7 == "*" ) {$7 = $5; } # exact distance *** 14.9.2000 ***
+
+    # d/lu/zsze od 94 kms 
+    if ($5 >= 120 ) { longdsts120++; }
+    if ($5 >= 95 )  { longdsts95++; longRides = longRides "!"; }
+    if ($5 >= 75 )  { longdsts75++; } # d/lu/zsze od 74 kms 
+
+    if ($0 !~ /DATA/) {
+        if ($0 ~ /MONTH/)
+           RESETC();
+        else { if ($5 != "--" && $5 != "...") prc++ }
+        
+        total +=$5;        
+
+        if ($8 == "|") { exacttotal +=$7; }
+
+        if (max < $5) { max = $5 }
+    }
+}
+
+/XINFO/ {xinfo = xinfo  $0; }
+
+END {if (g_prc == 0) { exit };
+
+   print L;
+   printf "RAZEM: %d km; ¶red.: %.2f km; max: %d km; ", g_total,
+    g_total/g_prc, max;
+   printf "liczba jazd: %d\n", g_prc;
+   printf "PLAN > dystans: %.2f km; > wykonanie: %6.2f %%\n",
+        ctargetdist, g_total /ctargetdist * 100;
+   print L;
+   print "Xinfo: ", xinfo;
+   print "Xinfo: Dyst. dok³.:", exacttotal;
+   print "75 kms i wiêcej:", 0 + longdsts75 ", w tym 95 kms i wiêcej: >>", 
+        0 + longdsts95, ", w tym 120 i wiêcej: >>", 0 + longdsts120, "<<";
+}

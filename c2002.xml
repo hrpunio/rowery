@@ -1,0 +1,1305 @@
+<?xml version='1.0' encoding='iso-8859-2' ?>
+<!-- $Id: c2002.xml,v 1.1 2007/01/02 12:01:59 tomek Exp $-->
+<!DOCTYPE year SYSTEM "rowery.dtd">
+
+<year no="2002" done='78765'>
+
+ <month no='1'>
+  <day temp='-1' date="2002/01/12">
+   <ride dist="45" exdist="44.93" bike='n'>
+    <by name="Kielno"/>
+   </ride>
+   <comment>śnieg</comment>
+  </day>
+
+  <day temp='-1' date="2002/01/13">
+   <ride dist="55" exdist="57.28" bike='n'>
+    <by name="Żukowo"/>
+   </ride>
+   <comment>śnieg</comment>
+  </day>
+
+  <day temp='4' date="2002/01/19">
+   <ride dist="55" exdist="55.10" bike='n'>
+    <by name="Żukowo"/>
+   </ride>
+   <comment>śnieg</comment>
+  </day>
+
+  <day temp='5' date="2002/01/20">
+   <ride dist="45" exdist="45.50" bike='n'>
+    <by name="Kielno"/>
+   </ride>
+  </day>
+
+  <day temp='8' date="2002/01/22">
+   <ride dist="50" exdist="49.60" bike='n'>
+    <by name="Kamień"/>
+   </ride>
+   <comment>mokro</comment>
+  </day>
+
+  <day date="2002/01/23">
+   <ride dist="45" exdist="45.98" bike='n'>
+    <by name="Kielno"/>
+   </ride>
+  </day>
+
+  <day date="2002/01/24">
+   <ride dist="45" exdist="47.01" bike='n'>
+    <by name="Koleczkowo"/>
+   </ride>
+  </day>
+
+ </month>
+
+ <month no='2'>
+
+  <day date="2002/02/02">
+   <ride dist="55" exdist="55.00" bike='n'>
+    <by name="Korbielów"/>
+    <by country='sk' name="Habovka"/>
+   </ride>
+   <comment>od przejścia granicznego do Habovki</comment>
+  </day>
+
+  <day date="2002/02/03">
+   <ride dist="70" exdist="70.00" bike='n'>
+    <by country='sk' name="Habovka"/>
+    <by country='sk' name="Namestovo"/>
+   </ride>
+  </day>
+
+  <day date="2002/02/04">
+   <ride dist="85" exdist="85.61" time="2.54.15" 
+       mean="29.6" maxspeed="51.5" bike="n">
+    <by country='sk' name="Namestovo"/>
+    <by country='sk' name="Rabca"/>
+   </ride>
+  </day>
+
+  <day date="2002/02/05">
+   <ride dist="70" exdist="70.38" time="2.24.45" bike="n" mean='29.1' />
+  </day>
+
+  <day date="2002/02/07">
+   <ride dist="110" exdist="110.54" time="t=3.35.46" bike="n" mean='30.8'>
+    <by country='sk' name="Namestovo"/>
+    <by name="Korbielów"/>
+   </ride>
+  </day>
+
+  <day date="2002/02/08">
+   <ride dist="80" exdist="81.54" time="2.48.35" bike="n" mean='29.0'>
+    <by country='sk' name="OravskyPodzamok"/>
+    <by country='sk' name="Lokca"/>
+    <by country='sk' name="Namestovo"/>
+   </ride>
+  </day>
+
+  <day date="2002/02/09">
+   <ride dist="70" exdist="70.00" bike='n'>
+    <by country='sk' name="Namestovo"/>
+   </ride>
+  </day>
+
+  <day date="2002/02/12">
+   <ride dist="70" exdist="70.10" bike='n'>
+   </ride>
+  </day>
+
+  <day date="2002/02/14">
+   <ride dist="55" exdist="56.53" bike='n'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+   </ride>
+  </day>
+
+  <day date="2002/02/16">
+   <ride dist="80" exdist="81.51" bike='n' mean='29.3'>
+    <by name="Lotnisko"/>
+    <by name="Przodkowo"/>
+    <by name="Łebno"/>
+    <by name="Szemud"/>
+   </ride>
+  </day>
+
+  <day date="2002/02/17">
+   <ride dist="70" exdist="71.50" bike='n'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+    <by name="Kamień"/>
+   </ride>
+  </day>
+
+  <day date="2002/02/20">
+   <ride dist="65" exdist="66.21" bike='n'>
+    <by name="Wiczlińska"/>
+    <comment>zima_śnieg_+2C</comment>
+   </ride>
+  </day>
+
+  <day date="2002/02/24">
+   <ride dist="50" exdist="50.43" bike='n'>
+    <by name="Kielno"/>
+    <comment>śnieg ; +4C</comment>
+   </ride>
+  </day>
+
+  <day date="2002/02/27">
+   <ride dist="75" exdist="76.13" bike='n'>
+    <by name="Kamień"/>
+    <by name="Szemud"/>
+    <by name="Wejherowo"/>
+   </ride>
+  </day>
+
+  <day date="2002/02/28">
+   <ride dist="75" exdist="75.25" bike='n'>
+    <by name="Kamień"/>
+    <by name="Szemud"/>
+    <by name="Wejherowo"/>
+   </ride>
+  </day>
+
+ </month>
+ <month no='3'>
+  <day date="2002/03/02">
+   <ride dist="80" exdist="80.00" bike='n'>
+    <by name="Lotnisko"/>
+    <by name="Przodkowo"/>
+    <by name="Łebno"/>
+    <by name="Szemud"/>
+   </ride>
+  </day>
+
+  <day date="2002/03/03">
+   <ride dist="80" exdist="81.00" bike='n'>
+    <by name="Lotnisko"/>
+    <by name="Przodkowo"/>
+    <by name="Kartuzy"/>
+   </ride>
+  </day>
+
+  <day date="2002/03/06">
+   <ride dist="70" exdist="73.50" bike='b'>
+    <by name="Kamień"/>
+    <by name="Szemud"/>
+    <by name="Wejherowo"/>
+   </ride>
+   <comment>piersza jazda na rowerze `b' w 2002</comment>
+  </day>
+
+  <day date="2002/03/07">
+   <ride dist="80" exdist="81.00" bike='n'>
+    <by name="Szemud"/>
+    <by name="Łebno"/>
+    <by name="Przodkowo"/>
+    <by name="Lotnisko"/>
+   </ride>
+  </day>
+
+  <day date="2002/03/09">
+   <ride dist="80" exdist="81.00" bike='b'>
+    <by name="Szemud"/>
+    <by name="Łebno"/>
+    <by name="Przodkowo"/>
+    <by name="Lotnisko"/>
+   </ride>
+  </day>
+
+  <day date="2002/03/11">
+   <ride dist="70" exdist="73.51" bike='b'>
+    <by name="Kamień"/>
+    <by name="Szemud"/>
+    <by name="Wejherowo"/>
+   </ride>
+  </day>
+
+  <day date="2002/03/13">
+   <ride dist="80" exdist="80.00" bike='n'>
+    <by name="Kielno"/>
+    <by name="Szemud"/>
+    <by name="Wejherowo"/>
+   </ride>
+  </day>
+
+  <day date="2002/03/14">
+   <ride dist="75" exdist="75.20" bike='b'>
+    <by name="Kielno"/>
+    <by name="Szemud"/>
+    <by name="Wejherowo"/>
+   </ride>
+  </day>
+
+  <day date="2002/03/16">
+   <ride dist="100" exdist="100.15" bike='b'>
+    <by name="Kielno"/>
+    <by name="Łebno"/>
+    <by name="Przodkowo"/>
+    <by name="Czeczewo"/>
+    <by name="Wiczlino"/>
+   </ride>
+   <comment> m=30.4; K+10; mx=59.0; B=395</comment>
+  </day>
+
+  <day date="2002/03/17">
+   <ride dist="85" exdist="85.00" bike='b'>
+    <by name="Kielno"/>
+    <by name="Łebno"/>
+    <by name="Szemud"/>
+    <by name="Wiczlino"/>
+   </ride>
+   <comment> m=30.4; K+22; mx=59.0; B=580</comment>
+  </day>
+
+  <day date="2002/03/20">
+   <ride dist="70" exdist="70.00" bike='b'>
+    <by name="Kielno"/>
+    <by name="Kamień"/>
+    <by name="Szemud"/>
+    <by name="Głazica"/>
+   </ride>
+  </day>
+
+  <day date="2002/03/21">
+   <ride dist="60" exdist="60.02" bike='b'>
+    <by name="Kielno"/>
+    <by name="Kamień"/>
+    <by name="Szemud"/>
+   </ride>
+  </day>
+
+  <day date="2002/03/25">
+   <ride dist="65" exdist="67.00" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Koleczkowo"/>
+    <by name="Wiczlino"/>
+   </ride>
+  </day>
+
+  <day date="2002/03/27">
+   <ride dist="65" exdist="65.00" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Koleczkowo"/>
+    <by name="Wiczlino"/>
+   </ride>
+  </day>
+
+  <day date="2002/03/28">
+   <ride dist="80" exdist="80.09" bike='b'>
+    <by name="Kamień"/>
+    <by name="Szemud"/>
+    <by name="Łebno"/>
+    <by name="Przodkowo"/>
+    <by name="Kielno"/>
+   </ride>
+  </day>
+
+  <day date="2002/03/30">
+   <ride dist="80" exdist="80.00" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Przodkowo"/>
+    <by name="Łebno"/>
+    <by name="Szemud"/>
+   </ride>
+   <comment>m=31</comment>
+  </day>
+
+ </month>
+ <month no='4'>
+  <day date="2002/04/01">
+   <ride dist="95" exdist="95.00" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Żukowo"/>
+    <by name="Kartuzy"/>
+    <by name="Przodkowo"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+   </ride>
+  </day>
+
+  <day date="2002/04/03">
+   <ride dist="90" exdist="89.48" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Przodkowo"/>
+    <by name="Łebno"/>
+    <by name="Smażyno"/>
+    <by name="Szemud"/>
+   </ride>
+  </day>
+
+  <day date="2002/04/07">
+   <ride dist="75" exdist="77.00" bike='b' mean='32.0'>
+    <by name="Lotnisko"/>
+    <by name="Przodkowo"/>
+    <by name="Łebno"/>
+    <by name="Szemud"/>
+    <comment>K+25</comment>
+   </ride>
+  </day>
+
+  <day date="2002/04/08">
+   <ride dist="65" exdist="66.40" bike='b'>
+    <by name="Kamień"/>
+    <by name="Szemud"/>
+    <by name="Kielno"/>
+   </ride>
+  </day>
+
+  <day date="2002/04/10">
+   <ride dist="55" exdist="57.00" bike='b'>
+    <by name="Szemud"/>
+    <by name="Kamień"/>
+   </ride>
+  </day>
+
+  <day date="2002/04/11">
+   <ride dist="80" exdist="80.05" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Przodkowo"/>
+    <by name="Łebno"/>
+    <by name="Szemud"/>
+   </ride>
+  </day>
+
+  <day date="2002/04/14">
+   <ride dist="75" exdist="75.00" bike='n'>
+    <by name="Szemud"/>
+    <by name="Wiczlino"/>
+   </ride>
+  </day>
+
+  <day date="2002/04/17">
+   <ride dist="85" exdist="85.00" bike='b'>
+    <by name="Wiczlino"/>
+    <by name="Wejherowo"/>
+    <by name="Głazica"/>
+    <by name="Szemud"/>
+   </ride>
+  </day>
+
+  <day date="2002/04/18">
+   <ride dist="75" exdist="77.00" bike='b'>
+    <by name="Kokoszki"/>
+    <by name="Pępowo"/>
+    <by name="Przodkowo"/>
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+   </ride>
+  </day>
+
+  <day date="2002/04/20">
+   <ride dist="60" exdist="60.00" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+   </ride>
+  </day>
+
+  <day date="2002/04/21">
+   <ride dist="75" exdist="75.00" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Kartuzy"/>
+    <by name="Żukowo"/>
+   </ride>
+  </day>
+
+  <day date="2002/04/24">
+   <ride dist="75" exdist="75.00" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Przodkowo"/>
+    <by name="Łebno"/>
+    <by name="Szemud"/>
+    <comment>mea=31.6</comment>
+   </ride>
+  </day>
+
+  <day date="2002/04/25">
+   <ride dist="60" exdist="61.22" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+    <comment>m=30.1</comment>
+   </ride>
+  </day>
+
+  <day date="2002/04/28">
+   <ride dist="90" exdist="91.00" bike='b' mean='32.4' >
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Wejherowo"/>
+    <comment>K=35</comment>
+   </ride>
+  </day>
+
+  <day date="2002/04/30">
+   <ride dist="185" exdist="185.00" bike='b'>
+    <by name='Gdańsk'/>
+    <by name="Tczew"/>
+    <by name="Malbork"/>
+    <by name="Dzieżgoń"/>
+    <by name="Susz"/>
+    <by name="Iława"/>
+    <by name="Bachotek"/>
+    <comment>m=27.9</comment>
+   </ride>
+
+  </day>
+
+ </month>
+
+ <month no='5'>
+
+  <day date="2002/05/03">
+   <ride dist="185" exdist="185.00" bike='b'>
+    <by name="Bachotek"/>
+    <by name="Iława"/>
+    <by name="Susz"/>
+    <by name="Dzieżgoń"/>
+    <by name="Malbork"/>
+    <by name="Tczew"/>
+    <comment>m=29.6</comment>
+   </ride>
+  </day>
+
+  <day date="2002/05/05">
+   <ride dist="110" exdist="110.16" bike='b' mean='31.4'>
+    <by name="Lotnisko"/>
+    <by name="Przodkowo"/>
+    <by name="Kartuzy"/>
+    <by name="Mirachowo"/>
+    <by name="Strzepcz"/>
+    <by name="Szemud"/>
+    <by name="Kamień"/>
+   </ride>
+  </day>
+
+  <day date="2002/05/08">
+   <ride dist="70" exdist="71.47" bike='b'>
+    <by name="Szemud"/>
+    <by name="Kamień"/>
+    <by name="Wiczlino"/>
+   </ride>
+  </day>
+
+  <day date="2002/05/09">
+   <ride dist="65" exdist="64.30" bike='b'>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+   </ride>
+  </day>
+
+  <day date="2002/05/11">
+   <ride dist="105" exdist="107.40" bike='b' mean='32.5'>
+    <by name="Lotnisko"/>
+    <by name="Przodkowo"/>
+    <by name="Kartuzy"/>
+    <by name="Mirachowo"/>
+    <by name="Strzepcz"/>
+    <by name="Szemud"/>
+    <by name="Kamień"/>
+   </ride>
+  </day>
+
+  <day date="2002/05/12">
+   <ride dist="100" exdist="101.00" bike='b' mean='32.4'>
+    <by name="Lotnisko"/>
+    <by name="Przodkowo"/>
+    <by name="Kartuzy"/>
+    <by name="Chmielno"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+   </ride>
+  </day>
+
+  <day date="2002/05/16">
+   <ride dist="65" exdist="65.00" bike='n'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+   </ride>
+   <comment>deszcz</comment>
+  </day>
+
+  <day date="2002/05/17">
+   <ride dist="85" exdist="85.00" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Przodkowo"/>
+    <by name="Łebno"/>
+    <by name="Szemud"/>
+   </ride>
+   <comment>plus 1 runda w lesie</comment>
+  </day>
+
+  <day date="2002/05/19">
+   <ride dist="80" exdist="80.00" bike='b' mean='33.8'>
+    <by name="Lotnisko"/>
+    <by name="Przodkowo"/>
+    <by name="Łebno"/>
+    <by name="Szemud"/>
+   </ride>
+   <comment>K+20</comment>
+  </day>
+
+  <day date="2002/05/21">
+   <ride dist="60" exdist="61.00" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Przodkowo"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+    <comment>mea=30.3</comment>
+   </ride>
+  </day>
+
+  <day date="2002/05/22">
+   <ride dist="115" exdist="116.30" bike='b' mean='32.0'>
+    <by name="Dąbrówka"/>
+    <by name="Wiczlino"/>
+    <by name="Łężyce"/>
+    <by name="Rumia"/>
+    <by name="Wejherowo"/>
+    <by name="Tyłowo"/>
+    <by name="Czymanowo.GZE"/>
+    <by name="Rybno"/>
+    <by name="Wejherowo"/>
+    <by name="NowyDwórWejherowski"/>
+    <by name="Wejherowo"/>
+    <by name="Wiczlino"/>
+   </ride>
+  </day>
+
+  <day date="2002/05/25">
+   <ride dist="80" exdist="80.00" bike='b' mean='34.8'>
+    <by name="Lotnisko"/>
+    <by name="Przodkowo"/>
+    <by name="Łebno"/>
+    <by name="Szemud"/>
+   </ride>
+  </day>
+
+  <day date="2002/05/26">
+   <ride dist="70" exdist="70.00" bike='b' mean='34.3'>
+    <by name="Lotnisko"/>
+    <by name="Przodkowo"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+   </ride>
+  </day>
+
+ </month>
+ <month no='6'>
+  <day date="2002/06/02">
+   <ride dist="65" exdist="65.00" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+   </ride>
+  </day>
+
+  <day date="2002/06/04">
+   <ride dist="65" exdist="65.00" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+   </ride>
+  </day>
+
+  <day date="2002/06/05">
+   <ride dist="85" exdist="87.00" bike='b' mean='31.3'>
+    <by name="Kamień"/>
+    <by name="Szemud"/>
+    <by name="Częstkowo"/>
+    <by name="Wejherowo"/>
+   </ride>
+  </day>
+
+  <day date="2002/06/06">
+   <ride dist="75" exdist="77.00" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Przodkowo"/>
+    <by name="Szemud"/>
+    <by name="Kamień"/>
+   </ride>
+   <comment>m=29.4</comment>
+  </day>
+
+  <day date="2002/06/09">
+   <ride dist="100" exdist="101.27" bike='b' mean='32.1'>
+    <by name="Przodkowo"/>
+    <by name="Kartuzy"/>
+    <by name="Chmielno"/>
+   </ride>
+  </day>
+
+  <day date="2002/06/12">
+   <ride dist="85" exdist="85.00" bike='b' mean='33.1'>
+    <by name="Wejherowo"/>
+    <by name="Szemud"/>
+   </ride>
+  </day>
+
+  <day date="2002/06/15">
+   <ride dist="55" exdist="57.00" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+   </ride>
+  </day>
+
+  <day date="2002/06/16">
+   <ride dist="105" exdist="108.00" bike='b' mean='33.0'>
+    <by name="Kartuzy"/>
+    <by name="Mirachowo"/>
+    <by name="Strzepcz"/>
+    <by name="Szemud"/>
+   </ride>
+  </day>
+
+  <day date="2002/06/19">
+   <ride dist="80" exdist="80.00" bike='b'>
+    <by name="Przodkowo"/>
+    <by name="Łebno"/>
+    <by name="Szemud"/>
+   </ride>
+  </day>
+
+  <day date="2002/06/20">
+   <ride dist="55" exdist="55.00" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+   </ride>
+  </day>
+
+  <day date="2002/06/22">
+   <ride dist="85" exdist="85.00" bike='b' mean='33.6'>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+    <by name="Szemud"/>
+    <by name="Kamień"/>
+    <by name="Wiczlino"/>
+   </ride>
+  </day>
+
+  <day date="2002/06/23">
+   <ride dist="65" exdist="66.00" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+   </ride>
+  </day>
+
+  <day date="2002/06/25">
+   <ride dist="60" exdist="61.00" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Przodkowo"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+   </ride>
+  </day>
+
+  <day date="2002/06/26">
+   <ride dist="60" exdist="62.00" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+   </ride>
+  </day>
+
+  <day date="2002/06/28">
+   <ride dist="60" exdist="60.00" bike='b'>
+    <by name="Kielno"/>
+    <by name="Szemud"/>
+    <by name="Kamień"/>
+   </ride>
+  </day>
+
+  <day date="2002/06/30">
+   <ride dist="70" exdist="72.50" bike='b' mean='34.1'>
+    <by name="Lotnisko"/>
+    <by name="Przodkowo"/>
+    <by name="Łebno"/>
+    <by name="Szemud"/>
+   </ride>
+  </day>
+ </month>
+
+ <month no='7'>
+
+  <day date="2002/07/03">
+   <ride dist="75" exdist="75.00" bike='b' mean='34.0'>
+    <by name="Lotnisko"/>
+    <by name="Przodkowo"/>
+    <by name="Łebno"/>
+    <by name="Szemud"/>
+   </ride>
+  </day>
+
+  <day date="2002/07/05">
+   <ride dist="55" exdist="54.75" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+   </ride>
+  </day>
+
+  <day date="2002/07/06">
+   <ride dist="75" exdist="76.00" bike='b' mean='30.3'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+    <by name="Kamień"/>
+    <by name="Szemud"/>
+   </ride>
+  </day>
+
+  <day date="2002/07/07">
+   <ride dist="55" exdist="55.00" bike='b' mean='30.0'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+   </ride>
+  </day>
+
+  <day date="2002/07/09">
+   <ride dist="60" exdist="61.59" bike='b' mean='31.8'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+   </ride>
+  </day>
+
+  <day date="2002/07/10">
+   <ride dist="60" exdist="62.00" bike='b'>
+    <by name="Szemud"/>
+   </ride>
+  </day>
+
+  <day date="2002/07/11">
+   <ride dist="55" exdist="57.00" bike='b'>
+    <by name="Przodkowo"/>
+    <by name="BrodnicaGórna"/>
+   </ride>
+  </day>
+
+  <day date="2002/07/13">
+   <ride dist="50" exdist="50.20" bike='b'>
+    <by name="BrodnicaGórna"/>
+   </ride>
+  </day>
+
+  <day date="2002/07/16">
+   <ride dist="65" exdist="65.00" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+   </ride>
+  </day>
+
+  <day date="2002/07/17">
+   <ride dist="65" exdist="64.78" bike='b'>
+    <by name="Szemud"/>
+   </ride>
+  </day>
+
+  <day date="2002/07/19">
+   <ride dist="55" exdist="55.00" bike='n'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+   </ride>
+  </day>
+
+  <day date="2002/07/21">
+   <ride dist="105" exdist="107.27" time="2.50.06" bike="b" mean='34.6'>
+    <by name="Lotnisko"/>
+    <by name="Przodkowo"/>
+    <by name="Łebno"/>
+    <by name="Częstkowo"/>
+    <by name="Wejherowo"/>
+    <by name="Wiczlino"/>
+    <comment>śr. liczona na dystansie 98.0 km</comment>
+   </ride>
+  </day>
+
+  <day date="2002/07/23">
+   <ride dist="55" exdist="70.00" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+   </ride>
+  </day>
+
+  <day date="2002/07/25">
+   <ride dist="55" exdist="70.00" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+   </ride>
+  </day>
+
+  <day date="2002/07/27">
+   <ride dist="80" exdist="81.67" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Przodkowo"/>
+    <by name="Łebno"/>
+    <by name="Szemud"/>
+   </ride>
+  </day>
+
+  <day date="2002/07/28">
+   <ride dist="135" exdist="135.00" bike='b' mean='32.5'>
+    <by name="Lotnisko"/>
+    <by name="Przodkowo"/>
+    <by name="Łebno"/>
+    <by name="Luzino"/>
+    <by name="Czymanowo.GZE"/>
+    <by name="Wejherowo"/>
+    <by name="Reda"/>
+    <by name="Rumia"/>
+    <by name="Gdynia"/>
+    <comment>K+10</comment>
+   </ride>
+  </day>
+
+  <day date="2002/07/31">
+   <ride dist="65" exdist="64.95" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+   </ride>
+  </day>
+ </month>
+ <month no='8'>
+
+  <day date="2002/08/01">
+   <ride dist="60" exdist="60.27" bike='b'>
+    <by name="Czeczewo"/>
+    <by name='Kielno'/>
+   </ride>
+  </day>
+
+  <day date="2002/08/03">
+   <ride dist="75" exdist="78.01" bike='b'>
+    <by name="Łebno"/>
+    <by name='Szemud'/>
+   </ride>
+  </day>
+
+  <day date="2002/08/04">
+   <ride dist="105" exdist="107.02" bike='b' mean='32.2'>
+    <by name="Lotnisko"/>
+    <by name="Przodkowo"/>
+    <by name="Kartuzy"/>
+    <by name="Mirachowo"/>
+    <by name="Strzepcz"/>
+    <by name="Szemud"/>
+   </ride>
+  </day>
+
+  <day date="2002/08/06">
+   <ride dist="55" exdist="55.00" bike='b'>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+   </ride>
+  </day>
+
+  <day date="2002/08/07">
+   <ride dist="55" exdist="57.00" bike='b'>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+   </ride>
+  </day>
+
+  <day date="2002/08/08">
+   <ride dist="60" exdist="62.00" bike='b'>
+   </ride>
+  </day>
+
+  <day date="2002/08/10">
+   <ride typ='w' dist="50" exdist="50.00" bike='b'>
+    <by name="Miechucino"/>
+   </ride>
+   <comment>wyścig w Michucinie, nieukończony, max:=67.0</comment>
+  </day>
+
+  <day date="2002/08/11">
+   <ride dist="60" exdist="61.39" bike='b'>
+   </ride>
+  </day>
+
+  <day date="2002/08/12">
+   <ride dist="75" exdist="75.04" bike='b'>
+    <by name="Wejherowo"/>
+   </ride>
+  </day>
+
+  <day date="2002/08/16">
+   <ride dist="60" exdist="60.00" bike='b'>
+    <by name="Poznań"/>
+   </ride>
+   <comment>trasa_różna rower_pożyczony</comment>
+  </day>
+
+  <day date="2002/08/18">
+   <ride dist="80" exdist="79.77" bike='b'>
+    <by name="Łebno"/>
+    <by name='Szemud'/>
+   </ride>
+   <comment>m:=32.6</comment>
+  </day>
+
+  <day date="2002/08/20">
+   <ride dist="65" exdist="68.10" bike='b'>
+    <by name="Lotnisko"/>
+    <by name='Czeczewo'/>
+    <by name="Kielno"/>
+   </ride>
+  </day>
+
+  <day date="2002/08/22">
+   <ride dist="60" exdist="62.00" bike='b'>
+    <by name="Lotnisko"/>
+    <by name='Czeczewo'/>
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+   </ride>
+   <comment> m:=33.5</comment>
+  </day>
+
+  <day date="2002/08/24">
+   <ride dist="90" exdist="90.00" bike='b'>
+    <by name="Szemud"/>
+    <by name='Strzepcz'/>
+   </ride>
+  </day>
+
+  <day date="2002/08/25">
+   <ride dist="105" exdist="105.00" bike='b'>
+    <by name="Przodkowo"/>
+    <by name="Kartuzy"/>
+    <by name="Mirachowo"/>
+    <by name="Strzepcz"/>
+    <by name="Szemud"/>
+   </ride>
+  </day>
+
+  <day date="2002/08/27">
+   <ride dist="60" exdist="62.00" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+   </ride>
+  </day>
+
+  <day date="2002/08/29">
+   <ride dist="55" exdist="57.00" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+   </ride>
+  </day>
+
+  <day date="2002/08/30">
+   <ride dist="70" exdist="70.00" bike='b'>
+    <by name="Kokoszki"/>
+    <by name="Pępowo"/>
+    <by name="Przodkowo"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+   </ride>
+  </day>
+
+  <day date="2002/08/31">
+   <ride dist="75" exdist="75.00" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Przodkowo"/>
+    <by name='Kartuzy'/>
+   </ride>
+   <comment>m=32.2</comment>
+  </day>
+ </month>
+
+ <month no='9'>
+
+  <day date="2002/09/01">
+   <ride dist="85" exdist="87.01" bike='b' mean='31.4'>
+    <by name="Koleczkowo"/>
+    <by name="Wejherowo"/>
+    <by name="Malwino"/>
+    <by name="Szemud"/>
+    <by name="Kamień"/>
+   </ride>
+  </day>
+
+  <day date="2002/09/03">
+   <ride dist="55" exdist="55.00" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+   </ride>
+  </day>
+
+  <day date="2002/09/05">
+   <ride dist="40" exdist="43.48" bike='b'>
+    <by name="Koleczkowo"/>
+    <by name="Wiczlino"/>
+   </ride>
+   <comment>deszcz</comment>
+  </day>
+
+  <day date="2002/09/07">
+   <ride typ='w' dist="55" exdist="55.00" bike='b'>
+    <by name="Sopot"/>
+   </ride>
+   <comment>wyścig+rozgrzewka</comment>
+  </day>
+
+  <day date="2002/09/08">
+   <ride dist="75" exdist="75.00" bike='b'>
+    <by name="Przodkowo"/>
+    <by name="Łebno"/>
+    <by name="Szemud"/>
+   </ride>
+  </day>
+
+  <day date="2002/09/11">
+   <ride dist="55" exdist="56.00" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+   </ride>
+  </day>
+
+  <day date="2002/09/12">
+   <ride dist="60" exdist="61.00" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+   </ride>
+  </day>
+
+  <day date="2002/09/14">
+   <ride dist="45" exdist="45.00" bike='b'>
+    <by name="Koleczkowo"/>
+    <by name="Wiczlino"/>
+   </ride>
+  </day>
+
+  <day date="2002/08/17">
+   <ride dist="70" exdist="71.00" bike='b'>
+    <by name="Kamień"/>
+    <by name="Szemud"/>
+    <by name="Wejherowo"/>
+   </ride>
+  </day>
+
+  <day date="2002/08/19">
+   <ride dist="60" exdist="61.74" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+   </ride>
+  </day>
+
+  <day date="2002/09/21">
+   <ride dist="60" exdist="60.00" bike='b'>
+    <by name="Kamień"/>
+    <by name="Szemud"/>
+   </ride>
+  </day>
+
+  <day date="2002/09/22">
+   <ride dist="70" exdist="69.93" bike='b'>
+    <by name="Przodkowo"/>
+    <by name="Łebno"/>
+    <by name="Szemud"/>
+   </ride>
+  </day>
+
+  <day date="2002/09/24">
+   <ride dist="65" exdist="64.70" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+   </ride>
+  </day>
+
+  <day date="2002/09/26">
+   <ride dist="75" exdist="78.07" bike='b'>
+    <by name="Przodkowo"/>
+    <by name="Łebno"/>
+    <by name="Szemud"/>
+   </ride>
+  </day>
+
+  <day date="2002/09/27">
+   <ride dist="40" exdist="40.21" bike='b'>
+    <by name="Lotnisko"/>
+   </ride>
+  </day>
+
+  <day date="2002/09/28">
+   <ride dist="65" exdist="67.00" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+   </ride>
+  </day>
+
+  <day date="2002/09/29">
+   <ride typ='w' dist="50" exdist="50.00" bike='b'>
+    <by name="Kołczygłowy"/>
+   </ride>
+   <comment>wyścig</comment>
+  </day>
+
+ </month>
+ <month no='10'>
+  <day date="2002/10/04">
+   <ride dist="65" exdist="66.96" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+   </ride>
+  </day>
+
+  <day date="2002/10/05">
+   <ride dist="65" exdist="67.00" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Przodkowo"/>
+    <by name="Pępowo"/>
+   </ride>
+  </day>
+
+  <day date="2002/10/09">
+   <ride dist="55" exdist="55.00" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+   </ride>
+  </day>
+
+  <day date="2002/10/12">
+   <ride dist="50" exdist="51.00" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+   </ride>
+  </day>
+
+  <day date="2002/10/13">
+   <ride dist="55" exdist="55.00" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+   </ride>
+  </day>
+
+  <day date="2002/10/16">
+   <ride dist="65" exdist="64.47" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+   </ride>
+  </day>
+
+  <day date="2002/10/20">
+   <ride dist="60" exdist="62.40" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+   </ride>
+  </day>
+
+  <day date="2002/10/21">
+   <ride dist="60" exdist="63.20" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+   </ride>
+  </day>
+
+  <day date="2002/10/25">
+   <ride dist="60" exdist="62.00" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+    <by name="Wiczlino"/>
+   </ride>
+  </day>
+
+  <day date="2002/10/27">
+   <ride dist="60" exdist="63.00" bike='b'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+    <by name="Kamień"/>
+   </ride>
+  </day>
+
+  <day date="2002/10/31">
+   <ride dist="60" exdist="62.00" bike='b'>
+    <by name="Chwaszczyno"/>
+    <by name="Szemud"/>
+   </ride>
+  </day>
+ </month>
+ <month no='11'>
+
+  <day date="2002/11/30">
+   <ride dist="55" exdist="57.00" bike='n'>
+    <by name="Lotnisko"/>
+    <by name="Czeczewo"/>
+    <by name="Kielno"/>
+   </ride>
+  </day>
+ </month>
+<!-- razem: 147 jazd -->
+
+ <comment>Opis skrótów: 
+  Czymanowo.GZE = Czymanowo + wjazd na Górny Zbiornik Elektrowni;
+  Wykrzyknik w kolumnie `Dystans' = udział w wyścigu;
+ </comment>
+
+</year>
+
+
+<!-- Keep this comment at the end of the file
+Local variables:
+mode: xml
+sgml-indent-step:1
+sgml-indent-data:t
+sgml-parent-document:nil
+End:
+-->
+

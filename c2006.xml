@@ -1,0 +1,526 @@
+<?xml version='1.0' encoding='iso-8859-2' standalone='no' ?>
+<!-- $Id: c2006.xml,v 1.2 2007/02/01 18:27:48 tomek Exp $-->
+
+<!DOCTYPE year SYSTEM "rowery.dtd">
+
+<year no="2006" done='117385'>
+
+ <month no="8">
+  <day date="2006/08/31">
+   <ride dist='15' exdist='15.00' bike="b">
+    <by name='Sopot'/>
+   </ride>
+  </day>
+ </month>
+
+ <month no="9">
+
+ <day date="2006/09/01">
+   <ride dist='20' exdist='20.00' bike="b">
+    <by name='Sopot' />
+   </ride>
+  </day>
+
+ <day date="2006/09/02">
+   <ride dist='35' exdist='36.00' bike="b">
+    <by name='Osowa' />
+    <by name='Rębiechowo' />
+   </ride>
+  </day>
+
+ <day date="2006/09/05">
+   <ride dist='30' exdist='30.00' bike="b">
+    <by name='Sopot' />
+   </ride>
+  </day>
+ <day date="2006/09/06">
+   <ride dist='25' exdist='25.00' bike="b">
+    <by name='Osowa' />
+    <by name='Chwaszczyno' />
+   </ride>
+  </day>
+
+ <day date="2006/09/08">
+   <ride dist='25' exdist='27.00' bike="b">
+    <by name='Osowa' />
+    <by name='Chwaszczyno' />
+   </ride>
+  </day>
+ <day date="2006/09/09">
+   <ride dist='35' exdist='35.70' bike="b" id='brnw'>
+    <by name='Osowa' />
+    <by name='Rębiechowo' />
+    <by name='Barniewice' />
+   </ride>
+  </day>
+
+ <day date="2006/09/11">
+   <ride dist='35' exdist='34.70' bike="b" id='matar'>
+    <by name='Osowa' />
+    <by name='Matarnia' />
+   </ride>
+  </day>
+  <day date="2006/09/12">
+   <ride dist='35' exdist='35.70' bike="b" id='matar'>
+    <by name='Osowa' />
+    <by name='Matarnia' />
+   </ride>
+  </day>
+
+  <day date="2006/09/14">
+   <ride dist='35' exdist='36.00' bike="b" id='matar'>
+    <by name='Osowa' />
+    <by name='Matarnia' />
+   </ride>
+  </day>
+  <day date="2006/09/15">
+   <ride dist='20' exdist='21.00' bike="b">
+    <by name='Sopot' />
+   </ride>
+  </day>
+  <day date="2006/09/16">
+   <ride dist='45' exdist='46.80' bike="b">
+    <by name='Osowa' />
+    <by name='Barniewice' />
+    <by name='Miszewo' />
+   </ride>
+  </day>
+  <day date="2006/09/17">
+   <ride dist='45' exdist='45.00' bike="b">
+    <by name='Osowa' />
+    <by name='Barniewice' />
+    <by name='Miszewo' />
+    <by name='Chwaszczyno' />
+   </ride>
+  </day>
+
+  <day date="2006/09/19">
+   <ride dist='35' exdist='36.00' bike="b" id='matar'>
+    <by name='Osowa' />
+    <by name='Matarnia' />
+   </ride>
+  </day>
+
+  <day date="2006/09/23">
+   <ride dist='45' exdist='46.00' bike="b">
+    <by name='Osowa' />
+    <by name='Barniewice' />
+    <by name='Miszewo' />
+    <by name='Chwaszczyno' />
+    <by name='Gdynia' />
+   </ride>
+  </day>
+
+  <day date="2006/09/24">
+   <ride dist='15' exdist='15.00' bike="b">
+    <by name='Sopot' />
+    <comment>patrz http://www.flickr.com/photos/tprzechlewski/sets/72157594297777847/</comment>
+   </ride>
+  </day>
+
+  <day date="2006/09/25">
+   <ride dist='40' exdist='41.00' bike="b" id='kiel-wicz'>
+    <by name='Osowa' />
+    <by name='Chwaszczyno' />
+    <by name='Koleczkowo' />
+    <by name='Wiczlino' />
+   </ride>
+  </day>
+
+  <day date="2006/09/26">
+   <ride dist='45' exdist='46.00' bike="b" id='kiel-wicz'>
+    <by name='Osowa' />
+    <by name='Chwaszczyno' />
+    <by name='Kielno' />
+    <by name='Koleczkowo' />
+    <by name='Wiczlino' />
+   </ride>
+  </day>
+
+  <day date="2006/09/28">
+   <ride dist='40' exdist='41.00' bike="b" id='kiel-wicz'>
+    <by name='Osowa' />
+    <by name='Chwaszczyno' />
+    <by name='Koleczkowo' />
+    <by name='Wiczlino' />
+   </ride>
+  </day>
+  <day date="2006/09/29">
+   <ride dist='30' exdist='32.00' bike="b">
+    <by name='Osowa' />
+    <by name='Matarnia' />
+   </ride>
+  </day>
+  <day date="2006/09/30">
+   <ride dist='65' id='prd-czcz-wicz' exdist='65.50' bike="b">
+    <by name='Osowa' />
+    <by name='Matarnia' />
+    <by name='Przodkowo' />
+    <by name='Czeczewo' />
+    <by name='Kielno' />
+    <by name='Koleczkowo' />
+    <by name='Wiczlino' />
+   </ride>
+  </day>
+ </month>
+
+ <month no="10">
+ <day date="2006/10/01">
+   <ride dist='30' exdist='30.00' bike="b">
+    <by name='Osowa' />
+    <by name='Chwaszczyno' />
+   </ride>
+  </day>
+
+ <day date="2006/10/03">
+   <ride dist='55' exdist='55.46' bike="b" id='kam-szem'>
+    <by name='Osowa' />
+    <by name='Chwaszczyno' />
+    <by name='Kielno' />
+    <by name='Kamień' />
+    <by name='Szemud' />
+   </ride>
+  </day>
+
+ <day date="2006/10/05">
+   <ride dist='55' id='czcz-kiel' exdist='55.12' bike="b">
+    <by name='Osowa' />
+    <by name='Miszewo' />
+    <by name='Czeczewo' />
+    <by name='Kielno' />
+   </ride>
+  </day>
+ <day date="2006/10/07">
+   <ride dist='55' id='czcz-kiel' exdist='57.00' bike="b">
+    <by name='Osowa' />
+    <by name='Miszewo' />
+    <by name='Czeczewo' />
+    <by name='Kielno' />
+   </ride>
+  </day>
+
+ <day date="2006/10/12">
+   <ride dist='55' exdist='54.15' bike="b" id='pp-misz'>
+    <by name='Osowa' />
+    <by name='Matarnia' />
+    <by name='Leźno' />
+    <by name='Pępowo' />
+    <by name='Miszewo' />
+    <by name='Banino' />
+   </ride>
+  </day>
+
+ <day date="2006/10/13">
+   <ride dist='40' exdist='42.10' bike="b">
+    <by name='Osowa' />
+    <by name='Matarnia' />
+    <!-- wokół lotniska -->
+   </ride>
+  </day>
+
+ <day date="2006/10/15">
+   <ride dist="55" exdist="57.00" mean="29.9" bike="b" id="czcz-kiel">
+    <by name='Osowa' />
+    <by name='Miszewo' />
+    <by name='Czeczewo' />
+    <by name='Kielno' />
+   </ride>
+  </day>
+  <day date="2006/10/16">
+   <ride dist="70" exdist="72.00" id="szem-ndw">
+    <by name='Kamień'/>
+    <by name='Szemud'/>
+    <by name='Przetoczyno'/>
+    <by name='NowyDwórWejherowski'/>
+    <by name='Bieszkowice'/>
+    <by name='Wiczlino'/>
+   </ride>
+  </day>
+
+  <day date="2006/10/17">
+   <ride dist='45' exdist='44.70' bike="b" id='kiel-wicz'>
+    <by name='Chwaszczyno' />
+    <by name='Kielno' />
+    <by name='Koleczkowo' />
+    <by name='Wiczlino' />
+   </ride>
+  </day>
+
+ <day date="2006/10/18">
+   <ride dist='35' exdist='36.00' bike="b" id='matar'>
+    <by name='Osowa' />
+    <by name='Matarnia' />
+    <!-- do lotniska -->
+   </ride>
+  </day>
+
+ <day date="2006/10/20">
+   <ride dist="65" exdist="65.00" bike="b" id="kk-wicz">
+    <by name='Kielno' />
+    <by name='Leśno' />
+    <by name='Kowalewo' />
+    <by name='Szemud' />
+    <by name='Kamień' />
+    <by name='Koleczkowo' />
+    <by name='Wiczlino' />
+   </ride>
+  </day>
+  <day date="2006/10/21">
+   <ride dist="60" exdist="58.45" bike="b" mean='30.0' id='misz-prd'>
+    <by name='Miszewo' />
+    <by name='Przodkowo' />
+   </ride>
+  </day>
+  <day date="2006/10/22">
+   <ride dist='60' exdist='60.00' bike="b" id='czcz-kiel-wicz'>
+    <by name='Miszewo' />
+    <by name='Czeczewo' />
+    <by name='Kielno' />
+    <by name='Koleczkowo' />
+    <by name='Wiczlino' />
+   </ride>
+  </day>
+  <day date="2006/10/24">
+   <ride dist='45' exdist='46.48' bike="b" id='kiel-wicz'>
+    <by name='Chwaszczyno' />
+    <by name='Kielno' />
+    <by name='Koleczkowo' />
+    <by name='Wiczlino' />
+   </ride>
+  </day>
+
+  <day date="2006/10/25">
+   <ride dist='30' exdist='32.49' bike="b" id='matar'>
+    <by name='Matarnia' />
+   </ride>
+  </day>
+
+  <day date="2006/10/26">
+   <ride dist='35' exdist='36.13' bike="b" id='brnw'>
+    <by name='Barniewice' />
+    <by name='Matarnia' />
+   </ride>
+  </day>
+
+  <!-- .............. -->
+  <day date="2006/10/28">
+   <ride dist='55' exdist='55.0' bike='b' id='czcz-kiel'>
+    <by name='Czeczewo' />
+    <by name='Kielno' />
+    <by name='Koleczkowo' />
+   </ride>
+  </day>
+
+  <day date="2006/10/30">
+   <ride dist='40' exdist='41.1' bike='b' id='boj-kol'>
+    <by name='Bojano' />
+    <by name='Koleczkowo' />
+    <by name='Wiczlino' />
+   </ride>
+  </day>
+
+ <day date="2006/10/31">
+   <ride dist='50' exdist='50.00' bike="b">
+    <by name='Chwaszczyno' />
+    <by name='Kielno' />
+    <by name='Kamień' />
+   </ride>
+  </day>
+
+ </month>
+
+ <month no="11">
+  <day date="2006/11/06">
+   <ride dist='35' exdist='35.01' bike="b" id='matar'>
+    <by name='Matarnia' />
+   </ride>
+  </day>
+ <day date="2006/11/10">
+   <ride dist='40' exdist='40.00' bike="b">
+    <by name='Chwaszczyno' />
+    <by name='Kielno' />
+    <by name='Bojano' />
+   </ride>
+  </day>
+  <day date="2006/11/11">
+   <ride dist='55' exdist='55.00' bike="b" id='czcz-kiel'>
+    <by name='Osowa' />
+    <by name='Miszewo' />
+    <by name='Czeczewo' />
+    <by name='Kielno' />
+   </ride>
+  </day>
+  <day date="2006/11/12">
+   <ride dist='50' exdist='53.00' bike="b" id='czcz-kiel'>
+    <by name='Osowa' />
+    <by name='Miszewo' />
+    <by name='Czeczewo' />
+    <by name='Kielno' />
+   </ride>
+  </day>
+  <day date="2006/11/16">
+   <ride dist='55' exdist='57.40' bike="b" id='kam-szem'>
+    <by name='Chwaszczyno' />
+    <by name='Kielno' />
+    <by name='Kamień' />
+    <by name='Szemud' />
+   </ride>
+  </day>
+  <day date="2006/11/17">
+   <ride dist='45' exdist='44.00' bike="b">
+    <by name='Chwaszczyno' />
+    <by name='Bojano' />
+    <by name='Koleczkowo' />
+   </ride>
+  </day>
+
+  <day date="2006/11/18">
+   <ride dist="60" exdist="60.00" mean="28.8" maxspeed="61.0" bike="b" id="prd-czcz">
+    <by name='Przodkowo' />
+    <by name='Czeczewo' />
+    <by name='Kielno' />
+    <by name='Koleczkowo' />
+   </ride>
+  </day>
+  <day date="2006/11/21">
+   <ride dist='35' exdist='35.50' bike="b" id='matar'>
+    <by name='Matarnia' />
+   </ride>
+  </day>
+  <day date="2006/11/23">
+   <ride dist='35' exdist='35.50' bike="b" id='matar'>
+    <by name='Matarnia' />
+   </ride>
+  </day>
+
+  <day date="2006/11/25">
+   <ride dist="60" exdist="60.00" mean="29.5" bike="b" id="czcz-kiel-wicz">
+    <by name='Miszewo' />
+    <by name='Czeczewo' />
+    <by name='Kielno' />
+    <by name='Koleczkowo' />
+    <by name='Wiczlino' />
+   </ride>
+  </day>
+ <day date="2006/11/26">
+   <!-- srednia: rondo-rodno -->
+   <ride dist="55" exdist="56.12" mean="31.0" bike="b" id="czcz-kiel">
+    <by name='Miszewo' />
+    <by name='Czeczewo' />
+    <by name='Kielno' />
+   </ride>
+  </day>
+  <day date="2006/11/29">
+   <ride dist='55' exdist='53.90' bike="b">
+    <by name='Chwaszczyno' />
+    <by name='Kielno' />
+    <by name='Kamień' />
+   </ride>
+  </day>
+  <day date="2006/11/30">
+   <ride dist='60' exdist='59.00' bike="b">
+    <by name='Chwaszczyno' />
+    <by name='Kielno' />
+    <by name='Kamień' />
+   </ride>
+  </day>
+ </month>
+
+ <month no="12">
+  <day date="2006/12/02">
+   <ride dist="55" exdist="58.40" bike="b" id="czcz-kiel">
+    <by name='Miszewo' />
+    <by name='Czeczewo' />
+    <by name='Kielno' />
+   </ride>
+  </day>
+  <day date="2006/12/03">
+   <ride dist="55" exdist="56.40" bike="b" id="czcz-kiel">
+    <by name='Miszewo' />
+    <by name='Czeczewo' />
+    <by name='Kielno' />
+   </ride>
+  </day>
+  <day date="2006/12/08">
+   <ride dist="50" exdist="52.00" bike="b">
+    <by name='Kielno' />
+    <by name='Koleczkowo' />
+    <by name='Bieszkowice' />
+    <by name='Wiczlino' />
+   </ride>
+  </day>
+ <day date="2006/12/09">
+   <ride dist='55' exdist='55.05' bike="b" id='pp-misz'>
+    <by name='Miszewo' />
+    <by name='Leźno' />
+    <by name='Pępowo' />
+   </ride>
+  </day>
+ <day date="2006/12/11">
+   <ride dist='50' exdist='50.01' bike="b">
+    <by name='Matarnia' />
+    <by name='Osowa' />
+    <by name='Koleczkowo' />
+    <by name='Osowa' />
+   </ride>
+  </day>
+  <day date="2006/12/16">
+   <ride dist='60' exdist='62.00' bike="b" id='czcz-kiel-wicz'>
+    <by name='Miszewo' />
+    <by name='Czeczewo' />
+    <by name='Kielno' />
+    <by name='Koleczkowo' />
+    <by name='Wiczlino' />
+   </ride>
+   <comment>Dziś przekroczyłem: 120,000</comment>
+  </day>
+  <day date="2006/12/17">
+   <ride dist='55' exdist='56.50' bike="b" id='czcz-kiel'>
+    <by name='Miszewo' />
+    <by name='Czeczewo' />
+    <by name='Kielno' />
+   </ride>
+  </day>
+  <day date="2006/12/19">
+   <ride dist='50' exdist='52.12' bike="b">
+    <by name='Chwaszczyno' />
+    <by name='Kielno' />
+    <by name='Kamień' />
+   </ride>
+  </day>
+  <day date="2006/12/21">
+   <ride dist='50' exdist='50.75' bike="b">
+    <by name='Chwaszczyno' />
+    <by name='Kielno' />
+    <by name='Kamień' />
+   </ride>
+  </day>
+
+  <day date="2006/12/23">
+   <ride dist='55' exdist='56.01' bike="b" id='czcz-kiel'>
+    <by name='Miszewo' />
+    <by name='Czeczewo' />
+    <by name='Kielno' />
+   </ride>
+  </day>
+  <day date="2006/12/26">
+   <ride dist='55' exdist='56.01' bike="b" id='czcz-kiel'>
+    <by name='Miszewo' />
+    <by name='Czeczewo' />
+    <by name='Kielno' />
+   </ride>
+  </day>
+ </month>
+ <!-- ..................................................... -->
+
+ <comment />
+</year>
+
+<!-- Keep this comment at the end of the file
+Local variables:
+mode: xml
+sgml-indent-step:1
+sgml-indent-data:t
+sgml-parent-document:nil
+End:
+-->

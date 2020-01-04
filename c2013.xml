@@ -1,0 +1,1518 @@
+<?xml version='1.0' encoding='iso-8859-2' standalone='no' ?>
+<!DOCTYPE year SYSTEM "rowery.dtd" >
+
+<year no="2013" done='158090'>
+ 
+ <month no="1">
+
+  <day date="2013/01/02">
+    <ride dist="35" exdist="34.50" bike='traction' gpx='mtk20130102_s'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+  <day date="2013/01/03">
+    <ride dist="20" exdist="20.50" bike='traction' gpx='mtk20130103_s'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
+  <day date="2013/01/04">
+    <ride dist="40" exdist="40.60" bike='traction' gpx='mtk20130104_s'>
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Warzenko'/>
+    </ride>
+  </day>
+  <day date="2013/01/05">
+    <ride dist="40" exdist="40.10" bike='traction' gpx='20130105_s'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+      <by name='Rębiechowo'/>
+      <by name='Barniewice'/>
+    </ride>
+  </day>
+
+  <day date="2013/01/07">
+    <ride dist="35" exdist="34.00" bike='traction' gpx='20130107_s'>
+      <by name='Gdańsk'/>
+      <by name='Matarnia'/>
+      <by name='Osowa'/>
+    </ride>
+  </day>
+  <day date="2013/01/08">
+    <ride dist="20" exdist="20.00" bike='traction' gpx='20130108_s'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
+
+ </month>
+
+ <month no='2'>
+
+  <day date="2013/02/01">
+    <ride dist="30" exdist="31.00" bike='traction' gpx='20130201_s'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+
+  <day date="2013/02/03">
+    <ride dist="35" exdist="36.00" bike='traction' gpx='20130203_s'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+
+  <day date="2013/02/04">
+    <ride dist="25" exdist="26.00" bike='traction' gpx='20130204_s'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
+
+  <day date="2013/02/06">
+    <ride dist="25" exdist="25.30" bike='traction' gpx='20130206_s'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
+  <day date="2013/02/07">
+    <ride dist="35" exdist="33.26" bike='traction' gpx='20130207_s'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
+
+  <day date="2013/02/09">
+    <ride dist="30" exdist="31.01" bike='traction' gpx='20130209_s'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
+
+  <day date="2013/02/10">
+    <ride dist="35" exdist="36.46" bike='traction' gpx='20130210_s'>
+      <by name='Gdańsk'/>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+  <day date="2013/02/15">
+    <ride dist="20" exdist="22.90" bike='traction' gpx='20130215_s'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
+  <day date="2013/02/16">
+    <ride dist="30" exdist="31.02" bike='traction' gpx='20130216_s'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
+  <day date="2013/02/17">
+    <ride dist="30" exdist="32.02" bike='traction' gpx='20130217_s'>
+      <by name='Gdańsk'/>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+
+ </month>
+ <month no='3'>
+ 
+
+  <day date="2013/03/03">
+    <!-- baterie się skończyły//trasa jak 1.5 ale do/z przez Spacerową-->
+    <ride dist="40" exdist="40.10" bike='traction' gpx='20130105_s'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+      <by name='Rębiechowo'/>
+      <by name='Barniewice'/>
+    </ride>
+  </day>
+
+  <day date="2013/03/04">
+    <ride dist="35" exdist="34.10" bike='traction' gpx='20130304_s'>
+      <by name='Gdańsk'/>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+  <day date="2013/03/05">
+    <ride dist="30" exdist="32.10" bike='traction' gpx='20130305_s'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+  <day date="2013/03/06">
+    <ride dist="30" exdist="31.10" bike='traction' gpx='20130306_s'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+  <day date="2013/03/17">
+    <ride dist="35" exdist="35.10" bike='traction' gpx='20130317_s'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>x
+  </day>
+  <day date="2013/03/18">
+    <ride dist="30" exdist="33.00" bike='traction' gpx='20130318_s'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+  <day date="2013/03/27">
+    <ride dist="35" exdist="35.00" bike='traction' gpx='20130327_s'>
+      <by name='Gdańsk'/>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+  <day date="2013/03/28">
+    <!-- ślad niekompletny ; bateria się wyczerpała -->
+    <ride dist="45" exdist="44.00" bike='traction' gpx='20130328_s'>
+      <by name='Gdańsk'/>
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Bojano'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+    </ride>
+  </day>
+
+  <day date="2013/03/29">
+    <ride dist="30" exdist="32.00" bike='traction' gpx='20130329_s'>
+      <by name='Gdańsk'/>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+ 
+ </month>
+ <month no='4'>
+ 
+  <day date="2013/04/02">
+    <ride dist="30" exdist="33.40" bike='traction' gpx='20130402_s'>
+      <by name='Gdańsk'/>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+  <day date="2013/04/03">
+    <ride dist="45" exdist="44.00" bike='traction' gpx='20130403_s'>
+      <by name='Gdańsk'/>
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Bojano'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+    </ride>
+  </day>
+  <day date="2013/04/06">
+    <ride dist="45" exdist="44.00" bike='traction' gpx='20130406_s'>
+      <by name='Gdańsk'/>
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Bojano'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+    </ride>
+  </day>
+  <day date="2013/04/07">
+    <ride dist="45" exdist="45.00" bike='traction' gpx='20130407_s'>
+      <by name='Gdańsk'/>
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Bojano'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+    </ride>
+  </day>
+
+  <day date="2013/04/08">
+    <ride dist="30" exdist="33.40" bike='traction' gpx='20130408_s'>
+      <by name='Gdańsk'/>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+  <day date="2013/04/09">
+    <ride dist="25" exdist="24.40" bike='traction' gpx='20130409_s'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
+
+  <day date="2013/04/10">
+    <ride dist="35" exdist="35.00" bike='traction' gpx='20130410_s'>
+      <by name='Gdańsk'/>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+  <day date="2013/04/13">
+    <!-- 30 + 5km do sklepu izp -->
+    <ride dist="35" exdist="35.00" bike='traction' gpx='20130413_s'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+
+  <day date="2013/04/14">
+    <ride dist="40" exdist="42.00" bike='traction' gpx='20130414_s'>
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Bojano'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+    </ride>
+  </day>
+  <day date="2013/04/15">
+    <ride dist="35" exdist="34.30" bike='traction' gpx='20130415_s'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+  <day date="2013/04/16">
+    <ride dist="35" exdist="34.30" bike='traction' gpx='20130416_s'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+  <day date="2013/04/17">
+    <ride dist="35" exdist="36.50" bike='traction' gpx='20130417_s'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
+  <day date="2013/04/18">
+    <ride dist="30" exdist="31.00" bike='traction' gpx='20130418_s'>
+      <by name='Gdańsk'/>
+      <by name='Matarnia'/>
+      <by name='Osowa'/>
+    </ride>
+  </day>
+
+  <day date="2013/04/20">
+    <ride dist="60" exdist="59.40" bike='ridley' gpx='20130420_s'>
+      <by name='Osowa'/>
+      <by name='Kielno'/>
+      <by name='Kamień'/>
+      <by name='Szemud'/>
+    </ride>
+  </day>
+
+  <day date="2013/04/21">
+    <ride dist="50" exdist="52.40" bike='ridley' gpx='20130421_s'>
+      <by name='Osowa'/>
+      <by name='Banino'/>
+      <by name='Miszewo'/>
+      <by name='Chwaszczyno'/>
+    </ride>
+  </day>
+
+  <day date="2013/04/23">
+    <ride dist="45" exdist="44.00" bike='r' gpx='20130423_s'>
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Bojano'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+    </ride>
+  </day>
+  <day date="2013/04/24">
+    <ride dist="35" exdist="36.30" bike='r' gpx='20130424_s'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+  <day date="2013/04/25">
+    <ride dist="45" exdist="45.30" bike='r' gpx='20130425_s'>
+      <by name='Osowa'/>
+      <by name='Barniewice'/>
+      <by name='Banino'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+
+  <day date="2013/04/25">
+    <ride dist='50' exdist="52.00" bike='r' gpx='20130428_s'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+      <by name='Banino'/>
+      <by name='Miszewo'/>
+      <by name='Chwaszczyno'/>
+
+    </ride>
+  </day>
+
+  <day date="2013/04/30">
+    <ride dist='95' exdist="95.00" bike='traction' gpx='20130430_s'>
+      <by name='Twarda Góra'/>
+      <by name='Nowe'/>
+      <by name='Grudziądz'/>
+      <by name='Radzyń Chełmiński'/>
+      <by name='Jabłonowo'/>
+      <by name='Brodnica'/>
+      <by name='Tama Brodzka'/>
+
+    </ride>
+  </day>
+ </month>
+ <month no='5'>
+
+  <day date="2013/05/02">
+    <ride dist='40' exdist="40.00" bike='traction' gpx='20130502_s'>
+      <by name='Tama Brodzka'/>
+      <by name='Brodnica'/>
+      <by name='Osiek'/>
+    </ride>
+  </day>
+ 
+  <day date="2013/05/03">
+    <ride dist='90' exdist="90.00" bike='traction' gpx='20130503_s'>
+      <by name='Nowe'/>
+      <by name='Tama Brodzka'/>
+      <by name='Brodnica'/>
+      <by name='Jabłonowo'/>
+      <by name='Radzyń Chełmiński'/>
+      <by name='Grudziądz'/>
+      <by name='Warlubie'/>
+    </ride>
+  </day>
+  <day date="2013/05/05">
+    <ride dist='50' exdist="52.00" bike='r' gpx='20130505_s'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+      <by name='Banino'/>
+      <by name='Miszewo'/>
+      <by name='Chwaszczyno'/>
+    </ride>
+  </day>
+  <day date="2013/05/06">
+    <ride dist="35" exdist="36.30" bike='r' gpx='20130506_s'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+
+  <day date="2013/05/07">
+    <ride dist="30" exdist="32.00" bike='traction' gpx='20130507_s'>
+      <by name='Matarnia'/>
+      <by name='Osowa'/>
+    </ride>
+  </day>
+  <day date="2013/05/11">
+    <ride dist="45" exdist="45.00" bike='r' gpx='20130511_s'>
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+    </ride>
+  </day>
+
+  <day date="2013/05/12">
+    <ride dist='55' exdist="54.50" bike='r' gpx='20130512_s'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+      <by name='Banino'/>
+      <by name='Miszewo'/>
+      <by name='Chwaszczyno'/>
+    </ride>
+  </day>
+  <day date="2013/05/13">
+    <ride dist="35" exdist="35.00" bike='traction' gpx='20130513_s'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+  <day date="2013/05/14">
+    <ride dist="40" exdist="42.00" bike='traction' gpx='20130514_s'>
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+    </ride>
+  </day>
+  <day date="2013/05/15">
+    <ride dist="45" exdist="45.00" bike='traction' gpx='20130515_s'>
+      <by name='Gdynia'/>
+      <by name='Wiczlino'/>
+    </ride>
+  </day>
+
+  <day date="2013/05/16">
+    <ride dist="40" exdist="43.00" bike='traction' gpx='20130516_s'>
+      <by name='Osowa'/>
+      <by name='Barniewice'/>
+      <by name='Banino'/>
+      <by name='Pępowo'/>
+    </ride>
+  </day>
+
+  <day date="2013/05/18">
+    <ride dist="50" exdist="50.00" bike='traction' gpx='20130518_s'>
+      <by name='Matarnia'/>
+      <by name='Banino'/>
+      <by name='Pępowo'/>
+      <by name='Miszewo'/>
+      <by name='Chwaszczyno'/>
+      <by name='Gdynia'/>
+    </ride>
+  </day>
+  <day date="2013/05/19">
+    <ride dist='50' exdist="48.00" bike='traction' gpx='20130519_s'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+      <by name='Banino'/>
+      <by name='Miszewo'/>
+      <by name='Chwaszczyno'/>
+      <by name='Gdynia'/>
+    </ride>
+  </day>
+
+  <day date="2013/05/20">
+    <ride dist="30" exdist="32.00" bike='traction' gpx='20130520_s'>
+      <by name='Matarnia'/>
+      <by name='Osowa'/>
+    </ride>
+  </day>
+
+  <day date="2013/05/22">
+    <ride dist="45" exdist="45.00" bike='traction' gpx='20130522_s'>
+      <by name='Gdynia'/>
+      <by name='Wiczlino'/>
+      <by name='Koleczkowo'/>
+      <by name='Bojano'/>
+      <by name='Chwaszczyno'/>
+      <by name='Osowa'/>
+    </ride>
+  </day>
+  <day date="2013/05/23">
+    <ride dist="40" exdist="40.00" bike='traction' gpx='20130523_s'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+  <day date="2013/05/24">
+    <ride dist="50" exdist="49.80" bike='traction' gpx='20130524_s'>
+      <by name='Osowa'/>
+      <by name='Barniewice'/>
+      <by name='Banino'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+  <day date="2013/05/26">
+    <ride dist="50" exdist="51.00" bike='traction' gpx='20130526_s'>
+      <by name='Matarnia'/>
+      <by name='Banino'/>
+      <by name='Miszewo'/>
+      <by name='Chwaszczyno'/>
+    </ride>
+  </day>
+  <day date="2013/05/27">
+    <ride dist="45" exdist="47.00" bike='traction' gpx='20130527_s'>
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Bojano'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+    </ride>
+  </day>
+  <day date="2013/05/29">
+    <ride dist="50" exdist="50.00" bike='traction' gpx='20130529_s'>
+      <by name='Osowa'/>
+    </ride>
+  </day>
+  <day date="2013/05/30">
+    <ride dist="55" exdist="55.10" bike='traction' gpx='20130530_s'>
+      <by name='Osowa'/>
+      <by name='Barniewice'/>
+      <by name='Banino'/>
+      <by name='Miszewo'/>
+      <by name='Czeczewo'/>
+      <by name='Kielno'/>
+      <by name='Chwaszczyno'/>
+    </ride>
+  </day>
+
+  <day date="2013/05/31">
+    <ride dist="35" exdist="34.00" bike='traction' gpx='20130531_s'>
+      <by name='Matarnia'/>
+      <by name='Osowa'/>
+    </ride>
+  </day>
+ </month>
+ <month no='6'>
+
+  <day date="2013/06/01">
+    <ride dist="60" exdist="59.00" bike='traction' gpx='20130601_s'>
+      <by name='Matarnia'/>
+      <by name='Banino'/>
+      <by name='Pępowo'/>
+      <by name='Miszewo'/>
+      <by name='Chwaszczyno'/>
+    </ride>
+  </day>
+  <day date="2013/06/02">
+    <ride dist="50" exdist="51.00" bike='r' gpx='20130602_s'>
+      <by name='Matarnia'/>
+      <by name='Banino'/>
+      <by name='Miszewo'/>
+      <by name='Chwaszczyno'/>
+    </ride>
+  </day>
+  <day date="2013/06/03">
+    <ride dist="45" exdist="44.00" bike='r' gpx='20130603_s'>
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Bojano'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+    </ride>
+  </day>
+  <day date="2013/06/04">
+    <ride dist="20" exdist="24.00" bike='traction' gpx='20130604_s'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
+  <day date="2013/06/06">
+    <ride dist="55" exdist="54.00" bike='traction' gpx='20130606_s'>
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+      <by name='Bieszkowice'/>
+      <by name='Wiczlino'/>
+    </ride>
+  </day>
+  <day date="2013/06/07">
+    <ride dist="35" exdist="36.00" bike='traction' gpx='20130607_s'>
+      <by name='Gdańsk'/>
+      <by name='Matarnia'/>
+      <by name='Rębiechowo'/>
+      <by name='Barniewice'/>
+    </ride>
+  </day>
+  <day date="2013/06/08">
+    <ride dist="50" exdist="52.00" bike='traction' gpx='20130608_s'>
+      <by name='Gdańsk'/>
+      <by name='Matarnia'/>
+      <by name='Leźno'/>
+      <by name='Pępowo'/>
+      <by name='Miszewo'/>
+      <by name='Chwaszczyno'/>
+    </ride>
+  </day>
+  <day date="2013/06/09">
+    <ride dist="55" exdist="56.00" bike='traction' gpx='20130609_s'>
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+    </ride>
+  </day>
+
+  <day date="2013/06/10">
+    <ride dist="45" exdist="48.00" bike='traction' gpx='20130610_s'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+
+    </ride>
+  </day>
+  <day date="2013/06/12">
+    <ride dist="50" exdist="52.00" bike='traction'>
+      <!-- dwa razy Osowa-Lotnisko bo spotkałem JF+RB -->
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+  <day date="2013/06/13">
+    <ride dist="55" exdist="56.00" bike='traction' gpx='mtk20130613_s'>
+      <!-- 45kms z FR+RB oraz 10kms rano -->
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+    </ride>
+  </day>
+  <day date="2013/06/15">
+    <ride dist="130" exdist="133.00" bike='traction' gpx='mtk20130615_s'>
+      <!-- 110 +20kms z Prabut do  Kwidzyna -->
+      <by name='Prabuty'/>
+      <by name='Kwidzyn'/>
+      <by name='Gurcz'/>
+      <by name='Piekło'/>
+      <by name='Mątowy Wielkie'/>
+      <by name='Tczew'/>
+      <by name='Pszczółki'/>
+      <by name='Pruszcz Gdański'/>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
+
+  <day date="2013/06/16">
+    <ride dist="45" exdist="48.00" bike='traction' gpx='20130616_s'>
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+    </ride>
+  </day>
+
+  <day date="2013/06/18">
+    <ride dist="40" exdist="43.00" bike='traction' gpx='mtk20130618_s'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+
+  <day date="2013/06/19">
+    <ride dist="40" exdist="42.00" bike='traction' gpx='mtk20130619_s'>
+      <!-- matarnia-osowa + do_dentysty_izp -->
+      <by name='Matarnia'/>
+      <by name='Osowa'/>
+    </ride>
+  </day>
+
+  <day date="2013/06/21">
+    <ride dist="40" exdist="38.50" bike='traction' gpx='20130621_s'>
+      <by name='Gdańsk'/>
+      <by name='Matarnia'/>
+      <by name='Rębiechowo'/>
+      <by name='Barniewice'/>
+    </ride>
+  </day>
+
+  <day date="2013/06/22">
+    <ride dist="40" exdist="40.10" bike='traction' gpx='20130622_s'>
+      <by name='Gdańsk'/>
+      <by name='Matarnia'/>
+      <by name='Banino'/>
+      <by name='Pępowo'/>
+      <by name='Żukowo'/>
+      <by name='Sitno'/>
+    </ride>
+  </day>
+
+  <day date="2013/06/23">
+    <ride dist="55" exdist="54.50" bike='traction' gpx='20130623_s'>
+      <by name='Sitno'/>
+      <by name='Kartuzy'/>
+      <by name='Przodkowo'/>
+      <by name='Czeczewo'/>
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+    </ride>
+  </day>
+
+  <day date="2013/06/24">
+    <ride dist="35" exdist="37.00" bike='traction' gpx='20130624_s'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+
+  <day date="2013/06/27">
+    <ride dist="35" exdist="37.00" bike='traction' gpx='20130627_s'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+
+  <day date='2013/06/29'>
+    <ride dist="40" exdist="40.00" bike='r' gpx='2013-06-27-12-37-28'>
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Kielno'/>
+    </ride>
+  </day>
+  <day date='2013/06/30'>
+    <ride dist="45" exdist="46.00" bike='r' gpx='2013-06-30-14-43-51'>
+      <by name='Osowa'/>
+      <by name='Barniewice'/>
+      <by name='Banino'/>
+      <by name='Pępowo'/>
+      <by name='Żukowo'/>
+      <by name='Lniska'/>
+      <by name='Przyjaźń'/>
+      <by name='Kolbudy'/>
+    </ride>
+  </day>
+
+ </month>
+ <month no='7'>
+ 
+  <day date="2013/07/03">
+    <ride dist="35" exdist="36.00" bike='traction' gpx=''>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+  <day date="2013/07/04">
+    <ride dist="35" exdist="36.00" bike='traction' gpx=''>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+
+  <day date="2013/07/06">
+    <ride dist="55" exdist="54.50" bike='traction' gpx=''>
+      <by name='Gdańsk'/>
+      <by name='Matarnia'/>
+      <by name='Leźno'/>
+      <by name='Pępowo'/>
+      <by name='Miszewo'/>
+      <by name='Banino'/>
+      <by name='Barniewice'/>
+      <by name='Osowa'/>
+    </ride>
+  </day>
+  <day date="2013/07/07">
+    <ride dist="120" exdist="122.00" bike='traction' gpx='20130707_s'>
+      <by name='Pelplin'/>
+      <by name='Gniew'/>
+      <by name='Starogard'/>
+    </ride>
+  </day>
+
+  <day date="2013/07/09">
+    <ride dist="35" exdist="36.00" bike='traction' gpx='20130709_s'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+
+  <day date="2013/07/10">
+    <ride dist="45" exdist="45.00" bike='traction' gpx=''>
+      <by name='Matarnia'/>
+      <by name='Banino'/>
+      <by name='Pępowo'/>
+      <by name='Bieszkowice'/>
+      <by name='Osowa'/>
+    </ride>
+  </day>
+
+  <day date="2013/07/11">
+    <ride dist="35" exdist="36.00" bike='traction' gpx='20130711_s'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+  <day date="2013/07/13">
+    <ride dist="40" exdist="41.00" bike='traction' gpx=''>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+
+  <day date="2013/07/14">
+    <ride dist="45" exdist="47.00" bike='traction' gpx=''>
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Bojano'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+      <by name='Gdynia'/>
+    </ride>
+  </day>
+
+  <day date="2013/07/16">
+    <ride dist="65" exdist="65.00" bike='traction' gpx=''>
+      <by name='Włoszczowa'/>
+      <by name='Kielce'/>
+    </ride>
+  </day>
+  <day date="2013/07/17">
+    <ride dist="55" exdist="55.00" bike='traction' gpx='20130717'>
+      <by name='Kielce'/>
+    </ride>
+  </day>
+  <day date="2013/07/18">
+    <ride dist="100" exdist="100.00" bike='traction' gpx='20130718'>
+      <by name='Kielce'/>
+      <by name='Bodzentyn'/>
+      <by name='Starachowice'/>
+    </ride>
+  </day>
+
+  <day date="2013/07/20">
+    <ride dist="70" exdist="70.00" bike='traction' gpx='20130720'>
+      <by name='Kielce'/>
+      <by name='Chodzież'/>
+    </ride>
+  </day>
+  <day date="2013/07/21">
+    <ride dist="60" exdist="60.00" bike='traction' gpx='20130721'>
+      <by name='Kielce'/>
+    </ride>
+  </day>
+
+  <day date="2013/07/23">
+    <ride dist="35" exdist="37.00" bike='traction' >
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+
+  <day date="2013/07/24">
+    <ride dist="30" exdist="31.00" bike='traction' >
+      <by name='Matarnia'/>
+      <by name='Osowa'/>
+    </ride>
+  </day>
+
+  <day date="2013/07/25">
+    <ride dist="35" exdist="37.00" bike='traction' >
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+  <day date="2013/07/26">
+    <ride dist="45" exdist="44.00" bike='traction' >
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+    </ride>
+  </day>
+
+  <day date="2013/07/29">
+    <ride dist="35" exdist="37.00" bike='traction' >
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+  <day date="2013/07/31">
+    <ride dist="45" exdist="44.10" bike='traction' >
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+ </month>
+
+ <month no='8'>
+
+  <day date="2013/08/02">
+    <ride dist="30" exdist="30.00" bike='traction' gpx='20130802'>
+      <by name='Osowa'/>
+    </ride>
+  </day>
+  <day date="2013/08/03">
+    <ride dist="45" exdist="46.00" bike='traction' gpx='20130803'>
+      <by name='Matarnia'/>
+      <by name='Rębiechowo'/>
+      <by name='Barniewice'/>
+      <by name='Osowa'/>
+    </ride>
+  </day>
+  <day date="2013/08/04">
+    <ride dist="30" exdist="30.00" bike='traction' gpx='20130804'>
+      <by name='Matarnia'/>
+      <by name='Osowa'/>
+    </ride>
+  </day>
+  <day date="2013/08/05">
+    <ride dist="35" exdist="38.00" bike='traction' gpx='20130805'>
+      <by name='Matarnia'/>
+      <by name='Rębiechowo'/>
+      <by name='Barniewice'/>
+      <by name='Osowa'/>
+    </ride>
+  </day>
+
+  <day date="2013/08/06">
+    <ride dist="40" exdist="40.00" bike='traction' gpx='20130806'>
+      <by name='Sopot'/>
+    </ride>
+  </day>
+  <day date="2013/08/07">
+    <ride dist="40" exdist="41.00" bike='traction' gpx='20130807'>
+      <by name='Matarnia'/>
+      <by name='Osowa'/>
+      <by name='Sopot'/>
+    </ride>
+  </day>
+  <day date="2013/08/08">
+    <ride dist="45" exdist="47.00" bike='traction' gpx='20130808'>
+      <by name='Osowa'/>
+      <by name='Sopot'/>
+      <by name='Banino'/>
+      <by name='Żukowo'/>
+    </ride>
+  </day>
+
+  <day date="2013/08/10">
+    <!-- Przekroczyłem 5000 km ...... ...... ...... -->
+    <ride dist="30" exdist="32.00" bike='traction' >
+      <by name='Sopot'/>
+      <by name='Osowa'/>
+    </ride>
+  </day>
+  <day date="2013/08/11">
+    <ride dist="50" exdist="51.00" bike='traction' gpx='20130811'>
+      <by name='Sopot'/>
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Kielno'/>
+      <by name='Kowalewo'/>
+    </ride>
+  </day>
+
+  <day date="2013/08/13">
+    <ride dist="30" exdist="32.00" bike='traction' gpx='20130813'>
+      <by name='Sopot'/>
+      <by name='Osowa'/>
+    </ride>
+  </day>
+  <day date="2013/08/15">
+    <ride dist="60" exdist="62.00" bike='traction' gpx='20130815_s'>
+      <by name='Sopot'/>
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Kielno'/>
+      <by name='Kowalewo'/>
+      <by name='Szemud'/>
+    </ride>
+  </day>
+  <day date="2013/08/16">
+    <ride dist="35" exdist="35.00" bike='r' gpx='20130816_s'>
+      <by name='Sopot'/>
+    </ride>
+  </day>
+
+  <day date="2013/08/17">
+    <ride dist="65" exdist="66.00" bike='r' gpx='20130817_s'>
+      <by name='Sopot'/>
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Kielno'/>
+      <by name='Kowalewo'/>
+      <by name='Szemud'/>
+    </ride>
+  </day>
+  <day date="2013/08/18">
+    <ride dist="45" exdist="46.00" bike='traction' gpx='20130818_s'>
+      <by name='Sopot'/>
+      <by name='Osowa'/>
+      <by name='Rębiechowo'/>
+      <by name='Barniewice'/>
+    </ride>
+  </day>
+
+  <day date="2013/08/19">
+    <ride dist="30" exdist="30.00" bike='traction' gpx='20130819_s'>
+      <by name='Gdańsk'/>
+      <by name='Matarnia'/>
+      <by name='Osowa'/>
+    </ride>
+  </day>
+  <day date="2013/08/20">
+    <ride dist="35" exdist="33.40" bike='traction' gpx='20130820'>
+      <by name='Sopot'/>
+      <by name='Osowa'/>
+    </ride>
+  </day>
+  <day date="2013/08/21">
+    <ride dist="45" exdist="47.40" bike='traction' gpx='20130821_s'>
+      <by name='Sopot'/>
+      <by name='Osowa'/>
+      <by name='Barniewice'/>
+      <by name='Banino'/>
+      <by name='Pępowo'/>
+      <by name='Miszewo'/>
+    </ride>
+  </day>
+  <day date="2013/08/24">
+    <ride dist="50" exdist="52.00" bike='traction' gpx='20130824'>
+      <by name='Osowa'/>
+      <by name='Banino'/>
+      <by name='Miszewo'/>
+    </ride>
+  </day>
+  <day date="2013/08/25">
+    <ride dist="60" exdist="60.20" bike='traction' gpx='20130825'>
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Kielno'/>
+      <by name='Czeczewo'/>
+      <by name='Miszewo'/>
+      <by name='Barniewice'/>
+    </ride>
+  </day>
+
+  <day date="2013/08/26">
+    <ride dist="45" exdist="44.10" bike='traction' gpx='20130826_s'>
+      <by name='Osowa'/>
+      <by name='Barniewice'/>
+      <by name='Rębiechowo'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>
+  <day date="2013/08/29">
+    <ride dist="35" exdist="38.10" bike='traction' gpx='20130829_s'>
+      <by name='Osowa'/>
+    </ride>
+  </day>
+  <day date="2013/08/30">
+    <ride dist="35" exdist="37.00" bike='traction' gpx='20130830'>
+      <by name='Sopot'/>
+      <by name='Osowa'/>
+    </ride>
+  </day>
+  <day date="2013/08/31">
+    <ride dist="60" exdist="59.10" bike='traction' gpx='20130831'>
+      <by name='Osowa'/>
+      <by name='Banino'/>
+      <by name='Miszewo'/>
+      <by name='Czeczewo'/>
+      <by name='Kielno'/>
+      <by name='Chwaszczyno'/>
+    </ride>
+  </day>
+ </month>
+ <month no='9'>
+
+  <day date="2013/09/01">
+    <ride dist="45" exdist="44.80" bike='traction' gpx='20130901'>
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+    </ride>
+  </day>
+  <day date="2013/09/03">
+    <ride dist="45" exdist="43.90" bike='traction' gpx='20130903_s'>
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+    </ride>
+  </day>
+
+  <day date="2013/09/04">
+    <ride dist="65" exdist="66.90" bike='traction' gpx='20130904_s'>
+      <by name='Gdynia'/>
+      <by name='Wiczlino'/>
+      <by name='Koleczkowo'/>
+      <by name='Banino'/>
+      <by name='NowyDwórWejherowski'/>
+    </ride>
+  </day>
+  <day date="2013/09/05">
+    <ride dist="55" exdist="56.10" bike='traction' gpx='20130905_s'>
+      <by name='Gdańsk'/>
+      <by name='Matarnia'/>
+      <by name='Banino'/>
+      <by name='Pępowo'/>
+      <by name='Barniewice'/>
+    </ride>
+  </day>
+  <day date="2013/09/07">
+    <ride dist="60" exdist="61.10" bike='traction'>
+      <by name='Osowa'/>
+      <by name='Banino'/>
+      <by name='Miszewo'/>
+      <by name='Czeczewo'/>
+      <by name='Kielno'/>
+      <by name='Chwaszczyno'/>
+    </ride>
+  </day>
+  <day date="2013/09/08">
+    <ride dist="110" exdist="109.10" bike='traction' gpx='20130908'>
+      <by name='Wejherowo'/>
+      <by name='Tyłowo'/>
+      <by name='Żarnowiec'/>
+      <by name='Krokowa'/>
+      <by name='Połczyno'/>
+      <by name='Celbowo'/>
+      <by name='Żelistrzewo'/>
+      <by name='Mrzezino'/>
+      <by name='Pierwoszyno'/>
+      <by name='Gdynia'/>
+    </ride>
+  </day>
+
+  <day date="2013/09/10">
+    <ride dist="50" exdist="52.10" bike='traction' gpx='20130910'>
+      <by name='Osowa'/>
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+    </ride>
+  </day> 
+
+  <day date="2013/09/15">
+    <ride dist="50" exdist="53.10" bike='traction' gpx='20130915'>
+      <by name='Osowa'/>
+      <by name='Rębiechowo'/>
+      <by name='Barniewice'/>
+    </ride>
+  </day> 
+
+  <day date="2013/09/16">
+    <ride dist="40" exdist="40.10" bike='traction' gpx='20130916'>
+      <by name='Osowa'/>
+      <by name='Rębiechowo'/>
+      <by name='Barniewice'/>
+    </ride>
+  </day> 
+
+  <day date="2013/09/18">
+    <ride dist="50" exdist="50.10" bike='traction' gpx='20130918'>
+      <by name='Gdynia'/>
+      <by name='Wiczlino'/>
+      <by name='Bieszkowice'/>
+    </ride>
+  </day> 
+
+  <day date="2013/09/21">
+    <ride dist="50" exdist="50.10" bike='traction' gpx='20130921'>
+      <by name='Osowa'/>
+      <by name='Banino'/>
+      <by name='Miszewo'/>
+      <by name='Chwaszczyno'/>
+    </ride>
+  </day> 
+  <day date="2013/09/22">
+    <ride dist="55" exdist="54.04" bike='traction' gpx='20130922'>
+      <by name='Osowa'/>
+      <by name='Banino'/>
+      <by name='Pępowo'/>
+      <by name='Barniewice'/>
+    </ride>
+  </day> 
+  <day date="2013/09/29">
+    <ride dist="30" exdist="31.04" bike='traction' gpx='20130929'>
+      <by name='Gdańsk'/>
+      <by name='Sopot'/>
+    </ride>
+  </day> 
+  <day date="2013/09/30">
+    <ride dist="35" exdist="35.50" bike='traction' gpx='20130930'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day> 
+
+ </month>
+ <month no='10'>
+ 
+  <day date="2013/10/02">
+    <ride dist="35" exdist="35.50" bike='traction' gpx='20131002'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day> 
+  <day date="2013/10/03">
+    <ride dist="50" exdist="51.10" bike='traction' gpx='20131003'>
+      <by name='Gdynia'/>
+      <by name='Wiczlino'/>
+      <by name='Bieszkowice'/>
+    </ride>
+  </day> 
+  <day date="2013/10/05">
+    <ride dist="50" exdist="50.10" bike='traction' gpx='20131005'>
+      <by name='Osowa'/>
+      <by name='Banino'/>
+      <by name='Miszewo'/>
+      <by name='Chwaszczyno'/>
+    </ride>
+  </day> 
+  <day date="2013/10/06">
+    <ride dist="50" exdist="50.10" bike='traction' gpx='20131006'>
+      <by name='Osowa'/>
+      <by name='Banino'/>
+      <by name='Pępowo'/>
+      <by name='Leźno'/>
+    </ride>
+  </day> 
+
+  <day date="2013/10/07">
+    <ride dist="35" exdist="35.50" bike='traction' gpx='20131007'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day> 
+  <day date="2013/10/09">
+    <ride dist="40" exdist="41.50" bike='traction' gpx='20131009'>
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+    </ride>
+  </day> 
+  <day date="2013/10/10">
+    <ride dist="40" exdist="39.20" bike='traction' gpx='20131010'>
+      <by name='Matarnia'/>
+      <by name='Rębiechowo'/>
+      <by name='Barniewice'/>
+      <by name='Osowa'/>
+    </ride>
+  </day> 
+  <day date="2013/10/12">
+    <ride dist="55" exdist="54.10" bike='traction' gpx='20131012'>
+      <by name='Osowa'/>
+      <by name='Banino'/>
+      <by name='Miszewo'/>
+      <by name='Chwaszczyno'/>
+    </ride>
+  </day> 
+  <day date="2013/10/13">
+    <ride dist="50" exdist="52.10" bike='traction' gpx='20131013'>
+      <by name='Osowa'/>
+      <by name='Banino'/>
+      <by name='Pępowo'/>
+      <by name='Leźno'/>
+    </ride>
+  </day> 
+  <day date="2013/10/14">
+    <ride dist="35" exdist="35.10" bike='traction' gpx='20131014'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day> 
+  <day date="2013/10/16">
+    <ride dist="50" exdist="51.10" bike='traction' gpx='20131016'>
+      <by name='Gdynia'/>
+      <by name='Koleczkowo'/>
+      <by name='Bieszkowice'/>
+    </ride>
+  </day> 
+  <day date="2013/10/19">
+    <ride dist="65" exdist="67.10" bike='traction' gpx='20131019'>
+      <by name='Banino'/>
+      <by name='Pępowo'/>
+      <by name='Przodkowo'/>
+      <by name='Czeczewo'/>
+      <by name='Kielno'/>
+      <by name='Chwaszczyno'/>
+    </ride>
+  </day> 
+  <day date="2013/10/20">
+    <ride dist="30" exdist="32.10" bike='traction' gpx='20131020'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day> 
+  <day date="2013/10/22">
+    <ride dist="35" exdist="37.02" bike='traction' gpx='20131022'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day> 
+  <day date="2013/10/23">
+    <ride dist="35" exdist="38.02" bike='traction' gpx='20131023'>
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Warzenko'/>
+    </ride>
+  </day> 
+  <day date="2013/10/24">
+    <ride dist="30" exdist="31.50" bike='traction' gpx='20131024'>
+      <by name='Matarnia'/>
+      <by name='Osowa'/>
+    </ride>
+  </day> 
+  <day date="2013/10/28">
+    <ride dist="35" exdist="34.50" bike='traction' gpx='20131028'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day> 
+  <day date="2013/10/29">
+    <ride dist="30" exdist="32.00" bike='traction' gpx='20131029'>
+      <by name='Matarnia'/>
+      <by name='Osowa'/>
+    </ride>
+  </day> 
+  <day date='2013/10/30'>
+    <ride dist="45" exdist="44.80" bike='traction' gpx='20131030'>
+      <by name='Osowa'/>
+      <by name='Chwaszczyno'/>
+      <by name='Kielno'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+    </ride>
+  </day> 
+
+ </month>
+ <month no='11'>
+
+  <day date='2013/11/02'>
+    <ride dist="50" exdist="49.40" bike='traction' gpx='20131102'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+      <by name='Banino'/>
+      <by name='Barniewice'/>
+    </ride>
+  </day> 
+
+  <day date='2013/11/03'>
+    <ride dist="40" exdist="42.00" bike='traction' gpx='20131103'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+      <by name='Banino'/>
+      <by name='Barniewice'/>
+    </ride>
+  </day> 
+  <day date='2013/11/04'>
+    <ride dist="30" exdist="31.00" bike='traction' gpx='20131104'>
+      <by name='Sopot'/>
+    </ride>
+  </day> 
+  <day date='2013/11/05'>
+    <ride dist="40" exdist="41.00" bike='traction' gpx='20131105'>
+      <by name='Sopot'/>
+    </ride>
+  </day> 
+  <day date="2013/11/10">
+    <ride dist="55" exdist="55.10" bike='traction' gpx='20131110'>
+      <by name='Osowa'/>
+      <by name='Banino'/>
+      <by name='Miszewo'/>
+      <by name='Chwaszczyno'/>
+    </ride>
+  </day> 
+  <day date='2013/11/11'>
+    <ride dist="40" exdist="42.00" bike='traction' gpx='20131111'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>  
+  <day date='2013/11/12'>
+    <ride dist="30" exdist="30.00" bike='traction' gpx='20131112'>
+      <by name='Sopot'/>
+    </ride>
+  </day>  
+  <day date='2013/11/16'>
+    <ride dist="45" exdist="47.00" bike='traction' gpx='20131116_s'>
+      <by name='Sopot'/>
+    </ride>
+  </day>  
+
+  <day date='2013/11/17'>
+    <ride dist="55" exdist="55.00" bike='traction' gpx='20131116_s'>
+      <by name='Kielno'/>
+      <by name='Kamień'/>
+      <by name='Koleczkowo'/>
+      <by name='Wiczlino'/>
+    </ride>
+  </day>  
+  <day date='2013/11/18'>
+    <ride dist="20" exdist="21.00" bike='traction' gpx='20131121'>
+      <by name='Sopot'/>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>  
+  <day date="2013/11/21">
+    <ride dist="40" exdist="40.02" bike='traction' gpx='20131121'>
+      <by name='Osowa'/>
+      <by name='Warzenko'/>
+    </ride>
+  </day> 
+  <day date="2013/11/23">
+    <ride dist="55" exdist="57.02" bike='traction' gpx='20131123'>
+      <by name='Osowa'/>
+      <by name='Banino'/>
+      <by name='Pępowo'/>
+      <by name='Leźno'/>
+    </ride>
+  </day> 
+
+  <day date="2013/11/28">
+    <ride dist="30" exdist="33.02" bike='traction' gpx='20131128'>
+      <by name='Sopot'/>
+      <by name='Gdańsk'/>
+    </ride>
+  </day> 
+  <day date="2013/11/29">
+    <ride dist="40" exdist="43.00" bike='traction' gpx='20131129'>
+      <by name='Sopot'/>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day> 
+ </month>
+ <month no='12'>
+
+  <day date='2013/12/01'>
+    <ride dist="30" exdist="30.40" bike='traction' gpx='20131201'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day>  
+  <day date="2013/12/02">
+    <ride dist="35" exdist="37.02" bike='traction' gpx='20131202'>
+      <by name='Osowa'/>
+      <by name='Warzenko'/>
+    </ride>
+  </day> 
+
+  <day date="2013/12/05">
+    <ride dist="35" exdist="37.02" bike='traction' gpx='20131205'>
+      <by name='Osowa'/>
+      <by name='Warzenko'/>
+    </ride>
+  </day> 
+  <day date="2013/12/15">
+    <ride dist="25" exdist="24.50" bike='traction' gpx='20131215'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day> 
+  <day date='2013/12/16'>
+    <ride dist="30" exdist="33.00" bike='traction' gpx='20131216_s'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day> 
+  <day date="2013/12/17">
+    <ride dist="25" exdist="24.10" bike='traction' gpx='20131217'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>  
+  <day date="2013/12/18">
+    <ride dist="35" exdist="37.02" bike='traction' gpx='20131218'>
+      <by name='Osowa'/>
+      <by name='Warzenko'/>
+    </ride>
+  </day> 
+  <day date="2013/12/21">
+    <ride dist="35" exdist="35.02" bike='traction' gpx='20131221'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day> 
+  <day date="2013/12/22">
+    <ride dist="40" exdist="40.02" bike='traction' gpx='20131222'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day> 
+  <day date="2013/12/23">
+    <ride dist="25" exdist="26.00" bike='traction' gpx='20131223'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day> 
+  <day date="2013/12/26">
+    <ride dist="50" exdist="53.00" bike='traction' gpx='20131226'>
+      <by name='Osowa'/>
+      <by name='Banino'/>
+      <by name='Miszewo'/>
+      <by name='Chwaszczyno'/>
+    </ride>
+  </day> 
+  <day date="2013/12/28">
+    <ride dist="45" exdist="45.00" bike='traction' gpx='20131228'>
+      <by name='Osowa'/>
+      <by name='Matarnia'/>
+    </ride>
+  </day> 
+ 
+ </month>
+
+</year>
+
+<!-- Keep this comment at the end of the file
+Local variables:
+mode: xml
+coding: iso-8859-2
+sgml-indent-step:1
+sgml-indent-data:t
+sgml-parent-document:nil
+End:
+-->

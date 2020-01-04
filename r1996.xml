@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="iso-8859-2"?>
+
+<?xml-stylesheet href='rowery.xsl' type='text/xsl'?>
+
+<!--Generated file *** do not edit ***-->
+<year no="1996" done="34130">
+
+<month no="4">
+
+
+  <item data="1996/04/06" dist="35" exdist="35"><by name="Chwaszczyno" country="pl"/></item>
+
+
+
+  <item data="1996/04/09" dist="35" exdist="35.00"><by name="Sopot" country="pl"/><by name="Osowa" country="pl"/></item>
+
+
+
+  <item data="1996/04/10" dist="20" exdist="20.00"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/04/12" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/04/15" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/04/16" dist="25" exdist="25"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/04/17" dist="35" exdist="35"><by name="Chwaszczyno" country="pl"/><by name="Osowa" country="pl"/></item>
+
+
+
+  <item data="1996/04/18" dist="35" exdist="35"><by name="Chwaszczyno" country="pl"/><by name="Osowa" country="pl"/></item>
+
+
+
+  <item data="1996/04/19" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/04/20" dist="40" exdist="40"><by name="Gdańsk" country="pl"/><by name="Pępowo" country="pl"/><by name="Chwaszczyno" country="pl"/></item>
+
+
+
+  <item data="1996/04/21" dist="35" exdist="35"><by name="Gdańsk" country="pl"/><by name="Pępowo" country="pl"/><by name="Rębiechowo" country="pl"/></item>
+
+
+
+  <item data="1996/04/22" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/04/23" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/04/24" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/04/25" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/04/26" dist="35" exdist="35"><by name="Chwaszczyno" country="pl"/><by name="Osowa" country="pl"/></item>
+
+
+
+  <item data="1996/04/27" dist="35" exdist="35"><by name="Matarnia" country="pl"/><by name="Pępowo" country="pl"/></item>
+
+
+
+  <item data="1996/04/28" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+</month>
+<month no="5">
+
+  <item data="1996/05/01" dist="65" exdist="65"><by name="Susz" country="pl"/><by name="Bachotek" country="pl"/></item>
+
+
+
+  <item data="1996/05/04" dist="42" exdist="42"><by name="Bachotek" country="pl"/><by name="Iława" country="pl"/></item>
+
+
+
+  <item data="1996/05/07" dist="20" exdist="20"/>
+
+
+
+  <item data="1996/05/08" dist="20" exdist="20"/>
+
+
+
+  <item data="1996/05/11" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/05/11" dist="62" exdist="62"><by name="Osowa" country="pl"/><by name="Koleczkowo" country="pl"/><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1996/05/12" dist="40" exdist="40"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/05/13" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/05/14" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/05/15" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/05/16" dist="35" exdist="35"><by name="Osowa" country="pl"/><by name="Chwaszczyno" country="pl"/></item>
+
+
+
+  <item data="1996/05/18" dist="60" exdist="60"><by name="Osowa" country="pl"/><by name="Koleczkowo" country="pl"/><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1996/05/19" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/05/20" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/05/22" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/05/23" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/05/24" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/05/27" dist="25" exdist="25"><by name="Chwaszczyno" country="pl"/><by name="Osowa" country="pl"/></item>
+
+
+
+  <item data="1996/05/29" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/05/30" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+</month>
+<month no="6">
+
+  <item data="1996/06/01" dist="40" exdist="40"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/06/02" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/06/03" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/06/04" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/06/05" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/06/11" dist="35" exdist="35"><by name="Chwaszczyno" country="pl"/><by name="Osowa" country="pl"/></item>
+
+
+
+  <item data="1996/06/12" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/06/13" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/06/14" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/06/15" dist="60" exdist="60"><by name="Matarnia" country="pl"/><by name="Pępowo" country="pl"/></item>
+
+
+
+  <item data="1996/06/16" dist="52" exdist="52"><by name="Chwaszczyno" country="pl"/><by name="Pępowo" country="pl"/></item>
+
+
+
+  <item data="1996/06/17" dist="30" exdist="30"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/06/18" dist="30" exdist="30"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/06/19" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/06/20" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/06/21" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/06/29" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+</month>
+<month no="7">
+
+  <item data="1996/07/11" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/07/12" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/07/13" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/07/14" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/07/16" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/07/17" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/07/19" dist="40" exdist="40"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/07/20" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/07/21" dist="55" exdist="55"><by name="Osowa" country="pl"/><by name="Koleczkowo" country="pl"/><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1996/07/22" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/07/23" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/07/24" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/07/25" dist="55" exdist="55"><by name="Pępowo" country="pl"/></item>
+
+
+
+  <item data="1996/07/25" dist="55" exdist="55"><by name="Pępowo" country="pl"/></item>
+
+
+
+  <item data="1996/07/26" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/07/29" dist="40" exdist="40"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/07/30" dist="40" exdist="40"><by name="Chwaszczyno" country="pl"/></item>
+
+
+
+  <item data="1996/07/31" dist="55" exdist="55"><by name="Pępowo" country="pl"/></item>
+
+
+</month>
+<month no="8">
+
+  <item data="1996/08/01" dist="45" exdist="45"><by name="Osowa" country="pl"/><by name="Rębiechowo" country="pl"/></item>
+
+
+
+  <item data="1996/08/02" dist="45" exdist="45"><by name="Osowa" country="pl"/><by name="Gdynia" country="pl"/></item>
+
+
+
+  <item data="1996/08/04" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/08/05" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/08/06" dist="55" exdist="55"><by name="Pępowo" country="pl"/></item>
+
+
+
+  <item data="1996/08/07" dist="55" exdist="55"><by name="Pępowo" country="pl"/></item>
+
+
+
+  <item data="1996/08/08" dist="68" exdist="68"><by name="Czeczewo" country="pl"/><by name="Pępowo" country="pl"/></item>
+
+
+
+  <item data="1996/08/09" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/08/10" dist="65" exdist="65"><by name="Czeczewo" country="pl"/><by name="Pępowo" country="pl"/></item>
+
+
+
+  <item data="1996/08/11" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/08/12" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/08/13" dist="53" exdist="53"><by name="Gdynia" country="pl"/><by name="Chwaszczyno" country="pl"/><by name="Pępowo" country="pl"/></item>
+
+
+
+  <item data="1996/08/14" dist="55" exdist="55"><by name="Chwaszczyno" country="pl"/><by name="Pępowo" country="pl"/></item>
+
+
+
+  <item data="1996/08/16" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/08/18" dist="73" exdist="73"><by name="Czeczewo" country="pl"/><by name="Pępowo" country="pl"/></item>
+
+
+
+  <item data="1996/08/19" dist="67" exdist="67"><by name="Czeczewo" country="pl"/><by name="Pępowo" country="pl"/></item>
+
+
+
+  <item data="1996/08/20" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/08/21" dist="88" exdist="88"><by name="Chwaszczyno" country="pl"/><by name="Pępowo" country="pl"/></item>
+
+
+
+  <item data="1996/08/22" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/08/23" dist="57" exdist="57"><by name="Czeczewo" country="pl"/><by name="Pępowo" country="pl"/></item>
+
+
+
+  <item data="1996/08/25" dist="30" exdist="30"/>
+
+
+
+  <item data="1996/08/27" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/08/29" dist="62" exdist="62"><by name="Gdynia" country="pl"/><by name="Wiczlino" country="pl"/><by name="Osowa" country="pl"/></item>
+
+
+
+  <item data="1996/08/30" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/08/31" dist="54" exdist="54"><by name="Gdynia" country="pl"/><by name="Chwaszczyno" country="pl"/><by name="Pępowo" country="pl"/></item>
+
+
+</month>
+<month no="9">
+
+  <item data="1996/09/01" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/09/02" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/09/03" dist="54" exdist="54"><by name="Gdynia" country="pl"/><by name="Chwaszczyno" country="pl"/><by name="Pępowo" country="pl"/></item>
+
+
+
+  <item data="1996/09/04" dist="52" exdist="52"><by name="Sopot" country="pl"/><by name="Chwaszczyno" country="pl"/><by name="Pępowo" country="pl"/></item>
+
+
+
+  <item data="1996/09/10" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/09/12" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/09/13" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/09/14" dist="55" exdist="55"><by name="Osowa" country="pl"/><by name="Chwaszczyno" country="pl"/><by name="Rębiechowo" country="pl"/><by name="Matarnia" country="pl"/></item>
+
+
+
+  <item data="1996/09/16" dist="55" exdist="55"><by name="Osowa" country="pl"/><by name="Chwaszczyno" country="pl"/><by name="Rębiechowo" country="pl"/><by name="Matarnia" country="pl"/></item>
+
+
+
+  <item data="1996/09/17" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/09/18" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/09/19" dist="55" exdist="55"><by name="Osowa" country="pl"/><by name="Chwaszczyno" country="pl"/><by name="Rębiechowo" country="pl"/><by name="Matarnia" country="pl"/></item>
+
+
+
+  <item data="1996/09/20" dist="55" exdist="55"><by name="Osowa" country="pl"/><by name="Chwaszczyno" country="pl"/><by name="Rębiechowo" country="pl"/><by name="Matarnia" country="pl"/></item>
+
+
+
+  <item data="1996/09/22" dist="50" exdist="50"><by name="Osowa" country="pl"/><by name="Chwaszczyno" country="pl"/><by name="Rębiechowo" country="pl"/><by name="Matarnia" country="pl"/></item>
+
+
+
+  <item data="1996/09/23" dist="40" exdist="40"><by name="Osowa" country="pl"/><by name="Chwaszczyno" country="pl"/></item>
+
+
+
+  <item data="1996/09/24" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/09/27" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/09/29" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/09/30" dist="20" exdist="20"><by name="Chwaszczyno" country="pl"/></item>
+
+
+</month>
+<month no="10">
+
+  <item data="1996/10/06" dist="42" exdist="42"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1996/10/07" dist="42" exdist="42"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1996/10/08" dist="42" exdist="42"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1996/10/10" dist="42" exdist="42"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1996/10/14" dist="42" exdist="42"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1996/10/15" dist="42" exdist="42"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1996/10/16" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1996/10/18" dist="42" exdist="42"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1996/10/19" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1996/10/21" dist="40" exdist="40.00"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1996/10/23" dist="40" exdist="40.00"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1996/10/25" dist="40" exdist="40.00"><by name="Wiczlino" country="pl"/></item>
+
+
+</month>
+
+<month no="11">
+
+  <item data="1996/11/01" dist="30" exdist="30.00"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1996/11/04" dist="42" exdist="42.00"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1996/11/05" dist="52" exdist="52.00"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1996/11/09" dist="42" exdist="42"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1996/11/12" dist="26" exdist="26"><by name="Chwaszczyno" country="pl"/></item>
+
+
+
+  <item data="1996/11/23" dist="40" exdist="42.00"/>
+
+
+
+  <item data="1996/11/25" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+</month>
+
+</year>

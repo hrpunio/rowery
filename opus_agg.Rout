@@ -1,0 +1,59 @@
+
+R version 3.5.2 (2018-12-20) -- "Eggshell Igloo"
+Copyright (C) 2018 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R jest oprogramowaniem darmowym i dostarczany jest BEZ JAKIEJKOLWIEK GWARANCJI.
+Możesz go rozpowszechniać pod pewnymi warunkami.
+Wpisz 'license()' lub 'licence()' aby uzyskać szczegóły dystrybucji.
+
+R jest projektem kolaboracyjnym z wieloma uczestnikami.
+Wpisz 'contributors()' aby uzyskać więcej informacji oraz
+'citation()' aby dowiedzieć się jak cytować R lub pakiety R w publikacjach.
+
+Wpisz 'demo()' aby zobaczyć demo, 'help()' aby uzyskać pomoc on-line, lub
+'help.start()' aby uzyskać pomoc w przeglądarce HTML.
+Wpisz 'q()' aby wyjść z R.
+
+[Poprzednio zapisany obszar roboczy został przywrócony]
+
+> require(ggplot2)
+Ładowanie wymaganego pakietu: ggplot2
+> require(dplyr)
+Ładowanie wymaganego pakietu: dplyr
+
+Dołączanie pakietu: ‘dplyr’
+
+Następujące obiekty zostały zakryte z ‘package:stats’:
+
+    filter, lag
+
+Następujące obiekty zostały zakryte z ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+> 
+> ## ##
+> d <- read.csv("c2018.csv", sep = ';', dec = ",",  header=T, na.string="NA");
+> #d <- read.csv("c2019.csv", sep = ';', dec = ",",  header=T, na.string="NA");
+> 
+> rides = nrow (d)
+> total = sum (d$dist)
+> mride = mean (d$dist)
+> ## ##
+> dm <- d %>% mutate(cat = factor(mm)) %>%
++   group_by (cat) %>%
++   summarise( ss = sum(dist, na.rm=TRUE)) %>%
++   as.data.frame
+> 
+> p.m <- ggplot(dm, aes(x = cat, y = ss )) +
++     ggtitle(sprintf ("Cycling in 2018 (total: %.1f kms/ %i rides/ %.1f kms per ride)", total, rides,  mride)) +
++     xlab("month") + ylab("km") +
++     geom_bar(position = 'dodge', stat = 'identity', fill = "steelblue", alpha=.5) +
++     geom_text(data=dm, aes(label=sprintf("%.0f", ss), y= ss), vjust=1.5, color="white" )
+> 
+> p.m
+> 
+> proc.time()
+użytkownik     system   upłynęło 
+     1.111      0.045      1.144 

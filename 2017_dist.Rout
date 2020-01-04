@@ -1,0 +1,39 @@
+
+R version 3.2.2 (2015-08-14) -- "Fire Safety"
+Copyright (C) 2015 The R Foundation for Statistical Computing
+Platform: x86_64-redhat-linux-gnu (64-bit)
+
+R jest oprogramowaniem darmowym i dostarczany jest BEZ JAKIEJKOLWIEK GWARANCJI.
+Możesz go rozpowszechniać pod pewnymi warunkami.
+Wpisz 'license()' lub 'licence()' aby uzyskać szczegóły dystrybucji.
+
+R jest projektem kolaboracyjnym z wieloma uczestnikami.
+Wpisz 'contributors()' aby uzyskać więcej informacji oraz
+'citation()' aby dowiedzieć się jak cytować R lub pakiety R w publikacjach.
+
+Wpisz 'demo()' aby zobaczyć demo, 'help()' aby uzyskać pomoc on-line, lub
+'help.start()' aby uzyskać pomoc w przeglądarce HTML.
+Wpisz 'q()' aby wyjść z R.
+
+[Poprzednio zapisany obszar roboczy został przywrócony]
+
+> d <- read.csv("2017_dist.csv", sep = ';',  header=T, na.string="NA");
+> 
+> str(d)
+'data.frame':	282 obs. of  2 variables:
+ $ date: Factor w/ 282 levels "2017/01/01","2017/01/02",..: 1 2 3 4 5 6 7 8 9 10 ...
+ $ dist: int  50 45 45 20 40 40 50 45 45 50 ...
+> 
+> pdf(file="2017_dist.pdf", onefile = TRUE);
+> 
+> hist(d$dist, breaks=seq(0, 250, by=10),
++        freq=TRUE,col="orange",main="Rides by distance 2017",
++        xlab="kms",ylab="#N",yaxs="i",xaxs="i")
+> 
+> dev.off()
+null device 
+          1 
+> 
+> proc.time()
+użytkownik     system   upłynęło 
+     0.234      0.017      0.241 

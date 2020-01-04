@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="iso-8859-2"?>
+
+<?xml-stylesheet href='rowery.xsl' type='text/xsl'?>
+
+<!--Generated file *** do not edit ***-->
+<year no="1993" done="20760">
+
+<month no="4">
+
+  <item data="1993/04/02" dist="25" exdist="25"/>
+
+
+
+  <item data="1993/04/03" dist="25" exdist="25"/>
+
+
+
+  <item data="1993/04/05" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1993/04/07" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1993/04/13" dist="50" exdist="50"><by name="Żukowo" country="pl"/></item>
+
+
+
+  <item data="1993/04/14" dist="50" exdist="50"><by name="Kamień" country="pl"/></item>
+
+
+
+  <item data="1993/04/16" dist="50" exdist="50"><by name="Bieszkowice" country="pl"/></item>
+
+
+
+  <item data="1993/04/16" dist="50" exdist="50"><by name="Bieszkowice" country="pl"/></item>
+
+
+
+  <item data="1993/04/22" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1993/04/23" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1993/04/24" dist="50" exdist="50"><by name="Żukowo" country="pl"/></item>
+
+
+
+  <item data="1993/04/25" dist="50" exdist="50"><by name="Żukowo" country="pl"/></item>
+
+
+
+  <item data="1993/04/26" dist="50" exdist="50"><by name="Reda" country="pl"/></item>
+
+
+
+  <item data="1993/04/29" dist="50" exdist="50"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1993/04/30" dist="110" exdist="110"><by name="Tczew" country="pl"/><by name="Bachotek" country="pl"/></item>
+
+
+</month>
+<month no="5">
+
+  <item data="1993/05/01" dist="80" exdist="80"><by name="Bachotek" country="pl"/><by name="Warlubie" country="pl"/></item>
+
+
+
+  <item data="1993/05/06" dist="50" exdist="50"><by name="Żukowo" country="pl"/></item>
+
+
+
+  <item data="1993/05/07" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1993/05/08" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1993/05/10" dist="50" exdist="50"><by name="Kamień" country="pl"/></item>
+
+
+
+  <item data="1993/05/12" dist="50" exdist="50"><by name="Kamień" country="pl"/></item>
+
+
+
+  <item data="1993/05/13" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1993/05/15" dist="50" exdist="50"><by name="Żukowo" country="pl"/></item>
+
+
+
+  <item data="1993/05/16" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1993/05/19" dist="50" exdist="50"><by name="Kamień" country="pl"/></item>
+
+
+
+  <item data="1993/05/20" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1993/05/22" dist="70" exdist="70"><by name="Wejherowo" country="pl"/></item>
+
+
+
+  <item data="1993/05/23" dist="110" exdist="110"><by name="Tczew" country="pl"/></item>
+
+
+
+  <item data="1993/05/26" dist="50" exdist="50"><by name="Żukowo" country="pl"/></item>
+
+
+
+  <item data="1993/05/27" dist="50" exdist="50"><by name="Żukowo" country="pl"/></item>
+
+
+
+  <item data="1993/05/28" dist="40" exdist="40"><by name="Miszewko" country="pl"/></item>
+
+
+
+  <item data="1993/05/30" dist="40" exdist="40"><by name="Miszewo" country="pl"/></item>
+
+
+</month>
+<month no="6">
+
+  <item data="1993/06/02" dist="70" exdist="70"><by name="Kartuzy" country="pl"/></item>
+
+
+
+  <item data="1993/06/04" dist="50" exdist="50"><by name="Żukowo" country="pl"/></item>
+
+
+
+  <item data="1993/06/04" dist="50" exdist="50"><by name="Żukowo" country="pl"/></item>
+
+
+
+  <item data="1993/06/08" dist="50" exdist="50"><by name="Bieszkowice" country="pl"/></item>
+
+
+
+  <item data="1993/06/09" dist="50" exdist="50"><by name="Bieszkowice" country="pl"/></item>
+
+
+
+  <item data="1993/06/10" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1993/06/12" dist="50" exdist="50"><by name="Bieszkowice" country="pl"/></item>
+
+
+
+  <item data="1993/06/18" dist="50" exdist="50"><by name="Bieszkowice" country="pl"/></item>
+
+
+
+  <item data="1993/06/19" dist="50" exdist="50"><by name="Żukowo" country="pl"/></item>
+
+
+
+  <item data="1993/06/23" dist="70" exdist="70"><by name="Wejherowo" country="pl"/></item>
+
+
+
+  <item data="1993/06/24" dist="50" exdist="50"><by name="Reda" country="pl"/></item>
+
+
+
+  <item data="1993/06/25" dist="50" exdist="50"><by name="Bieszkowice" country="pl"/></item>
+
+
+
+  <item data="1993/06/27" dist="40" exdist="40"/>
+
+
+
+  <item data="1993/06/29" dist="50" exdist="50"><by name="Żukowo" country="pl"/></item>
+
+
+</month>
+<month no="7">
+
+  <item data="1993/07/01" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1993/07/02" dist="70" exdist="70"><by name="Wejherowo" country="pl"/></item>
+
+
+
+  <item data="1993/07/04" dist="50" exdist="50"><by name="Bieszkowice" country="pl"/></item>
+
+
+
+  <item data="1993/07/06" dist="50" exdist="50"/>
+
+
+
+  <item data="1993/07/08" dist="50" exdist="50"/>
+
+
+
+  <item data="1993/07/09" dist="40" exdist="40"/>
+
+
+
+  <item data="1993/07/12" dist="50" exdist="50"><by name="Bieszkowice" country="pl"/></item>
+
+
+
+  <item data="1993/07/14" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1993/07/15" dist="50" exdist="50"><by name="Żukowo" country="pl"/></item>
+
+
+
+  <item data="1993/07/17" dist="70" exdist="70"><by name="Wejherowo" country="pl"/></item>
+
+
+</month>
+<month no="8">
+
+  <item data="1993/08/03" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1993/08/05" dist="50" exdist="50"><by name="Żukowo" country="pl"/></item>
+
+
+
+  <item data="1993/08/06" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1993/08/07" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1993/08/08" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1993/08/10" dist="50" exdist="50"><by name="Reda" country="pl"/></item>
+
+
+
+  <item data="1993/08/12" dist="50" exdist="50"><by name="Bieszkowice" country="pl"/></item>
+
+
+
+  <item data="1993/08/13" dist="50" exdist="50"><by name="Żukowo" country="pl"/></item>
+
+
+
+  <item data="1993/08/15" dist="60" exdist="60"><by name="Wejherowo" country="pl"/></item>
+
+
+
+  <item data="1993/08/16" dist="50" exdist="50"><by name="Żukowo" country="pl"/></item>
+
+
+
+  <item data="1993/08/17" dist="70" exdist="70"><by name="Wejherowo" country="pl"/></item>
+
+
+
+  <item data="1993/08/18" dist="50" exdist="50"><by name="Żukowo" country="pl"/></item>
+
+
+
+  <item data="1993/08/20" dist="50" exdist="50"><by name="Reda" country="pl"/></item>
+
+
+
+  <item data="1993/08/22" dist="70" exdist="70"><by name="Wejherowo" country="pl"/></item>
+
+
+
+  <item data="1993/08/23" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1993/08/26" dist="50" exdist="50"><by name="Żukowo" country="pl"/></item>
+
+
+
+  <item data="1993/08/28" dist="40" exdist="40"><by name="Żukowo" country="pl"/></item>
+
+
+
+  <item data="1993/08/29" dist="70" exdist="70"><by name="Wejherowo" country="pl"/></item>
+
+
+
+  <item data="1993/08/31" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+</month>
+<month no="9">
+
+  <item data="1993/09/01" dist="50" exdist="50"><by name="Kamień" country="pl"/></item>
+
+
+
+  <item data="1993/09/05" dist="50" exdist="50"><by name="Reda" country="pl"/></item>
+
+
+
+  <item data="1993/09/06" dist="40" exdist="40"><by name="Żukowo" country="pl"/></item>
+
+
+
+  <item data="1993/09/07" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1993/09/08" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1993/09/09" dist="50" exdist="50"><by name="Reda" country="pl"/></item>
+
+
+
+  <item data="1993/09/10" dist="50" exdist="50"><by name="Reda" country="pl"/></item>
+
+
+
+  <item data="1993/09/13" dist="50" exdist="50"><by name="Żukowo" country="pl"/></item>
+
+
+
+  <item data="1993/09/15" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1993/09/16" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1993/09/17" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1993/09/19" dist="40" exdist="40"><by name="Żukowo" country="pl"/></item>
+
+
+
+  <item data="1993/09/23" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1993/09/24" dist="40" exdist="40"><by name="Żukowo" country="pl"/></item>
+
+
+
+  <item data="1993/09/25" dist="50" exdist="50"><by name="Reda" country="pl"/></item>
+
+
+
+  <item data="1993/09/28" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1993/09/29" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+</month>
+<month no="10">
+
+  <item data="1993/10/01" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1993/10/02" dist="50" exdist="50"><by name="Bieszkowice" country="pl"/></item>
+
+
+
+  <item data="1993/10/03" dist="50" exdist="50"><by name="Reda" country="pl"/></item>
+
+
+
+  <item data="1993/10/04" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1993/10/06" dist="50" exdist="50"><by name="Kamień" country="pl"/></item>
+
+
+
+  <item data="1993/10/07" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1993/10/08" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1993/10/09" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1993/10/10" dist="100" exdist="100"><by name="Szemud" country="pl"/><by name="Przodkowo" country="pl"/></item>
+
+
+
+  <item data="1993/10/12" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1993/10/14" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1993/10/16" dist="70" exdist="70"><by name="Kartuzy" country="pl"/></item>
+
+
+
+  <item data="1993/10/19" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1993/10/26" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1993/10/27" dist="40" exdist="40"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1993/10/29" dist="30" exdist="30"><by name="Chwaszczyno" country="pl"/></item>
+
+
+</month>
+
+</year>

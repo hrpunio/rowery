@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="iso-8859-2"?>
+
+<?xml-stylesheet href='rowery.xsl' type='text/xsl'?>
+
+<!--Generated file *** do not edit ***-->
+<year no="1995" done="30560">
+<month no="4">
+
+  <item data="1995/04/23" dist="60" exdist="60"><by name="Koleczkowo" country="pl"/></item>
+
+
+
+  <item data="1995/04/24" dist="40" exdist="40"><by name="Chwaszczyno" country="pl"/></item>
+
+
+
+  <item data="1995/04/25" dist="40" exdist="40"><by name="Chwaszczyno" country="pl"/></item>
+
+
+
+  <item data="1995/04/26" dist="20" exdist="20"/>
+
+
+
+  <item data="1995/04/27" dist="50" exdist="50"><by name="Wiczlino" country="pl"/><by name="Gdynia" country="pl"/></item>
+
+
+
+  <item data="1995/04/28" dist="60" exdist="60"><by name="Iława" country="pl"/><by name="Bachotek" country="pl"/></item>
+
+
+
+  <item data="1995/04/29" dist="45" exdist="45"><by name="Brodnica" country="pl"/></item>
+
+
+</month>
+<month no="5">
+
+  <item data="1995/05/03" dist="40" exdist="40"><by name="Bachotek" country="pl"/><by name="Iława" country="pl"/></item>
+
+
+
+  <item data="1995/05/04" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/05/05" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/05/06" dist="50" exdist="50"><by name="Koleczkowo" country="pl"/></item>
+
+
+
+  <item data="1995/05/08" dist="50" exdist="50"><by name="Wiczlino" country="pl"/><by name="Gdynia" country="pl"/></item>
+
+
+
+  <item data="1995/05/09" dist="20" exdist="20"/>
+
+
+
+  <item data="1995/05/11" dist="20" exdist="20"/>
+
+
+
+  <item data="1995/05/12" dist="40" exdist="40"/>
+
+
+
+  <item data="1995/05/15" dist="20" exdist="20"><by name="Sopot" country="pl"/><by name="Gdańsk" country="pl"/></item>
+
+
+
+  <item data="1995/05/16" dist="20" exdist="20"><by name="Sopot" country="pl"/><by name="Gdańsk" country="pl"/></item>
+
+
+
+  <item data="1995/05/18" dist="20" exdist="20"><by name="Sopot" country="pl"/><by name="Gdańsk" country="pl"/></item>
+
+
+
+  <item data="1995/05/19" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/05/20" dist="50" exdist="50"><by name="Pępowo" country="pl"/></item>
+
+
+
+  <item data="1995/05/22" dist="20" exdist="20"/>
+
+
+
+  <item data="1995/05/23" dist="40" exdist="40"><by name="Chwaszczyno" country="pl"/></item>
+
+
+
+  <item data="1995/05/24" dist="40" exdist="40"><by name="Chwaszczyno" country="pl"/></item>
+
+
+
+  <item data="1995/05/25" dist="40" exdist="40"><by name="Chwaszczyno" country="pl"/></item>
+
+
+
+  <item data="1995/05/26" dist="50" exdist="50"><by name="Chwaszczyno" country="pl"/><by name="Gdańsk" country="pl"/></item>
+
+
+
+  <item data="1995/05/27" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/05/28" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/05/29" dist="50" exdist="50"><by name="Rębiechowo" country="pl"/></item>
+
+
+
+  <item data="1995/05/30" dist="60" exdist="60"><by name="Koleczkowo" country="pl"/></item>
+
+
+
+  <item data="1995/05/31" dist="50" exdist="50"><by name="Rębiechowo" country="pl"/></item>
+
+
+</month>
+<month no="6">
+
+  <item data="1995/06/01" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/06/02" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/06/03" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/06/04" dist="40" exdist="40"><by name="Chwaszczyno" country="pl"/></item>
+
+
+
+  <item data="1995/06/05" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/06/06" dist="50" exdist="50"><by name="Pępowo" country="pl"/></item>
+
+
+
+  <item data="1995/06/07" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/06/09" dist="50" exdist="50"><by name="Pępowo" country="pl"/></item>
+
+
+
+  <item data="1995/06/10" dist="60" exdist="60"><by name="Koleczkowo" country="pl"/></item>
+
+
+
+  <item data="1995/06/12" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/06/13" dist="40" exdist="40"><by name="Chwaszczyno" country="pl"/></item>
+
+
+
+  <item data="1995/06/14" dist="35" exdist="35"><by name="Chwaszczyno" country="pl"/></item>
+
+
+
+  <item data="1995/06/20" dist="55" exdist="55"/>
+
+
+
+  <item data="1995/06/21" dist="45" exdist="45"/>
+
+
+
+  <item data="1995/06/22" dist="40" exdist="40"/>
+
+
+
+  <item data="1995/06/24" dist="20" exdist="20"/>
+
+
+
+  <item data="1995/06/25" dist="20" exdist="20"/>
+
+
+
+  <item data="1995/06/29" dist="20" exdist="20"/>
+
+
+
+  <item data="1995/06/30" dist="20" exdist="20"/>
+
+
+</month>
+<month no="7">
+
+  <item data="1995/07/02" dist="60" exdist="60"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1995/07/08" dist="20" exdist="20"><by name="Sopot" country="pl"/><by name="Gdańsk" country="pl"/></item>
+
+
+
+  <item data="1995/07/09" dist="60" exdist="60"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1995/07/14" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/07/15" dist="45" exdist="45"><by name="Pępowo" country="pl"/></item>
+
+
+
+  <item data="1995/07/18" dist="30" exdist="30"><by name="Gdynia" country="pl"/></item>
+
+
+
+  <item data="1995/07/19" dist="20" exdist="20"/>
+
+
+
+  <item data="1995/07/20" dist="20" exdist="20"/>
+
+
+
+  <item data="1995/07/21" dist="20" exdist="20"/>
+
+
+
+  <item data="1995/07/22" dist="30" exdist="30"><by name="Gdynia" country="pl"/></item>
+
+
+
+  <item data="1995/07/23" dist="20" exdist="20"/>
+
+
+
+  <item data="1995/07/24" dist="20" exdist="20"/>
+
+
+
+  <item data="1995/07/25" dist="20" exdist="20"/>
+
+
+
+  <item data="1995/07/26" dist="20" exdist="20"/>
+
+
+</month>
+<month no="8">
+
+  <item data="1995/08/01" dist="35" exdist="35"><by name="Chwaszczyno" country="pl"/></item>
+
+
+
+  <item data="1995/08/02" dist="30" exdist="30"><by name="Gdynia" country="pl"/></item>
+
+
+
+  <item data="1995/08/03" dist="20" exdist="20"/>
+
+
+
+  <item data="1995/08/05" dist="20" exdist="20"/>
+
+
+
+  <item data="1995/08/07" dist="20" exdist="20"/>
+
+
+
+  <item data="1995/08/08" dist="35" exdist="35"><by name="Chwaszczyno" country="pl"/></item>
+
+
+
+  <item data="1995/08/09" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/08/10" dist="30" exdist="30"><by name="Gdańsk" country="pl"/></item>
+
+
+
+  <item data="1995/08/11" dist="25" exdist="25"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/08/12" dist="30" exdist="30"><by name="Chwaszczyno" country="pl"/></item>
+
+
+
+  <item data="1995/08/13" dist="35" exdist="35"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/08/14" dist="30" exdist="30"><by name="Chwaszczyno" country="pl"/></item>
+
+
+
+  <item data="1995/08/16" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/08/17" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/08/18" dist="40" exdist="40"><by name="Chwaszczyno" country="pl"/></item>
+
+
+
+  <item data="1995/08/19" dist="40" exdist="40"><by name="Chwaszczyno" country="pl"/></item>
+
+
+
+  <item data="1995/08/20" dist="40" exdist="40"><by name="Chwaszczyno" country="pl"/></item>
+
+
+
+  <item data="1995/08/21" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/08/22" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/08/23" dist="10" exdist="10"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/08/24" dist="20" exdist="20"><by name="Wiczlino" country="pl"/></item>
+
+
+
+  <item data="1995/08/25" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/08/26" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/08/27" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+</month>
+<month no="9">
+
+  <item data="1995/09/11" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/09/12" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/09/13" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/09/14" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/09/18" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/09/19" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/09/20" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/09/21" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/09/22" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/09/24" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/09/25" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/09/26" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/09/27" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/09/29" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+</month>
+<month no="10">
+
+  <item data="1995/10/03" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/10/05" dist="20" exdist="20"/>
+
+
+
+  <item data="1995/10/06" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/10/07" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/10/08" dist="30" exdist="30"><by name="Rębiechowo" country="pl"/><by name="Barniewice" country="pl"/><by name="Osowa" country="pl"/></item>
+
+
+
+  <item data="1995/10/09" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/10/10" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/10/11" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/10/13" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/10/14" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/10/15" dist="30" exdist="30"><by name="Rębiechowo" country="pl"/><by name="Barniewice" country="pl"/><by name="Osowa" country="pl"/></item>
+
+
+
+  <item data="1995/10/16" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/10/17" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/10/18" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/10/19" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/10/20" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/10/21" dist="25" exdist="25"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/10/23" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/10/24" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/10/26" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/10/27" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/10/28" dist="30" exdist="30"><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/10/29" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/10/30" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+
+  <item data="1995/10/31" dist="20" exdist="20"><by name="Gdańsk" country="pl"/><by name="Sopot" country="pl"/></item>
+
+
+</month>
+<month no="11">
+
+  <item data="1995/11/11" dist="20" exdist="20"><by name="Sopot" country="pl"/></item>
+
+
+</month>
+
+</year>

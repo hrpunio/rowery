@@ -1,0 +1,96 @@
+
+R version 3.5.2 (2018-12-20) -- "Eggshell Igloo"
+Copyright (C) 2018 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R jest oprogramowaniem darmowym i dostarczany jest BEZ JAKIEJKOLWIEK GWARANCJI.
+Możesz go rozpowszechniać pod pewnymi warunkami.
+Wpisz 'license()' lub 'licence()' aby uzyskać szczegóły dystrybucji.
+
+R jest projektem kolaboracyjnym z wieloma uczestnikami.
+Wpisz 'contributors()' aby uzyskać więcej informacji oraz
+'citation()' aby dowiedzieć się jak cytować R lub pakiety R w publikacjach.
+
+Wpisz 'demo()' aby zobaczyć demo, 'help()' aby uzyskać pomoc on-line, lub
+'help.start()' aby uzyskać pomoc w przeglądarce HTML.
+Wpisz 'q()' aby wyjść z R.
+
+[Poprzednio zapisany obszar roboczy został przywrócony]
+
+> require(ggplot2)
+Ładowanie wymaganego pakietu: ggplot2
+> require(dplyr)
+Ładowanie wymaganego pakietu: dplyr
+
+Dołączanie pakietu: ‘dplyr’
+
+Następujące obiekty zostały zakryte z ‘package:stats’:
+
+    filter, lag
+
+Następujące obiekty zostały zakryte z ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+> 
+> ## ##
+> d <- read.csv("opus_magnum.csv", sep = ';', dec = ",",  header=T, na.string="NA");
+> 
+> dm <- d %>% mutate(cat = factor(yyyy)) %>%
++   group_by (cat) %>%
++   summarise( tdist = sum(dist, na.rm=TRUE) /1000 ) %>%
++   as.data.frame
+> 
+> dm
+    cat  tdist
+1  1993  5.280
+2  1994  4.520
+3  1995  3.570
+4  1996  4.560
+5  1997  5.045
+6  1998  6.635
+7  1999  6.435
+8  2000 11.205
+9  2001 10.755
+10 2002 10.455
+11 2003 10.530
+12 2004  8.685
+13 2005  8.950
+14 2006  2.880
+15 2007  3.970
+16 2008  6.590
+17 2009  5.515
+18 2010  6.400
+19 2011  8.135
+20 2012  7.215
+21 2013  8.220
+22 2014  7.370
+23 2015  8.760
+24 2016 11.225
+25 2017 17.855
+26 2018 19.100
+27 2019 11.735
+> 
+> yyyy.first <- first(dm$cat)
+> yyyy.last <- last(dm$cat)
+> 
+> time.period <- sprintf ("%s--%s", yyyy.first, yyyy.last)
+> 
+> time.period
+[1] "1993--2019"
+> 
+> 
+> p.m <- ggplot(dm, aes(x = cat, y = tdist )) +
++     ggtitle(sprintf ("Distance by year (%s)", time.period)) +
++     xlab("year") + ylab("ths km") +
++     geom_bar(position = 'dodge', stat = 'identity', fill = "steelblue") +
++     geom_text(data=dm, aes(label=sprintf("%.2f", tdist), y= tdist), vjust=1.5, color="darkblue", size=3 )
+> 
+> p.m
+> 
+> ggsave(p.m, file="opus_magnum.pdf", width=12)
+Saving 12 x 7 in image
+> 
+> proc.time()
+użytkownik     system   upłynęło 
+     1.176      0.056      1.218 

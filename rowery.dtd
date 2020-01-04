@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='iso-8859-2' ?>
+<!-- 
+  $Id: rowery.dtd,v 1.1 2007/01/02 12:02:00 tomek Exp $ 
+  ..
+  .. (c) t. przechlewski, 2004,2005 (tomasz@gnu.univ.gda.pl)
+  .. Zezwala sie na wykorzystanie na warunkach licencji 
+  .. GPL. patrz: http://www.gnu.org/licenses/gpl.html         
+  -->
+
+
+<!ELEMENT year  ((month | comment)+ )                      >
+<!ELEMENT month (day | comment)*                           >
+<!ELEMENT day   (ride*, comment? )                         >
+<!ELEMENT ride  (by*, comment?   )                         >
+<!ELEMENT by EMPTY                                         >
+<!ELEMENT comment (#PCDATA)                                >
+
+<!-- dystans ogółem w zaokrągleniu w dół do 5 km,
+        dystans dokładnie oraz czas:                     -->
+<!ENTITY % coreattrs " 
+    dist CDATA #IMPLIED
+    exdist CDATA #IMPLIED
+    time CDATA #IMPLIED "                                  >
+
+<!ATTLIST year no CDATA     #REQUIRED                      >
+<!ATTLIST year bike CDATA   #IMPLIED                       >
+<!ATTLIST month no CDATA     #REQUIRED                     >
+
+<!-- waga rowerzysty o godz 8.00:                        -->
+<!ATTLIST day w8   CDATA     #IMPLIED                      >
+<!-- wspolczynnik  zz                                    -->
+<!ATTLIST day zz   CDATA     #IMPLIED                      >
+
+<!-- temp. powietrza -->
+<!ATTLIST day temp CDATA     #IMPLIED                      >
+<!ATTLIST day date CDATA     #REQUIRED                     >
+<!-- opis daty że święto na przykład                     -->
+<!ATTLIST day xdate CDATA    #IMPLIED                      >
+
+<!ATTLIST ride %coreattrs; 
+   kml CDATA #IMPLIED
+   gpx CDATA #IMPLIED                                      >
+
+<!-- średnia, zwykle liczona na krótszym 
+ dystansie niż dist:                                     -->
+<!ATTLIST ride mean CDATA   #IMPLIED                       >
+
+<!ATTLIST ride maxspeed CDATA #IMPLIED                     >
+<!-- bike: jeżeli bike='g' lub bike='mtb' jazda w terenie-->
+<!ATTLIST ride bike CDATA   #IMPLIED                       >
+
+<!-- jeżeli typ=w, wyścig; typ=s, sparing                -->
+<!ATTLIST ride typ  CDATA   #IMPLIED                       >
+
+<!-- id trasy -->
+<!ATTLIST ride id   CDATA   #IMPLIED                       >
+
+<!-- dwuliterowy kod kraju; domyślnie PL                 -->
+<!ATTLIST by country CDATA    "pl"                         >
+<!ATTLIST by name CDATA       #IMPLIED                     >
+<!ATTLIST by %coreattrs;                                   >
+
+<!ATTLIST comment date CDATA #IMPLIED                      >
+
+<!-- koniec -->

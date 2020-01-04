@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="iso-8859-2" standalone="no" ?>
+<!DOCTYPE year SYSTEM "rowery.dtd" >
+<year no="1996" done="34130">
+
+<month no="4">
+<!-- mieszkałem wtedy we Wrzeszczu/Klonowicza: praca Sopot/armii Krajowej -->
+<day date="1996/04/06">
+  <ride dist="35" exdist="35">
+    <by name="Chwaszczyno"/>
+    <comment>Gdańsk-Oliwa-Parkowa-Chwasz-S</comment>
+  </ride>
+</day>
+
+<day date="1996/04/09">
+  <ride dist="35" exdist="35.00">
+    <by name="Sopot"/>
+    <by name="Osowa"/>
+    <comment>Praca_bck via Chwasz-Osowa-S</comment>
+  </ride>
+</day>
+
+<day date="1996/04/10">
+  <ride dist="20" exdist="20.00">
+    <by name="Sopot"/>
+    <comment>Praca_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/04/12">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/04/15">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/04/16">
+  <ride dist="25" exdist="25">
+    <by name="Sopot"/>
+    <comment>S_bck+jazda po mieście</comment>
+  </ride>
+</day>
+
+<day date="1996/04/17">
+  <ride dist="35" exdist="35">
+    <by name="Chwaszczyno"/>
+    <by name="Osowa"/>
+    <comment>Chwaszcz-Osowa-S/z Pracy</comment>
+  </ride>
+</day>
+
+<day date="1996/04/18">
+  <ride dist="35" exdist="35">
+    <by name="Chwaszczyno"/>
+    <by name="Osowa"/>
+    <comment>trasa jw ale non stop</comment>
+  </ride>
+</day>
+
+<day date="1996/04/19">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>Praca_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/04/20">
+  <ride dist="40" exdist="40">
+    <by name="Gdańsk"/>
+    <by name="Pępowo"/>
+    <by name="Chwaszczyno"/>
+    <comment>Kartuska/Pępowo/Chwasz/S/bck</comment>
+  </ride>
+</day>
+
+<day date="1996/04/21">
+  <ride dist="35" exdist="35">
+    <by name="Gdańsk"/>
+    <by name="Pępowo"/>
+    <by name="Rębiechowo"/>
+    <comment>Kartuska/Pępowo/Rębiechowo/Kartuska/Zak. Graf/Sobieskiego</comment>
+  </ride>
+</day>
+
+<day date="1996/04/22">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/04/23">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/04/24">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/04/25">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/04/26">
+  <ride dist="35" exdist="35">
+    <by name="Chwaszczyno"/>
+    <by name="Osowa"/>
+    <comment>Praca_bck via Chwasz-Osowa-S (SZPRYCHA)</comment>
+  </ride>
+</day>
+
+<day date="1996/04/27">
+  <ride dist="35" exdist="35">
+    <by name="Matarnia"/>
+    <by name="Pępowo"/>
+    <comment>DRadosci/Rebiechowo/Pepowo/DRadosci z DB</comment>
+  </ride>
+</day>
+
+<day date="1996/04/28">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+</month>
+<month no="5">
+<day date="1996/05/01">
+  <ride dist="65" exdist="65">
+    <by name="Susz"/>
+    <by name="Bachotek"/>
+    <comment>Susz-Bachotek</comment>
+  </ride>
+</day>
+
+<day date="1996/05/04">
+  <ride dist="42" exdist="42">
+    <by name="Bachotek"/>
+    <by name="Iława"/>
+    <comment>Bachotek-Iława</comment>
+  </ride>
+</day>
+
+<day date="1996/05/07">
+  <ride dist="20" exdist="20">
+  </ride>
+</day>
+
+<day date="1996/05/08">
+  <ride dist="20" exdist="20">
+  </ride>
+</day>
+
+<day date="1996/05/11">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/05/11">
+  <ride dist="62" exdist="62">
+    <by name="Osowa"/>
+    <by name="Koleczkowo"/>
+    <by name="Wiczlino"/>
+    <comment>S/Osowa/Koleczkowo/Wiczlińska/S</comment>
+  </ride>
+</day>
+
+<day date="1996/05/12">
+  <ride dist="40" exdist="40">
+    <by name="Sopot"/>
+    <comment>S+3rundy po Reja</comment>
+  </ride>
+</day>
+
+<day date="1996/05/13">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/05/14">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/05/15">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/05/16">
+  <ride dist="35" exdist="35">
+    <by name="Osowa"/>
+    <by name="Chwaszczyno"/>
+    <comment>S/S-Chwasz-Osowa</comment>
+  </ride>
+</day>
+
+<day date="1996/05/18">
+  <ride dist="60" exdist="60">
+    <by name="Osowa"/>
+    <by name="Koleczkowo"/>
+    <by name="Wiczlino"/>
+    <comment>S/Osowa/Koleczkowo/Wiczlińska/S</comment>
+  </ride>
+</day>
+
+<day date="1996/05/19">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/05/20">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/05/22">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/05/23">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/05/24">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/05/27">
+  <ride dist="25" exdist="25">
+    <by name="Chwaszczyno"/>
+    <by name="Osowa"/>
+    <comment>S/Chwasz/Osowa/Wrzeszcz</comment>
+  </ride>
+</day>
+
+<day date="1996/05/29">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/05/30">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+</month>
+<month no="6">
+<day date="1996/06/01">
+  <ride dist="40" exdist="40">
+    <by name="Sopot"/>
+    <comment>S_bck (two times)</comment>
+  </ride>
+</day>
+
+<day date="1996/06/02">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/06/03">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/06/04">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/06/05">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/06/11">
+  <ride dist="35" exdist="35">
+    <by name="Chwaszczyno"/>
+    <by name="Osowa"/>
+    <comment>Praca_bck via Chwasz-Osowa-S</comment>
+  </ride>
+</day>
+
+<day date="1996/06/12">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>Praca_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/06/13">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>Praca_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/06/14">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>Praca_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/06/15">
+  <ride dist="60" exdist="60">
+    <by name="Matarnia"/>
+    <by name="Pępowo"/>
+    <comment>D.Radości-Lotnisko-Pępowo-D.Radości (z DB) + Do Su</comment>
+  </ride>
+</day>
+
+<day date="1996/06/16">
+  <ride dist="52" exdist="52">
+    <by name="Chwaszczyno"/>
+    <by name="Pępowo"/>
+    <comment>S-Chwszczyno-Pępowo-D.Radości</comment>
+  </ride>
+</day>
+
+<day date="1996/06/17">
+  <ride dist="30" exdist="30">
+    <by name="Sopot"/>
+    <comment>Praca_bck+po mieście</comment>
+  </ride>
+</day>
+
+<day date="1996/06/18">
+  <ride dist="30" exdist="30">
+    <by name="Sopot"/>
+    <comment>Praca_bck+po mieście</comment>
+  </ride>
+</day>
+
+<day date="1996/06/19">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>Praca_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/06/20">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>Praca_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/06/21">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>Praca_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/06/29">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>Praca_bck</comment>
+  </ride>
+</day>
+
+</month>
+<month no="7">
+<day date="1996/07/11">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>Praca_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/07/12">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>Praca_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/07/13">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>Praca_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/07/14">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>Praca_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/07/16">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>Praca_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/07/17">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>Praca_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/07/19">
+  <ride dist="40" exdist="40">
+    <by name="Sopot"/>
+    <comment>Praca_bck_Praca_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/07/20">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>Praca_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/07/21">
+  <ride dist="55" exdist="55">
+    <by name="Osowa"/>
+    <by name="Koleczkowo"/>
+    <by name="Wiczlino"/>
+    <comment>Osowa/Koleczkowo/Wiczlińska/S</comment>
+  </ride>
+</day>
+
+<day date="1996/07/22">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>Praca_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/07/23">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>Praca_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/07/24">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>Praca_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/07/25">
+  <ride dist="55" exdist="55">
+    <by name="Pępowo"/>
+    <comment>Praca_bck via Pępowo</comment>
+  </ride>
+</day>
+
+<day date="1996/07/25">
+  <ride dist="55" exdist="55">
+    <by name="Pępowo"/>
+    <comment>Praca_bck via Pępowo</comment>
+  </ride>
+</day>
+
+<day date="1996/07/26">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>Praca_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/07/29">
+  <ride dist="40" exdist="40">
+    <by name="Sopot"/>
+    <comment>Praca_bck_Praca_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/07/30">
+  <ride dist="40" exdist="40">
+    <by name="Chwaszczyno"/>
+    <comment>Chwasz</comment>
+  </ride>
+</day>
+
+<day date="1996/07/31">
+  <ride dist="55" exdist="55">
+    <by name="Pępowo"/>
+    <comment>Praca_bck via Pępowo</comment>
+  </ride>
+</day>
+
+</month>
+<month no="8">
+<day date="1996/08/01">
+  <ride dist="45" exdist="45">
+    <by name="Osowa"/>
+    <by name="Rębiechowo"/>
+    <comment>Praca_bck via Osowa/Rębiechowo</comment>
+  </ride>
+</day>
+
+<day date="1996/08/02">
+  <ride dist="45" exdist="45">
+    <by name="Osowa"/>
+    <by name="Gdynia"/>
+    <comment>Praca_bck via Osowa/Gdynia (TB)</comment>
+  </ride>
+</day>
+
+<day date="1996/08/04">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/08/05">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/08/06">
+  <ride dist="55" exdist="55">
+    <by name="Pępowo"/>
+    <comment>Praca_bck via Pępowo</comment>
+  </ride>
+</day>
+
+<day date="1996/08/07">
+  <ride dist="55" exdist="55">
+    <by name="Pępowo"/>
+    <comment>Praca_bck via Pępowo</comment>
+  </ride>
+</day>
+
+<day date="1996/08/08">
+  <ride dist="68" exdist="68">
+    <by name="Czeczewo"/>
+    <by name="Pępowo"/>
+    <comment>Praca_bck via Czeczewo/Popowo</comment>
+  </ride>
+</day>
+
+<day date="1996/08/09">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>Praca_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/08/10">
+  <ride dist="65" exdist="65">
+    <by name="Czeczewo"/>
+    <by name="Pępowo"/>
+    <comment>Praca_bck via Czeczewo/Popowo (reverse)</comment>
+  </ride>
+</day>
+
+<day date="1996/08/11">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>Praca_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/08/12">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>Praca_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/08/13">
+  <ride dist="53" exdist="53">
+    <by name="Gdynia"/>
+    <by name="Chwaszczyno"/>
+    <by name="Pępowo"/>
+    <comment>Praca/Gdynia/Chwasz/Pępowo</comment>
+  </ride>
+</day>
+
+<day date="1996/08/14">
+  <ride dist="55" exdist="55">
+    <by name="Chwaszczyno"/>
+    <by name="Pępowo"/>
+    <comment>Praca/S/Chwasz/Pępowo</comment>
+  </ride>
+</day>
+
+<day date="1996/08/16">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>Praca_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/08/18">
+  <ride dist="73" exdist="73">
+    <by name="Czeczewo"/>
+    <by name="Pępowo"/>
+    <comment>S_bck via Czeczewo/Popowo+2rds on Reja</comment>
+  </ride>
+</day>
+
+<day date="1996/08/19">
+  <ride dist="67" exdist="67">
+    <by name="Czeczewo"/>
+    <by name="Pępowo"/>
+    <comment>S_bck via Czeczewo/Popowo</comment>
+  </ride>
+</day>
+
+<day date="1996/08/20">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/08/21">
+  <ride dist="88" exdist="88">
+    <by name="Chwaszczyno"/>
+    <by name="Pępowo"/>
+    <comment>S_bck via Chwaszcz. Pępowo + Osowa_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/08/22">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/08/23">
+  <ride dist="57" exdist="57">
+    <by name="Czeczewo"/>
+    <by name="Pępowo"/>
+    <comment>S_bck via Czeczewo/Popowo</comment>
+  </ride>
+</day>
+
+<day date="1996/08/25">
+  <ride dist="30" exdist="30">
+    <comment>JPM (jazda po mieście)</comment>
+  </ride>
+</day>
+
+<day date="1996/08/27">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/08/29">
+  <ride dist="62" exdist="62">
+    <by name="Gdynia"/>
+    <by name="Wiczlino"/>
+    <by name="Osowa"/>
+    <comment>S/Wielkopolska/Wiczlińska/Osowa</comment>
+  </ride>
+</day>
+
+<day date="1996/08/30">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/08/31">
+  <ride dist="54" exdist="54">
+    <by name="Gdynia"/>
+    <by name="Chwaszczyno"/>
+    <by name="Pępowo"/>
+    <comment>S/Wielkopolska/Chwasz/Pępowo</comment>
+  </ride>
+</day>
+
+</month>
+<month no="9">
+<day date="1996/09/01">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/09/02">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/09/03">
+  <ride dist="54" exdist="54">
+    <by name="Gdynia"/>
+    <by name="Chwaszczyno"/>
+    <by name="Pępowo"/>
+    <comment>S/Wielkopolska/Chwaszcz/Pępowo</comment>
+  </ride>
+</day>
+
+<day date="1996/09/04">
+  <ride dist="52" exdist="52">
+    <by name="Sopot"/>
+    <by name="Chwaszczyno"/>
+    <by name="Pępowo"/>
+    <comment>S/Reja/Chwaszcz/Pępowo</comment>
+  </ride>
+</day>
+
+<day date="1996/09/10">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/09/12">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/09/13">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/09/14">
+  <ride dist="55" exdist="55">
+    <by name="Osowa"/>
+    <by name="Chwaszczyno"/>
+    <by name="Rębiechowo"/>
+    <by name="Matarnia"/>
+    <comment>S-Osowa-Chwasz-Rębiechowo</comment>
+  </ride>
+</day>
+
+<day date="1996/09/16">
+  <ride dist="55" exdist="55">
+    <by name="Osowa"/>
+    <by name="Chwaszczyno"/>
+    <by name="Rębiechowo"/>
+    <by name="Matarnia"/>
+    <comment>S-Osowa-Chwasz-Rębiechowo</comment>
+  </ride>
+</day>
+
+<day date="1996/09/17">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/09/18">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/09/19">
+  <ride dist="55" exdist="55">
+    <by name="Osowa"/>
+    <by name="Chwaszczyno"/>
+    <by name="Rębiechowo"/>
+    <by name="Matarnia"/>
+    <comment>S-Osowa-Chwasz-Rębiechowo</comment>
+  </ride>
+</day>
+
+<day date="1996/09/20">
+  <ride dist="55" exdist="55">
+    <by name="Osowa"/>
+    <by name="Chwaszczyno"/>
+    <by name="Rębiechowo"/>
+    <by name="Matarnia"/>
+    <comment>S-Osowa-Chwasz-Rębiechowo</comment>
+  </ride>
+</day>
+
+<day date="1996/09/22">
+  <ride dist="50" exdist="50">
+    <by name="Osowa"/>
+    <by name="Chwaszczyno"/>
+    <by name="Rębiechowo"/>
+    <by name="Matarnia"/>
+    <comment>S-Os.-Chwasz.-Ręb.-Słowackiego</comment>
+  </ride>
+</day>
+
+<day date="1996/09/23">
+  <ride dist="40" exdist="40">
+    <by name="Osowa"/>
+    <by name="Chwaszczyno"/>
+    <comment>S-Osowa-Chwasz</comment>
+  </ride>
+</day>
+
+<day date="1996/09/24">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/09/27">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/09/29">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>S_bck</comment>
+  </ride>
+</day>
+
+<day date="1996/09/30">
+  <ride dist="20" exdist="20">
+    <by name="Chwaszczyno"/>
+    <comment>To S;S-Chwaszcz-S</comment>
+  </ride>
+</day>
+
+</month>
+<month no="10">
+<day date="1996/10/06">
+  <ride dist="42" exdist="42">
+    <by name="Wiczlino"/>
+    <comment>S/Wiczlino/S</comment>
+  </ride>
+</day>
+
+<day date="1996/10/07">
+  <ride dist="42" exdist="42">
+    <by name="Wiczlino"/>
+    <comment>S/Wiczlino/S</comment>
+  </ride>
+</day>
+
+<day date="1996/10/08">
+  <ride dist="42" exdist="42">
+    <by name="Wiczlino"/>
+    <comment>S/Wiczlino/S</comment>
+  </ride>
+</day>
+
+<day date="1996/10/10">
+  <ride dist="42" exdist="42">
+    <by name="Wiczlino"/>
+    <comment>S/Wiczlino/S</comment>
+  </ride>
+</day>
+
+<day date="1996/10/14">
+  <ride dist="42" exdist="42">
+    <by name="Wiczlino"/>
+    <comment>S/Wiczlino/S</comment>
+  </ride>
+</day>
+
+<day date="1996/10/15">
+  <ride dist="42" exdist="42">
+    <by name="Wiczlino"/>
+  </ride>
+</day>
+
+<day date="1996/10/16">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+  </ride>
+</day>
+
+<day date="1996/10/18">
+  <ride dist="42" exdist="42">
+    <by name="Wiczlino"/>
+  </ride>
+</day>
+
+<day date="1996/10/19">
+  <ride dist="40" exdist="40">
+    <by name="Wiczlino"/>
+  </ride>
+</day>
+
+<day date="1996/10/21">
+  <ride dist="40" exdist="40.00">
+    <by name="Wiczlino"/>
+  </ride>
+</day>
+
+<day date="1996/10/23">
+  <ride dist="40" exdist="40.00">
+    <by name="Wiczlino"/>
+  </ride>
+</day>
+
+<day date="1996/10/25">
+  <ride dist="40" exdist="40.00">
+    <by name="Wiczlino"/>
+  </ride>
+</day>
+
+</month>
+
+<month no="11">
+<day date="1996/11/01">
+  <ride dist="30" exdist="30.00">
+    <by name="Sopot"/>
+    <comment>pętle na Reja</comment>
+  </ride>
+</day>
+
+<day date="1996/11/04">
+  <ride dist="42" exdist="42.00">
+    <by name="Wiczlino"/>
+    <comment>S/Wiczlino/S</comment>
+  </ride>
+</day>
+
+<day date="1996/11/05">
+  <ride dist="52" exdist="52.00">
+    <by name="Wiczlino"/>
+    <comment>S/Wiczlino/S+JPM</comment>
+  </ride>
+</day>
+
+<day date="1996/11/09">
+  <ride dist="42" exdist="42">
+    <by name="Wiczlino"/>
+    <comment>S/Wiczlino/S</comment>
+  </ride>
+</day>
+
+<day date="1996/11/12">
+  <ride dist="26" exdist="26">
+    <by name="Chwaszczyno"/>
+    <comment>S/Chwaszcz/S</comment>
+  </ride>
+</day>
+
+<day date="1996/11/23">
+  <ride dist="40" exdist="42.00">
+  </ride>
+</day>
+
+<day date="1996/11/25">
+  <ride dist="20" exdist="20">
+    <by name="Sopot"/>
+    <comment>Pętle po Reja</comment>
+  </ride>
+</day>
+
+</month>
+
+</year>
+
+<!-- Keep this comment at the end of the file
+Local variables:
+mode: xml
+coding: iso-8859-2
+sgml-indent-step:1
+sgml-indent-data:t
+sgml-parent-document:nil
+End:
+-->
