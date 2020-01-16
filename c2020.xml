@@ -43,7 +43,6 @@
        </ride>
      </day>
 
-
      <day date="2019/01/16">
        <ride dist="40" exdist="39.80" bike='cx' gpx='20190116'>
 	 <by name='Gdańsk'/>
