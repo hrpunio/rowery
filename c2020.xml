@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='no' ?>
+<!DOCTYPE year SYSTEM "rowery.dtd" >
+
+<year no="2020" done='242355'>
+   <month no="1">
+
+     <day date="2019/01/07">
+       <ride dist="40" exdist="40.00" bike='cx' gpx='20190107'>
+	 <by name='Warzenko'/>
+       </ride>
+     </day>
+     
+     <day date="2019/01/08">
+       <ride dist="45" exdist="44.00" bike='cx' gpx='20190108'>
+	 <by name='Wiczlino'/>
+       </ride>
+     </day>
+     
+     <day date="2019/01/09">
+       <ride dist="40" exdist="43.00" bike='cx' gpx='20190109'>
+	 <by name='Banino'/>
+	 <by name='Miszewo'/>
+       </ride>
+     </day>
+
+     <day date="2019/01/11">
+       <ride dist="75" exdist="74.80" bike='cx' gpx='20190111'>
+	 <by name='Gdańsk'/>
+	 <by name='Świbno'/>
+       </ride>
+     </day>
+     <day date="2019/01/13">
+       <ride dist="60" exdist="60.80" bike='cx' gpx='20190113'>
+	 <by name='Gdańsk'/>
+	 <by name='Sobieszewo'/>
+       </ride>
+     </day>
+
+     <day date="2019/01/15">
+       <ride dist="40" exdist="41.80" bike='ridley' gpx='20190115'>
+	 <by name='Gdynia'/>
+	 <by name='Koleczkowo'/>
+       </ride>
+     </day>
+
+
+     <day date="2019/01/16">
+       <ride dist="40" exdist="39.80" bike='cx' gpx='20190116'>
+	 <by name='Gdańsk'/>
+	 <by name='Rębiechowo'/>
+       </ride>
+     </day>
+
+     
+     
+   </month>
+</year>
+
+   
