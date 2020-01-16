@@ -36,6 +36,13 @@
        </ride>
      </day>
 
+     <day date="2019/01/14">
+       <ride dist="45" exdist="44.00" bike='cx' gpx='20190114'>
+	 <by name='Koleczkowo'/>
+	 <by name='Wiczlino'/>
+       </ride>
+     </day>
+
      <day date="2019/01/15">
        <ride dist="40" exdist="41.80" bike='ridley' gpx='20190115'>
 	 <by name='Gdynia'/>
