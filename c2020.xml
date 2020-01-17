@@ -56,6 +56,12 @@
 	 <by name='Rębiechowo'/>
        </ride>
      </day>
+     <day date="2019/01/17">
+       <ride dist="55" exdist="54.10" bike='cx' gpx='20190117'>
+	 <by name='Kamień'/>
+	 <by name='Koleczkowo'/>
+       </ride>
+     </day>
 
      
      
