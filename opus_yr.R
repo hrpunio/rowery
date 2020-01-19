@@ -1,6 +1,10 @@
 require(ggplot2)
 require(dplyr)
 
+
+dist.25 <- 250000
+dist.2019 <- 242355
+
 ###
 today <- Sys.Date()
 ##tt<- format(today, "%d/%b/%Y")
@@ -11,6 +15,9 @@ ax.ticks <- as.factor(c("1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11",
 
 d <- read.csv("opus_yr.csv", sep = ';', dec = ",",  header=F, na.string="NA");
 names(d) <- c("dd", "mm", "yyyy", "dist")
+
+dist.yr <- sum(d$dist)
+pt <- dist.2019 + dist.yr
 
 dm <- d %>% mutate(cat = factor(mm)) %>%
   group_by (cat) %>%
@@ -28,7 +35,8 @@ time.period <- sprintf ("months: %s--%s", yyyy.first, yyyy.last)
 time.period
 
 p.m <- ggplot(dm, aes(x = cat, y = tdist )) +
-    ggtitle(sprintf ("Personal cycling stats. Distance covered in %s (%s)", tt, time.period)) +
+    ggtitle(sprintf ("Personal cycling stats: distance covered in %s (%s)", tt, time.period),
+          subtitle=sprintf("Personal total: %i kms", pt)) +
     xlab("month") + ylab("ths km") +
     geom_bar(position = 'dodge', stat = 'identity', fill = "steelblue") +
     scale_x_discrete(breaks=ax.ticks,  labels=c("1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12")) +
