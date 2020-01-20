@@ -69,6 +69,13 @@
 	 <by name='Rewa'/>
        </ride>
      </day>
+     <day date="2019/01/20">
+       <ride dist="35" exdist="37.10" bike='cx' gpx='20190120'>
+	 <by name='Gdańsk'/>
+	 <by name='Rębiechowo'/>
+	 <by name='Barniewice'/>
+       </ride>
+     </day>
 
      
      
