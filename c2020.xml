@@ -84,6 +84,12 @@
 	 <by name='Osowa'/>
        </ride>
      </day>
+     <day date="2019/01/22">
+       <ride dist="55" exdist="56.10" bike='cx' gpx='20190122'>
+	 <by name='Gdańsk'/>
+	 <by name='Sobieszewo'/>
+       </ride>
+     </day>
 
      
      
