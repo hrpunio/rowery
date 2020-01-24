@@ -96,6 +96,12 @@
 	 <by name='Warzenko'/>
        </ride>
      </day>
+     <day date="2019/01/24">
+       <ride dist="55" exdist="54.10" bike='cx' gpx='2019024'>
+	 <by name='Gdańsk'/>
+	 <by name='Warzenko'/>
+       </ride>
+     </day>
 
      
      
