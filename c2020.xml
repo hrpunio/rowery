@@ -90,6 +90,12 @@
 	 <by name='Sobieszewo'/>
        </ride>
      </day>
+     <day date="2019/01/23">
+       <ride dist="40" exdist="39.75" bike='cx' gpx='20190123'>
+	 <by name='Chwaszczyno'/>
+	 <by name='Warzenko'/>
+       </ride>
+     </day>
 
      
      
