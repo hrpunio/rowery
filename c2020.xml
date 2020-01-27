@@ -102,6 +102,17 @@
 	 <by name='Warzenko'/>
        </ride>
      </day>
+     <day date="2019/01/26">
+       <ride dist="105" exdist="108.10" bike='ridley' gpx='2019026'>
+	 <by name='Majewo'/>
+	 <by name='Kwidzyn'/>
+ 	 <by name='Piekło'/>
+	 <by name='Tczew'/>
+	 <by name='Pruszcz Gdański'/>
+	 <by name='Gdańsk'/>
+
+       </ride>
+     </day>
 
      
      
