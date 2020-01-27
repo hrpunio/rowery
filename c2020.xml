@@ -110,10 +110,15 @@
 	 <by name='Tczew'/>
 	 <by name='Pruszcz Gdański'/>
 	 <by name='Gdańsk'/>
-
        </ride>
      </day>
 
+     <day date="2019/01/27">
+       <ride dist="45" exdist="44.10" bike='cx' gpx='2019027'>
+	 <by name='Banino'/>
+	 <by name='Miszewo'/>
+       </ride>
+     </day>
      
      
    </month>
