@@ -125,6 +125,12 @@
 	 <by name='Miszewo'/>
        </ride>
      </day>
+     <day date="2019/01/29">
+       <ride dist="25" exdist="24.10" bike='cx' gpx='2019029'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
      
      
    </month>
