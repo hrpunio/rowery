@@ -130,6 +130,12 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
+     <day date="2019/01/30">
+       <ride dist="45" exdist="45.10" bike='cx' gpx='2019030'>
+	 <by name='Kielno'/>
+	 <by name='Koleczkowo'/>
+       </ride>
+     </day>
 
      
      
