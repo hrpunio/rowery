@@ -4,106 +4,108 @@
 <year no="2020" done='242355'>
    <month no="1">
 
-     <day date="2019/01/07">
-       <ride dist="40" exdist="40.00" bike='cx' gpx='20190107'>
+     <day date="2020/01/07">
+       <ride dist="40" exdist="40.00" bike='cx' gpx='20200107'>
 	 <by name='Warzenko'/>
        </ride>
      </day>
      
-     <day date="2019/01/08">
-       <ride dist="45" exdist="44.00" bike='cx' gpx='20190108'>
+     <day date="2020/01/08">
+       <ride dist="45" exdist="44.00" bike='cx' gpx='20200108'>
 	 <by name='Wiczlino'/>
        </ride>
      </day>
      
-     <day date="2019/01/09">
-       <ride dist="40" exdist="43.00" bike='cx' gpx='20190109'>
+     <day date="2020/01/09">
+       <ride dist="40" exdist="43.00" bike='cx' gpx='20200109'>
 	 <by name='Banino'/>
 	 <by name='Miszewo'/>
        </ride>
      </day>
 
-     <day date="2019/01/11">
-       <ride dist="75" exdist="74.80" bike='cx' gpx='20190111'>
+     <day date="2020/01/11">
+       <ride dist="75" exdist="74.80" bike='cx' gpx='20200111'>
 	 <by name='Gdańsk'/>
 	 <by name='Świbno'/>
        </ride>
      </day>
-     <day date="2019/01/13">
-       <ride dist="60" exdist="60.80" bike='cx' gpx='20190113'>
+     <day date="2020/01/13">
+       <ride dist="60" exdist="60.80" bike='cx' gpx='20200113'>
 	 <by name='Gdańsk'/>
 	 <by name='Sobieszewo'/>
        </ride>
      </day>
 
-     <day date="2019/01/14">
-       <ride dist="45" exdist="44.00" bike='cx' gpx='20190114'>
+     <day date="2020/01/14">
+       <ride dist="45" exdist="44.00" bike='cx' gpx='20200114'>
 	 <by name='Koleczkowo'/>
 	 <by name='Wiczlino'/>
        </ride>
      </day>
 
-     <day date="2019/01/15">
-       <ride dist="40" exdist="41.80" bike='ridley' gpx='20190115'>
+     <day date="2020/01/15">
+       <ride dist="40" exdist="41.80" bike='ridley' gpx='20200115'>
 	 <by name='Gdynia'/>
 	 <by name='Koleczkowo'/>
        </ride>
      </day>
 
-     <day date="2019/01/16">
-       <ride dist="40" exdist="39.80" bike='cx' gpx='20190116'>
+     <day date="2020/01/16">
+       <ride dist="40" exdist="39.80" bike='cx' gpx='20200116'>
 	 <by name='Gdańsk'/>
 	 <by name='Rębiechowo'/>
        </ride>
      </day>
-     <day date="2019/01/17">
-       <ride dist="55" exdist="54.10" bike='cx' gpx='20190117'>
+     <day date="2020/01/17">
+       <ride dist="55" exdist="54.10" bike='cx' gpx='20200117'>
 	 <by name='Kamień'/>
 	 <by name='Koleczkowo'/>
        </ride>
      </day>
 
-     <day date="2019/01/19">
-       <ride dist="55" exdist="56.10" bike='cx' gpx='20190119'>
+     <day date="2020/01/19">
+       <ride dist="55" exdist="56.10" bike='cx' gpx='20200119'>
 	 <by name='Gdynia'/>
 	 <by name='Rewa'/>
        </ride>
      </day>
      
-     <day date="2019/01/20">
-       <ride dist="35" exdist="37.10" bike='cx' gpx='20190120'>
+     <day date="2020/01/20">
+       <ride dist="35" exdist="37.10" bike='cx' gpx='20200120'>
 	 <by name='Gdańsk'/>
 	 <by name='Rębiechowo'/>
 	 <by name='Barniewice'/>
        </ride>
      </day>
      
-     <day date="2019/01/21">
-       <ride dist="35" exdist="36.10" bike='cx' gpx='20190121'>
+     <day date="2020/01/21">
+       <ride dist="35" exdist="36.10" bike='cx' gpx='20200121'>
 	 <by name='Gdańsk'/>
 	 <by name='Osowa'/>
        </ride>
      </day>
-     <day date="2019/01/22">
-       <ride dist="55" exdist="56.10" bike='cx' gpx='20190122'>
+     <day date="2020/01/22">
+       <ride dist="55" exdist="56.10" bike='cx' gpx='20200122'>
 	 <by name='Gdańsk'/>
 	 <by name='Sobieszewo'/>
        </ride>
      </day>
-     <day date="2019/01/23">
-       <ride dist="40" exdist="39.75" bike='cx' gpx='20190123'>
+     <day date="2020/01/23">
+       <ride dist="40" exdist="39.75" bike='cx' gpx='20200123'>
 	 <by name='Chwaszczyno'/>
 	 <by name='Warzenko'/>
        </ride>
      </day>
-     <day date="2019/01/24">
-       <ride dist="55" exdist="54.10" bike='cx' gpx='2019024'>
+     
+     <day date="2020/01/24">
+       <ride dist="55" exdist="54.10" bike='cx' gpx='20200124'>
 	 <by name='Gdańsk'/>
 	 <by name='Warzenko'/>
        </ride>
      </day>
-     <day date="2019/01/26">
-       <ride dist="105" exdist="108.10" bike='ridley' gpx='2019026'>
+     
+     <day date="2020/01/26">
+       <ride dist="105" exdist="108.10" bike='ridley' gpx='20200126'>
 	 <by name='Majewo'/>
 	 <by name='Kwidzyn'/>
  	 <by name='Piekło'/>
@@ -113,36 +115,43 @@
        </ride>
      </day>
 
-     <day date="2019/01/27">
-       <ride dist="45" exdist="44.10" bike='ridley' gpx='2019027'>
+     <day date="2020/01/27">
+       <ride dist="45" exdist="44.10" bike='ridley' gpx='20200127'>
 	 <by name='Banino'/>
 	 <by name='Miszewo'/>
        </ride>
      </day>
-     <day date="2019/01/28">
-       <ride dist="45" exdist="44.10" bike='cx' gpx='2019028'>
+     <day date="2020/01/28">
+       <ride dist="45" exdist="44.10" bike='cx' gpx='20200128'>
 	 <by name='Banino'/>
 	 <by name='Miszewo'/>
        </ride>
      </day>
-     <day date="2019/01/29">
-       <ride dist="25" exdist="24.10" bike='cx' gpx='2019029'>
+     <day date="2020/01/29">
+       <ride dist="25" exdist="24.10" bike='cx' gpx='20200129'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>
-     <day date="2019/01/30">
-       <ride dist="45" exdist="45.10" bike='cx' gpx='2019030'>
+     <day date="2020/01/30">
+       <ride dist="45" exdist="45.10" bike='cx' gpx='20200130'>
 	 <by name='Kielno'/>
 	 <by name='Koleczkowo'/>
        </ride>
      </day>
 
-     <day date="2019/01/31">
-       <ride dist="25" exdist="24.90" bike='cx' gpx='2019031'>
+     <day date="2020/01/31">
+       <ride dist="25" exdist="24.90" bike='cx' gpx='20200131'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>
-     
+   </month>
+   
+   <month no='2'>
+     <day date="2020/02/01">
+       <ride dist="60" exdist="62.02" bike='cx' gpx='20200201'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
      
    </month>
 </year>
