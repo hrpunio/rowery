@@ -166,9 +166,18 @@
      <day date="2020/02/04">
        <ride dist="50" exdist="49.25" bike='cx' gpx='20200204'>
 	 <by name='Gdańsk'/>
+	 <by name='Rębiechowo'/>
+	 <by name='Barniewice'/>
        </ride>
      </day>
 
+     <day date="2020/02/06">
+       <ride dist="35" exdist="34.10" bike='cx' gpx='20200206'>
+	 <by name='Pępowo'/>
+	 <by name='Leźno'/>
+       </ride>
+     </day>
+     
      <day date="2020/02/11">
        <ride dist="40" exdist="41.25" bike='cx' gpx='20200211'>
 	 <by name='Gdańsk'/>
