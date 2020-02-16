@@ -202,7 +202,22 @@
        </ride>
      </day>
 
-          
+     <day date="2020/02/15">
+       <ride dist="65" exdist="66.10" bike='ridley' gpx='20200215'>
+	 <by name='Gdynia'/>
+	 <by name='Rumia'/>
+	 <by name='Koleczkowo'/>
+       </ride>
+     </day>
+
+     <day date="2020/02/16">
+       <ride dist="65" exdist="66.10" bike='ridley' gpx='20200216'>
+	 <by name='Gdańsk'/>
+	 <by name='Sobieszewo'/>
+       </ride>
+     </day>
+
+     
    </month>
 </year>
 
