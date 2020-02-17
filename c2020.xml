@@ -183,11 +183,13 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
+     
      <day date="2020/02/12">
        <ride dist="40" exdist="39.90" bike='cx' gpx='20200212'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>
+     
      <day date="2020/02/13">
        <ride dist="50" exdist="51.90" bike='cx' gpx='20200213'>
 	 <by name='Pępowo'/>
@@ -214,6 +216,13 @@
        <ride dist="65" exdist="66.10" bike='ridley' gpx='20200216'>
 	 <by name='Gdańsk'/>
 	 <by name='Sobieszewo'/>
+       </ride>
+     </day>
+     
+     <day date="2020/02/17">
+       <ride dist="45" exdist="46.10" bike='ridley' gpx='20200217'>
+	 <by name='Kielno'/>
+	 <by name='Koleczkowo'/>
        </ride>
      </day>
 
