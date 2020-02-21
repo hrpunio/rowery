@@ -225,6 +225,11 @@
 	 <by name='Koleczkowo'/>
        </ride>
      </day>
+     <day date="2020/02/18">
+       <ride dist="45" exdist="47.10" bike='ridley' gpx='20200218'>
+	 <by name='Rębiechowo'/>
+       </ride>
+     </day>
 
      
      <day date="2020/02/20">
