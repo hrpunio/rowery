@@ -227,6 +227,23 @@
      </day>
 
      
+     <day date="2020/02/20">
+       <ride dist="120" exdist="122.10" bike='ridley' gpx='20200220'>
+	 <by name='Białystok'/>
+	 <by name='Supraśl'/>
+	 <by name='Krynki'/>
+	 <by name='Kruszaniny'/>
+       </ride>
+     </day>
+
+     <day date="2020/02/21">
+       <ride dist="25" exdist="26.50" bike='ridley' gpx='20200221'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     
+     
    </month>
 </year>
 
