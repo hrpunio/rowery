@@ -252,7 +252,7 @@
        </ride>
      </day>
      <day date="2020/02/23">
-       <ride dist="70" exdist="70.10" bike='ridley' gpx='20200223'>
+       <ride dist="65" exdist="67.10" bike='ridley' gpx='20200223'>
 	 <by name='Gdańsk'/>
 	 <by name='Sobieszewo'/>
        </ride>
