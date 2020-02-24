@@ -257,6 +257,12 @@
 	 <by name='Sobieszewo'/>
        </ride>
      </day>
+     <day date="2020/02/24">
+       <ride dist="55" exdist="54.05" bike='ridley' gpx='20200224'>
+	 <by name='Gdańsk'/>
+	 <by name='Banino'/>
+       </ride>
+     </day>
 
      
      
