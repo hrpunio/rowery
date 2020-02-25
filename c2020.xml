@@ -263,6 +263,11 @@
 	 <by name='Banino'/>
        </ride>
      </day>
+     <day date="2020/02/25">
+       <ride dist="45" exdist="47.05" bike='ridley' gpx='20200225'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
 
      
      
