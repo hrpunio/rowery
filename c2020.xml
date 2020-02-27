@@ -269,6 +269,12 @@
        </ride>
      </day>
 
+     <day date="2020/02/26">
+       <ride dist="30" exdist="31.05" bike='ridley' gpx='20200226'>
+	 <by name='Osowa'/>
+       </ride>
+     </day>
+
      
      
    </month>
