@@ -275,7 +275,27 @@
        </ride>
      </day>
 
-     
+   </month>
+   <month no='3'>
+
+     <day date="2020/03/01">
+       <ride dist="35" exdist="36.10" bike='ridley' gpx='20200301'>
+	 <!-- Do lotniska -->
+	 <by name='Osowa'/>
+       </ride>
+     </day>
+     <day date="2020/03/02">
+       <!-- 80 + 20km do Gdańsk -->
+       <ride dist="100" exdist="101.10" bike='ridley' gpx='20200302'>
+	 <by name='Kamień'/>
+	 <by name='Szemud'/>
+	 <by name='Nowy Dwór Wejherowski'/>
+	 <by name='Kielno'/>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+
      
    </month>
 </year>
