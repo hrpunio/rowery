@@ -301,6 +301,14 @@
 	 <by name='Pępowo'/>
        </ride>
      </day>
+     <day date="2020/03/04">
+       <!-- 50 + 25km do Teściowej -->
+       <ride dist="75" exdist="74.10" bike='ridley' gpx='20200304'>
+	 <by name='Pępowo'/>
+	 <by name='Miszewo'/>
+	 <by name='Chwaszczyno'/>
+       </ride>
+     </day>
 
      
    </month>
