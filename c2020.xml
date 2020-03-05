@@ -309,7 +309,12 @@
 	 <by name='Chwaszczyno'/>
        </ride>
      </day>
-
+     <day date="2020/03/05">
+       <ride dist="55" exdist="54.70" bike='ridley' gpx='20200305'>
+	 <by name='Gdańsk'/>
+	 <by name='Kowale'/>
+       </ride>
+     </day>
      
    </month>
 </year>
