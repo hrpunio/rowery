@@ -315,6 +315,14 @@
 	 <by name='Kowale'/>
        </ride>
      </day>
+     <day date="2020/03/06">
+       <!-- pierwszy raz na Fenixie -->
+       <ride dist="30" exdist="31.07" bike='ridley' gpx='20200306'>
+	 <by name='Gdańsk'/>
+	 <by name='Osowa'/>
+       </ride>
+     </day>
+     
      
    </month>
 </year>
