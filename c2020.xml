@@ -322,6 +322,21 @@
 	 <by name='Osowa'/>
        </ride>
      </day>
+
+     <day date="2020/03/07">
+       <ride dist="55" exdist="54.07" bike='ridley' gpx='20200307'>
+	 <by name='Gdańsk'/>
+	 <by name='Sobieszewo'/>
+       </ride>
+     </day>
+     <day date="2020/03/08">
+       <!-- pierwszy raz na Fenixie -->
+       <ride dist="80" exdist="82.07" bike='ridley' gpx='20200308'>
+	 <by name='Mrzezino'/>
+	 <by name='Puck'/>
+       </ride>
+     </day>
+
      
      
    </month>
