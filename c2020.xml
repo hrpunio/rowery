@@ -375,10 +375,17 @@
        </ride>
      </day>
      <day date="2020/03/15">
-       <ride dist="55" exdist="56.16" bike='cx' gpx='20200315'>
+       <ride dist="55" exdist="56.16" bike='ridley' gpx='20200315'>
 	 <by name='Pępowo'/>
 	 <by name='Żukowo'/>
 	 <by name='Borkowo'/>
+       </ride>
+     </day>
+     <day date="2020/03/17">
+       <ride dist="95" exdist="96.16" bike='fenix' gpx='20200317'>
+	 <by name='Gdańsk'/>
+	 <by name='Kiezmark'/>
+	 <by name='Cedry Wielkie'/>
        </ride>
      </day>
 
