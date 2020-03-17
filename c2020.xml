@@ -358,14 +358,13 @@
      </day>
 
      <day date="2020/03/12">
-       <ride dist="40" exdist="37.16" bike='ridley' gpx='20200312'>
+       <ride dist="40" exdist="41.28" bike='ridley' gpx='20200312'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>
-
      
      <day date="2020/03/13">
-       <ride dist="40" exdist="37.16" bike='ridley' gpx='20200313'>
+       <ride dist="55" exdist="54.16" bike='ridley' gpx='20200313'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>
@@ -375,9 +374,12 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
+     <day date="2020/03/15">
+       <ride dist="55" exdist="56.16" bike='cx' gpx='20200315'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
 
-     
-     
    </month>
 </year>
 
