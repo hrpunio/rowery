@@ -388,6 +388,12 @@
 	 <by name='Cedry Wielkie'/>
        </ride>
      </day>
+     <day date="2020/03/18">
+       <ride dist="75" exdist="76.16" bike='ridley' gpx='20200318'>
+	 <by name='Gdańsk'/>
+	 <by name='Pruszcz Gdański'/>
+       </ride>
+     </day>
 
    </month>
 </year>
