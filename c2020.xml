@@ -395,6 +395,19 @@
        </ride>
      </day>
 
+     <day date="2020/03/19">
+       <ride dist="35" exdist="35.16" bike='ridley' gpx='20200319'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2020/03/20">
+       <ride dist="55" exdist="57.16" bike='fenix' gpx='20200320'>
+	 <by name='Pępowo'/>
+	 <by name='Żukowo'/>
+	 <by name='Lniska'/>
+       </ride>
+     </day>
+
    </month>
 </year>
 
