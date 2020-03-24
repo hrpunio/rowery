@@ -418,6 +418,17 @@
        </ride>
      </day>
 
+     <day date="2020/03/22">
+       <ride dist="60" exdist="61.42" bike='ridley' gpx='20200322'>
+	 <by name='Mechelinki'/>
+       </ride>
+     </day>
+     <day date="2020/03/23">
+       <ride dist="45" exdist="45.30" bike='ridley' gpx='20200323'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
      
    </month>
 </year>
