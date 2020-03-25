@@ -434,7 +434,12 @@
 	 <by name='Kielno'/>
        </ride>
      </day>
-
+     <day date="2020/03/25">
+       <ride dist="70" exdist="70.30" bike='ridley' gpx='20200325'>
+	 <!-- biznesowo m.in. na działkę -->
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
      
    </month>
 </year>
