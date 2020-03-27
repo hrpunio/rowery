@@ -440,6 +440,20 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
+
+     <day date="2020/03/26">
+       <ride dist="25" exdist="25.10" bike='fenix' gpx='20200326'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2020/03/27">
+       <ride dist="55" exdist="55.10" bike='fenix' gpx='20200327'>
+	 <!-- biznesowo m.in. na działkę -->
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
      
    </month>
 </year>
