@@ -466,6 +466,17 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
+     <day date="2020/03/30">
+       <ride dist="50" exdist="49.10" bike='ridley' gpx='20200330'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2020/03/31">
+       <!-- Olszynka-->
+       <ride dist="50" exdist="52.50" bike='cx' gpx='20200331'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
 
      
    </month>
