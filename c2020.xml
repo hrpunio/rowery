@@ -498,11 +498,33 @@
        <ride dist="65" exdist="65.03" bike='fenix' gpx='20200404'>
 	 <by name='Żukowo'/>
 	 <by name='Przodkowo'/>
-	 <by name='Chawszczyno'/>
+	 <by name='Chwaszczyno'/>
+       </ride>
+     </day>
+     
+     <day date="2020/04/05">
+       <ride dist="95" exdist="96.10" bike='fenix' gpx='20200405'>
+	 <by name='Gdańsk'/>
+	 <by name='Sobieszewo'/>
+	 <by name='Błotnik'/>
        </ride>
      </day>
 
-     
+     <day date="2020/04/06">
+       <ride dist="50" exdist="50.10" bike='fenix' gpx='20200406'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2020/04/07">
+       <ride dist="60" exdist="59.90" bike='fenix' gpx='20200407'>
+	 <!-- Kidzińscy -->
+	 <by name='Gdańsk'/>
+	 <by name='Gdynia'/>
+       </ride>
+     </day>
+
+
    </month>
 </year>
 
