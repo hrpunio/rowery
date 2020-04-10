@@ -525,7 +525,8 @@
      </day>
 
      <day date="2020/04/09">
-       <ride dist="45" exdist="45.10" bike='fenix' gpx='20200409'>
+       <!-- 70 + 20 rano -->
+       <ride dist="90" exdist="90.10" bike='fenix' gpx='20200409'>
 	 <by name='Gdynia'/>
 	 <by name='Mechelinki'/>
 	 <by name='Rewa'/>
