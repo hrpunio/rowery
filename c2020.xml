@@ -524,6 +524,24 @@
        </ride>
      </day>
 
+     <day date="2020/04/09">
+       <ride dist="45" exdist="45.10" bike='fenix' gpx='20200409'>
+	 <by name='Gdynia'/>
+	 <by name='Mechelinki'/>
+	 <by name='Rewa'/>
+	 <by name='Rumia'/>
+	 <by name='Wiczlino'/>
+       </ride>
+     </day>
+
+     <day date="2020/04/10">
+       <ride dist="45" exdist="45.10" bike='fenix' gpx='20200410'>
+	 <!-- Kidzińscy/działka -->
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     
 
    </month>
 </year>
