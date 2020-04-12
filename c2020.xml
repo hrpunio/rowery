@@ -542,6 +542,21 @@
        </ride>
      </day>
 
+     <day date="2020/04/11">
+       <ride dist="80" exdist="79.10" bike='fenix' gpx='20200411'>
+	 <!-- Kidzińscy/działka -->
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2020/04/12">
+       <ride dist="75" exdist="74.10" bike='fenix' gpx='20200412'>
+	 <by name='Gdańsk'/>
+	 <by name='Pruszcz'/>
+	 <by name='Bielkówko'/>
+	 <by name='Lublewo'/>	
+       </ride>
+     </day>
+
      
 
    </month>
