@@ -556,6 +556,15 @@
 	 <by name='Lublewo'/>	
        </ride>
      </day>
+     <day date="2020/04/13">
+       <ride dist="85" exdist="86.10" bike='fenix' gpx='20200413'>
+	 <by name='Gdynia'/>
+	 <by name='Rumia'/>
+	 <by name='Reda'/>
+	 <by name='Puck'/>
+	 <by name='Żelistrzewo'/>
+       </ride>
+     </day>
 
      
 
