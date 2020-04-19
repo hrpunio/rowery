@@ -566,6 +566,35 @@
        </ride>
      </day>
 
+     <day date="2020/04/14">
+       <ride dist="45" exdist="45.10" bike='fenix' gpx='20200414'>
+       </ride>
+     </day>
+     <day date="2020/04/16">
+       <ride dist="45" exdist="45.10" bike='fenix' gpx='20200416'>
+       </ride>
+     </day>
+     <day date="2020/04/17">
+       <ride dist="45" exdist="45.10" bike='fenix' gpx='20200417'>
+       </ride>
+     </day>
+
+     <day date="2020/04/18">
+       <ride dist="75" exdist="76.10" bike='fenix' gpx='20200418'>
+	 <by name='Żukowo'/>
+	 <by name='Kartuzy'/>
+	 <by name='Przodkowo'/>
+	 <by name='Pępowo'/>
+       </ride>
+     </day>
+
+     <day date="2020/04/19">
+       <ride dist="60" exdist="60.10" bike='fenix' gpx='20200419'>
+	 <by name='Lublewo'/>
+	 <by name='Bielkówko'/>
+       </ride>
+     </day>
+
      
 
    </month>
