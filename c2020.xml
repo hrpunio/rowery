@@ -567,15 +567,21 @@
      </day>
 
      <day date="2020/04/14">
-       <ride dist="45" exdist="45.10" bike='fenix' gpx='20200414'>
+       <ride dist="30" exdist="29.14" bike='fenix' gpx='20200414'>
+ 	 <by name='Gdańsk'/>
        </ride>
      </day>
      <day date="2020/04/16">
-       <ride dist="45" exdist="45.10" bike='fenix' gpx='20200416'>
+       <!-- 2x na działkę -->
+       <ride dist="80" exdist="80.40" bike='fenix' gpx='20200416'>
+	 <by name='Gdańsk'/>
        </ride>
      </day>
      <day date="2020/04/17">
        <ride dist="45" exdist="45.10" bike='fenix' gpx='20200417'>
+	 <by name='Gdańsk'/>
+	 <by name='Rębiechowo'/>
+	 <by name='Barniewice'/>
        </ride>
      </day>
 
@@ -589,13 +595,19 @@
      </day>
 
      <day date="2020/04/19">
-       <ride dist="60" exdist="60.10" bike='fenix' gpx='20200419'>
+       <ride dist="60" exdist="60.62" bike='fenix' gpx='20200419'>
 	 <by name='Lublewo'/>
 	 <by name='Bielkówko'/>
        </ride>
      </day>
 
-     
+     <day date="2020/04/20">
+       <ride dist="60" exdist="63.22" bike='fenix' gpx='20200420'>
+	 <by name='Gdańsk'/>
+	 <by name='Rębiechowo'/>
+       </ride>
+     </day>
+
 
    </month>
 </year>
