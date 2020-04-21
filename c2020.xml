@@ -607,6 +607,12 @@
 	 <by name='Rębiechowo'/>
        </ride>
      </day>
+     <day date="2020/04/21">
+       <ride dist="50" exdist="52.22" bike='fenix' gpx='20200421'>
+	 <by name='Kielno'/>
+	 <by name='Koleczkowo'/>
+       </ride>
+     </day>
 
 
    </month>
