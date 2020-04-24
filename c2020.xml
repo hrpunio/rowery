@@ -551,7 +551,7 @@
      <day date="2020/04/12">
        <ride dist="75" exdist="74.10" bike='fenix' gpx='20200412'>
 	 <by name='Gdańsk'/>
-	 <by name='Pruszcz'/>
+	 <by name='Pruszcz Gdański'/>
 	 <by name='Bielkówko'/>
 	 <by name='Lublewo'/>	
        </ride>
@@ -613,6 +613,19 @@
 	 <by name='Koleczkowo'/>
        </ride>
      </day>
+     <day date="2020/04/22">
+       <!-- Działka Olszynka -->
+       <ride dist="50" exdist="49.22" bike='fenix' gpx='20200422'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2020/04/24">
+       <ride dist="55" exdist="57.22" bike='fenix' gpx='20200424'>
+	 <by name='Gdańsk'/>
+	 <by name='Pruszcz Gdański'/>
+       </ride>
+     </day>
+
 
 
    </month>
