@@ -629,7 +629,8 @@
      <day date="2020/04/25">
        <!-- sprawdzić -->
        <ride dist="50" exdist="50.22" bike='fenix' gpx='20200425'>
-	 <by name='Kartuzy'/>
+	 <!-- -->
+	 <by name='Gdańsk'/>
        </ride>
      </day>
      
