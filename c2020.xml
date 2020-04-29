@@ -651,6 +651,12 @@
 	 <by name='Żukowo'/>
        </ride>
      </day>
+     <day date="2020/04/29">
+       <!-- Olszynka -->
+       <ride dist="50" exdist="49.55" bike='ridley' gpx='20200429'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
 
    </month>
 
