@@ -657,7 +657,16 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
+   </month>
+   <month no='5'>
 
+     <day date="2020/05/01">
+       <ride dist="45" exdist="46.10" bike='ridley' gpx='20200501'>
+	 <by name='Miszewo'/>
+	 <by name='Chwaszczyno'/>
+       </ride>
+     </day>
+   
    </month>
 
 
