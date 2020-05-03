@@ -666,6 +666,12 @@
 	 <by name='Chwaszczyno'/>
        </ride>
      </day>
+     <day date="2020/05/02">
+       <!-- Olszynka -->
+       <ride dist="45" exdist="46.10" bike='ridley' gpx='20200502'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
    
    </month>
 
