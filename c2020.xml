@@ -672,7 +672,14 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
-   
+
+     <day date="2020/05/03">
+       <ride dist="50" exdist="49.10" bike='fenix' gpx='20200503'>
+	 <by name='Kielno'/>
+	 <by name='Koleczkowo'/>
+       </ride>
+     </day>
+
    </month>
 
 
