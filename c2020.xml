@@ -679,6 +679,12 @@
 	 <by name='Koleczkowo'/>
        </ride>
      </day>
+     <day date="2020/05/04">
+       <!-- rano 20 + 55 -->
+       <ride dist="75" exdist="74.10" bike='fenix' gpx='20200504'>
+	 <by name='Żukowo'/>
+       </ride>
+     </day>
 
    </month>
 
