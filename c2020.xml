@@ -686,6 +686,26 @@
        </ride>
      </day>
 
+     <day date="2020/05/06">
+       <ride dist="35" exdist="35.10" bike='fenix' gpx='20200506'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+    
+     <day date="2020/05/07">
+       <!-- rano 40 na działkę + 20 popoł z działki -->
+       <ride dist="60" exdist="60.40" bike='fenix' gpx='20200507'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+       
+     <day date="2020/05/08">
+       <!-- rano 25 + 35 -->
+       <ride dist="60" exdist="60.40" bike='fenix' gpx='20200508'>
+	 <by name='Gdańsk'/>
+	 <by name='Matarnia'/>
+       </ride>
+     </day>     
    </month>
 
 
