@@ -706,6 +706,17 @@
 	 <by name='Matarnia'/>
        </ride>
      </day>     
+
+     <day date="2020/05/09">
+       <!-- rano 35 + 50 -->
+       <ride dist="85" exdist="85.40" bike='fenix' gpx='20200509'>
+	 <by name='Gdańsk'/>
+	 <by name='Mechelinki'/>
+       </ride>
+     </day>     
+
+
+
    </month>
 
 
