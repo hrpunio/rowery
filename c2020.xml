@@ -715,12 +715,11 @@
        </ride>
      </day>     
 
-
      <day date="2020/05/10">
        <!-- rano 120 -->
        <ride dist="120" exdist="120.40" bike='fenix' gpx='20200510'>
 	 <by name='Elbląg'/>
-	 <by name=''/>
+	 <by name='Zastawno'/>
        </ride>
      </day>     
 
