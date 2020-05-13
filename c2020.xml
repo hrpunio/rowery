@@ -728,6 +728,12 @@
 	 <by name='Miszewo'/>
        </ride>
      </day>     
+     <day date="2020/05/13">
+       <!-- rano 20|zawodzie -->
+       <ride dist="55" exdist="56.10" bike='mtb' gpx='20200513'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>     
 
 
    </month>
