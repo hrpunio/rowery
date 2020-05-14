@@ -734,6 +734,14 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>     
+     <day date="2020/05/14">
+       <!-- rano 40| -->
+       <ride dist="80" exdist="80.10" bike='ridley' gpx='20200514'>
+	 <by name='Gdańsk'/>
+	 <by name='Koleczkowo'/>
+	 <by name='Wiczlino'/>
+       </ride>
+     </day>     
 
 
    </month>
