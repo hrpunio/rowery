@@ -741,6 +741,19 @@
 	 <by name='Koleczkowo'/>
 	 <by name='Wiczlino'/>
        </ride>
+     </day>
+
+     <day date="2020/05/15">
+       <ride dist="65" exdist="66.10" bike='ridley' gpx='20200515'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2020/05/16">
+       <ride dist="100" exdist="100.10" bike='ridley' gpx='20200516'>
+	 <by name='Gdańsk'/>
+	 <by name='Pruszcz Gdański'/>
+       </ride>
      </day>     
 
 
