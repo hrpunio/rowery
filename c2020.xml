@@ -755,6 +755,11 @@
 	 <by name='Pruszcz Gdański'/>
        </ride>
      </day>     
+     <day date="2020/05/17">
+       <ride dist="55" exdist="55.10" bike='ridley' gpx='20200517'>
+	 <by name='Chwaszczyno'/>
+       </ride>
+     </day>     
 
 
    </month>
