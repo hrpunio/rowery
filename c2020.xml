@@ -759,6 +759,19 @@
        <ride dist="55" exdist="55.10" bike='ridley' gpx='20200517'>
 	 <by name='Chwaszczyno'/>
        </ride>
+     </day>
+     
+     <day date="2020/05/20">
+       <!-- Zawodzie -->
+       <ride dist="45" exdist="45.10" bike='ridley' gpx='20200520'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>     
+     <day date="2020/05/21">
+       <!-- Zawodzie x2-->
+       <ride dist="80" exdist="82.10" bike='ridley' gpx='20200521'>
+	 <by name='Gdańsk'/>
+       </ride>
      </day>     
 
 
