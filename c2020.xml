@@ -783,7 +783,14 @@
        </ride>
      </day>     
 
+     <day date="2020/05/24">
+       <!-- Zawodzie -->
+       <ride dist="35" exdist="37.20" bike='ridley' gpx='20200524'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>     
 
+     
    </month>
 
 
