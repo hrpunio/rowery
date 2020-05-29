@@ -802,7 +802,23 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>     
+     <day date="2020/05/28">
+       <!-- po Gdańsku biznesowo -->
+       <ride dist="45" exdist="45.20" bike='ridley' gpx='20200528'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>     
 
+     
+     <day date="2020/05/29">
+       <!-- po Gdańsku biznesowo rano -->
+       <ride dist="40" exdist="43.20" bike='ridley' gpx='20200529'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>     
+
+
+     
    </month>
 
 
