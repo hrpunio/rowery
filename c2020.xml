@@ -808,11 +808,16 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>     
-
      
      <day date="2020/05/29">
        <!-- po Gdańsku biznesowo rano -->
        <ride dist="40" exdist="43.20" bike='ridley' gpx='20200529'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>     
+     <day date="2020/05/29">
+       <!-- Sobieszewo+Zawodzie -->
+       <ride dist="75" exdist="75.20" bike='cx' gpx='20200530'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>     
