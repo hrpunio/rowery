@@ -815,14 +815,19 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>     
-     <day date="2020/05/29">
+     <day date="2020/05/30">
        <!-- Sobieszewo+Zawodzie -->
        <ride dist="75" exdist="75.20" bike='cx' gpx='20200530'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>     
 
-
+     <day date="2020/05/31">
+       <!-- zawodzie  -->
+       <ride dist="40" exdist="40.20" bike='ridley' gpx='20200531'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>     
      
    </month>
 
