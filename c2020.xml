@@ -828,10 +828,17 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>     
-     
    </month>
+   <month no='6'>
 
+     <day date="2020/06/01">
+       <!-- zawodzie  -->
+       <ride dist="45" exdist="47.20" bike='cx' gpx='20200601'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>     
 
+   </month>
    
 </year>
 
