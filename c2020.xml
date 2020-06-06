@@ -840,21 +840,21 @@
 
      <day date="2020/06/02">
        <!-- zawodzie  -->
-       <ride dist="50" exdist="52.20" bike='cx' gpx='20200602'>
+       <ride dist="55" exdist="57.20" bike='cx' gpx='20200602'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>     
 
      <day date="2020/06/03">
        <!-- zawodzie  -->
-       <ride dist="50" exdist="52.20" bike='cx' gpx='20200603'>
+       <ride dist="45" exdist="45.20" bike='cx' gpx='20200603'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>     
 
      <day date="2020/06/04">
        <!-- zawodzie  -->
-       <ride dist="50" exdist="52.20" bike='cx' gpx='20200604'>
+       <ride dist="45" exdist="45.20" bike='cx' gpx='20200604'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>     
