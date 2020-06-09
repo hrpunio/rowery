@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8' standalone='no' ?>
+1<?xml version='1.0' encoding='utf-8' standalone='no' ?>
 <!DOCTYPE year SYSTEM "rowery.dtd" >
 
 <year no="2020" done='242355'>
@@ -862,6 +862,28 @@
      <day date="2020/06/05">
        <!-- zawodzie  -->
        <ride dist="50" exdist="52.20" bike='cx' gpx='20200605'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>     
+
+     <day date="2020/06/07">
+       <!-- zawodzie + babi_dół  -->
+       <ride dist="45" exdist="45.20" bike='cx' gpx='20200607'>
+	 <by name='Gdańsk'/>
+	 <by name='Żukowo'/>
+       </ride>
+     </day>     
+     
+     <day date="2020/06/08">
+       <!-- zawodzie/one way  -->
+       <ride dist="45" exdist="45.20" bike='ridley' gpx='20200608'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>     
+
+     <day date="2020/06/09">
+       <!-- zawodzie  -->
+       <ride dist="45" exdist="45.20" bike='ridley' gpx='20200609'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>     
