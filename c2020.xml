@@ -868,7 +868,7 @@
 
      <day date="2020/06/07">
        <!-- zawodzie + babi_dół  -->
-       <ride dist="45" exdist="45.20" bike='cx' gpx='20200607'>
+       <ride dist="105" exdist="108.20" bike='cx' gpx='20200607'>
 	 <by name='Gdańsk'/>
 	 <by name='Żukowo'/>
        </ride>
