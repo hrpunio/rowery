@@ -904,7 +904,10 @@
      <day date="2020/06/11">
        <!-- zawodzie + gdańsk/sopot biznesowo -->
        <ride dist="145" exdist="149.01" bike='ridley' gpx='20200611'>
+	 <by name='Nowy Dwór Gdański'/>
+	 <by name='Sztutowo'/>
 	 <by name='Kąty Rybackie'/>
+	 <by name='Stegna'/>
        </ride>
      </day>     
 
