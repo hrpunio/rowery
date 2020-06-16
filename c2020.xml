@@ -920,9 +920,9 @@
      <day date="2020/06/13">
      </day>
      <day>
-       <comment>250</comment>
        <!-- zawodzie+ biznesowo  -->
        <ride dist="50" exdist="50.50" bike='ridley' gpx='20200613'>
+	 <comment>250</comment>
 	 <by name='Gdańsk'/>
        </ride>
      </day>
