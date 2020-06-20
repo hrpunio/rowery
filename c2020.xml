@@ -949,8 +949,9 @@
      </day>
 
      <day date="2020/06/18">
+       <!-- zawodzie -->
        <ride dist="40" exdist="40.01" bike='cx' gpx='20200618'>
-	 <by name='Żukowo'/>
+	 <by name='Gdańsk'/>
        </ride>
      </day>
 
