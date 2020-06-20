@@ -948,6 +948,26 @@
        </ride>
      </day>
 
+     <day date="2020/06/18">
+       <ride dist="40" exdist="40.01" bike='cx' gpx='20200618'>
+	 <by name='Żukowo'/>
+       </ride>
+     </day>
+
+     <day date="2020/06/19">
+       <ride dist="65" exdist="65.01" bike='cx' gpx='20200619'>
+	 <by name='Żukowo'/>
+       </ride>
+     </day>
+
+     <day date="2020/06/20">
+       <!-- zawodzie -->
+       <ride dist="40" exdist="39.01" bike='cx' gpx='20200620'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     
    </month>
    
 </year>
