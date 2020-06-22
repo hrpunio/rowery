@@ -967,6 +967,13 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
+     <day date="2020/06/21">
+       <ride dist="90" exdist="91.01" bike='cx' gpx='20200621'>
+	 <by name='Cedry Wielkie'/>
+	 <by name='Pruszcz Gdański'/>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
 
      
    </month>
