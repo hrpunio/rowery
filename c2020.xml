@@ -988,6 +988,20 @@
        </ride>
      </day>
 
+     <day date="2020/06/26">
+       <ride dist="60" exdist="60.01" bike='cx' gpx='20200626'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2020/06/27">
+       <!-- zawodzie -->
+       <ride dist="50" exdist="50.01" bike='cx' gpx='20200627'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     
      
      
    </month>
