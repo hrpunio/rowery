@@ -1000,6 +1000,20 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
+     <day date="2020/06/28">
+       <!-- zawodzie -->
+       <ride dist="225" exdist="224.01" bike='cx' gpx='20200628'>
+	 <by name='Kiezmark'/>
+	 <by name='Nowy Dwór Gdański'/>
+	 <by name='Elbląg'/>
+	 <by name='Pasłęk'/>
+	 <by name='Burdajny'/>
+	 <by name='Godkowo'/>
+	 <by name='Klekotki'/>
+	 <by name='Malbork'/>
+	 <by name='Tczew'/>
+       </ride>
+     </day>
 
      
      
