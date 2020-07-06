@@ -1014,7 +1014,6 @@
 	 <by name='Tczew'/>
        </ride>
      </day>
-
      
      <day date="2020/06/30">
        <!-- zawodzie -->
@@ -1022,7 +1021,30 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
-     
+   </month>
+   
+   <month no='7'>
+     <day date="2020/07/01">
+       <ride dist="30" exdist="31.21" bike='ridley' gpx='20200701'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2020/07/02">
+       <ride dist="40" exdist="41.21" bike='ridley' gpx='20200702'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2020/07/03">
+       <ride dist="35" exdist="35.21" bike='ridley' gpx='20200703'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2020/07/05">
+       <ride dist="120" exdist="123.10" bike='ridley' gpx='20200705'>
+	 <by name='Nowy Dwór Gdański'/>
+       </ride>
+     </day>
      
    </month>
    
