@@ -1068,7 +1068,22 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
-     
+
+     <day date="2020/07/12">
+       <ride dist="185" exdist="188.10" bike='ridley' gpx='20200712'>
+	 <by name='Nowy Staw'/>
+ 	 <by name='Malbork'/>
+	 <by name='Biała Góra'/>
+	 <by name='Tczew'/>
+	 <by name='Pruszcz Gdański'/>
+       </ride>
+     </day>
+     <day date="2020/07/13">
+       <ride dist="35" exdist="37.10" bike='ridley' gpx='20200713'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
      
    </month>
    
