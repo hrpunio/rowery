@@ -1115,6 +1115,27 @@
        </ride>
      </day>
 
+     <day date="2020/07/20">
+       <!-- zawodzie -->
+       <ride dist="65" exdist="64.10" bike='ridley' gpx='20200720'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2020/07/21">
+       <!-- zawodzie -->
+       <ride dist="35" exdist="36.10" bike='ridley' gpx='20200721'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2020/07/22">
+       <!-- zawodzie -->
+       <ride dist="35" exdist="36.10" bike='ridley' gpx='20200722'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
      
    </month>
    
