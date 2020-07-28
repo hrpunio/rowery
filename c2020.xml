@@ -1136,7 +1136,38 @@
        </ride>
      </day>
 
-     
+     <day date="2020/07/24">
+       <!-- zawodzie, mniej bo od OBI samochodem -->
+       <ride dist="30" exdist="30.10" bike='ridley' gpx='20200724'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2020/07/25">
+       <!-- matarnia osowa -->
+       <ride dist="35" exdist="35.10" bike='cx' gpx='20200725'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2020/07/26">
+       <ride dist="85" exdist="85.10" bike='ridley' gpx='20200726'>
+	 <by name='Gdańsk'/>
+	 <by name='Suchy Dąb'/>
+	 <by name='Skowarcz'/>
+	 <by name='Pruszcz Gdański'/>
+       </ride>
+     </day>
+
+     <day date="2020/07/27">
+       <ride dist="60" exdist="62.10" bike='ridley' gpx='20200727'>
+	 <by name='Gdańsk'/>
+	 <by name='Suchy Dąb'/>
+	 <by name='Skowarcz'/>
+	 <by name='Pruszcz Gdański'/>
+       </ride>
+     </day>
+
    </month>
    
 </year>
