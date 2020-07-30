@@ -1181,6 +1181,12 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
+     <day date="2020/07/30">
+       <ride dist="45" exdist="46.10" bike='ridley' gpx='20200730'>
+	 <by name='Pępowo'/>
+	 <by name='Żukowo'/>
+       </ride>
+     </day>
 
      
      
