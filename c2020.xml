@@ -1188,6 +1188,12 @@
        </ride>
      </day>
 
+     <day date="2020/07/31">
+       <!-- Zawodzie -->
+       <ride dist="40" exdist="40.10" bike='ridley' gpx='20200731'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
      
      
    </month>
