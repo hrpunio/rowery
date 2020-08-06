@@ -1207,7 +1207,9 @@
 
      <day date="2020/08/02">
        <ride dist="80" exdist="80.10" bike='ridley' gpx='20200802'>
-	 <by name='Gdańsk'/>
+	 <by name='Mechelinki'/>
+	 <by name='Rewa'/>
+	 <by name='Rumia'/>
        </ride>
      </day>
 
