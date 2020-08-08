@@ -1233,6 +1233,15 @@
        </ride>
      </day>
 
+     <day date="2020/08/08">
+       <ride dist="75" exdist="74.36" bike='ridley' gpx='20200808'>
+	 <by name='Żukowo'/>
+	 <by name='Przodkowo'/>
+	 <by name='Pępowo'/>
+       </ride>
+     </day>
+
+     
    </month>
    
 </year>
