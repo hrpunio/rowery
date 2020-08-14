@@ -1249,6 +1249,34 @@
        </ride>
      </day>
 
+     <day date="2020/08/11">
+       <!-- Zawodzie -->
+       <ride dist="40" exdist="40.00" bike='ridley' gpx='20200811'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2020/08/12">
+       <!-- Zawodzie -->
+       <ride dist="35" exdist="36.00" bike='ridley' gpx='20200812'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2020/08/13">
+       <!-- Zawodzie -->
+       <ride dist="35" exdist="36.00" bike='ridley' gpx='20200813'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2020/08/14">
+       <ride dist="50" exdist="52.00" bike='ridley' gpx='20200814'>
+	 <by name='Pępowo'/>
+       </ride>
+     </day>
+
+     
      
    </month>
    
