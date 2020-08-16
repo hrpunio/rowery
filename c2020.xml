@@ -1277,7 +1277,8 @@
      </day>
      <day date="2020/08/15">
        <ride dist="40" exdist="39.30" bike='ridley' gpx='20200815'>
-	 <by name='Pępowo'/>
+	 <!-- Zawodzie -->
+	 <by name='Gdańsk'/>
        </ride>
      </day>
      <day date="2020/08/16">
