@@ -1275,6 +1275,16 @@
 	 <by name='Pępowo'/>
        </ride>
      </day>
+     <day date="2020/08/15">
+       <ride dist="40" exdist="39.30" bike='ridley' gpx='20200815'>
+	 <by name='Pępowo'/>
+       </ride>
+     </day>
+     <day date="2020/08/16">
+       <ride dist="80" exdist="82.30" bike='ridley' gpx='20200816'>
+	 <by name='Nowy Dwór Wejherowsk'/>
+       </ride>
+     </day>
 
      
      
