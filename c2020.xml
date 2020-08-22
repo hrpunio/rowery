@@ -1288,13 +1288,13 @@
      </day>
 
      <day date="2020/08/18">
-       <ride dist="60" exdist="60.30" bike='cx' gpx='20200818'>
+       <ride dist="60" exdist="60.30" bike='ridley' gpx='20200818'>
 	 <by name='Żukowo'/>
        </ride>
      </day>
 
      <day date="2020/08/19">
-       <ride dist="35" exdist="36.30" bike='ridley' gpx='20200819'>
+       <ride dist="35" exdist="36.30" bike='cx' gpx='20200819'>
 	 <by name='Chwaszczyno'/>
        </ride>
      </day>
@@ -1302,24 +1302,23 @@
      <day date="2020/08/20">
        <ride dist="35" exdist="36.30" bike='ridley' gpx='20200820'>
 	 <!-- zawodzie -->
-	 <by name='Chwaszczyno'/>
+	 <by name='Gdańsk'/>
        </ride>
      </day>
 
      <day date="2020/08/21">
        <ride dist="40" exdist="39.30" bike='ridley' gpx='20200821'>
 	 <!-- zawodzie -->
-	 <by name='Chwaszczyno'/>
+	 <by name='Gdańsk'/>
        </ride>
      </day>
 
      <day date="2020/08/22">
        <!-- zawodzie -->
        <ride dist="35" exdist="36.30" bike='ridley' gpx='20200822'>
-	 <by name='Chwaszczyno'/>
+	 <by name='Gdańsk'/>
        </ride>
      </day>
-
      
    </month>
    
