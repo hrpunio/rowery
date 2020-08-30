@@ -1319,12 +1319,47 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
+
      <day date="2020/08/23">
        <ride dist="65" exdist="66.30" bike='ridley' gpx='20200823'>
 	 <by name='Pruszcz Gdański'/>
 	 <by name='Grabiny Zameczek'/>
        </ride>
      </day>
+
+     <day date="2020/08/24">
+       <ride dist="50" exdist="50.00" bike='ridley' gpx='20200824'>
+	 <by name='Białowieża'/>
+	 <by name='Kruszyniany'/>
+       </ride>
+     </day>
+
+
+     <day date="2020/08/25">
+       <ride dist="45" exdist="45.00" bike='ridley' gpx='20200825'>
+	 <by name='Białowieża'/>
+	 <by name='Narewka'/>
+       </ride>
+     </day>
+
+     <day date="2020/08/26">
+       <ride dist="100" exdist="99.00" bike='ridley' gpx='20200826'>
+	 <by name='Białowieża'/>
+	 <by name='Narewka'/>
+	 <by name='Michałowo'/>
+	 <by name='Kruszyniany'/>
+       </ride>
+     </day>
+
+     <day date="2020/08/29">
+       <ride dist="40" exdist="39.20" bike='ridley' gpx='20200829'>
+	 <by name='Gdańsk'/>
+	 <by name='Matarnia'/>
+       </ride>
+     </day>
+     
+
+     
      
    </month>
    
