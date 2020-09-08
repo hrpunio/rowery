@@ -1362,14 +1362,14 @@
    <month no='9'>
 
      <day date="2020/09/01">
+       <!-- zawodzie -->
        <ride dist="35" exdist="35.20" bike='ridley' gpx='20200901'>
 	 <by name='Gdańsk'/>
-	 <by name='Matarnia'/>
        </ride>
      </day>
 
      <day date="2020/09/04">
-       <ride dist="35" exdist="35.20" bike='ridley' gpx='20200904'>
+       <ride dist="45" exdist="45.20" bike='ridley' gpx='20200904'>
 	 <by name='Gdańsk'/>
 	 <by name='Matarnia'/>
 	 <by name='Pępowo'/>
@@ -1377,7 +1377,7 @@
      </day>
      
      <day date="2020/09/05">
-       <ride dist="50" exdist="50.20" bike='ridley' gpx='20200905'>
+       <ride dist="45" exdist="47.90" bike='ridley' gpx='20200905'>
 	 <by name='Gdańsk'/>
 	 <by name='Matarnia'/>
 	 <by name='Pępowo'/>
@@ -1388,11 +1388,10 @@
 
      
      <day date="2020/09/06">
-       <ride dist="70" exdist="70.20" bike='cx' gpx='20200906'>
+       <ride dist="70" exdist="69.90" bike='cx' gpx='20200906'>
 	 <by name='Pruszcz Gdański'/>
        </ride>
      </day>
-
      
      <day date="2020/09/07">
        <!-- zawodzie -->
