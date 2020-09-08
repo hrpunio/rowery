@@ -1368,6 +1368,25 @@
        </ride>
      </day>
 
+     <day date="2020/09/04">
+       <ride dist="35" exdist="35.20" bike='ridley' gpx='20200904'>
+	 <by name='Gdańsk'/>
+	 <by name='Matarnia'/>
+	 <by name='Pępowo'/>
+       </ride>
+     </day>
+     
+     <day date="2020/09/05">
+       <ride dist="50" exdist="50.20" bike='ridley' gpx='20200905'>
+	 <by name='Gdańsk'/>
+	 <by name='Matarnia'/>
+	 <by name='Pępowo'/>
+	 <by name='Miszewo'/>
+       </ride>
+     </day>
+
+
+     
      <day date="2020/09/06">
        <ride dist="70" exdist="70.20" bike='cx' gpx='20200906'>
 	 <by name='Pruszcz Gdański'/>
