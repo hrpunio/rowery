@@ -1406,6 +1406,13 @@
 	 <by name='Matarnia'/>
        </ride>
      </day>
+     <day date="2020/09/09">
+       <!-- wyjazd do dendrona -->
+       <ride dist="40" exdist="42.00" bike='cx' gpx='20200909'>
+	 <by name='Gdańsk'/>
+	 <by name='Matarnia'/>
+       </ride>
+     </day>
      
      
    </month>
