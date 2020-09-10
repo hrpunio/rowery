@@ -1413,6 +1413,13 @@
 	 <by name='Matarnia'/>
        </ride>
      </day>
+     <day date="2020/09/10">
+       <!-- wyjazd do dendrona potem na zawodzie -->
+       <ride dist="55" exdist="57.12" bike='cx' gpx='20200910'>
+	 <by name='Gdańsk'/>
+	 <by name='Matarnia'/>
+       </ride>
+     </day>
      
      
    </month>
