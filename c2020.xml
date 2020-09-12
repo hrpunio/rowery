@@ -1420,6 +1420,21 @@
 	 <by name='Matarnia'/>
        </ride>
      </day>
+
+     <day date="2020/09/11">
+       <ride dist="40" exdist="40.10" bike='cx' gpx='20200911'>
+	 <by name='Gdańsk'/>
+	 <by name='Matarnia'/>
+       </ride>
+     </day>
+
+     <day date="2020/09/12">
+       <ride dist="75" exdist="74.10" bike='ridley' gpx='20200912'>
+	 <by name='Żukowo'/>
+	 <by name='Przodkowo'/>
+       </ride>
+     </day>
+
      
      
    </month>
