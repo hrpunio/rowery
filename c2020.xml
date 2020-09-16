@@ -1435,6 +1435,32 @@
        </ride>
      </day>
 
+     <day date="2020/09/13">
+       <ride dist="60" exdist="60.10" bike='ridley' gpx='20200912'>
+	 <by name='Pruszcz Gdański'/>
+       </ride>
+     </day>
+
+     <day date="2020/09/14">
+       <ride dist="35" exdist="37.10" bike='cx' gpx='20200914'>
+	 <!-- zawodzie -->
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2020/09/15">
+       <!-- zawodzie -->
+       <ride dist="35" exdist="37.10" bike='cx' gpx='20200915'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2020/09/16">
+       <ride dist="30" exdist="33.10" bike='cx' gpx='20200916'>
+	 <by name='Osowa'/>
+       </ride>
+     </day>
+
+     
      
      
    </month>
