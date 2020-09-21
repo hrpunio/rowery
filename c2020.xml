@@ -1473,6 +1473,18 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
+     <day date="2020/09/20">
+       <!-- KRunda -->
+       <ride dist="185" exdist="186.10" bike='ridley' gpx='20200920'>
+	 <by name='Kościerzyna'/>
+	 <by name='Wdzydze Kiszewskie'/>
+	 <by name='Borsk'/>
+	 <by name='Stężyca'/>
+	 <by name='Egiertowo'/>
+	 <by name='Żukowo'/>
+	 <by name='Pępowo'/>
+       </ride>
+     </day>
      
      
      
