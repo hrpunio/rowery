@@ -1511,6 +1511,20 @@
 	 <by name='Czeczewo'/>
        </ride>
      </day>
+
+     <day date="2020/09/28">
+       <!-- zawodzie -->
+       <ride dist="45" exdist="44.20" bike='ridley' gpx='20200928'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2020/09/29">
+       <ride dist="40" exdist="40.20" bike='ridley' gpx='20200929'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
      
    </month>
    
