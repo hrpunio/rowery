@@ -1531,7 +1531,15 @@
        </ride>
      </day>
 
-     
+   </month>
+   <month no='10'>
+
+     <day date="2020/10/01">
+       <ride dist="60" exdist="60.50" bike='ridley' gpx='20201001'>
+	 <by name='Pępowo'/>
+       </ride>
+     </day>
+
    </month>
    
 </year>
