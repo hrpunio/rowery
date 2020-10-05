@@ -1540,6 +1540,24 @@
        </ride>
      </day>
 
+     <day date="2020/10/02">
+       <!-- zawodzie -->
+       <ride dist="45" exdist="45.50" bike='ridley' gpx='20201002'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2020/10/04">
+       <ride dist="90" exdist="90.50" bike='ridley' gpx='20201004'>
+	 <by name='Pruszcz Gdański'/>
+       </ride>
+     </day>
+     <day date="2020/10/05">
+       <ride dist="35" exdist="35.30" bike='ridley' gpx='20201005'>
+	 <by name='Osowa'/>
+       </ride>
+     </day>
+
+     
    </month>
    
 </year>
