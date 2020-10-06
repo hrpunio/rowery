@@ -1556,6 +1556,12 @@
 	 <by name='Osowa'/>
        </ride>
      </day>
+     <day date="2020/10/06">
+       <ride dist="45" exdist="47.30" bike='ridley' gpx='20201006'>
+	 <by name='Kielno'/>
+	 <by name='Koleczkowo'/>
+       </ride>
+     </day>
 
      
    </month>
