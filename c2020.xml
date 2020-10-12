@@ -1574,11 +1574,16 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
-     <day date="2020/10/09">
+     <day date="2020/10/11">
        <ride dist="45" exdist="44.20" bike='ridley' gpx='20201011'>
 	 <by name='Gdańsk'/>
 	 <by name='Lniska'/>
 	 <by name='Żukowo'/>
+       </ride>
+     </day>
+     <day date="2020/10/12">
+       <ride dist="45" exdist="44.20" bike='ridley' gpx='20201012'>
+	 <by name='Gdańsk'/>
        </ride>
      </day>
 
