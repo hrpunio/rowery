@@ -1586,6 +1586,18 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
+     <day date="2020/10/13">
+       <ride dist="45" exdist="44.20" bike='ridley' gpx='20201013'>
+	 <by name='Koleczkowo'/>
+	 <by name='Wiczlino'/>
+       </ride>
+     </day>
+     <day date="2020/10/14">
+       <!-- deszcz i wiatr -->
+       <ride dist="20" exdist="22.50" bike='mtb' gpx='20201014'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
 
      
    </month>
