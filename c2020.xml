@@ -1598,6 +1598,12 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
+     <day date="2020/10/17">
+       <!-- deszcz i wiatr -->
+       <ride dist="100" exdist="100.50" bike='ridley' gpx='20201017'>
+	 <by name='Mikoszewo'/>
+       </ride>
+     </day>
 
      
    </month>
