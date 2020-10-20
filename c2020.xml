@@ -1611,6 +1611,11 @@
 	 <by name='Mikoszewo'/>
        </ride>
      </day>
+     <day date="2020/10/19">
+       <ride dist="35" exdist="37.10" bike='cx' gpx='20201019'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
 
      
    </month>
