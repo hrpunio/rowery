@@ -1660,6 +1660,12 @@
 	 <by name='Gdynia'/>
        </ride>
      </day>
+     <day date="2020/10/27">
+       <!-- zawodzie -->
+       <ride dist="45" exdist="47.10" bike='cx' gpx='20201027'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
 
      
      
