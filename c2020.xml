@@ -1641,6 +1641,27 @@
        </ride>
      </day>
 
+     <day date="2020/10/24">
+       <ride dist="60" exdist="60.10" bike='ridley' gpx='20201024'>
+	 <by name='Rewa'/>
+	 <by name='Rumia'/>
+       </ride>
+     </day>
+     
+     <day date="2020/10/25">
+       <ride dist="60" exdist="60.10" bike='ridley' gpx='20201025'>
+	 <by name='Pruszcz Gdański'/>
+       </ride>
+     </day>
+
+     <day date="2020/10/26">
+       <ride dist="55" exdist="55.10" bike='ridley' gpx='20201026'>
+	 <by name='Gdańsk'/>
+	 <by name='Gdynia'/>
+       </ride>
+     </day>
+
+     
      
    </month>
    
