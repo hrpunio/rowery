@@ -1697,8 +1697,13 @@
      <day date="2020/11/02">
        <!-- zawodzie -->
        <ride dist="45" exdist="44.20" bike='cx' gpx='20201102'>
-	 <by name='Władysławowo'/>
-	 <by name='Puck'/>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2020/11/06">
+       <ride dist="50" exdist="49.20" bike='cx' gpx='20201106'>
+	 <by name='Gdańsk'/>
+	 <by name='Matarnia'/>
        </ride>
      </day>
 
