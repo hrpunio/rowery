@@ -1706,6 +1706,18 @@
 	 <by name='Matarnia'/>
        </ride>
      </day>
+     <day date="2020/11/07">
+       <ride dist="35" exdist="34.10" bike='cx' gpx='20201107'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2020/11/08">
+       <ride dist="75" exdist="76.10" bike='ridley' gpx='20201108'>
+	 <by name='Pruszcz Gdański'/>
+	 <by name='Straszyn'/>
+	 <by name='Lublewo'/>
+       </ride>
+     </day>
 
    </month>
    
