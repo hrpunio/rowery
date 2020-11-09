@@ -1718,6 +1718,12 @@
 	 <by name='Lublewo'/>
        </ride>
      </day>
+     <day date="2020/11/09">
+       <!-- Zawodzie -->
+       <ride dist="40" exdist="41.10" bike='ridley' gpx='20201109'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
 
    </month>
    
