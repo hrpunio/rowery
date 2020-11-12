@@ -1718,9 +1718,16 @@
 	 <by name='Lublewo'/>
        </ride>
      </day>
-     <day date="2020/11/09">
+     <day date="2020/11/10">
        <!-- Zawodzie -->
-       <ride dist="40" exdist="41.10" bike='ridley' gpx='20201109'>
+       <ride dist="40" exdist="41.10" bike='ridley' gpx='20201110'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     
+     <day date="2020/11/10">
+       <!-- Zawodzie a potem na Westerplatte-->
+       <ride dist="55" exdist="55.10" bike='ridley' gpx='20201110'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>
@@ -1731,10 +1738,10 @@
        </ride>
      </day>
      <day date="2020/11/12">
-       <!-- Zawodzie -->
+       <!-- Do Dendrona a potem Zawodzie -->
        <ride dist="60" exdist="59.30" bike='ridley' gpx='20201112'>
 	 <by name='Gdańsk'/>
-	 <by name='Gdańsk'/>
+	 <by name='Matarnia'/>
        </ride>
      </day>
 
