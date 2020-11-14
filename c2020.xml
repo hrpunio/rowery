@@ -1744,6 +1744,19 @@
 	 <by name='Matarnia'/>
        </ride>
      </day>
+     <day date="2020/11/13">
+       <!-- Torpedownia -->
+       <ride dist="40" exdist="40.20" bike='ridley' gpx='20201113'>
+	 <by name='Gdynia'/>
+       </ride>
+     </day>
+
+     <day date="2020/11/14">
+       <ride dist="70" exdist="73.20" bike='ridley' gpx='20201114'>
+	 <by name='Gdańsk'/>
+	 <by name='Błotnik'/>
+       </ride>
+     </day>
 
      
    </month>
