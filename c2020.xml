@@ -1757,6 +1757,14 @@
 	 <by name='Błotnik'/>
        </ride>
      </day>
+     <day date="2020/11/15">
+       <ride dist="130" exdist="129.20" bike='ridley' gpx='20201115'>
+	 <by name='Mikoszewo'/>
+	 <by name='Jantar'/>
+	 <by name='Rybina'/>
+	 <by name='Nowy Dwór Gdański'/>
+       </ride>
+     </day>
 
      
    </month>
