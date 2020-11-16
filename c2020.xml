@@ -1765,7 +1765,12 @@
 	 <by name='Nowy Dwór Gdański'/>
        </ride>
      </day>
-
+     <day date="2020/11/16">
+       <!-- Zawodzie -->
+       <ride dist="35" exdist="38.10" bike='cx' gpx='20201116'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
      
    </month>
    
