@@ -1777,7 +1777,7 @@
        </ride>
      </day>
      <day date="2020/11/18">
-       <ride dist="75" exdist="74.10" bike='cx' gpx='20201118'>
+       <ride dist="75" exdist="74.10" bike='ridley' gpx='20201118'>
 	 <by name='Rumia'/>
 	 <by name='Reda'/>
 	 <by name='Wejherowo'/>
