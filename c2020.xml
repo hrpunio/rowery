@@ -1771,6 +1771,19 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
+     <day date="2020/11/17">
+       <ride dist="30" exdist="32.10" bike='cx' gpx='20201117'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2020/11/18">
+       <ride dist="75" exdist="74.10" bike='cx' gpx='20201118'>
+	 <by name='Rumia'/>
+	 <by name='Reda'/>
+	 <by name='Wejherowo'/>
+       </ride>
+     </day>
+
      
    </month>
    
