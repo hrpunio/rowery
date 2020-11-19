@@ -1783,6 +1783,12 @@
 	 <by name='Wejherowo'/>
        </ride>
      </day>
+     <day date="2020/11/19">
+       <!-- Zawodzie potem do j na oruni -->
+       <ride dist="50" exdist="50.10" bike='ridley' gpx='20201119'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
 
      
    </month>
