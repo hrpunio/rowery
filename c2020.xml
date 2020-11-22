@@ -1790,6 +1790,13 @@
        </ride>
      </day>
 
+     <day date="2020/11/22">
+       <!-- Warzenko -->
+       <ride dist="40" exdist="41.10" bike='ridley' gpx='20201122'>
+	 <by name='Warzenko'/>
+       </ride>
+     </day>
+
      
    </month>
    
