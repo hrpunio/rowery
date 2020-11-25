@@ -1801,6 +1801,12 @@
 	 <by name='Mikoszewo'/>
        </ride>
      </day>
+     <day date="2020/11/25">
+       <!-- Zawodzie -->
+       <ride dist="35" exdist="37.04" bike='ridley' gpx='20201125'>
+	 <by name='Zawodzie'/>
+       </ride>
+     </day>
 
      
    </month>
