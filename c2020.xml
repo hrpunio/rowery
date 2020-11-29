@@ -1804,11 +1804,28 @@
      <day date="2020/11/25">
        <!-- Zawodzie -->
        <ride dist="35" exdist="37.04" bike='ridley' gpx='20201125'>
-	 <by name='Zawodzie'/>
+	 <by name='Gdańsk'/>
        </ride>
      </day>
 
-     
+     <day date="2020/11/26">
+       <!-- Do wiślinki po deski -->
+       <ride dist="45" exdist="45.10" bike='ridley' gpx='20201126'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2020/11/27">
+       <ride dist="55" exdist="55.10" bike='ridley' gpx='20201127'>
+	 <by name='Żukowo'/>
+       </ride>
+     </day>
+     <day date="2020/11/28">
+       <ride dist="25" exdist="24.20" bike='ridley' gpx='20201128'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+
    </month>
    
 </year>
