@@ -1869,6 +1869,7 @@
      <day date="2020/12/06">
        <ride dist="130" exdist="130.10" bike='ridley' gpx='20201206'>
 	 <by name='Elbląg'/>
+	 <by name='Zastawno'/>
 	 <by name='Młynary'/>
 	 <by name='Frombork'/>
        </ride>
