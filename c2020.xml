@@ -1837,7 +1837,44 @@
        </ride>
      </day>
 
+   </month>
+   <month no='12'>
 
+     <day date="2020/12/02">
+       <ride dist="35" exdist="37.56" bike='cx' gpx='20201202'>
+	 <by name='Warzenko'/>
+       </ride>
+     </day>
+
+     
+     <day date="2020/12/03">
+       <ride dist="40" exdist="39.10" bike='cx' gpx='20201203'>
+	 <by name='Warzenko'/>
+       </ride>
+     </day>
+
+
+     <day date="2020/12/04">
+       <ride dist="40" exdist="42.10" bike='cx' gpx='20201204'>
+	 <by name='Warzenko'/>
+       </ride>
+     </day>
+     
+     <day date="2020/12/05">
+       <ride dist="55" exdist="54.10" bike='ridley' gpx='20201205'>
+	 <by name='Kamień'/>
+       </ride>
+     </day>
+
+     <day date="2020/12/06">
+       <ride dist="130" exdist="130.10" bike='ridley' gpx='20201206'>
+	 <by name='Elbląg'/>
+	 <by name='Młynary'/>
+	 <by name='Frombork'/>
+       </ride>
+     </day>
+
+     
    </month>
    
 </year>
