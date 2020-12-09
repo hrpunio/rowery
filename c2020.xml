@@ -1839,6 +1839,11 @@
 
    </month>
    <month no='12'>
+     <day date="2020/12/01">
+       <ride dist="35" exdist="37.56" bike='cx' gpx='20201201'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
 
      <day date="2020/12/02">
        <ride dist="35" exdist="37.56" bike='cx' gpx='20201202'>
