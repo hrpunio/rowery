@@ -1893,7 +1893,39 @@
        </ride>
      </day>
 
-     
+     <day date="2020/12/10">
+       <ride dist="45" exdist="45.34" bike='ridley' gpx='20201210'>
+	 <by name='Kielno'/>
+       </ride>
+     </day>
+ 
+     <day date="2020/12/11">
+       <ride dist="50" exdist="52.29" bike='cx' gpx='20201211'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2020/12/13">
+       <ride dist="35" exdist="34.38" bike='cx' gpx='20201213'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+
+     <day date="2020/12/14">
+       <ride dist="60" exdist="60.10" bike='ridley' gpx='20201214'>
+	 <!-- Sobieszewo -->
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2020/12/15">
+       <ride dist="75" exdist="74.30" bike='ridley' gpx='20201215'>
+	 <by name='Gdańsk'/>
+	 <by name='Lubichowo'/>
+	 <by name='Bielkówko'/>
+       </ride>
+     </day>
+
      
    </month>
    
