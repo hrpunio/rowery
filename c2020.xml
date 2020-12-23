@@ -1926,15 +1926,33 @@
        </ride>
      </day>
 
-
-     
-     <day date="2020/12/20">
-       <!-- Zawodzie -->
-       <ride dist="50" exdist="52.10" bike='ridley' gpx='20201220'>
+      <day date="2020/12/16">
+       <ride dist="50" exdist="50.01" bike='ridley' gpx='20201216'>
 	 <by name='Gdańsk'/>
-	 <by name='Pruszcz Gdański'/>
+       </ride>
+      </day>
+      
+      <day date="2020/12/17">
+       <ride dist="50" exdist="52.01" bike='ridley' gpx='20201217'>
+	 <by name='Żukowo'/>
+	 <by name='Miszewo'/>
        </ride>
      </day>
+
+     <day date="2020/12/17">
+       <ride dist="50" exdist="52.01" bike='ridley' gpx='20201217'>
+	 <by name='Żukowo'/>
+	 <by name='Miszewo'/>
+       </ride>
+     </day>
+
+     <day date="2020/12/19">
+       <!-- Zawodzie -->
+       <ride dist="40" exdist="40.10" bike='ridley' gpx='20201219'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     
      <day date="2020/12/21">
        <!-- Zawodzie -->
        <ride dist="35" exdist="37.30" bike='ridley' gpx='20201221'>
