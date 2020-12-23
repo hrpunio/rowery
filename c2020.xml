@@ -1926,7 +1926,28 @@
        </ride>
      </day>
 
+
      
+     <day date="2020/12/20">
+       <!-- Zawodzie -->
+       <ride dist="50" exdist="52.10" bike='ridley' gpx='20201220'>
+	 <by name='Gdańsk'/>
+	 <by name='Pruszcz Gdański'/>
+       </ride>
+     </day>
+     <day date="2020/12/21">
+       <!-- Zawodzie -->
+       <ride dist="35" exdist="37.30" bike='ridley' gpx='20201221'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2020/12/23">
+       <ride dist="30" exdist="32.30" bike='cx' gpx='20201223'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
    </month>
    
 </year>
