@@ -1965,7 +1965,13 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
-
+     
+     <day date="2020/12/25">
+       <ride dist="35" exdist="34.10" bike='cx' gpx='20201225'>
+	 <!-- upadek/skasowany hełm -->
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
    </month>
    
 </year>
