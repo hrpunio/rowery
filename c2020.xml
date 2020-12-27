@@ -1972,6 +1972,14 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
+     <day date="2020/12/27">
+       <ride dist="35" exdist="35.03" bike='gpx' gpx='202012257'>
+	 <by name='Gdańsk'/>
+	 <by name='Osowa'/>
+       </ride>
+     </day>
+
+     
    </month>
    
 </year>
