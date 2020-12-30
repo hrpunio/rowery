@@ -1984,6 +1984,14 @@
        <ride dist="40" exdist="39.40" bike='mtb' gpx='20201228'>
 	 <by name='Gdańsk'/>
 	 <by name='Osowa'/>
+	 <by name='Warzenko'/>
+       </ride>
+     </day>
+     <day date="2020/12/30">
+       <ride dist="40" exdist="39.40" bike='mtb' gpx='20201230'>
+	 <by name='Gdańsk'/>
+	 <by name='Bieszkowice'/>
+	 <by name='Osowa'/>
        </ride>
      </day>
 
