@@ -1994,6 +1994,11 @@
 	 <by name='Osowa'/>
        </ride>
      </day>
+     <day date="2020/12/31">
+       <ride dist="35" exdist="34.40" bike='cx' gpx='20201231'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
 
      
    </month>
