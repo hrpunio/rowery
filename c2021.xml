@@ -6,13 +6,16 @@
 
      <day date="2020/01/02">
        <ride dist="40" exdist="40.00" bike='mtb' gpx='20200102'>
-	 <by name='Warzenko'/>
+	 <by name='Gdańsk'/>
        </ride>
      </day>
      
      <day date="2020/01/03">
        <ride dist="45" exdist="44.00" bike='mtb' gpx='20200103'>
+	 <by name='Chwaszczyno'/>
+	 <by name='Koleczkowo'/>
 	 <by name='Wiczlino'/>
+	 <by name='Gdynia'/>
        </ride>
      </day>
 
