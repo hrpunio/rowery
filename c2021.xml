@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8' standalone='no' ?>
+<!DOCTYPE year SYSTEM "rowery.dtd" >
+
+<year no="2021" done='258455'>
+  <month no="1">
+
+     <day date="2020/01/02">
+       <ride dist="40" exdist="40.00" bike='mtb' gpx='20200102'>
+	 <by name='Warzenko'/>
+       </ride>
+     </day>
+     
+     <day date="2020/01/03">
+       <ride dist="45" exdist="44.00" bike='mtb' gpx='20200103'>
+	 <by name='Wiczlino'/>
+       </ride>
+     </day>
+
+    
+   </month>
+</year>
+   
