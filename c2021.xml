@@ -19,6 +19,13 @@
        </ride>
      </day>
 
+     <day date="2020/01/07">
+       <!-- wożenie kanapy do MK -->
+       <ride dist="40" exdist="43.00" bike='mtb' gpx='20200107'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
     
    </month>
 </year>
