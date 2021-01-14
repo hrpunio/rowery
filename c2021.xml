@@ -5,13 +5,13 @@
   <month no="1">
 
      <day date="2020/01/02">
-       <ride dist="40" exdist="40.00" bike='mtb' gpx='20200102'>
+       <ride dist="40" exdist="40.00" bike='mtb' gpx='20210102'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>
      
      <day date="2020/01/03">
-       <ride dist="45" exdist="44.00" bike='mtb' gpx='20200103'>
+       <ride dist="45" exdist="44.00" bike='mtb' gpx='20210103'>
 	 <by name='Chwaszczyno'/>
 	 <by name='Koleczkowo'/>
 	 <by name='Wiczlino'/>
@@ -21,16 +21,35 @@
 
      <day date="2020/01/07">
        <!-- wożenie kanapy do MK -->
-       <ride dist="40" exdist="43.00" bike='mtb' gpx='20200107'>
+       <ride dist="40" exdist="43.00" bike='mtb' gpx='20210107'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>
      <day date="2020/01/08">
-       <ride dist="35" exdist="38.00" bike='mtb' gpx='20200108'>
+       <ride dist="35" exdist="38.00" bike='mtb' gpx='20210108'>
 	 <by name='Gdynia'/>
        </ride>
      </day>
 
+     <day date="2020/01/11">
+       <ride dist="30" exdist="30.00" bike='cx' gpx='20210111'>
+	 <by name='Pruszcz Gdański'/>
+       </ride>
+     </day>
+
+     <day date="2020/01/12">
+       <ride dist="30" exdist="30.00" bike='mtb' gpx='20210112'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2020/01/13">
+       <ride dist="20" exdist="22.00" bike='cx' gpx='20210113'>
+	 <by name='Gdynia'/>
+       </ride>
+     </day>
+
+     
     
    </month>
 </year>
