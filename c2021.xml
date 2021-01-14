@@ -32,7 +32,7 @@
      </day>
 
      <day date="2020/01/11">
-       <ride dist="30" exdist="30.00" bike='cx' gpx='20210111'>
+       <ride dist="60" exdist="62.00" bike='cx' gpx='20210111'>
 	 <by name='Pruszcz Gdański'/>
        </ride>
      </day>
