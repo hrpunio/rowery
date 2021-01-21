@@ -54,6 +54,12 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
+     <day date="2020/01/21">
+       <ride dist="30" exdist="30.10" bike='mtb' gpx='20210121'>
+	 <!-- Biznesowo po Gdańsku -->
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
 
      
     
