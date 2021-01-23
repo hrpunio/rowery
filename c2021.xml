@@ -60,6 +60,12 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
+     <day date="2020/01/22">
+       <ride dist="40" exdist="41.10" bike='mtb' gpx='20210122'>
+	 <!-- Zawodzie+ginitwa_z_SM -->
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
 
      
     
