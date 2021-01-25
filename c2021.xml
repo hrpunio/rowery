@@ -79,6 +79,12 @@
 	 <by name='Kielno'/>
        </ride>
      </day>
+     <day date="2020/01/25">
+       <ride dist="35" exdist="38.10" bike='cx' gpx='20210125'>
+	 <by name='Gdańsk'/>
+	 <by name='Gdynia'/>
+       </ride>
+     </day>
 
      
     
