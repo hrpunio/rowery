@@ -91,6 +91,12 @@
 	 <by name='Gdynia'/>
        </ride>
      </day>
+     <day date="2020/01/27">
+       <ride dist="45" exdist="46.10" bike='mtb' gpx='20210127'>
+	 <by name='Chwaszczyno'/>
+	 <by name='Warzenko'/>
+       </ride>
+     </day>
 
      
     
