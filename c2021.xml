@@ -96,9 +96,19 @@
 	 <by name='Chwaszczyno'/>
 	 <by name='Warzenko'/>
        </ride>
-     </day>
+     </day>       
+  </month>
+  <month no="2">
+    <day date="2020/02/16">
+      <ride dist="35" exdist="34.10" bike='mtb' gpx='20210216'>
+	<by name='Chwaszczyno'/>
+	<by name='Warzenko'/>
+      </ride>
+    </day>       
 
-       
-   </month>
+  </month>
+
+  
+  
 </year>
    
