@@ -110,7 +110,50 @@
 	<by name='Gdynia'/>
       </ride>
     </day>       
+    <day date="2020/02/21">
+      <ride dist="65" exdist="64.80" bike='mtb' gpx='20210221'>
+	<by name='Gdynia'/>
+      </ride>
+    </day>       
+    <day date="2020/02/22">
+      <ride dist="45" exdist="44.60" bike='mtb' gpx='20210222'>
+	<by name='Gdynia'/>
+	<by name='Koleczkowo'/>
+	<by name='Wiczlino'/>
+      </ride>
+    </day>       
+    <day date="2020/02/23">
+      <ride dist="65" exdist="64.60" bike='mtb' gpx='20210223'>
+	<by name='Rumia'/>
+	<by name='Gdynia'/>
+      </ride>
+    </day>       
 
+    <day date="2020/02/25">
+      <ride dist="35" exdist="34.56" bike='cx' gpx='20210225'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
+    <day date="2020/02/26">
+      <ride dist="30" exdist="30.56" bike='cx' gpx='20210226'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
+    
+    <day date="2020/02/27">
+      <ride dist="40" exdist="41.60" bike='cx' gpx='20210227'>
+	<by name='Koleczkowo'/>
+	<by name='Wiczlino'/>
+      </ride>
+    </day>       
+
+    <day date="2020/02/28">
+      <ride dist="35" exdist="34.60" bike='cx' gpx='20210228'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
+
+    
   </month>
 
     
