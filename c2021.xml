@@ -160,6 +160,38 @@
 	<by name='Gdańsk'/>
       </ride>
     </day>       
+
+    <day date="2021/03/02">
+      <ride dist="40" exdist="40.90" bike='cx' gpx='20210302'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
+
+    <day date="2021/03/03">
+      <ride dist="105" exdist="104.90" bike='ridley' gpx='20210303'>
+	<by name='Nowy Dwór Gdański'/>
+	<by name='Kąty Rybackie'/>
+	<by name='Stegna'/>
+	<by name='Mikoszewo'/>
+	<by name='Kiezmark'/>
+      </ride>
+    </day>       
+
+    <day date="2021/03/04">
+      <!-- Biznesowo po sklepach -->
+      <ride dist="40" exdist="40.10" bike='cx' gpx='20210304'>
+	<by name='Gdańsk'/>
+	<by name='Gdynia'/>
+      </ride>
+    </day>       
+    
+    <day date="2021/03/06">
+    <ride dist="50" exdist="50.50" bike='ridley' gpx='20210306'>
+      <by name='Kamień'/>
+      <by name='Kielno'/>
+      </ride>
+    </day>       
+
   </month>
 
     
