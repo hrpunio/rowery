@@ -193,14 +193,14 @@
     </day>       
     <day date="2021/03/07">
     <ride dist="40" exdist="41.60" bike='ridley' gpx='20210307'>
-      <by name='Kamień'/>
-      <by name='Kielno'/>
+      <by name='Gdańsk'/>
       </ride>
     </day>       
 
     <day date="2021/03/09">
     <ride dist="30" exdist="32.60" bike='mtb' gpx='20210309'>
       <by name='Gdańsk'/>
+      <by name='Gdynia'/>
       </ride>
     </day>       
 
