@@ -191,7 +191,38 @@
       <by name='Kielno'/>
       </ride>
     </day>       
+    <day date="2021/03/07">
+    <ride dist="40" exdist="41.60" bike='ridley' gpx='20210307'>
+      <by name='Kamień'/>
+      <by name='Kielno'/>
+      </ride>
+    </day>       
 
+    <day date="2021/03/09">
+    <ride dist="30" exdist="32.60" bike='mtb' gpx='20210309'>
+      <by name='Gdańsk'/>
+      </ride>
+    </day>       
+
+    <day date="2021/03/10">
+    <ride dist="30" exdist="29.60" bike='mtb' gpx='20210310'>
+      <by name='Gdańsk'/>
+      </ride>
+    </day>       
+
+    <day date="2021/03/11">
+      <ride dist="25" exdist="24.06" bike='cx' gpx='20210311'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
+
+    <day date="2021/03/12">
+    <ride dist="30" exdist="31.82" bike='cx' gpx='20210312'>
+      <by name='Gdańsk'/>
+      </ride>
+    </day>       
+
+    
   </month>
 
     
