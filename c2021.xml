@@ -223,7 +223,7 @@
       </ride>
     </day>       
     <day date="2021/03/13">
-    <ride dist="30" exdist="31.82" bike='cx' gpx='20210313'>
+    <ride dist="100" exdist="101.82" bike='ridley' gpx='20210313'>
       <by name='Przywidz'/>
       <by name='Kolbudy'/>
       </ride>
