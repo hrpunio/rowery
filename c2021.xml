@@ -222,10 +222,18 @@
       <by name='Gdańsk'/>
       </ride>
     </day>       
+
     <day date="2021/03/13">
     <ride dist="100" exdist="101.82" bike='ridley' gpx='20210313'>
       <by name='Przywidz'/>
       <by name='Kolbudy'/>
+      </ride>
+    </day>       
+    <day date="2021/03/14">
+      <ride dist="25" exdist="27.16" bike='cx' gpx='20210314'>
+	<!-- paskudna pogoda -->
+	<by name='Gdańsk'/>
+	<by name='Matarnia'/>
       </ride>
     </day>       
 
