@@ -266,11 +266,19 @@
     <day date="2021/03/22">
       <!-- zawodzie -->
       <ride dist="60" exdist="62.13" bike='ridley' gpx='20210322'>
-	<!-- paskudna pogoda -->
 	<by name='Gdańsk'/>
       </ride>
     </day>       
 
+    <day date="2021/03/23">
+      <!-- zawodzie -->
+      <ride dist="60" exdist="59.50" bike='ridley' gpx='20210323'>
+	<by name='Gdańsk'/>
+	<by name='Matarnia'/>
+      </ride>
+    </day>       
+
+    
     
   </month>
 
