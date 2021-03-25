@@ -277,6 +277,20 @@
 	<by name='Matarnia'/>
       </ride>
     </day>       
+    <day date="2021/03/24">
+      <!-- zawodzie -->
+      <ride dist="60" exdist="59.50" bike='ridley' gpx='20210324'>
+	<by name='Gdańsk'/>
+	<by name='Matarnia'/>
+      </ride>
+    </day>       
+    <day date="2021/03/25">
+      <!-- zawodzie -->
+      <ride dist="55" exdist="56.50" bike='ridley' gpx='20210325'>
+	<!-- zawodzie -->
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
 
     
     
