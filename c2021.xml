@@ -299,10 +299,13 @@
       </ride>
     </day>       
     <day date="2021/03/27">
-      <!-- zawodzie -->
       <ride dist="120" exdist="120.50" bike='ridley' gpx='20210327'>
-	<!-- zawodzie -->
 	<by name='Palczewo'/>
+      </ride>
+    </day>       
+    <day date="2021/03/28">
+      <ride dist="65" exdist="65.50" bike='ridley' gpx='20210328'>
+	<by name='Pruszcz Gdański'/>
       </ride>
     </day>       
 
