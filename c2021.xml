@@ -314,6 +314,12 @@
 	<by name='Wiślinka'/>
       </ride>
     </day>       
+    <day date="2021/03/30">
+      <!-- do szkółki i z powrotem -->
+      <ride dist="65" exdist="64.20" bike='ridley' gpx='20210330'>
+	<by name='Wiślinka'/>
+      </ride>
+    </day>       
 
     
     
