@@ -307,6 +307,12 @@
       <ride dist="65" exdist="65.50" bike='ridley' gpx='20210328'>
 	<by name='Pruszcz Gdański'/>
       </ride>
+    </day>
+    <day date="2021/03/29">
+      <!-- do szkółki i z powrotem -->
+      <ride dist="55" exdist="55.50" bike='cx' gpx='20210329'>
+	<by name='Wiślinka'/>
+      </ride>
     </day>       
 
     
