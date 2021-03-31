@@ -320,6 +320,12 @@
 	<by name='Wiślinka'/>
       </ride>
     </day>       
+    <day date="2021/03/31">
+      <!-- zawodzie -->
+      <ride dist="40" exdist="39.30" bike='ridley' gpx='20210331'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
 
     
     
