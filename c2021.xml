@@ -327,7 +327,37 @@
       </ride>
     </day>       
 
+  </month>
+  <month no="4">
     
+    <day date="2021/04/02">
+      <!-- zawodzie -->
+      <ride dist="35" exdist="36.30" bike='ridley' gpx='20210402'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
+    <day date="2021/04/03">
+      <!-- zawodzie -->
+      <ride dist="35" exdist="36.30" bike='ridley' gpx='20210403'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
+
+    <day date="2021/04/04">
+      <!-- zawodzie -->
+      <ride dist="35" exdist="36.30" bike='ridley' gpx='20210404'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
+    
+    <day date="2021/04/05">
+      <!-- zawodzie -->
+      <ride dist="65" exdist="66.30" bike='ridley' gpx='20210405'>
+	<by name='Gdańsk'/>
+	<by name='Pruszcz Gdański'/>
+      </ride>
+    </day>       
+
     
   </month>
 
