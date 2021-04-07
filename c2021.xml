@@ -356,11 +356,13 @@
 	<by name='Pruszcz Gdański'/>
       </ride>
     </day>
+
     <day date="2021/04/06">
       <ride dist="35" exdist="36.30" bike='cx' gpx='20210406'>
 	<by name='Gdańsk'/>
       </ride>
     </day>       
+
     <day date="2021/04/07">
       <!-- zawodzie -->
       <ride dist="35" exdist="36.30" bike='ridley' gpx='20210407'>
