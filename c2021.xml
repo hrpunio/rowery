@@ -351,10 +351,20 @@
     </day>       
     
     <day date="2021/04/05">
-      <!-- zawodzie -->
       <ride dist="65" exdist="66.30" bike='ridley' gpx='20210405'>
 	<by name='Gdańsk'/>
 	<by name='Pruszcz Gdański'/>
+      </ride>
+    </day>
+    <day date="2021/04/06">
+      <ride dist="35" exdist="36.30" bike='cx' gpx='20210406'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
+    <day date="2021/04/07">
+      <!-- zawodzie -->
+      <ride dist="35" exdist="36.30" bike='ridley' gpx='20210407'>
+	<by name='Gdańsk'/>
       </ride>
     </day>       
 
