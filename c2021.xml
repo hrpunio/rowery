@@ -376,6 +376,16 @@
       </ride>
     </day>       
 
+    <day date="2021/04/09">
+      <!-- zawodzie/też -->
+      <ride dist="95" exdist="95.40" bike='ridley' gpx='20210409'>
+	<by name='Gdańsk'/>
+	<by name='Banino'/>
+	<by name='Miszewo'/>
+	<by name='Wiślinka'/>
+      </ride>
+    </day>       
+
     
   </month>
 
