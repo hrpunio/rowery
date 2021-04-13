@@ -390,6 +390,7 @@
       <!-- zawodzie -->
       <ride dist="70" exdist="70.00" bike='ridley' gpx='20210411'>
 	<by name='Gdańsk'/>
+	<by name='Pruszcz Gdański'/>
       </ride>
     </day>       
    
