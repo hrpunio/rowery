@@ -400,9 +400,27 @@
 	<by name='Gdańsk'/>
       </ride>
     </day>       
+    <day date="2021/04/13">
+      <!-- wyjazd do Lublina-->
+      <ride dist="55" exdist="55.40" bike='ridley' gpx='20210413'>
+	<by name='Gdańsk'/>	
+	<by name='Cedry Wielkie'/>
+      </ride>
+    </day>       
 
-    
-    
+    <day date="2021/04/16">
+      <!-- powrót z Lublina-->
+      <ride dist="40" exdist="39.40" bike='ridley' gpx='20210416'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
+    <day date="2021/04/17">
+      <!-- Sobieszewo -->
+      <ride dist="70" exdist="69.40" bike='ridley' gpx='20210416'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
+
   </month>
 
     
