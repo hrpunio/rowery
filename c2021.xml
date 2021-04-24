@@ -441,6 +441,15 @@
       </ride>
     </day>       
 
+    <day date="2021/04/23">
+      <!-- Gdańsk -->
+      <ride dist="95" exdist="95.20" bike='ridley' gpx='20210423'>
+	<by name='Malbork'/>
+	<by name='Kwidzyn'/>
+	<by name='Tczew'/>
+      </ride>
+    </day>       
+
     
   </month>
 
