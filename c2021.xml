@@ -456,6 +456,19 @@
       </ride>
     </day>       
 
+    <day date="2021/04/27">
+      <ride dist="65" exdist="66.20" bike='ridley' gpx='20210427'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
+    <day date="2021/04/28">
+      <!-- Zawodzie -->
+      <ride dist="45" exdist="44.05" bike='ridley' gpx='20210428'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
+
+
     
   </month>
 
