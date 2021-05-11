@@ -492,7 +492,17 @@
 	<by name='Gdańsk'/>
       </ride>
     </day>       
-
+  </month>
+  
+  <month no='5'>
+    
+    <day date="2021/05/10">
+      <!-- Zawodzie x2-->
+      <ride dist="75" exdist="76.05" bike='ridley' gpx='20210510'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
+  
   </month>
 
     
