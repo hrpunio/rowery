@@ -523,7 +523,14 @@
 	<by name='Gdańsk'/>
       </ride>
     </day>       
+    <day date="2021/05/13">
+      <!-- Zawodzie+Sobieszewo -->
+      <ride dist="60" exdist="60.05" bike='ridley' gpx='20210514'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
 
+    
   </month>
 
     
