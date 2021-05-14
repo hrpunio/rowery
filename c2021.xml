@@ -502,7 +502,28 @@
 	<by name='Gdańsk'/>
       </ride>
     </day>       
-  
+
+    <day date="2021/05/11">
+      <!-- Zawodzie+Sobieszewo -->
+      <ride dist="65" exdist="64.05" bike='ridley' gpx='20210511'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
+
+    <day date="2021/05/12">
+      <!-- Zawodzie+Sobieszewo -->
+      <ride dist="60" exdist="59.05" bike='ridley' gpx='20210512'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
+
+    <day date="2021/05/13">
+      <!-- Zawodzie+Sobieszewo -->
+      <ride dist="55" exdist="58.05" bike='ridley' gpx='20210513'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
+
   </month>
 
     
