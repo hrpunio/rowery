@@ -515,10 +515,19 @@
 	<by name='Gdańsk'/>
       </ride>
     </day>       
+    <day date="2021/05/07">
+      <!-- Zawodzie -->
+      <ride dist="50" exdist="52.05" bike='ridley' gpx='20210507'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
+    <day date="2021/05/08">
+      <!-- Zawodzie -->
+      <ride dist="35" exdist="37.05" bike='ridley' gpx='20210508'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
 
-
-    
-    
     <day date="2021/05/10">
       <!-- Zawodzie x2-->
       <ride dist="75" exdist="76.05" bike='ridley' gpx='20210510'>
