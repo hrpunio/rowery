@@ -504,7 +504,7 @@
 
     <day date="2021/05/02">
       <!-- Zawodzie -->
-      <ride dist="70" exdist="73.05" bike='ridley' gpx='20210502'>
+      <ride dist="45" exdist="45.05" bike='ridley' gpx='20210502'>
 	<by name='Gdańsk'/>
       </ride>
     </day>
