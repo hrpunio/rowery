@@ -495,7 +495,20 @@
   </month>
   
   <month no='5'>
+    <day date="2021/05/01">
+      <!-- Zawodzie -->
+      <ride dist="35" exdist="37.05" bike='ridley' gpx='20210501'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
 
+    <day date="2021/05/02">
+      <!-- Zawodzie -->
+      <ride dist="70" exdist="73.05" bike='ridley' gpx='20210502'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+    
     <day date="2021/05/03">
       <!-- Zawodzie -->
       <ride dist="30" exdist="30.05" bike='ridley' gpx='20210503'>
