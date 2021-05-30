@@ -595,6 +595,29 @@
       </ride>
     </day>       
 
+    <day date="2021/05/19">
+      <!-- Zawodzie -->
+      <ride dist="80" exdist="81.05" bike='ridley' gpx='20210519'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
+
+    
+    <day date="2021/05/20">
+      <!-- Zawodzie -->
+      <ride dist="35" exdist="37.05" bike='ridley' gpx='20210520'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
+
+    
+        <day date="2021/05/21">
+      <!-- Zawodzie -->
+      <ride dist="35" exdist="37.05" bike='ridley' gpx='20210521'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
+
     
     <day date="2021/05/22">
       <!-- Zawodzie -->
@@ -603,11 +626,24 @@
       </ride>
     </day>       
 
+    <day date="2021/05/23">
+      <!-- Zawodzie -->
+      <ride dist="65" exdist="67.71" bike='ridley' gpx='20210523'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
+
+    <day date="2021/05/24">
+      <!-- Zawodzie -->
+      <ride dist="35" exdist="38.97" bike='ridley' gpx='20210524'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
     
 
-    <day date="2021/05/26">
+    <day date="2021/05/25">
       <!-- Zawodzie -->
-      <ride dist="65" exdist="68.05" bike='ridley' gpx='20210526'>
+      <ride dist="35" exdist="36.95" bike='ridley' gpx='20210525'>
 	<by name='Gdańsk'/>
       </ride>
     </day>       
