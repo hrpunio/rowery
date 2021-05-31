@@ -676,6 +676,13 @@
 	<by name='Gdańsk'/>
       </ride>
     </day>       
+    <day date="2021/05/31">
+      <!-- Zawodzie -->
+      <ride dist="60" exdist="59.51" bike='ridley' gpx='20210531'>
+	<by name='Gdańsk'/>
+	<by name='Pruszcz Gdański'/>
+      </ride>
+    </day>       
 
     
     
