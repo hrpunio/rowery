@@ -732,20 +732,6 @@
       </ride>
     </day>       
 
-    <day date="2021/06/10">
-      <!-- Zawodzie -->
-      <ride dist="45" exdist="44.31" bike='ridley' gpx='20210610'>
-	<by name='Gdańsk'/>
-      </ride>
-    </day>       
-
-    <day date="2021/06/10">
-      <!-- Zawodzie -->
-      <ride dist="45" exdist="44.31" bike='ridley' gpx='20210610'>
-	<by name='Gdańsk'/>
-      </ride>
-    </day>
-
     <day date="2021/06/11">
       <!-- Zawodzie -->
       <ride dist="40" exdist="40.31" bike='ridley' gpx='20210611'>
