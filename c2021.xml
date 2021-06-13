@@ -684,10 +684,22 @@
       </ride>
     </day>       
 
+  </month>
+  
+  <month no='6'> 
     
+    <day date="2021/06/13">
+      <!-- Zawodzie -->
+      <ride dist="145" exdist="145.51" bike='ridley' gpx='20210613'>
+	<by name='Pruszcz Gdański'/>
+	<by name='Nowy Dwór Gdański'/>
+	<by name='Stegna'/>
+	<by name='Mikoszewo'/>
+      </ride>
+    </day>       
     
   </month>
-
+  
     
 </year>
    
