@@ -703,38 +703,38 @@
 
     <day date="2021/06/06">
       <!-- Zawodzie -->
-      <ride dist="115" exdist="115.01" bike='ridley' gpx='20210606'>
+      <ride dist="115" exdist="115.01" bike='fenix' gpx='20210606'>
 	<by name='Gdańsk'/>
       </ride>
     </day>      
      <day date="2021/06/07">
       <!-- Zawodzie -->
-      <ride dist="45" exdist="45.01" bike='ridley' gpx='20210607'>
+      <ride dist="45" exdist="45.01" bike='fenix' gpx='20210607'>
 	<by name='Gdańsk'/>
       </ride>
     </day>       
     <day date="2021/06/08">
       <!-- Zawodzie -->
-      <ride dist="60" exdist="60.01" bike='ridley' gpx='20210607'>
+      <ride dist="60" exdist="60.01" bike='fenix' gpx='20210607'>
 	<by name='Gdańsk'/>
       </ride>
     </day>       
     <day date="2021/06/09">
       <!-- Zawodzie -->
-      <ride dist="60" exdist="59.31" bike='ridley' gpx='20210609'>
+      <ride dist="60" exdist="59.31" bike='fenix' gpx='20210609'>
 	<by name='Gdańsk'/>
       </ride>
     </day>       
     <day date="2021/06/10">
       <!-- Zawodzie -->
-      <ride dist="45" exdist="44.31" bike='ridley' gpx='20210610'>
+      <ride dist="45" exdist="44.31" bike='fenix' gpx='20210610'>
 	<by name='Gdańsk'/>
       </ride>
     </day>       
 
     <day date="2021/06/11">
       <!-- Zawodzie -->
-      <ride dist="40" exdist="40.31" bike='ridley' gpx='20210611'>
+      <ride dist="40" exdist="40.31" bike='fenix' gpx='20210611'>
 	<by name='Gdańsk'/>
       </ride>
     </day>       
@@ -748,11 +748,17 @@
 
     <day date="2021/06/13">
       <!-- Zawodzie -->
-      <ride dist="145" exdist="145.51" bike='ridley' gpx='20210613'>
+      <ride dist="145" exdist="145.51" bike='fenix' gpx='20210613'>
 	<by name='Pruszcz Gdański'/>
 	<by name='Nowy Dwór Gdański'/>
 	<by name='Stegna'/>
 	<by name='Mikoszewo'/>
+      </ride>
+    </day>       
+    <day date="2021/06/14">
+      <!-- Zawodzie/Sobieszewo -->
+      <ride dist="60" exdist="62.31" bike='fenix' gpx='20210614'>
+	<by name='Gdańsk'/>
       </ride>
     </day>       
     
