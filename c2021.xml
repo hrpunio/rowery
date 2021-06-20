@@ -781,7 +781,7 @@
     </day>       
     <day date="2021/06/18">
       <!-- Zawodzie -->
-      <ride dist="55" exdist="55.10" bike='fenix' gpx='20210618'>
+      <ride dist="35" exdist="35.10" bike='fenix' gpx='20210618'>
 	<by name='Gdańsk'/>
       </ride>
       <ride dist="15" exdist="17.01" bike='ridley' gpx='20210618'>
@@ -789,8 +789,7 @@
       </ride>
     </day>
 
-    
-
+   
     <day date="2021/06/19">
       <!-- Zawodzie -->
       <ride dist="115" exdist="115.31" bike='fenix' gpx='20210619'>
