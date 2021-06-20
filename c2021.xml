@@ -779,7 +779,17 @@
 	<by name='Gdańsk'/>
       </ride>
     </day>       
+    <day date="2021/06/18">
+      <!-- Zawodzie -->
+      <ride dist="55" exdist="55.10" bike='fenix' gpx='20210618'>
+	<by name='Gdańsk'/>
+      </ride>
+      <ride dist="15" exdist="17.01" bike='ridley' gpx='20210618'>
+	<by name='Gdynia'/>
+      </ride>
+    </day>
 
+    
 
     <day date="2021/06/19">
       <!-- Zawodzie -->
@@ -787,7 +797,8 @@
 	<by name='Mikoszewo'/>
 	<by name='Gdańsk'/>
       </ride>
-    </day>       
+    </day>
+    
     <day date="2021/06/20">
       <!-- Zawodzie -->
       <ride dist="35" exdist="37.31" bike='fenix' gpx='20210620'>
