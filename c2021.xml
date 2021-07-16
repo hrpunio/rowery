@@ -906,9 +906,68 @@
       </ride>
     </day>       
 
+    <day date="2021/07/07">
+      <!-- Zawodzie/Sobieszewo -->
+      <ride dist="60" exdist="=62.01" bike='fenix' gpx='20210707'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
+
+        <day date="2021/07/09">
+      <!-- Zawodzie -->
+      <ride dist="35" exdist="=37.01" bike='fenix' gpx='20210709'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
     
+    <day date="2021/07/11">
+      <!-- Zawodzie -->
+      <ride dist="35" exdist="=37.01" bike='fenix' gpx='20210711'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
+  
+  <day date="2021/07/12">
+      <ride dist="80" exdist="79.05" bike='fenix' gpx='20210713'>
+	<by name='Gdańsk'/>
+	<by name='Cedry Wielkie'/>
+	<by name='Pruszcz Gdański'/>
+      </ride>
+    </day>       
+
+        <day date="2021/07/13">
+      <ride dist="65" exdist="65.51" bike='fenix' gpx='20210713'>
+	<by name='Osowa'/>
+	<by name='Miszewo'/>
+	<by name='Czeczewo'/>
+      </ride>
+    </day>       
+
+    <day date="2021/07/14">
+      <!-- Zawodzie -->
+      <ride dist="45" exdist="47.01" bike='fenix' gpx='20210714'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
+
+    <day date="2021/07/15">
+      <!-- Zawodzie -->
+      <ride dist="80" exdist="81.01" bike='fenix' gpx='20210715'>
+	<by name='Gdańsk'/>
+	<by name='Pruszcz Gdański'/>
+      </ride>
+    </day>       
+
+
+    <day date="2021/07/16">
+      <!-- Zawodzie -->
+      <ride dist="35" exdist="=37.01" bike='fenix' gpx='20210716'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
+
+  
   </month>
   
-    
 </year>
    
