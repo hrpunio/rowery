@@ -901,28 +901,28 @@
     </day>       
     <day date="2021/07/06">
       <!-- Zawodzie/Sobieszewo -->
-      <ride dist="55" exdist="=57.01" bike='fenix' gpx='20210706'>
+      <ride dist="55" exdist="57.01" bike='fenix' gpx='20210706'>
 	<by name='Gdańsk'/>
       </ride>
     </day>       
 
     <day date="2021/07/07">
       <!-- Zawodzie/Sobieszewo -->
-      <ride dist="60" exdist="=62.01" bike='fenix' gpx='20210707'>
+      <ride dist="60" exdist="62.01" bike='fenix' gpx='20210707'>
 	<by name='Gdańsk'/>
       </ride>
     </day>       
 
         <day date="2021/07/09">
       <!-- Zawodzie -->
-      <ride dist="35" exdist="=37.01" bike='fenix' gpx='20210709'>
+      <ride dist="35" exdist="37.01" bike='fenix' gpx='20210709'>
 	<by name='Gdańsk'/>
       </ride>
     </day>       
     
     <day date="2021/07/11">
       <!-- Zawodzie -->
-      <ride dist="35" exdist="=37.01" bike='fenix' gpx='20210711'>
+      <ride dist="35" exdist="37.01" bike='fenix' gpx='20210711'>
 	<by name='Gdańsk'/>
       </ride>
     </day>       
@@ -956,13 +956,21 @@
 	<by name='Gdańsk'/>
 	<by name='Pruszcz Gdański'/>
       </ride>
-    </day>       
-
-
+    </day>
+    
     <day date="2021/07/16">
       <!-- Zawodzie -->
-      <ride dist="35" exdist="=37.01" bike='fenix' gpx='20210716'>
+      <ride dist="35" exdist="37.01" bike='fenix' gpx='20210716'>
 	<by name='Gdańsk'/>
+      </ride>
+    </day>       
+    <day date="2021/07/17">
+      <!-- Zawodzie -->
+      <ride dist="90" exdist="89.41" bike='fenix' gpx='20210717'>
+	<by name='Gdańsk'/>
+	<by name='Pruszcz Gdański'/>
+	<by name='Cedry Wielkie'/>
+	<by name='Kiezmark'/>
       </ride>
     </day>       
 
