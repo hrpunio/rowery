@@ -973,6 +973,13 @@
 	<by name='Kiezmark'/>
       </ride>
     </day>       
+    <day date="2021/07/18">
+      <!-- Zawodzie -->
+      <ride dist="65" exdist="65.41" bike='fenix' gpx='20210718'>
+	<by name='Gdańsk'/>
+	<by name='Pruszcz Gdański'/>
+      </ride>
+    </day>       
 
   
   </month>
