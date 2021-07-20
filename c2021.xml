@@ -980,7 +980,21 @@
 	<by name='Pruszcz Gdański'/>
       </ride>
     </day>       
+    <day date="2021/07/19">
+      <!-- Zawodzie -->
+      <ride dist="35" exdist="37.41" bike='ridley' gpx='20210719'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
 
+    <day date="2021/07/20">
+      <!-- Zawodzie/Sobieszewo -->
+      <ride dist="65" exdist="68.41" bike='fenix' gpx='20210720'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
+
+    
   
   </month>
   
