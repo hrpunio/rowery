@@ -993,6 +993,12 @@
 	<by name='Gdańsk'/>
       </ride>
     </day>       
+    <day date="2021/07/21">
+      <!-- Zawodzie/Sobieszewo -->
+      <ride dist="65" exdist="68.40" bike='fenix' gpx='20210721'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
 
     
   
