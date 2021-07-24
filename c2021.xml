@@ -1006,6 +1006,20 @@
       </ride>
     </day>       
 
+    <day date="2021/07/23">
+      <!-- Zawodzie+wyjazd_na_test_PCR -->
+      <ride dist="45" exdist="45.41" bike='fenix' gpx='20210723'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+    <day date="2021/07/24">
+      <!-- Zawodzie -->
+      <ride dist="35" exdist="37.41" bike='fenix' gpx='20210724'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
+
+
     
   
   </month>
