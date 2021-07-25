@@ -1018,6 +1018,12 @@
 	<by name='Gdańsk'/>
       </ride>
     </day>       
+    <day date="2021/07/25">
+      <!-- Zawodzie -->
+      <ride dist="35" exdist="37.41" bike='fenix' gpx='20210725'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>       
 
 
     
