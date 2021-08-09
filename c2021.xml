@@ -1026,8 +1026,44 @@
     </day>       
 
 
-    
+  </month>
+  <month no='8'>
   
+    <day date="2021/08/03">
+      <!-- Zawodzie -->
+      <ride dist="60" exdist="60.41" bike='fenix' gpx='20210803'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+        <day date="2021/08/03">
+      <!-- Zawodzie -->
+      <ride dist="40" exdist="41.41" bike='fenix' gpx='20210803'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+
+        <day date="2021/08/03">
+      <!-- Zawodzie -->
+      <ride dist="65" exdist="65.41" bike='fenix' gpx='20210803'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+
+    <day date="2021/08/07">
+      <!-- Zawodzie -->
+      <ride dist="75" exdist="75.41" bike='fenix' gpx='20210803'>
+	<by name='Gdańsk'/>
+	<by name='Pruszcz Gdański'/>
+      </ride>
+    </day>
+
+    <day date="2021/08/08">
+      <!-- Zawodzie -->
+      <ride dist="60" exdist="60.41" bike='fenix' gpx='20210803'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+
   </month>
   
 </year>
