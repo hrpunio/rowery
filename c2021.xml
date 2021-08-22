@@ -1120,8 +1120,15 @@
       </ride>
     </day>
 
-    <day date="2021/08/17">
-      <!-- Zawodzie -->
+    <day date="2021/08/21">
+      <ride dist="55" exdist="55.11" bike='fenix' gpx='20210821'>
+	<by name='Miszewo'/>
+	<by name='Czeczewo'/>
+	<by name='Kielno'/>
+      </ride>
+    </day>
+
+    <day date="2021/08/22">
       <ride dist="100" exdist="104.11" bike='fenix' gpx='20210822'>
 	<by name='Gdańsk'/>
 	<by name='Pruszcz Gdański'/>
