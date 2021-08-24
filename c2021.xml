@@ -1144,6 +1144,16 @@
 	<by name='Kiezmark'/>
       </ride>
     </day>
+    <day date="2021/08/23">
+      <ride dist="40" exdist="40.11" bike='fenix' gpx='20210823'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+    <day date="2021/08/24">
+      <ride dist="45" exdist="47.11" bike='fenix' gpx='20210824'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
 
     
     
