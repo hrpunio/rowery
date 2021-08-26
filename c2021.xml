@@ -1146,11 +1146,20 @@
     </day>
     <day date="2021/08/23">
       <ride dist="40" exdist="40.11" bike='fenix' gpx='20210823'>
+	<!-- Zawodzie -->
 	<by name='Gdańsk'/>
       </ride>
     </day>
     <day date="2021/08/24">
+      
       <ride dist="45" exdist="47.11" bike='fenix' gpx='20210824'>
+	<!-- Zawodzie -->
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+    <day date="2021/08/25">
+      <ride dist="50" exdist="50.11" bike='fenix' gpx='20210825'>
+	<!-- Zawodzie ale tylko na 5min -->
 	<by name='Gdańsk'/>
       </ride>
     </day>
