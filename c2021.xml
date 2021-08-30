@@ -1157,9 +1157,31 @@
 	<by name='Gdańsk'/>
       </ride>
     </day>
+    
     <day date="2021/08/25">
       <ride dist="50" exdist="50.11" bike='fenix' gpx='20210825'>
 	<!-- Zawodzie ale tylko na 5min -->
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+
+    <day date="2021/08/27">
+      <ride dist="35" exdist="38.03" bike='ridley' gpx='20210827'>
+	<!-- Zawodzie/Sobieszewo -->
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+
+
+    <day date="2021/08/28">
+      <ride dist="65" exdist="65.11" bike='fenix' gpx='20210828'>
+	<!-- Zawodzie/Sobieszewo -->
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+    <day date="2021/08/30">
+      <ride dist="60" exdist="60.11" bike='ridley' gpx='20210830'>
+	<!-- Zawodzie/Sobieszewo -->
 	<by name='Gdańsk'/>
       </ride>
     </day>
