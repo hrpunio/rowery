@@ -1190,7 +1190,78 @@
 	<by name='Gdańsk'/>
       </ride>
     </day>
+  </month>
 
+  <month no='9'>
+    <day date="2021/09/01">
+      <!-- Zawodzie -->
+      <ride dist="65" exdist="66.16" bike='ridley' gpx='20210901'>
+	<by name='Sopot'/>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+	
+    <day date="2021/09/02">
+      <!-- Zawodzie -->
+      <ride dist="65" exdist="68.11" bike='ridley' gpx='20210902'>
+	<by name='Sopot'/>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+    
+    <day date="2021/09/03">
+      <!-- Zawodzie -->
+      <ride dist="65" exdist="69.55" bike='ridley' gpx='20210903'>
+	<by name='Sopot'/>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+
+    <day date="2021/09/05">
+      <!-- Zawodzie -->
+      <ride dist="145" exdist="147.16" bike='ridley' gpx='20210905'>
+	<by name='Sopot'/>
+	<by name='Gdańsk'/>
+	<by name='Malbork'/>
+      </ride>
+	</day>
+
+    <day date="2021/09/07">
+      <ride dist="45" exdist="46.12" bike='ridley' gpx='20210907'>
+	<by name='Żukowo'/>
+      </ride>
+    </day>
+
+    <day date="2021/09/08">
+      <ride dist="55" exdist="55.12" bike='ridley' gpx='20210908'>
+	<by name='Sopot'/>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+
+    
+    <day date="2021/09/09">
+      <ride dist="25" exdist="28.11" bike='ridley' gpx='20210909'>
+	<by name='Sopot'/>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+
+    <day date="2021/09/10">
+      <!-- Zawodzie -->
+      <ride dist="55.00" exdist="58.34" bike='ridley' gpx='20210910'>
+	<by name='Pruszcz Gdański'/>
+      </ride>
+    </day>
+    <day date="2021/09/12">
+      <ride dist="110" exdist="111.11" bike='ridley' gpx='20210912'>
+	<by name='Gdańsk'/>
+	<by name='Pruszcz Gdański'/>
+	<by name='Kiezmark'/>
+      </ride>
+    </day>
+
+    
   </month>
   
 </year>
