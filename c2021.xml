@@ -1249,7 +1249,7 @@
 
     <day date="2021/09/10">
       <!-- Zawodzie -->
-      <ride dist="55.00" exdist="58.34" bike='ridley' gpx='20210910'>
+      <ride dist="55" exdist="58.34" bike='ridley' gpx='20210910'>
 	<by name='Pruszcz Gdański'/>
       </ride>
     </day>
