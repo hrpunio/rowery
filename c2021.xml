@@ -1262,7 +1262,7 @@
     </day>
     <day date="2021/09/13">
       <!-- Zawodzie -->
-      <ride dist="110" exdist="110.11" bike='ridley' gpx='20210913'>
+      <ride dist="60" exdist="60.11" bike='ridley' gpx='20210913'>
 	<by name='Gdańsk'/>
       </ride>
     </day>
