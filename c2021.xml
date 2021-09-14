@@ -1260,6 +1260,13 @@
 	<by name='Kiezmark'/>
       </ride>
     </day>
+    <day date="2021/09/13">
+      <!-- Zawodzie -->
+      <ride dist="110" exdist="110.11" bike='ridley' gpx='20210913'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+
     <day date="2021/09/14">
       <ride dist="110" exdist="110.11" bike='ridley' gpx='20210914'>
 	<by name='Gdańsk'/>
