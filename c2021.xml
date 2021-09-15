@@ -1195,7 +1195,7 @@
   <month no='9'>
     <day date="2021/09/01">
       <!-- Zawodzie -->
-      <ride dist="65" exdist="66.16" bike='ridley' gpx='20210901'>
+      <ride dist="65" exdist="66.16" bike='fenix' gpx='20210901'>
 	<by name='Sopot'/>
 	<by name='Gdańsk'/>
       </ride>
@@ -1203,7 +1203,7 @@
 	
     <day date="2021/09/02">
       <!-- Zawodzie -->
-      <ride dist="65" exdist="68.11" bike='ridley' gpx='20210902'>
+      <ride dist="65" exdist="68.11" bike='fenix' gpx='20210902'>
 	<by name='Sopot'/>
 	<by name='Gdańsk'/>
       </ride>
@@ -1219,7 +1219,7 @@
 
     <day date="2021/09/05">
       <!-- Zawodzie -->
-      <ride dist="145" exdist="147.16" bike='ridley' gpx='20210905'>
+      <ride dist="145" exdist="147.16" bike='fenix' gpx='20210905'>
 	<by name='Sopot'/>
 	<by name='Gdańsk'/>
 	<by name='Malbork'/>
@@ -1249,12 +1249,12 @@
 
     <day date="2021/09/10">
       <!-- Zawodzie -->
-      <ride dist="55" exdist="58.34" bike='ridley' gpx='20210910'>
+      <ride dist="55" exdist="58.34" bike='fenix' gpx='20210910'>
 	<by name='Pruszcz Gdański'/>
       </ride>
     </day>
     <day date="2021/09/12">
-      <ride dist="110" exdist="111.11" bike='ridley' gpx='20210912'>
+      <ride dist="110" exdist="111.11" bike='fenix' gpx='20210912'>
 	<by name='Gdańsk'/>
 	<by name='Pruszcz Gdański'/>
 	<by name='Kiezmark'/>
@@ -1262,19 +1262,26 @@
     </day>
     <day date="2021/09/13">
       <!-- Zawodzie -->
-      <ride dist="60" exdist="60.11" bike='ridley' gpx='20210913'>
+      <ride dist="60" exdist="60.11" bike='fenix' gpx='20210913'>
 	<by name='Gdańsk'/>
       </ride>
     </day>
 
     <day date="2021/09/14">
-      <ride dist="110" exdist="110.11" bike='ridley' gpx='20210914'>
+      <ride dist="110" exdist="110.11" bike='fenix' gpx='20210914'>
 	<by name='Gdańsk'/>
 	<by name='Elbląg'/>
 	<by name='Frombork'/>
       </ride>
     </day>
 
+    <day date="2021/09/15">
+      <!-- Zawodzie -->
+      <ride dist="60" exdist="62.11" bike='fenix' gpx='20210902'>
+	<by name='Sopot'/>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
     
   </month>
   
