@@ -1277,9 +1277,15 @@
 
     <day date="2021/09/15">
       <!-- Zawodzie -->
-      <ride dist="60" exdist="62.11" bike='fenix' gpx='20210902'>
+      <ride dist="60" exdist="62.11" bike='fenix' gpx='20210915'>
 	<by name='Sopot'/>
 	<by name='Gdańsk'/>
+      </ride>
+    </day>
+    <day date="2021/09/17">
+      <!-- Zawodzie -->
+      <ride dist="25" exdist="25.11" bike='ridley' gpx='20210917'>
+	<by name='Sopot'/>
       </ride>
     </day>
     
