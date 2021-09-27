@@ -1302,6 +1302,29 @@
       </ride>
     </day>
 
+    <day date="2021/09/25">
+      <!-- Zawodzie/Sobieszewo -->
+      <ride dist="100" exdist="99.01" bike='fenix' gpx='20210925'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+    <day date="2021/09/26">
+      <!-- Zawodzie -->
+      <ride dist="120" exdist="122.11" bike='fenix' gpx='20210926'>
+	<by name='Gdańsk'/>
+	<by name='Kiezmark'/>
+	<by name='Nowy Dwór Gdański'/>
+	<by name='Jantar'/>
+	<by name='Mikoszewo'/>
+      </ride>
+    </day>
+    <day date="2021/09/27">
+      <!-- Zawodzie -->
+      <ride dist="35" exdist="37.11" bike='ridley' gpx='20210927'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+
     
   </month>
   
