@@ -1331,6 +1331,23 @@
       </ride>
     </day>
 
+  </month>
+  
+  <month no='10'>
+
+    <day date="2021/09/30">
+      <ride dist="85" exdist="88.11" bike='fenix' gpx='20211002'>
+	<by name='Pruszcz Gdański'/>
+	<by name='Kiezmark'/>
+      </ride>
+    </day>
+  
+    <day date="2021/09/30">
+      <ride dist="45" exdist="46.11" bike='fenix' gpx='20211003'>
+	<by name='Pępowo'/>
+	<by name='Miszewo'/>
+      </ride>
+    </day>
     
   </month>
   
