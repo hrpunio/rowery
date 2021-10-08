@@ -1334,20 +1334,46 @@
   </month>
   
   <month no='10'>
+    <day date="2021/10/01">
+      <ride dist="55" exdist="58.11" bike='fenix' gpx='20211001'>
+	<by name='Pruszcz Gdański'/>
+      </ride>
+    </day>
 
-    <day date="2021/09/30">
-      <ride dist="85" exdist="88.11" bike='fenix' gpx='20211002'>
+    <day date="2021/10/03">
+      <ride dist="85" exdist="88.11" bike='fenix' gpx='20211003'>
 	<by name='Pruszcz Gdański'/>
 	<by name='Kiezmark'/>
       </ride>
     </day>
   
-    <day date="2021/09/30">
+    <day date="2021/10/04">
       <ride dist="45" exdist="46.11" bike='fenix' gpx='20211003'>
 	<by name='Pępowo'/>
 	<by name='Miszewo'/>
       </ride>
     </day>
+
+    <day date="2021/10/05">
+      <ride dist="45" exdist="48.11" bike='fenix' gpx='20211005'>
+	<by name='Czeczewo'/>
+	<by name='Miszewo'/>
+      </ride>
+    </day>
+    <day date="2021/10/06">
+      <!-- Zawodzie -->
+      <ride dist="35" exdist="38.11" bike='ridley' gpx='20211006'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+
+    <day date="2021/10/08">
+      <!-- Zawodzie -->
+      <ride dist="50" exdist="52.11" bike='fenix' gpx='20211008'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+
     
   </month>
   
