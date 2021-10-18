@@ -1408,7 +1408,6 @@
     </day>
 
     <day date="2021/10/18">
-      <!-- Zawodzie -->
       <ride dist="50" exdist="50.25" bike='fenix' gpx='20211018'>
 	<by name='Czeczewo'/>
 	<by name='Miszewo'/>
