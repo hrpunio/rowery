@@ -1414,6 +1414,18 @@
 	<by name='Banino'/>
       </ride>
     </day>
+    <day date="2021/10/19">
+      <!-- Zawodzie -->
+      <ride dist="40" exdist="43.01" bike='ridley' gpx='20211019'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+    <day date="2021/10/20">
+      <!-- Zawodzie -->
+      <ride dist="35" exdist="37.01" bike='ridley' gpx='20211020'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
 
     
     <day date="2021/10/23">
