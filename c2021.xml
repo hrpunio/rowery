@@ -1465,7 +1465,29 @@
 	<by name='Pruszcz Gdański'/>
       </ride>
     </day>
+    <day date="2021/10/29">
+      <!-- zawodzie -->
+      <ride dist="35" exdist="37.25" bike='fenix' gpx='20211029'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
 
+    <day date="2021/10/30">
+      <ride dist="35" exdist="36.25" bike='fenix' gpx='20211030'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+    <day date="2021/10/28">
+      <ride dist="80" exdist="79.25" bike='fenix' gpx='20211031'>
+	<by name='Gdańsk'/>
+	<by name='Pruszcz Gdański'/>
+	<by name='Straszyn'/>
+	<by name='Bielkówko'/>
+	<by name='Lublewo'/>
+      </ride>
+    </day>
+
+    
     
   </month>
   
