@@ -1487,7 +1487,15 @@
       </ride>
     </day>
 
+  </month>
+  <month no='11'>
     
+    <day date="2021/11/02">
+      <!-- zawodzie -->
+      <ride dist="45" exdist="46.25" bike='ridley' gpx='20211102'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
     
   </month>
   
