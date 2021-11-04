@@ -1496,6 +1496,19 @@
 	<by name='Gdańsk'/>
       </ride>
     </day>
+    <day date="2021/11/03">
+      <!-- zawodzie -->
+      <ride dist="35" exdist="36.25" bike='ridley' gpx='20211103'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+        <day date="2021/11/04">
+      <!-- zawodzie -->
+      <ride dist="40" exdist="39.11" bike='ridley' gpx='20211104'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+
     
   </month>
   
