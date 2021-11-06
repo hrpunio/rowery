@@ -1502,9 +1502,23 @@
 	<by name='Gdańsk'/>
       </ride>
     </day>
-        <day date="2021/11/04">
+    <day date="2021/11/04">
       <!-- zawodzie -->
       <ride dist="40" exdist="39.11" bike='ridley' gpx='20211104'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+    
+    <day date="2021/11/05">
+      <ride dist="25" exdist="25.11" bike='cx' gpx='20211105'>
+	<by name='Osowa'/>
+      </ride>
+    </day>
+
+
+    <day date="2021/11/04">
+      <!-- zawodzie/sobieszewo -->
+      <ride dist="60" exdist="61.11" bike='cx' gpx='20211106'>
 	<by name='Gdańsk'/>
       </ride>
     </day>
