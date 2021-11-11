@@ -1536,8 +1536,12 @@
     </day>
 
     <day date="2021/11/10">
-      <!-- zawodzie/sobieszewo -->
       <ride dist="100" exdist="100.02" bike='ridley' gpx='20211110'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+    <day date="2021/11/11">
+      <ride dist="90" exdist="92.02" bike='ridley' gpx='20211111'>
 	<by name='Gdańsk'/>
       </ride>
     </day>
