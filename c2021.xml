@@ -1538,6 +1538,8 @@
     <day date="2021/11/10">
       <ride dist="100" exdist="100.02" bike='ridley' gpx='20211110'>
 	<by name='Gdańsk'/>
+	<by name='Kiezmark'/>
+	<by name='Drewnica'/>
       </ride>
     </day>
     <day date="2021/11/11">
