@@ -1576,7 +1576,8 @@
 	<by name='Pruszcz Gdański'/>
       </ride>
     </day>
-        <day date="2021/11/17">
+
+    <day date="2021/11/17">
       <!-- zawodzie -->
       <ride dist="70" exdist="72.02" bike='ridley' gpx='20211117'>
 	<by name='Gdańsk'/>
@@ -1584,8 +1585,30 @@
       </ride>
     </day>
 
+    <day date="2021/11/18">
+      <!-- zawodzie -->
+      <ride dist="35" exdist="38.02" bike='cx' gpx='20211118'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+    <day date="2021/11/19">
+      <ride dist="30" exdist="30.02" bike='cx' gpx='20211119'>
+	<by name='Osowa'/>
+      </ride>
+    </day>
+    <day date="2021/11/20">
+      <!-- rozpadało się -->
+      <ride dist="35" exdist="38.02" bike='ridley' gpx='20211120'>
+	<by name='Kielno'/>
+      </ride>
+    </day>
 
-
+    <day date="2021/11/23">
+      <!-- zawodzie -->
+      <ride dist="40" exdist="41.02" bike='ridley' gpx='20211123'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
     
   </month>
   
