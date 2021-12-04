@@ -1629,7 +1629,7 @@
       </ride>
     </day>
   </month>
-  <month no=12>
+  <month no='12'>
     <day date="2021/12/02">
       <ride dist="25" exdist="26.10" bike='cx' gpx='20211202'>
 	<by name='Gdańsk'/>
