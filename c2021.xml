@@ -1628,7 +1628,19 @@
 	<by name='Kamień'/>
       </ride>
     </day>
-
+  </month>
+  <month no=12>
+    <day date="2021/12/02">
+      <ride dist="25" exdist="26.10" bike='cx' gpx='20211202'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+    <day date="2021/12/04">
+      <ride dist="30" exdist="33.10" bike='cx' gpx='20211204'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+    
     
   </month>
   
