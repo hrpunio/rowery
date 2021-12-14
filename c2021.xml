@@ -1640,6 +1640,50 @@
 	<by name='Gdańsk'/>
       </ride>
     </day>
+    <day date="2021/12/05">
+      <ride dist="35" exdist="35.64" bike='cx' gpx='20211205'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+
+    <day date="2021/12/06">
+      <ride dist="50" exdist="50.90" bike='cx' gpx='20211206'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+
+    <day date="2021/12/07">
+      <ride dist="25" exdist="26.80" bike='mtb' gpx='20211207'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+
+    
+    <day date="2021/12/09">
+      <ride dist="30" exdist="29.10" bike='mtb' gpx='20211209'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+    <day date="2021/12/10">
+      <!-- oglądać fokę -->
+      <ride dist="30" exdist="20.10" bike='mtb' gpx='20211210'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+
+    
+    <day date="2021/12/11">
+      <ride dist="25" exdist="25.90" bike='bmx' gpx='20211211'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+    
+    <day date="2021/12/14">
+      <ride dist="50" exdist="52.10" bike='cx' gpx='20211214'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+
     
     
   </month>
