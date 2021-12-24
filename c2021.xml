@@ -1683,6 +1683,40 @@
 	<by name='Gdańsk'/>
       </ride>
     </day>
+    
+    <day date="2021/12/16">
+      <!-- Sobieszewo -->
+      <ride dist="60" exdist="60.10" bike='ridley' gpx='20211216'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+    <day date="2021/12/17">
+      <!-- Zawodzie -->
+      <ride dist="40" exdist="39.10" bike='ridley' gpx='20211217'>
+	<by name='Gdańsk'/>
+	<by name='Pruszcz Gdański'/>
+      </ride>
+    </day>
+
+    <day date="2021/12/19">
+      <ride dist="65" exdist="65.23" bike='ridley' gpx='20211219'>
+	<by name='Gdańsk'/>
+	<by name='Pruszcz Gdański'/>
+      </ride>
+    </day>
+
+    
+    <day date="2021/12/20">
+      <ride dist="20" exdist="21.23" bike='mtb' gpx='20211220'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+
+    <day date="2021/12/24">
+      <ride dist="40" exdist="42.10" bike='mtb' gpx='20211224'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
 
     
     
