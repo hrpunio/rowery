@@ -1718,6 +1718,12 @@
       </ride>
     </day>
 
+    <day date="2021/12/31">
+      <!-- deszcza ale +10C -->
+      <ride dist="35" exdist="37.10" bike='cx' gpx='20211231'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
     
     
   </month>
