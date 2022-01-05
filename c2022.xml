@@ -25,7 +25,7 @@
 	 <by name='Warzenko'/>
        </ride>
      </day>
-     <day date="2021/01/04">
+     <day date="2021/01/05">
        <!-- Zawodzie+Sobieszewo -->
        <ride dist="65" exdist="65.10" bike='ridley' gpx='20210105'>
 	 <by name='Gdańsk'/>
