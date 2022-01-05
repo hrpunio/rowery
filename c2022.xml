@@ -18,6 +18,22 @@
 	 <by name='Chwaszczyno'/>
        </ride>
      </day>
+
+     <day date="2021/01/04">
+       <ride dist="40" exdist="39.10" bike='ridley' gpx='20210104'>
+	 <by name='Chwaszczyno'/>
+	 <by name='Warzenko'/>
+       </ride>
+     </day>
+     <day date="2021/01/04">
+       <!-- Zawodzie+Sobieszewo -->
+       <ride dist="65" exdist="65.10" bike='ridley' gpx='20210105'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+
+     
   </month>
   
 </year>
