@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8' standalone='no' ?>
 <!DOCTYPE year SYSTEM "rowery.dtd" >
 
-<year no="2021" done='271485'>
+<year no="2022" done='271485'>
   <month no="1">
 
      <day date="2021/01/02">
@@ -10,8 +10,8 @@
        </ride>
      </day>
      
-     <day date="2021/01/03">
-       <ride dist="40" exdist="42.00" bike='ridley' gpx='20210103'>
+     <day date="2022/01/03">
+       <ride dist="40" exdist="42.00" bike='ridley' gpx='20220103'>
 	 <by name='Gdynia'/>
 	 <by name='Wiczlino'/>
 	 <by name='Koleczkowo'/>
@@ -19,15 +19,23 @@
        </ride>
      </day>
 
-     <day date="2021/01/04">
-       <ride dist="40" exdist="39.10" bike='ridley' gpx='20210104'>
+     <day date="2022/01/04">
+       <ride dist="40" exdist="39.10" bike='ridley' gpx='20220104'>
 	 <by name='Chwaszczyno'/>
 	 <by name='Warzenko'/>
        </ride>
      </day>
-     <day date="2021/01/05">
+     <day date="2022/01/05">
        <!-- Zawodzie+Sobieszewo -->
-       <ride dist="65" exdist="65.10" bike='ridley' gpx='20210105'>
+       <ride dist="65" exdist="65.10" bike='ridley' gpx='20220105'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+
+     <day date="2022/01/018">
+       <!-- Zawodzie-->
+       <ride dist="45" exdist="45.10" bike='cx' gpx='20220118'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>
