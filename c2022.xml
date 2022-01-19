@@ -33,9 +33,14 @@
      </day>
 
 
-     <day date="2022/01/018">
+     <day date="2022/01/18">
        <!-- Zawodzie-->
        <ride dist="45" exdist="45.10" bike='cx' gpx='20220118'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2022/01/19">
+       <ride dist="35" exdist="38.10" bike='cx' gpx='20220119'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>
