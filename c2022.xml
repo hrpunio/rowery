@@ -50,6 +50,11 @@
        </ride>
      </day>
 
+     <day date="2022/01/25">
+       <ride dist="40" exdist="39.10" bike='ridley' gpx='20220125'>
+	 <by name='Banino'/>
+       </ride>
+     </day>
 
      
   </month>
