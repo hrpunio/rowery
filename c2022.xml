@@ -56,6 +56,14 @@
        </ride>
      </day>
 
+     <day date="2022/01/31">
+       <!-- Zawodzie+Sobieszewo -->
+       <ride dist="65" exdist="66.10" bike='ridley' gpx='20220131'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     
      
   </month>
   
