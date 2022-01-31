@@ -55,6 +55,17 @@
 	 <by name='Banino'/>
        </ride>
      </day>
+     <day date="2022/01/26">
+       <ride dist="60" exdist="59.10" bike='ridley' gpx='20220126'>
+	 <by name='Banino'/>
+       </ride>
+     </day>
+
+     <day date="2022/01/27">
+       <ride dist="30" exdist="30.10" bike='cx' gpx='20220127'>
+	 <by name='Osowa'/>
+       </ride>
+     </day>
 
      <day date="2022/01/31">
        <!-- Zawodzie+Sobieszewo -->
