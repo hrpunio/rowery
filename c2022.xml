@@ -75,7 +75,15 @@
      </day>
 
      
-     
+  </month>
+  <month no='2'>
+     <day date="2022/02/01">
+       <ride dist="40" exdist="43.10" bike='ridley' gpx='20220201'>
+	 <by name='Chwaszczyno'/>
+	 <by name='Warzenko'/>
+       </ride>
+     </day>
+  
   </month>
   
 </year>
