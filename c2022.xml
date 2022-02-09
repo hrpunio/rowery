@@ -73,7 +73,6 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
-
      
   </month>
   <month no='2'>
@@ -83,7 +82,15 @@
 	 <by name='Warzenko'/>
        </ride>
      </day>
-  
+
+     <day date="2022/02/09">
+       <!-- Sobieszewo -->
+       <ride dist="55" exdist="55.10" bike='ridley' gpx='20220209'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     
   </month>
   
 </year>
