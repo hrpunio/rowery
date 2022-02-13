@@ -4,8 +4,8 @@
 <year no="2022" done='271485'>
   <month no="1">
 
-     <day date="2021/01/02">
-       <ride dist="40" exdist="39.00" bike='cx' gpx='20210102'>
+     <day date="2022/01/02">
+       <ride dist="40" exdist="39.00" bike='cx' gpx='20220102'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>
@@ -100,6 +100,20 @@
 	 <by name='Pępowo'/>
        </ride>
      </day>
+     <day date="2022/02/11">
+       <!-- Zawodzie -->
+       <ride dist="60" exdist="59.10" bike='ridley' gpx='20220211'>
+	 <by name='Gdańsk'/>
+	 <by name='Pruszcz Gdański'/>
+       </ride>
+     </day>
+     <day date="2022/02/13">
+       <ride dist="65" exdist="68.10" bike='ridley' gpx='20220213'>
+	 <by name='Gdańsk'/>
+	 <by name='Pruszcz Gdański'/>
+       </ride>
+     </day>
+
 
      
   </month>
