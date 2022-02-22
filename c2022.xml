@@ -114,6 +114,11 @@
        </ride>
      </day>
 
+      <day date="2022/02/20">
+       <ride dist="55" exdist="58.10" bike='ridley' gpx='20220220'>
+	 <by name='Pruszcz Gdański'/>
+       </ride>
+     </day>
      <day date="2022/02/22">
        <ride dist="30" exdist="31.10" bike='cx' gpx='20220222'>
 	 <by name='Gdańsk'/>
