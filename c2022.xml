@@ -113,7 +113,17 @@
 	 <by name='Pruszcz Gdański'/>
        </ride>
      </day>
-
+     <day date="2022/02/14">
+       <ride dist="40" exdist="39.10" bike='ridley' gpx='20220214'>
+	 <!-- Zawodzie -->
+	 <by name='Sopot'/>
+       </ride>
+     </day>
+     <day date="2022/02/18">
+       <ride dist="25" exdist="25.70" bike='ridley' gpx='20220218'>
+	 <by name='Sopot'/>
+       </ride>
+     </day>
       <day date="2022/02/20">
        <ride dist="55" exdist="58.10" bike='ridley' gpx='20220220'>
 	 <by name='Pruszcz Gdański'/>
