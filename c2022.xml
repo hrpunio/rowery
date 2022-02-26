@@ -145,6 +145,20 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
+     <day date="2022/02/25">
+       <ride dist="50" exdist="50.42" bike='ridley' gpx='20220225'>
+	 <!-- Zawodzie -->
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2022/02/26">
+       <ride dist="80" exdist="81.42" bike='ridley' gpx='20220226'>
+	 <by name='Gdańsk'/>
+	 <by name='Pruszcz Gdański'/>
+	 <by name='Jagatowo'/>
+       </ride>
+     </day>
+
      
   </month>  
 </year>
