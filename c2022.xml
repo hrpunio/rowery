@@ -158,6 +158,11 @@
 	 <by name='Jagatowo'/>
        </ride>
      </day>
+     <day date="2022/02/28">
+       <ride dist="45" exdist="46.42" bike='ridley' gpx='20220228'>
+	 <by name='Pępowo'/>
+       </ride>
+     </day>
 
      
   </month>  
