@@ -178,9 +178,9 @@
 	<by name='Gdańsk'/>
       </ride>
     </day>
-    <day date="2022/03/05">
+    <day date="2022/03/04">
       <!-- Zawodzie -->
-      <ride dist="40" exdist="39.10" bike='ridley' gpx='20220305'>
+      <ride dist="40" exdist="39.10" bike='ridley' gpx='20220304'>
 	<by name='Gdańsk'/>
       </ride>
     </day>
