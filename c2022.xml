@@ -190,7 +190,35 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
-    
+
+     <day date="2022/03/06">
+       <!-- Sobieszewo -->
+       <ride dist="65" exdist="64.10" bike='ridley' gpx='20220307'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     
+     <day date="2022/03/07">
+       <ride dist="45" exdist="45.10" bike='ridley' gpx='20220307'>
+	 <by name='Banino'/>
+	 <by name='Pępowo'/>
+       </ride>
+     </day>
+     
+    <day date="2022/03/08">
+      <!-- Zawodzie -->
+       <ride dist="40" exdist="42.10" bike='ridley' gpx='20220308'>
+	 <by name='Gdańsk'/>
+       </ride>
+    </day>
+        <day date="2022/03/09">
+      <!-- Zawodzie -->
+       <ride dist="40" exdist="42.10" bike='ridley' gpx='20220308'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     
   </month>  
 </year>
 
