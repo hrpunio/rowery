@@ -211,13 +211,34 @@
 	 <by name='Gdańsk'/>
        </ride>
     </day>
-        <day date="2022/03/09">
+    <day date="2022/03/09">
       <!-- Zawodzie -->
        <ride dist="40" exdist="42.10" bike='ridley' gpx='20220308'>
 	 <by name='Gdańsk'/>
        </ride>
+    </day>
+    <day date="2022/03/10">
+       <!-- Zawodzie -->
+       <ride dist="45" exdist="45.30" bike='ridley' gpx='20220310'>
+	 <by name='Banino'/>
+       </ride>
+    </day>
+
+     <day date="2022/03/12">
+       <!-- Zawodzie -->
+       <ride dist="60" exdist="59.80" bike='ridley' gpx='20220312'>
+	 <by name='Gdańsk'/>
+       </ride>
      </day>
 
+     <day date="2022/03/13">
+       <ride dist="60" exdist="62.10" bike='ridley' gpx='20220313'>
+	 <by name='Gdańsk'/>
+	 <by name='Osowa'/>
+       </ride>
+     </day>
+
+     
      
   </month>  
 </year>
