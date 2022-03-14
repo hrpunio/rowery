@@ -237,9 +237,13 @@
 	 <by name='Osowa'/>
        </ride>
      </day>
+     <day date="2022/03/14">
+       <ride dist="40" exdist="42.10" bike='ridley' gpx='20220314'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
 
-     
-     
+ 
   </month>  
 </year>
 
