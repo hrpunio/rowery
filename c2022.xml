@@ -262,6 +262,14 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
+     
+     <day date="2022/03/19">
+       <!-- Zawodzie -->
+       <!-- wymuszenie GSP 8A76 Toyota/Auris-->
+       <ride dist="40" exdist="40.00" bike='ridley' gpx='20220319'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
 
      <day date="2022/03/20">
        <ride dist="65" exdist="68.19" bike='ridley' gpx='20220320'>
@@ -275,8 +283,12 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
-
-     
+     <day date="2022/03/22">
+       <!-- Zawodzie -->
+       <ride dist="40" exdist="39.26" bike='ridley' gpx='20220322'>
+	 <by name='Pruszcz Gdański'/>
+       </ride>
+     </day>
  
   </month>  
 </year>
