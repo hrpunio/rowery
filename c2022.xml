@@ -289,7 +289,22 @@
 	 <by name='Pruszcz Gdański'/>
        </ride>
      </day>
- 
+
+     <day date="2022/03/23">
+       <!-- Zawodzie -->
+       <ride dist="40" exdist="40.26" bike='ridley' gpx='20220323'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2022/03/24">
+       <!-- Zawodzie -->
+       <ride dist="60" exdist="62.26" bike='ridley' gpx='20220324'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     
   </month>  
 </year>
 
