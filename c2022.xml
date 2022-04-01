@@ -313,21 +313,22 @@
      <day date="2022/03/27">
        <!-- Zawodzie-->
        <ride dist="55" exdist="57.26" bike='ridley' gpx='20220327'>
-	 <by name='Jantar'/>
+	 <by name='Pruszcz Gdański'/>
+	 <by name='Gdańsk'/>
        </ride>
      </day>
 
      <day date="2022/03/28">
        <!-- Zawodzie-->
        <ride dist="40" exdist="43.26" bike='ridley' gpx='20220328'>
-	 <by name='Jantar'/>
+	 <by name='Gdańsk'/>
        </ride>
      </day>
      
      <day date="2022/03/29">
        <!-- Zawodzie-->
        <ride dist="35" exdist="37.26" bike='ridley' gpx='20220329'>
-	 <by name='Jantar'/>
+	 <by name='Gdańsk'/>
        </ride>
      </day>
 
