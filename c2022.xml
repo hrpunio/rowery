@@ -335,9 +335,55 @@
   </month>
   <month no='4'>
 
+    <day date="2022/04/01">
+       <!-- Zawodzie-->
+       <ride dist="40" exdist="40.66" bike='ridley' gpx='20220401'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+    <day date="2022/04/03">
+       <!-- Zawodzie-->
+       <ride dist="30" exdist="40.66" bike='ridley' gpx='20220403'>
+	 <by name='Barniewice'/>
+       </ride>
+     </day>
+    <day date="2022/04/04">
+       <!-- Zawodzie-->
+       <ride dist="40" exdist="40.66" bike='ridley' gpx='20220404'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+    <day date="2022/04/05">
+       <!-- Zawodzie-->
+       <ride dist="35" exdist="37.66" bike='ridley' gpx='20220405'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2022/04/06">
+       <!-- Zawodzie-->
+       <ride dist="60" exdist="59.66" bike='ridley' gpx='20220406'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+    <day date="2022/04/07">
+       <!-- Zawodzie-->
+       <ride dist="35" exdist="37.66" bike='ridley' gpx='20220407'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2022/04/10">
+       <!-- Zawodzie-->
+       <ride dist="30" exdist="30.66" bike='ridley' gpx='20220410'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+    
     <day date="2022/04/12">
        <!-- Zawodzie-->
-       <ride dist="60" exdist="60.26" bike='ridley' gpx='20220412'>
+       <ride dist="65" exdist="68.40" bike='ridley' gpx='20220412'>
 	 <by name='Gdańsk'/>
 	 <by name='Pruszcz Gdański'/>
        </ride>
