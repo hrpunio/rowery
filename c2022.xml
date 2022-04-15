@@ -374,6 +374,15 @@
        </ride>
      </day>
 
+     <day date="2022/04/09">
+       <!-- Przypuszczalnie więcej ale nie zarejestrowało się -->
+       <!-- Zawodzie-->
+       <ride dist="25" exdist="25.66" bike='ridley' gpx='20220409'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     
      <day date="2022/04/10">
        <!-- Zawodzie-->
        <ride dist="30" exdist="30.66" bike='ridley' gpx='20220410'>
@@ -394,7 +403,8 @@
        <ride dist="35" exdist="37.26" bike='ridley' gpx='20220413'>
 	 <by name='Gdańsk'/>
        </ride>
-     </day>
+    </day>
+    
     <day date="2022/04/14">
        <!-- Zawodzie-->
        <ride dist="60" exdist="59.40" bike='ridley' gpx='20220414'>
