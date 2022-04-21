@@ -422,6 +422,8 @@
      <day date="2022/04/16">
        <ride dist="95" exdist="95.40" bike='ridley' gpx='20220416'>
 	 <by name='Gdańsk'/>
+	 <by name='Kiezmark'/>
+	 <by name='Cedry Wielkie'/>
        </ride>
      </day>
 
