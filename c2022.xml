@@ -431,6 +431,8 @@
      <day date="2022/04/18">
        <ride dist="125" exdist="125.40" bike='ridley' gpx='20220418'>
 	 <by name='Palczewo'/>
+	 <by name='Kiezmark'/>
+	 <by name='Grabiny-Zameczek'/>
        </ride>
      </day>
      
