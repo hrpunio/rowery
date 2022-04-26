@@ -476,7 +476,20 @@
 	 <by name='Kiezmark'/>
        </ride>
      </day>
-     
+     <day date="2022/04/25">
+       <!-- Zawodzie-->
+       <ride dist="35" exdist="37.01" bike='cx' gpx='20220425'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2022/04/26">
+       <!-- Zawodzie-->
+       <ride dist="60" exdist="61.01" bike='ridley' gpx='20220426'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
      
   </month>  
 </year>
