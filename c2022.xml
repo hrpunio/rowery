@@ -519,7 +519,24 @@
        </ride>
      </day>
 
-     
+  </month>
+  <month no='5'>
+
+    <day date="2022/05/01">
+       <!-- Zawodzie-->
+       <ride dist="155" exdist="155.20" bike='ridley' gpx='20220501'>
+	 <by name='Kleszczewo'/>
+       </ride>
+    </day>
+    <day date="2022/05/02">
+       <!-- Zawodzie-->
+       <ride dist="115" exdist="114.10" bike='fenix' gpx='20220502'>
+	 <by name='Kiezmark'/>
+	 <by name='Nowy Dwór Gdański'/>
+       </ride>
+     </day>
+
+
      
   </month>  
 </year>
