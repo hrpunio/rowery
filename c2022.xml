@@ -555,6 +555,20 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
+    <day date="2022/05/07">
+       <!-- Zawodzie-->
+       <ride dist="40" exdist="39.10" bike='fenix' gpx='20220506'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+    <day date="2022/05/08">
+       <!-- Zawodzie-->
+       <ride dist="130" exdist="13.10" bike='fenix' gpx='20220508'>
+	 <by name='Kąty Rybackie'/>
+       </ride>
+     </day>
+
+
      
   </month>  
 </year>
