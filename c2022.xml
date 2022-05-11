@@ -591,6 +591,13 @@
      </day>
 
      
+    <day date="2022/05/10">
+       <ride dist="55" exdist="57.10" bike='fenix' gpx='20220510'>
+	 <by name='Pruszcz Gdański'/>
+       </ride>
+     </day>
+
+     
   </month>  
 </year>
 
