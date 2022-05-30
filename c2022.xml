@@ -681,20 +681,32 @@
        </ride>
      </day>
 
-     <day date="2022/05/23">
+     <day date="2022/05/24">
        <!-- Zawodzie-->
        <ride dist="35" exdist="37.50" bike='fenix' gpx='20220524'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>
 
-     <day date="2022/05/23">
+     <day date="2022/05/25">
        <!-- Zawodzie-->
        <ride dist="35" exdist="37.50" bike='fenix' gpx='20220525'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>
+     <day date="2022/05/26">
+       <!-- Zawodzie-->
+       <ride dist="35" exdist="37.50" bike='ridley' gpx='20220526'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
 
+     <day date="2022/05/28">
+       <!-- Zawodzie-->
+       <ride dist="55" exdist="57.50" bike='ridley' gpx='20220528'>
+	 <by name='Pruszcz Gdański'/>
+       </ride>
+     </day>
      
      
      
