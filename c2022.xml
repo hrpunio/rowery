@@ -720,7 +720,39 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
+  </month>
 
+  <month no='6'>
+
+    <day date="2022/06/01">
+       <!-- Zawodzie-->
+       <ride dist="60" exdist="59.03" bike='fenix' gpx='20220602'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+    <day date="2022/06/02">
+       <!-- Zawodzie-->
+       <ride dist="40" exdist="40.62" bike='fenix' gpx='20220602'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+    
+    <day date="2022/06/03">
+       <!-- Zawodzie-->
+       <ride dist="65" exdist="66.15" bike='fenix' gpx='20220603'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+    
+    <day date="2022/06/04">
+       <!-- Zawodzie-->
+       <ride dist="95" exdist="95.15" bike='fenix' gpx='20220604'>
+	 <by name='Gdańsk'/>
+	 <by name='Kiezmark'/>
+	 <by name='Pruszcz Gdański'/>
+       </ride>
+     </day>
   </month>  
 </year>
 
