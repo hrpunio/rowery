@@ -752,7 +752,30 @@
 	 <by name='Kiezmark'/>
 	 <by name='Pruszcz Gdański'/>
        </ride>
+    </day>
+    <day date="2022/06/05">
+       <!-- Zawodzie-->
+       <ride dist="95" exdist="95.95" bike='fenix' gpx='20220605'>
+	 <by name='Gdańsk'/>
+	 <by name='Kiezmark'/>
+	 <by name='Pruszcz Gdański'/>
+       </ride>
+    </day>
+    <day date="2022/06/07">
+       <!-- Zawodzie-->
+       <ride dist="60" exdist="59.01" bike='fenix' gpx='20220607'>
+	 <by name='Gdańsk'/>
+       </ride>
+    </day>
+    
+    <day date="2022/06/08">
+       <!-- Zawodzie-->
+       <ride dist="55" exdist="57.15" bike='fenix' gpx='20220608'>
+	 <by name='Gdańsk'/>
+       </ride>
      </day>
+
+    
   </month>  
 </year>
 
