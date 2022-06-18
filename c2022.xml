@@ -813,7 +813,26 @@
        </ride>
      </day>
 
+     <day date="2022/06/15">
+       <!-- Zawodzie-->
+       <ride dist="60" exdist="59.15" bike='fenix' gpx='20220615'>
+	 <by name='Pruszcz Gdański'/>
+       </ride>
+     </day>
+
+     <day date="2022/06/16">
+       <ride dist="80" exdist="80.15" bike='fenix' gpx='20220616'>
+	 <by name='Puck'/>
+       </ride>
+     </day>
      
+     <day date="2022/06/17">
+       <!-- Zawodziex2-->
+       <ride dist="70" exdist="71.15" bike='fenix' gpx='20220617'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
   </month>  
 </year>
 
