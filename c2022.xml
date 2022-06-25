@@ -845,8 +845,44 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
+     <day date="2022/06/20">
+       <!-- Zawodzie-->
+       <ride dist="35" exdist="37.15" bike='ridley' gpx='20220623'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2022/06/21">
+       <!-- Zawodzie-->
+       <ride dist="40" exdist="40.15" bike='ridley' gpx='20220623'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2022/06/22">
+       <!-- Zawodzie-->
+       <ride dist="35" exdist="37.15" bike='ridley' gpx='20220623'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2022/06/23">
+       <!-- Zawodzie-->
+       <ride dist="40" exdist="40.15" bike='ridley' gpx='20220623'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
 
+     <day date="2022/06/24">
+       <!-- Zawodzie-->
+       <ride dist="40" exdist="40.15" bike='ridley' gpx='20220624'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
 
+     <day date="2022/06/25">
+       <!-- Zawodzie/Sobieszewo-->
+       <ride dist="65" exdist="65.15" bike='ridley' gpx='20220624'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
      
   </month>  
 </year>
