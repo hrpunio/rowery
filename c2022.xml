@@ -879,10 +879,24 @@
 
      <day date="2022/06/25">
        <!-- Zawodzie/Sobieszewo-->
-       <ride dist="65" exdist="65.15" bike='ridley' gpx='20220624'>
+       <ride dist="65" exdist="65.15" bike='ridley' gpx='20220625'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>
+     <day date="2022/06/26">
+
+       <ride dist="115" exdist="114.15" bike='fenix' gpx='20220626'>
+	 <by name='Kielno'/>
+	 <by name='Kamień'/>
+	 <by name='Szemud'/>
+	 <by name='Wejherowo'/>
+	 <by name='Częstkowo'/>
+	 <by name='Łebno'/>
+	 <by name='Przodkowo'/>
+       </ride>
+     </day>
+
+
      
   </month>  
 </year>
