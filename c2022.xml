@@ -896,6 +896,18 @@
        </ride>
      </day>
 
+     <day date="2022/06/27">
+       <!-- Zawodzie-->
+       <ride dist="40" exdist="40.15" bike='fenix' gpx='20220627'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2022/06/28">
+       <!-- Zawodzie-->
+       <ride dist="40" exdist="40.15" bike='fenix' gpx='20220628'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
 
      
   </month>  
