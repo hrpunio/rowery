@@ -924,6 +924,7 @@
    </month>
    
    <month no='7'>
+
      <day date="2022/07/02">
        <ride dist="75" exdist="75.15" bike='fenix' gpx='20220702'>
 	 <by name='Gdynia'/>
@@ -931,6 +932,42 @@
 	 <by name='Wejherowo'/>
        </ride>
      </day>
+     <day date="2022/07/03">
+       <ride dist="120" exdist="120.73" bike='fenix' gpx='20220703'>
+	 <by name='Wejherowo'/>
+	 <by name='Wielka Piaśnica'/>
+	 <by name='Puck'/>
+	 <by name='Gdynia'/>
+       </ride>
+     </day>
+
+     <day date="2022/07/04">
+       <!-- Zawodzie-->
+       <ride dist="35" exdist="38.24" bike='fenix' gpx='20220704'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day> 
+     
+     <day date="2022/07/05">
+       <!-- Zawodzie-->
+       <ride dist="45" exdist="45.11" bike='fenix' gpx='20220705'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day> 
+     <day date="2022/07/06">
+       <!-- Zawodzie-->
+       <ride dist="45" exdist="48.15" bike='fenix' gpx='20220706'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2022/07/07">
+       <!-- Zawodzie-->
+       <ride dist="35" exdist="37.15" bike='fenix' gpx='20220707'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     
      
    </month>  
 </year>
