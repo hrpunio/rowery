@@ -979,6 +979,20 @@
 	 <by name='Przodkowo'/>
        </ride>
      </day>
+     <day date="2022/07/11">
+       <!-- Zawodzie-->
+       <ride dist="35" exdist="37.15" bike='cx' gpx='20220711'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     
+     <day date="2022/07/12">
+       <ride dist="100" exdist="99.15" bike='ridley' gpx='20220712'>
+	 <by name='Kwidzyn'/>
+	 <by name='Tczew'/>
+	 <by name='Pszczółki'/>
+       </ride>
+     </day>
      
      
    </month>  
