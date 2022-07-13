@@ -993,6 +993,12 @@
 	 <by name='Pszczółki'/>
        </ride>
      </day>
+     <day date="2022/07/13">
+       <!-- Zawodzie-->
+       <ride dist="45" exdist="44.15" bike='fenix' gpx='20220713'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
      
      
    </month>  
