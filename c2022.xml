@@ -1005,6 +1005,23 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
+
+     <day date="2022/07/17">
+       <ride dist="85" exdist="85.15" bike='fenix' gpx='20220717'>
+	 <by name='Prokowo'/>
+	 <by name='Kartuzy'/>
+	 <by name='Przodkowo'/>
+       </ride>
+     </day>
+
+     
+     <day date="2022/07/18">
+       <!-- Zawodzie-->
+       <ride dist="35" exdist="37.15" bike='fenix' gpx='20220714'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
      
      
    </month>  
