@@ -1079,7 +1079,7 @@
      </day>
      <day date="2022/07/30">
        <!-- Zawodzie-->
-       <ride dist="50" exdist="50.01" bike='fenix' gpx='20220730'>
+       <ride dist="140" exdist="139.51" bike='fenix' gpx='20220730'>
 	 <by name='Pruszcz Gdański'/>
 	 <by name='Starogard Gdańsk'/>
 	 <by name='Szteklin'/>
