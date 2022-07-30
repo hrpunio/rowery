@@ -1070,6 +1070,22 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
+     <day date="2022/07/29">
+       <!-- Zawodzie-->
+       <ride dist="50" exdist="50.01" bike='fenix' gpx='20220729'>
+	 <by name='Gdańsk'/>
+	 <by name='Pruszcz Gdański'/>
+       </ride>
+     </day>
+     <day date="2022/07/30">
+       <!-- Zawodzie-->
+       <ride dist="50" exdist="50.01" bike='fenix' gpx='20220730'>
+	 <by name='Pruszcz Gdański'/>
+	 <by name='Starogard Gdańsk'/>
+	 <by name='Szteklin'/>
+	 <by name='Skarszewy'/>
+       </ride>
+     </day>
      
      
    </month>  
