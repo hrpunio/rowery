@@ -1171,9 +1171,12 @@
      
      <day date="2022/08/13">
        <ride dist="85" exdist="85.11" bike='fenix' gpx='20220813'>
-	 <by name='Gdańsk'/>
+	 <by name='Czeczewo'/>
+	 <by name='Pomieczyńska Huta'/>
+	 
        </ride>
      </day>
+
      <day date="2022/08/14">
        <!-- Zawodzie-->
        <ride dist="145" exdist="144.11" bike='fenix' gpx='20220814'>
@@ -1189,7 +1192,12 @@
        </ride>
      </day>
 
-
+     <day date="2022/08/13">
+       <ride dist="85" exdist="85.11" bike='fenix' gpx='20220813'>
+	 <by name='Czeczewo'/>
+	 <by name='Pomieczyńska Huta'/>
+       </ride>
+     </day>
      
    </month>  
 </year>
