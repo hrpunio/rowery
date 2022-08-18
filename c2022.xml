@@ -1192,13 +1192,29 @@
        </ride>
      </day>
 
-     <day date="2022/08/13">
-       <ride dist="80" exdist="79.11" bike='fenix' gpx='20220814'>
+     <day date="2022/08/15">
+       <ride dist="80" exdist="79.24" bike='fenix' gpx='20220815'>
 	 <by name='Przodkowo'/>
 	 <by name='Pomieczyńska Huta'/>
 	 <by name='Czeczewo'/>
        </ride>
      </day>
+     
+     <day date="2022/08/16">
+       <!-- Zawodzie-->
+       <ride dist="45" exdist="45.11" bike='fenix' gpx='20220816'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2022/08/17">
+       <!-- Zawodzie-->
+       <ride dist="80" exdist="81.11" bike='fenix' gpx='20220817'>
+	 <by name='Gdańsk'/>
+	 <by name='Cedry Wielkie'/>
+       </ride>
+     </day>
+
      
    </month>  
 </year>
