@@ -1215,7 +1215,7 @@
        </ride>
      </day>
 
-     <day date="2022/08/40">
+     <day date="2022/08/18">
        <!-- Zawodzie-->
        <ride dist="40" exdist="41.68" bike='fenix' gpx='20220818'>
 	 <by name='Gdańsk'/>
