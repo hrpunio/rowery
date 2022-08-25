@@ -1095,6 +1095,7 @@
        </ride>
      </day>
    </month>
+   
    <month no='8'>
      <day date="2022/08/01">
        <!-- Zawodzie-->
@@ -1245,8 +1246,23 @@
        </ride>
      </day>
 
-     
-     
+
+     <day date="2022/08/24">
+       <!-- Zawodzie-->
+       <ride dist="60" exdist="61.21" bike='fenix' gpx='20220824'>
+	 <by name='Gdańsk'/>
+	 <by name='Pruszcz Gdański'/>
+       </ride>
+     </day>
+
+     <day date="2022/08/25">
+       <!-- Zawodzie-->
+       <ride dist="45" exdist="45.21" bike='fenix' gpx='20220825'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+          
    </month>  
 </year>
 
