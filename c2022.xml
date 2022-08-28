@@ -1268,6 +1268,15 @@
        </ride>
      </day>
 
+     <day date="2022/08/28">
+       <!-- Zawodzie-->
+       <ride dist="90" exdist="92.01" bike='fenix' gpx='20220828'>
+	 <by name='Pruszcz Gdański'/>
+	 <by name='Krzywe Koło'/>
+	 <by name='Cedry Wielkie'/>
+       </ride>
+     </day>
+     
           
    </month>  
 </year>
