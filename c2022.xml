@@ -1277,6 +1277,13 @@
        </ride>
      </day>
      
+     <day date="2022/08/31">
+       <!-- Zawodzie-->
+       <ride dist="50" exdist="50.21" bike='fenix' gpx='20220831'>
+	 <by name='Pruszcz Gdański'/>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
           
    </month>  
 </year>
