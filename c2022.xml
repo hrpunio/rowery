@@ -1284,8 +1284,42 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
-          
-   </month>  
+   </month>
+   <month no='9'>
+     <day date="2022/09/01">
+       <!-- Zawodzie-->
+       <ride dist="40" exdist="40.57" bike='fenix' gpx='20220901'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2022/09/02">
+       <ride dist="40" exdist="39.81" bike='fenix' gpx='20220902'>
+	 <by name='Banino'/>
+       </ride>
+     </day>
+     
+     <day date="2022/09/03">
+       <!-- Zawodzie-->
+       <ride dist="60" exdist="60.09" bike='fenix' gpx='20220903'>
+	 <by name='Pruszcz Gdański'/>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2022/09/04">
+       <!-- Zawodzie-->
+       <ride dist="100" exdist="99.09" bike='fenix' gpx='20220904'>
+	 <by name='Pruszcz Gdański'/>
+	 <by name='Świbno'/>
+       </ride>
+     </day>
+  
+     
+   </month>
+
+
+
+   
 </year>
 
 
