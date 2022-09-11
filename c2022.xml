@@ -1337,9 +1337,11 @@
        </ride>
      </day>
      <day date="2022/09/08">
-       <ride dist="60" exdist="60.09" bike='fenix' gpx='20220908'>
+       <ride dist="55" exdist="55.09" bike='fenix' gpx='20220908'>
 	 <by name='Sochy'/>
+	 <by name='Tereszpol'/>
 	 <by name='Panasówka'/>
+	 <by name='Lipowiec'/>
        </ride>
      </day>
     
