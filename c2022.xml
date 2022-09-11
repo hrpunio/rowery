@@ -1313,7 +1313,45 @@
 	 <by name='Świbno'/>
        </ride>
      </day>
-  
+
+      <day date="2022/09/05">
+       <ride dist="80" exdist="81.09" bike='fenix' gpx='20220905'>
+	 <by name='Gdańsk'/>
+	 <by name='Elbląg'/>
+       </ride>
+     </day>
+     <day date="2022/09/06">
+       <ride dist="80" exdist="81.09" bike='fenix' gpx='20220906'>
+	 <by name='Sochy'/>
+	 <by name='Zwierzyniec'/>
+	 <by name='Józefów'/>
+       </ride>
+     </day>
+     <day date="2022/09/07">
+       <ride dist="100" exdist="101.09" bike='fenix' gpx='20220907'>
+	 <by name='Sochy'/>
+	 <by name='Józefów'/>
+	 <by name='Tomaszów Lubelski'/>
+	 <by name='Bełżec'/>
+	 <by name='Susiec'/>
+       </ride>
+     </day>
+     <day date="2022/09/08">
+       <ride dist="60" exdist="60.09" bike='fenix' gpx='20220908'>
+	 <by name='Sochy'/>
+	 <by name='Panasówka'/>
+       </ride>
+     </day>
+    
+     <day date="2022/09/10">
+       <ride dist="70" exdist="69.09" bike='fenix' gpx='20220910'>
+	 <by name='Sandomierz'/>
+	 <by name='Dwikozy'/>
+	 <by name='Zawichost'/>
+       </ride>
+     </day>
+
+
      
    </month>
 
