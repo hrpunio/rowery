@@ -1321,7 +1321,7 @@
        </ride>
      </day>
      <day date="2022/09/06">
-       <ride dist="80" exdist="81.09" bike='fenix' gpx='20220906'>
+       <ride dist="50" exdist="50.09" bike='fenix' gpx='20220906'>
 	 <by name='Sochy'/>
 	 <by name='Zwierzyniec'/>
 	 <by name='Józefów'/>
