@@ -1376,6 +1376,22 @@
 	 <by name='Gdynia'/>
        </ride>
      </day>
+     
+     <day date="2022/09/17">
+       <!-- Zawodzie-->
+       <ride dist="60" exdist="60.50" bike='fenix' gpx='20220917'>
+	 <by name='Gdańsk'/>
+ 	 <by name='Pruszcz Gdański'/>
+       </ride>
+     </day>
+
+     <day date="2022/09/18">
+       <!-- Zawodzie-->
+       <ride dist="95" exdist="94.50" bike='fenix' gpx='20220918'>
+	 <by name='Kiezmark'/>
+	 <by name='Drewnica'/>
+       </ride>
+     </day>
 
 
    </month>
