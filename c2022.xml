@@ -1395,11 +1395,33 @@
 
      <day date="2022/09/20">
        <!-- Zawodzie-->
-       <ride dist="35" exdist="37.50" bike='fenix' gpx='20220920'>
+       <ride dist="35" exdist="37.50" bike='cx' gpx='20220920'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     
+     <day date="2022/09/23">
+       <!-- Zawodzie-->
+       <ride dist="35" exdist="37.10" bike='cx' gpx='20220923'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     
+     <day date="2022/09/24">
+       <!-- Zawodzie-->
+       <ride dist="60" exdist="59.10" bike='fenix' gpx='20220924'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>
 
+     <day date="2022/09/25">
+       <!-- Zawodzie-->
+       <ride dist="80" exdist="81.50" bike='fenix' gpx='20220925'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     
 
    </month>
 
