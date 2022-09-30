@@ -1440,16 +1440,22 @@
        <ride dist="60" exdist="61.50" bike='fenix' gpx='20220928'>
 	 <by name='Gdańsk'/>
        </ride>
-     </day>
-
-     
+   </day>
+   
    <day date="2022/09/29">
-       <!-- Zawodzie-->
-       <ride dist="95" exdist="95.10" bike='fenix' gpx='20220929'>
-	 <by name='Gdańsk'/>
-	 <by name='Pruszcz Gdański'/>
-       </ride>
-     </day>
+     <!-- Zawodzie-->
+     <ride dist="95" exdist="95.10" bike='fenix' gpx='20220929'>
+       <by name='Gdańsk'/>
+       <by name='Pruszcz Gdański'/>
+     </ride>
+   </day>
+   
+   <day date="2022/09/30">
+     <!-- Zawodzie-->
+     <ride dist="75" exdist="75.10" bike='fenix' gpx='20220930'>
+       <by name='Gdańsk'/>
+     </ride>
+   </day>
      
      
 
