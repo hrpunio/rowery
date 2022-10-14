@@ -1504,13 +1504,42 @@
        <by name='Pruszcz Gdański'/>
      </ride>
    </day>
+   
    <day date="2022/10/07">
      <!-- Zawodzie-->
      <ride dist="50" exdist="50.10" bike='fenix' gpx='20221007'>
        <by name='Gdańsk'/>
      </ride>
    </day>
+   
+   <day date="2022/10/08">
+     <ride dist="40" exdist="40.10" bike='fenix' gpx='20221008'>
+       <by name='Gdańsk'/>
+     </ride>
+   </day>
 
+   <day date="2022/10/09">
+     <!-- wylot do neaplu -->
+     <ride dist="30" exdist="30.10" bike='fenix' gpx='20221009'>
+       <by name='Gdańsk'/>
+     </ride>
+   </day>
+
+   <day date="2022/10/13">
+     <!-- Zawodzie-->
+     <ride dist="100" exdist="99.10" bike='fenix' gpx='20221013'>
+       <by name='Gdańsk'/>
+     </ride>
+   </day>
+
+   <day date="2022/10/14">
+     <!-- Zawodzie-->
+     <ride dist="125" exdist="125.10" bike='fenix' gpx='20221014'>
+       <by name='Gdańsk'/>
+     </ride>
+   </day>
+
+   
    
    </month>
 
