@@ -1520,7 +1520,8 @@
 
    <day date="2022/10/09">
      <!-- wylot do neaplu -->
-     <ride dist="30" exdist="30.10" bike='fenix' gpx='20221009'>
+     <!-- rano do Gdańska i z powrotem -->
+     <ride dist="35" exdist="35.10" bike='fenix' gpx='20221009'>
        <by name='Gdańsk'/>
      </ride>
    </day>
@@ -1538,6 +1539,7 @@
        <by name='Gdańsk'/>
      </ride>
    </day>
+   
    <day date="2022/10/15">
      <!-- Zawodzie-->
      <ride dist="105" exdist="105.10" bike='fenix' gpx='20221015'>
@@ -1545,7 +1547,54 @@
        <by name='Kiezmark'/>
      </ride>
    </day>
+   <day date="2022/10/17">
+     <!-- Zawodzie-->
+     <ride dist="60" exdist="60.10" bike='fenix' gpx='20221017'>
+       <by name='Gdańsk'/>
+       <by name='Pruszcz Gdański'/>
+     </ride>
+   </day>
+   
+   <day date="2022/10/18">
+     <!-- Zawodzie-->
+     <ride dist="40" exdist="42.10" bike='fenix' gpx='20221018'>
+       <by name='Gdańsk'/>
+     </ride>
+   </day>
 
+   <day date="2022/10/19">
+     <!-- Zawodzie-->
+     <ride dist="55" exdist="92.10" bike='fenix' gpx='20221019'>
+       <by name='Gdańsk'/>
+     </ride>
+   </day>
+   
+   <day date="2022/10/20">
+     <!-- Zawodzie-->
+     <ride dist="90" exdist="92.10" bike='fenix' gpx='20221020'>
+       <by name='Gdańsk'/>
+       <by name='Pruszcz Gdański'/>
+       <by name='Krzywe Koło'/>
+       <by name='Cedry Wielkie'/>
+     </ride>
+   </day>
+   <day date="2022/10/21">
+     <!-- Zawodzie-->
+     <ride dist="60" exdist="59.85" bike='fenix' gpx='20221021'>
+       <by name='Gdańsk'/>
+       <by name='Pruszcz Gdański'/>
+     </ride>
+   </day>
+   
+
+   <day date="2022/10/23">
+     <ride dist="60" exdist="60.10" bike='cx' gpx='20221023'>
+       <by name='Gdańsk'/>
+       <by name='Osowa'/>
+     </ride>
+   </day>
+
+   
    
    
    </month>
