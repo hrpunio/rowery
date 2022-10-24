@@ -1586,11 +1586,16 @@
      </ride>
    </day>
    
-
    <day date="2022/10/23">
      <ride dist="60" exdist="60.10" bike='cx' gpx='20221023'>
        <by name='Gdańsk'/>
        <by name='Osowa'/>
+     </ride>
+   </day>
+   <day date="2022/10/24">
+     <!-- Zawodzie-->
+     <ride dist="50" exdist="50.10" bike='cx' gpx='20221024'>
+       <by name='Gdańsk'/>
      </ride>
    </day>
 
