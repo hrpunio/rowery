@@ -1599,6 +1599,13 @@
      </ride>
    </day>
 
+   <day date="2022/10/25">
+     <!-- Zawodzie-->
+     <ride dist="70" exdist="71.10" bike='cx' gpx='20221025'>
+       <by name='Gdańsk'/>
+       <by name='Pruszcz Gdański'/>
+     </ride>
+   </day>
    
    
    
