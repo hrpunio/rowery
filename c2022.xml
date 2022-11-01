@@ -1636,7 +1636,36 @@
      </ride>
    </day>
 
+   <day date="2022/10/30">
+     <!-- Zawodzie-->
+     <ride dist="35" exdist="37.11" bike='cx' gpx='20221030'>
+       <by name='Gdańsk'/>
+     </ride>
+   </day>
+   
+   <day date="2022/10/31">
+     <!-- Zawodzie-->
+     <ride dist="50" exdist="50.11" bike='cx' gpx='20221031'>
+       <by name='Gdańsk'/>
+     </ride>
+   </day>
 
+
+   
+   </month>
+   <month no='11'>
+   <day date="2022/11/01">
+     <ride dist="150" exdist="150.10" bike='fenix' gpx='20221101'>
+       <by name='Kiezmark'/>
+       <by name='Nowy Dwór Gdański'/>
+       <by name='Kobyla Kępa'/>
+       <by name='Kąty Rybackie'/>
+       <by name='Sztutowo'/>
+       <by name='Stegna'/>
+       <by name='Jantar'/>
+     </ride>
+   </day>
+   
    </month>
 
    
