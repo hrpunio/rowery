@@ -1668,7 +1668,7 @@
 
    <day date="2022/11/02">
      <!-- Zawodzie-->
-     <ride dist="50" exdist="50.10" bike='fenix' gpx='20221102'>
+     <ride dist="50" exdist="50.10" bike='cx' gpx='20221102'>
        <by name='Gdańsk'/>
      </ride>
    </day>
