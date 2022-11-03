@@ -1665,6 +1665,20 @@
        <by name='Jantar'/>
      </ride>
    </day>
+
+   <day date="2022/11/02">
+     <!-- Zawodzie-->
+     <ride dist="50" exdist="50.10" bike='fenix' gpx='20221102'>
+       <by name='Gdańsk'/>
+     </ride>
+   </day>
+   <day date="2022/11/03">
+     <!-- Zawodzie-->
+     <ride dist="40" exdist="40.10" bike='fenix' gpx='20221103'>
+       <by name='Gdańsk'/>
+     </ride>
+   </day>
+
    
    </month>
 
