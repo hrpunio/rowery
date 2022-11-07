@@ -1649,11 +1649,10 @@
        <by name='Gdańsk'/>
      </ride>
    </day>
-
-
    
-   </month>
-   <month no='11'>
+ </month>
+ 
+ <month no='11'>
    <day date="2022/11/01">
      <ride dist="150" exdist="150.10" bike='fenix' gpx='20221101'>
        <by name='Kiezmark'/>
@@ -1672,6 +1671,7 @@
        <by name='Gdańsk'/>
      </ride>
    </day>
+   
    <day date="2022/11/03">
      <!-- Zawodzie-->
      <ride dist="40" exdist="40.10" bike='fenix' gpx='20221103'>
@@ -1679,8 +1679,29 @@
      </ride>
    </day>
 
+   <day date="2022/11/04">
+     <!-- Zawodzie-->
+     <ride dist="45" exdist="45.10" bike='fenix' gpx='20221104'>
+       <by name='Gdańsk'/>
+     </ride>
+   </day>
+
+   <day date="2022/11/06">
+     <ride dist="30" exdist="32.10" bike='cx' gpx='20221106'>
+       <by name='Gdańsk'/>
+     </ride>
+   </day>
+   <day date="2022/11/07">
+     <!-- Zawodzie-->
+     <ride dist="70" exdist="72.10" bike='cx' gpx='20221107'>
+       <by name='Gdańsk'/>
+       <by name='Pruszcz Gdański'/>
+     </ride>
+   </day>
+
    
-   </month>
+   
+ </month>
 
    
 </year>
