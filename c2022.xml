@@ -1733,6 +1733,15 @@
        <by name='Gdańsk'/>
      </ride>
    </day>
+   <day date="2022/11/13">
+     <ride dist="100" exdist="99.10" bike='cx' gpx='20221113'>
+       <by name='Gdańsk'/>
+       <by name='Żukowo'/>
+       <by name='Przodkowo'/>
+       <by name='Czeczewo'/>
+       <by name='Bieszkowice'/>
+     </ride>
+   </day>
 
    
  </month>
