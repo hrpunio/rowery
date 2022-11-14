@@ -1742,6 +1742,18 @@
        <by name='Bieszkowice'/>
      </ride>
    </day>
+   <day date="2022/11/14">
+     <ride dist="125" exdist="124.10" bike='cx' gpx='20221114'>
+       <by name='Majewo'/>
+       <by name='Skórcz'/>
+       <by name='Wda'/>
+       <by name='Lublewo'/>
+       <by name='Szteklin'/>
+       <by name='Skarszewy'/>
+       <by name='Kłodawa'/>
+       <by name='Gdańsk'/>
+     </ride>
+   </day>
 
    
  </month>
