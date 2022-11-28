@@ -1790,6 +1790,14 @@
      </ride>
    </day>
 
+   <day date="2022/11/28">
+     <!-- Zawodzie-->
+     <ride dist="55" exdist="58.50" bike='mtb' gpx='20221128'>
+       <by name='Gdańsk'/>
+     </ride>
+   </day>
+
+   
  </month>
    
 </year>
