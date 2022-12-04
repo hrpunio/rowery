@@ -1823,6 +1823,12 @@
        <by name='Gdańsk'/>
      </ride>
    </day>
+   <day date="2022/12/04">
+     <!-- matarnia lotnisko; zima 0C -->
+     <ride dist="35" exdist="36.01" bike='mtb' gpx='20221204'>
+       <by name='Gdańsk'/>
+     </ride>
+   </day>
    
  </month>
    
