@@ -1834,12 +1834,28 @@
        <by name='Gdańsk'/>
      </ride>
    </day>
+   
    <day date="2022/12/06">
      <ride dist="60" exdist="60.21" bike='cx' gpx='20221206'>
        <by name='Gdynia'/>
        <by name='Gdańsk'/>
      </ride>
    </day>
+   
+   <day date="2022/12/07">
+     <!-- Zawodzie-->
+     <ride dist="65" exdist="66.72" bike='cx' gpx='20221207'>
+       <by name='Gdynia'/>
+     </ride>
+   </day>
+
+   <day date="2022/12/08">
+     <ride dist="35" exdist="34.10" bike='cx' gpx='20221208'>
+       <by name='Gdynia'/>
+     </ride>
+   </day>
+
+
    
  </month>
    
