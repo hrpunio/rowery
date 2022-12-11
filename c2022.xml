@@ -1854,6 +1854,12 @@
        <by name='Gdynia'/>
      </ride>
    </day>
+   
+   <day date="2022/12/10">
+     <ride dist="30" exdist="30.10" bike='mtb' gpx='20221210'>
+       <by name='Gdańsk'/>
+     </ride>
+   </day>
 
 
    
