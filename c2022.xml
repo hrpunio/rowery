@@ -1860,9 +1860,18 @@
        <by name='Gdańsk'/>
      </ride>
    </day>
+   <day date="2022/12/11">
+     <ride dist="25" exdist="28.10" bike='mtb' gpx='20221211'>
+       <by name='Gdańsk'/>
+     </ride>
+   </day>
+   <day date="2022/12/12">
+     <!-- Zawodzie-->
+     <ride dist="40" exdist="41.10" bike='mtb' gpx='20221212'>
+       <by name='Gdańsk'/>
+     </ride>
+   </day>
 
-
-   
  </month>
    
 </year>
