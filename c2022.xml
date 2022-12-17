@@ -1881,6 +1881,12 @@
        <by name='Gdańsk'/>
      </ride>
    </day>
+   <day date="2022/12/17">
+     <!-- Sobieszewo -->
+     <ride dist="65" exdist="66.10" bike='cx' gpx='20221217'>
+       <by name='Gdańsk'/>
+     </ride>
+   </day>
 
    
  </month>
