@@ -1887,6 +1887,11 @@
        <by name='Gdańsk'/>
      </ride>
    </day>
+   <day date="2022/12/17">
+     <ride dist="60" exdist="62.10" bike='cx' gpx='20221218'>
+       <by name='Pruszcz Gdański'/>
+     </ride>
+   </day>
 
    
  </month>
