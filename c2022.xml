@@ -1909,6 +1909,12 @@
        <by name='Kielno'/>
      </ride>
    </day>
+   <day date="2022/12/24">
+     <!-- ślisko -->
+     <ride dist="50" exdist="51.10" bike='cx' gpx='20221224'>
+       <by name='Gdańsk'/>
+     </ride>
+   </day>
 
    
  </month>
