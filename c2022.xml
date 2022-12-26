@@ -1915,6 +1915,12 @@
        <by name='Gdańsk'/>
      </ride>
    </day>
+   <day date="2022/12/26">
+     <ride dist="45" exdist="44.01" bike='cx' gpx='20221226'>
+       <by name='Miszewo'/>
+       <by name='Chwaszczyno'/>
+     </ride>
+   </day>
 
    
  </month>
