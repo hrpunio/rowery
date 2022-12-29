@@ -1927,6 +1927,12 @@
        <by name='Warzenko'/>
      </ride>
    </day>
+   <day date="2022/12/29">
+     <ride dist="35" exdist="36.01" bike='cx' gpx='20221229'>
+       <by name='Matarnia'/>
+       <by name='Osowa'/>
+     </ride>
+   </day>
 
    
  </month>
