@@ -1937,7 +1937,7 @@
 
    <day date="2022/12/30">
      <!-- Zawodzie-->
-     <ride dist="35" exdist="36.01" bike='cx' gpx='20221230'>
+     <ride dist="45" exdist="44.01" bike='cx' gpx='20221230'>
        <by name='Gdańsk'/>
      </ride>
    </day>
