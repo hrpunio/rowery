@@ -1935,6 +1935,22 @@
      </ride>
    </day>
 
+   <day date="2022/12/30">
+     <!-- Zawodzie-->
+     <ride dist="35" exdist="36.01" bike='cx' gpx='20221230'>
+       <by name='Gdańsk'/>
+     </ride>
+   </day>
+   <day date="2022/12/31">
+     <!-- Zawodzie-->
+     <ride dist="60" exdist="60.51" bike='cx' gpx='20221231'>
+       <by name='Gdańsk'/>
+       <by name='Pruszcz Gdański'/>
+     </ride>
+   </day>
+
+   
+
    
  </month>
    
