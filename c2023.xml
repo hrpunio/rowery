@@ -3,15 +3,27 @@
 
 <year no="2023" done='287425'>
   <month no="1">
-
-    <day date="2022/01/03">
-       <ride dist="40" exdist="41.40" bike='cx' gpx='20230108'>
+    <day date="2022/01/02">
+       <ride dist="40" exdist="39.46" bike='cx' gpx='20230102'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>
 
+    <day date="2022/01/03">
+       <ride dist="40" exdist="41.40" bike='cx' gpx='20230103'>
+	 <by name='Pępowo'/>
+	 <by name='Banino'/>
+       </ride>
+     </day>
+
      <day date="2022/01/04">
-       <ride dist="35" exdist="36.90" bike='cx' gpx='20230108'>
+       <ride dist="35" exdist="36.90" bike='cx' gpx='20230104'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     
+     <day date="2022/01/05">
+       <ride dist="40" exdist="41.90" bike='cx' gpx='20230105'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>
