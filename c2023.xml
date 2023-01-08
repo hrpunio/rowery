@@ -4,6 +4,18 @@
 <year no="2023" done='287425'>
   <month no="1">
 
+    <day date="2022/01/03">
+       <ride dist="40" exdist="41.40" bike='cx' gpx='20230108'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     <day date="2022/01/04">
+       <ride dist="35" exdist="36.90" bike='cx' gpx='20230108'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
      <day date="2022/01/08">
        <ride dist="40" exdist="39.40" bike='cx' gpx='20230108'>
 	 <by name='Gdańsk'/>
