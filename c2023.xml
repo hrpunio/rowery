@@ -8,14 +8,12 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
-
     <day date="2022/01/03">
        <ride dist="40" exdist="41.40" bike='cx' gpx='20230103'>
 	 <by name='Pępowo'/>
 	 <by name='Banino'/>
        </ride>
      </day>
-
      <day date="2022/01/04">
        <ride dist="35" exdist="36.90" bike='cx' gpx='20230104'>
 	 <by name='Gdańsk'/>
@@ -33,7 +31,12 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
-
+     <day date="2022/01/09">
+       <ride dist="35" exdist="37.46" bike='cx' gpx='20230109'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <!-- Przerwa na wenecję -->
      <day date="2022/01/16">
        <!-- zawodzie -->
        <ride dist="45" exdist="48.40" bike='cx' gpx='20230116'>
