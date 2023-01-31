@@ -93,7 +93,19 @@
 	 <by name='Gdańsk'/>
        </ride>
      </day>
-          
+     <day date="2022/01/29">
+       <ride dist="35" exdist="35.01" bike='cx' gpx='20230129'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+     <day date="2022/01/31">
+       <ride dist="60" exdist="62.01" bike='cx' gpx='20230131'>
+	 <!-- wyspa sobieszewska -->
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+
+     
  </month>
    
 </year>
