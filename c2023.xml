@@ -3,102 +3,102 @@
 
 <year no="2023" done='287425'>
   <month no="1">
-    <day date="2022/01/02">
+    <day date="2023/01/02">
        <ride dist="40" exdist="39.46" bike='cx' gpx='20230102'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>
-    <day date="2022/01/03">
+    <day date="2023/01/03">
        <ride dist="40" exdist="41.40" bike='cx' gpx='20230103'>
 	 <by name='Pępowo'/>
 	 <by name='Banino'/>
        </ride>
      </day>
-     <day date="2022/01/04">
+     <day date="2023/01/04">
        <ride dist="35" exdist="36.90" bike='cx' gpx='20230104'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>
      
-     <day date="2022/01/05">
+     <day date="2023/01/05">
        <ride dist="40" exdist="41.90" bike='cx' gpx='20230105'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>
 
-     <day date="2022/01/08">
+     <day date="2023/01/08">
        <ride dist="40" exdist="39.40" bike='cx' gpx='20230108'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>
-     <day date="2022/01/09">
+     <day date="2023/01/09">
        <ride dist="35" exdist="37.46" bike='cx' gpx='20230109'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>
      <!-- Przerwa na wenecję -->
-     <day date="2022/01/16">
+     <day date="2023/01/16">
        <!-- zawodzie -->
        <ride dist="45" exdist="48.40" bike='cx' gpx='20230116'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>
 
-     <day date="2022/01/17">
+     <day date="2023/01/17">
        <!-- zawodzie -->
        <ride dist="35" exdist="35.40" bike='cx' gpx='20230117'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>
-     <day date="2022/01/18">
+     <day date="2023/01/18">
        <!-- zawodzie -->
        <ride dist="35" exdist="35.40" bike='cx' gpx='20230118'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>
-     <day date="2022/01/19">
+     <day date="2023/01/19">
        <!-- zawodzie -->
        <ride dist="35" exdist="38.01" bike='cx' gpx='20230119'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>
-     <day date="2022/01/21">
+     <day date="2023/01/21">
        <!-- zawodzie -->
        <ride dist="30" exdist="32.01" bike='cx' gpx='20230121'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>
      
-     <day date="2022/01/23">
+     <day date="2023/01/23">
        <!-- zawodzie -->
        <ride dist="40" exdist="41.01" bike='cx' gpx='20230123'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>
-     <day date="2022/01/24">
+     <day date="2023/01/24">
        <ride dist="60" exdist="59.01" bike='cx' gpx='20230124'>
 	 <by name='Gdańsk'/>
 	 <by name='Pruszcz Gdański'/>
        </ride>
      </day>
 
-     <day date="2022/01/26">
+     <day date="2023/01/26">
        <ride dist="30" exdist="31.01" bike='cx' gpx='20230126'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>
-     <day date="2022/01/28">
+     <day date="2023/01/28">
        <ride dist="65" exdist="66.01" bike='cx' gpx='20230128'>
 	 <!-- wyspa sobieszewska -->
 	 <by name='Gdańsk'/>
        </ride>
      </day>
-     <day date="2022/01/29">
+     <day date="2023/01/29">
        <ride dist="40" exdist="39.01" bike='cx' gpx='20230129'>
 	 <by name='Gdańsk'/>
        </ride>
      </day>
-     <day date="2022/01/31">
+     <day date="2023/01/31">
        <ride dist="60" exdist="62.01" bike='cx' gpx='20230131'>
 	 <!-- wyspa sobieszewska -->
 	 <by name='Gdańsk'/>
@@ -107,17 +107,17 @@
   </month>
   
   <month no='2'>
-    <day date="2022/02/01">
+    <day date="2023/02/01">
       <ride dist="35" exdist="36.01" bike='cx' gpx='20230201'>
 	<by name='Gdańsk'/>
       </ride>
     </day>
-    <day date="2022/02/07">
+    <day date="2023/02/07">
       <ride dist="25" exdist="25.01" bike='mtb' gpx='20230207'>
 	<by name='Gdańsk'/>
       </ride>
     </day>
-    <day date="2022/02/08">
+    <day date="2023/02/08">
       <ride dist="30" exdist="31.01" bike='cx' gpx='20230208'>
 	<by name='Gdańsk'/>
       </ride>
