@@ -123,6 +123,30 @@
       </ride>
     </day>
 
+    <day date="2023/02/09">
+      <ride dist="25" exdist="27.94" bike='cx' gpx='20230209'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+    <day date="2023/02/10">
+      <ride dist="25" exdist="25.19" bike='cx' gpx='20230210'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+
+    <day date="2023/02/11">
+      <ride dist="30" exdist="32.61" bike='cx' gpx='20230211'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+
+    <day date="2023/02/12">
+      <ride dist="60" exdist="59.61" bike='cx' gpx='20230212'>
+	<by name='Pruszcz Gdański'/>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+
      
  </month>
    
