@@ -217,7 +217,31 @@
 	<by name='Gdańsk'/>
       </ride>
     </day>
+  </month no='3'>
+  <month>
+    <day date="2023/03/01">
+      <!-- zawodzie ;  -->
+      <ride dist="35" exdist="37.01" bike='cx' gpx='20230301'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
 
+    <day date="2023/03/03">
+       <ride dist="115" exdist="115.10" bike='cx' gpx='20230303'>
+	 <by name='Białystok'/>
+	 <by name='Supraśl'/>
+	 <by name='Krynki'/>
+	 <by name='Kruszyniany'/>
+       </ride>
+     </day>
+
+    <day date="2023/03/05">
+      <!-- zawodzie ;  -->
+      <ride dist="55" exdist="54.01" bike='cx' gpx='20230305'>
+	<by name='Nowy Dwór Gdański'/>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
  </month>
    
 </year>
