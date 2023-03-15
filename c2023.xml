@@ -268,6 +268,12 @@
 	<by name='Pruszcz Gdański'/>
       </ride>
     </day>
+    <day date="2023/03/15">
+      <!-- zawodzie ; sobieszewo -->
+      <ride dist="60" exdist="61.01" bike='cx' gpx='20230315'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
 
     
  </month>
