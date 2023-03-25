@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <?xml version='1.0' encoding='utf-8' standalone='no' ?>
 <!DOCTYPE year SYSTEM "rowery.dtd" >
 
@@ -321,6 +322,12 @@
       <!-- zawodzie ;  -->
       <ride dist="40" exdist="40.19" bike='cx' gpx='20230323'>
 	<by name='Gdańsk'/>
+      </ride>
+    </day>
+    <day date="2023/03/25">
+      <ride dist="60" exdist="60.19" bike='fenix' gpx='20230325'>
+	<by name='Gdańsk'/>
+	<by name='Pruszcz Gdański'/>
       </ride>
     </day>
 
