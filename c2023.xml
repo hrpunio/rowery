@@ -218,6 +218,7 @@
       </ride>
     </day>
   </month>
+  
   <month no='3'>
     <day date="2023/03/01">
       <!-- zawodzie ;  -->
@@ -355,9 +356,16 @@
 	<by name='Pruszcz Gdański'/>
       </ride>
     </day>
-    
+  </month>
+  
+  <month no='4'>
+    <day date="2023/04/01">
+      <ride dist="40" exdist="42.41" bike='fenix' gpx='20230401'>
+	<by name='Gdańsk'/>
+	<by name='Pępowo'/>
+	<by name='Banino'/>
+      </ride>
+    </day>
  </month>
    
 </year>
-
-
