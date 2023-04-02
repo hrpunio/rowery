@@ -366,6 +366,14 @@
 	<by name='Banino'/>
       </ride>
     </day>
+    <day date="2023/04/02">
+      <!-- zawodzie ;  -->
+      <ride dist="75" exdist="76.11" bike='fenix' gpx='20230402'>
+	<by name='Gdańsk'/>
+	<by name='Pruszcz Gdański'/>
+      </ride>
+    </day>
+    
  </month>
    
 </year>
