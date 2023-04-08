@@ -399,6 +399,21 @@
 	<by name='Gdańsk'/>
       </ride>
     </day>
+    <day date="2023/04/07">
+      <!-- zawodzie -->
+      <ride dist="35" exdist="37.11" bike='fenix' gpx='20230407'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+    <day date="2023/04/06">
+      <!-- zawodzie -->
+      <ride dist="95" exdist="95.11" bike='fenix' gpx='20230408'>
+	<by name='Gdańsk'/>
+	<by name='Pruszcz Gdański'/>
+	<by name='Kiezmark'/>
+	<by name='Przegalina'/>
+      </ride>
+    </day>
 
     
  </month>
