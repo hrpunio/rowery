@@ -414,6 +414,13 @@
 	<by name='Przegalina'/>
       </ride>
     </day>
+    <day date="2023/04/09">
+      <ride dist="40" exdist="42.11" bike='fenix' gpx='20230409'>
+	<by name='Gdańsk'/>
+	<by name='Pępowo'/>
+	<by name='Banino'/>
+      </ride>
+    </day>
 
     
  </month>
