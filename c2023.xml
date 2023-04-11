@@ -421,7 +421,20 @@
 	<by name='Banino'/>
       </ride>
     </day>
-
+    <day date="2023/04/10">
+      <ride dist="80" exdist="80.11" bike='fenix' gpx='20230410'>
+	<by name='Kamień'/>
+	<by name='Szemud'/>
+	<by name='Nowy Dwór Wejherowski'/>
+	<by name='Kielno'/>
+      </ride>
+    </day>
+    <day date="2023/04/11">
+      <!-- zawodzie -->
+      <ride dist="40" exdist="40.11" bike='fenix' gpx='20230411'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
     
  </month>
    
