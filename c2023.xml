@@ -469,6 +469,19 @@
       </ride>
     </day>
 
+    <day date="2023/04/19">
+      <!-- zawodzie -->
+      <ride dist="60" exdist="59.21" bike='fenix' gpx='20230419'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+    <day date="2023/04/20">
+      <!-- zawodzie ; Sobieszewo -->
+      <ride dist="70" exdist="70.21" bike='fenix' gpx='20230420'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+
     
  </month>
    
