@@ -487,7 +487,7 @@
       </ride>
     </day>
     <day date="2023/04/22">
-      <ride dist="45" exdist="47.21" bike='fenix' gpx='20230422'>
+      <ride dist="105" exdist="105.21" bike='fenix' gpx='20230422'>
 	<by name='Gdańsk'/>
 	<by name='Kiezmark'/>
 	<by name='Drewnica'/>
