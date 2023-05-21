@@ -608,7 +608,7 @@
 
     <day date="2023/05/20">
       <!-- zawodzie  -->
-      <ride dist="145" exdist="145.11" bike='ridley' gpx='20230520'>
+      <ride dist="145" exdist="145.11" bike='fenix' gpx='20230520'>
 	<by name='Gdańsk'/>
 	<by name='Sztutowo'/>
       </ride>
@@ -616,7 +616,7 @@
 
     <day date="2023/05/21">
       <!-- zawodzie  -->
-      <ride dist="150" exdist="151.11" bike='ridley' gpx='20230521'>
+      <ride dist="150" exdist="151.11" bike='fenix' gpx='20230521'>
 	<by name='Gdańsk'/>
 	<by name='Malbork'/>
       </ride>
