@@ -621,6 +621,12 @@
 	<by name='Malbork'/>
       </ride>
     </day>
+    <day date="2023/05/22">
+      <!-- zawodzie  -->
+      <ride dist="35" exdist="36.11" bike='fenix' gpx='20230522'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
 
     
     
