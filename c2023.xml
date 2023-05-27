@@ -646,6 +646,21 @@
 	<by name='Gdańsk'/>
       </ride>
     </day>
+    <day date="2023/05/26">
+      <!-- zawodzie  -->
+      <ride dist="40" exdist="39.11" bike='fenix' gpx='20230526'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+    <day date="2023/05/27">
+      <!-- zawodzie  -->
+      <ride dist="100" exdist="100.11" bike='fenix' gpx='20230527'>
+	<by name='Gdańsk'/>
+	<by name='Nowy Dwór Gdański'/>
+	<by name='Pogorzała Wieś'/>
+	<by name='Malbork'/>
+      </ride>
+    </day>
 
     
     
