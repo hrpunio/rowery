@@ -661,6 +661,16 @@
 	<by name='Malbork'/>
       </ride>
     </day>
+    <day date="2023/05/28">
+      <!-- zawodzie  -->
+      <ride dist="145" exdist="144.11" bike='fenix' gpx='20230528'>
+	<by name='Gdańsk'/>
+	<by name='Kiezmark'/>
+	<by name='Parczewo'/>
+	<by name='Tczew'/>
+	<by name='Cedry Wielkie'/>
+      </ride>
+    </day>
 
     
     
