@@ -681,6 +681,35 @@
 	<by name='Gdańsk'/>
       </ride>
     </day>
+  </month>
+  <month no='6'>
+
+    <day date="2023/06/01">
+      <!-- zawodzie  -->
+      <ride dist="60" exdist="61.87" bike='fenix' gpx='20230601'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+    <day date="2023/06/02">
+      <!-- zawodzie  -->
+      <ride dist="40" exdist="40.15" bike='fenix' gpx='20230602'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+    <day date="2023/06/03">
+      <!-- zawodzie  -->
+      <ride dist="40" exdist="39.86" bike='fenix' gpx='20230603'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+    <day date="2023/06/12">
+      <!-- zawodzie  -->
+      <ride dist="40" exdist="42.05" bike='fenix' gpx='20230612'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+
+
     
  </month>
    
