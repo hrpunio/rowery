@@ -738,6 +738,13 @@
 	<by name='Gdańsk'/>
       </ride>
     </day>
+    <day date="2023/06/18">
+      <!-- zawodzie; sobieszewo  -->
+      <ride dist="75" exdist="74.56" bike='fenix' gpx='20230618'>
+	<by name='Gdańsk'/>
+	<by name='Pruszcz Gdański'/>
+      </ride>
+    </day>
 
     <day date="2023/06/19">
       <!-- zawodzie  -->
