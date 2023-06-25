@@ -780,7 +780,10 @@
     <day date="2023/06/25">
       <!-- zawodzie  -->
       <ride dist="125" exdist="127.18" bike='fenix' gpx='20230625'>
-	<by name='Gdańsk'/>
+	<by name='Wejherowo'/>
+	<by name='Krokowa'/>
+	<by name='Puck'/>
+	<by name='Gdynia'/>
       </ride>
     </day>
 
