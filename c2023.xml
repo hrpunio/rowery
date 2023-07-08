@@ -835,6 +835,27 @@
 	<by name='Gdańsk'/>
       </ride>
     </day>
+  <day date="2023/07/05">
+      <!-- zawodzie  -->
+      <ride dist="35" exdist="37.40" bike='fenix' gpx='20230705'>
+	<by name='Gdańsk'/>
+      </ride>
+   </day>
+
+  <day date="2023/07/07">
+      <!-- zawodzie  -->
+      <ride dist="35" exdist="37.40" bike='fenix' gpx='20230707'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+
+  <day date="2023/07/08">
+      <!-- ;;  -->
+      <ride dist="100" exdist="101.40" bike='fenix' gpx='20230708'>
+	<by name='Wejherowo'/>
+      </ride>
+    </day>
+
     
  </month>
    
