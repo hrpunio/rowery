@@ -855,6 +855,13 @@
 	<by name='Wejherowo'/>
       </ride>
     </day>
+  <day date="2023/07/09">
+      <!-- zawodzie  -->
+      <ride dist="90" exdist="90.40" bike='fenix' gpx='20230709'>
+	<by name='Gdańsk'/>
+	<by name='Pruszcz Gdański'/>
+      </ride>
+    </day>
 
     
  </month>
