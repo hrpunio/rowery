@@ -862,6 +862,13 @@
 	<by name='Pruszcz Gdański'/>
       </ride>
     </day>
+  <day date="2023/07/10">
+      <!-- zawodzie  -->
+      <ride dist="95" exdist="96.40" bike='fenix' gpx='20230710'>
+	<by name='Gdańsk'/>
+	<by name='Pruszcz Gdański'/>
+      </ride>
+    </day>
 
     
  </month>
