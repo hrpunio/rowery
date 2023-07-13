@@ -852,7 +852,12 @@
   <day date="2023/07/08">
       <!-- ;;  -->
       <ride dist="100" exdist="101.40" bike='fenix' gpx='20230708'>
+	<by name='Szemud'/>
+	<by name='Głazica'/>
 	<by name='Wejherowo'/>
+	<by name='Nowy Dwór Wejherowski'/>
+	<by name='Koleczkowo'/>
+	<by name='Kielno'/>
       </ride>
     </day>
   <day date="2023/07/09">
