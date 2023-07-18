@@ -888,7 +888,7 @@
   </day>
   <day date="2023/07/14">
     <!-- zawodzie  -->
-    <ride dist="45" exdist="47.40" bike='fenix' gpx='20230714'>
+    <ride dist="40" exdist="41.40" bike='fenix' gpx='20230714'>
       <by name='Gdańsk'/>
     </ride>
   </day>
