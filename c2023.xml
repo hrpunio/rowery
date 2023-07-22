@@ -911,6 +911,12 @@
       <by name='Pępowo'/>
     </ride>
   </day>
+  
+  <day date="2023/07/21">
+    <ride dist="40" exdist="41.10" bike='fenix' gpx='20230721'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
 
     
     
