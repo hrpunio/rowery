@@ -918,6 +918,12 @@
     </ride>
   </day>
 
+  <day date="2023/07/24">
+    <!-- zawodzie ; wyspa sobieszewska -->
+    <ride dist="85" exdist="84.10" bike='fenix' gpx='20230724'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
     
     
  </month>
