@@ -917,6 +917,12 @@
       <by name='Gdańsk'/>
     </ride>
   </day>
+  <day date="2023/07/22">
+    <!-- zawodzie -->
+    <ride dist="45" exdist="44.10" bike='ridley' gpx='20230722'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
 
   <day date="2023/07/24">
     <!-- zawodzie ; wyspa sobieszewska -->
