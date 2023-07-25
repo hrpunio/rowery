@@ -930,6 +930,12 @@
       <by name='Gdańsk'/>
     </ride>
   </day>
+  <day date="2023/07/25">
+    <!-- zawodzie -->
+    <ride dist="35" exdist="37.60" bike='fenix' gpx='20230725'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
     
     
  </month>
