@@ -961,14 +961,25 @@
       <by name='Gdańsk'/>
       <by name='Pruszcz Gdański'/>
     </ride>
-  </day>
-    
+  </day>    
   </month>
   
   <month no='8'>
   <day date="2023/08/01">
     <!-- zawodzie -->
     <ride dist="40" exdist="41.20" bike='fenix' gpx='20230801'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
+  <day date="2023/08/02">
+    <ride dist="60" exdist="60.20" bike='fenix' gpx='20230802'>
+      <by name='Gdańsk'/>
+      <by name='Pruszcz Gdański'/>
+    </ride>
+  </day>
+  <day date="2023/08/03">
+    <!-- zawodzie -->
+    <ride dist="90" exdist="89.10" bike='fenix' gpx='20230803'>
       <by name='Gdańsk'/>
     </ride>
   </day>
