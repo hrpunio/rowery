@@ -1025,6 +1025,22 @@
       <by name='Gdańsk'/>
     </ride>
   </day>
+  <day date="2023/08/14">
+    <!-- zawodzie ; sobieszewo -->
+    <ride dist="40" exdist="39.10" bike='fenix' gpx='20230814'>
+      <by name='Banino'/>
+    </ride>
+  </day>
+
+  <day date="2023/08/15">
+    <ride dist="70" exdist="72.10" bike='fenix' gpx='20230815'>
+      <by name='Chwaszczyno'/>
+      <by name='Czeczewo'/>
+      <by name='Hopy'/>
+      <by name='Pomieczyno'/>
+      <by name='Przodkowo'/>
+    </ride>
+  </day>
 
   
   
