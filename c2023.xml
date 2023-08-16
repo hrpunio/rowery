@@ -1018,15 +1018,15 @@
     </ride>
   </day>
  
-  
   <day date="2023/08/13">
     <!-- zawodzie ; sobieszewo -->
     <ride dist="80" exdist="79.10" bike='fenix' gpx='20230813'>
       <by name='Gdańsk'/>
     </ride>
   </day>
+  
   <day date="2023/08/14">
-    <!-- zawodzie ; sobieszewo -->
+    <!-- ;;  -->
     <ride dist="40" exdist="39.10" bike='fenix' gpx='20230814'>
       <by name='Banino'/>
     </ride>
@@ -1041,8 +1041,12 @@
       <by name='Przodkowo'/>
     </ride>
   </day>
-
-  
+  <day date="2023/08/16">
+    <!-- zawodzie  -->
+    <ride dist="35" exdist="37.10" bike='fenix' gpx='20230816'>
+      <by name='Banino'/>
+    </ride>
+  </day>
   
  </month>
    
