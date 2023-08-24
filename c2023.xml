@@ -1067,6 +1067,20 @@
       <by name='Cedry Wielkie'/>
     </ride>
   </day>
+  <day date="2023/08/22">
+    <!-- zawodzie  -->
+    <ride dist="40" exdist="40.10" bike='fenix' gpx='20230822'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
+
+  <day date="2023/08/24">
+    <!-- zawodzie  -->
+    <ride dist="35" exdist="37.10" bike='fenix' gpx='20230824'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
+
   
  </month>
    
