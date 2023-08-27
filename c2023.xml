@@ -1090,6 +1090,8 @@
     <!-- zawodzie  -->
     <ride dist="90" exdist="91.65" bike='fenix' gpx='20230827'>
       <by name='Gdańsk'/>
+      <by name='Pruszcz Gdański'/>
+      <by name='Kiezmark'/>
     </ride>
   </day>
 
