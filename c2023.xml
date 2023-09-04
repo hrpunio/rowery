@@ -1128,7 +1128,7 @@
   <month no='9'>
 
   <day date="2023/09/01">
-    <ride dist="70" exdist="70.30" bike='fenix' gpx='20230901'>
+    <ride dist="20" exdist="20.30" bike='fenix' gpx='20230901'>
       <by name='Sławatycze'/>
       <by name='Włodawa'/>
       <by name='Sobibór'/>
