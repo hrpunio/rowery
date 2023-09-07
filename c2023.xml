@@ -1134,9 +1134,10 @@
       <by name='Sobibór'/>
     </ride>
   </day>
+
   <day date="2023/09/03">
     <!-- zawodzie -->
-    <ride dist="20" exdist="20.30" bike='fenix' gpx='20230903'>
+    <ride dist="20" exdist="21.70" bike='fenix' gpx='20230903'>
       <by name='Gdańsk'/>
     </ride>
   </day>
@@ -1147,7 +1148,28 @@
       <by name='Gdańsk'/>
     </ride>
   </day>
-
+  <day date="2023/09/05">
+    <!-- zawodzie  -->
+    <ride dist="35" exdist="37.30" bike='fenix' gpx='20230905'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
+    <day date="2023/09/06">
+    <!-- zawodzie  -->
+    <ride dist="35" exdist="37.30" bike='fenix' gpx='20230906'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
+  
+  <day date="2023/09/07">
+    <!-- zawodzie ; z kolegami -->
+    <ride dist="80" exdist="79.65" bike='fenix' gpx='20230907'>
+      <by name='Gdańsk'/>
+      <by name='Suchy Dąb'/>
+      <by name='Krzywe Koło'/>
+      <by name='Cedry Wielkie'/>
+    </ride>
+  </day>
     
  </month>
    
