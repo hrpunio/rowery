@@ -1163,7 +1163,7 @@
   
   <day date="2023/09/07">
     <!-- zawodzie ; z kolegami -->
-    <ride dist="80" exdist="79.65" bike='fenix' gpx='20230907'>
+    <ride dist="95" exdist="95.15" bike='fenix' gpx='20230907'>
       <by name='Gdańsk'/>
       <by name='Suchy Dąb'/>
       <by name='Krzywe Koło'/>
