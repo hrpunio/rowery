@@ -1154,7 +1154,7 @@
       <by name='Gdańsk'/>
     </ride>
   </day>
-    <day date="2023/09/06">
+  <day date="2023/09/06">
     <!-- zawodzie  -->
     <ride dist="35" exdist="37.30" bike='fenix' gpx='20230906'>
       <by name='Gdańsk'/>
@@ -1168,6 +1168,12 @@
       <by name='Suchy Dąb'/>
       <by name='Krzywe Koło'/>
       <by name='Cedry Wielkie'/>
+    </ride>
+  </day>
+  <day date="2023/09/08">
+    <!-- zawodzie  -->
+    <ride dist="35" exdist="37.30" bike='fenix' gpx='20230908'>
+      <by name='Gdańsk'/>
     </ride>
   </day>
     
