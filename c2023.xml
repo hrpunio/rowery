@@ -1190,6 +1190,13 @@
       <by name='Kiezmark'/>
     </ride>
   </day>
+  <day date="2023/09/11">
+    <!-- zawodzie ; z kolegami -->
+    <ride dist="75" exdist="77.15" bike='fenix' gpx='20230911'>
+      <by name='Gdańsk'/>
+      <by name='Cedry Wielkie'/>
+    </ride>
+  </day>
     
  </month>
    
