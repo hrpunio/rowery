@@ -1048,7 +1048,7 @@
     </ride>
   </day>
   <day date="2023/08/17">
-    <!-- zawodzie ; kiezmark z kolegami -->
+    <!-- ŻPAS: zawodzie ; kiezmark z kolegami -->
     <ride dist="85" exdist="87.10" bike='fenix' gpx='20230817'>
       <by name='Gdańsk'/>
       <by name='Kiezmark'/>
@@ -1095,7 +1095,7 @@
     </ride>
   </day>
   <day date="2023/08/28">
-    <!-- zawodzie ; z kolegami -->
+    <!-- ŻPAS: zawodzie ; z kolegami -->
     <ride dist="80" exdist="79.65" bike='fenix' gpx='20230828'>
       <by name='Gdańsk'/>
       <by name='Cedry Wielkie'/>
@@ -1143,7 +1143,7 @@
   </day>
   
   <day date="2023/09/04">
-    <!-- zawodzie ; z kolegami -->
+    <!-- ŻPAS: zawodzie ; z kolegami -->
     <ride dist="85" exdist="85.30" bike='fenix' gpx='20230904'>
       <by name='Gdańsk'/>
     </ride>
@@ -1162,7 +1162,7 @@
   </day>
   
   <day date="2023/09/07">
-    <!-- zawodzie ; z kolegami -->
+    <!-- ŻPAS: zawodzie ; z kolegami -->
     <ride dist="95" exdist="95.15" bike='fenix' gpx='20230907'>
       <by name='Gdańsk'/>
       <by name='Suchy Dąb'/>
@@ -1191,7 +1191,7 @@
     </ride>
   </day>
   <day date="2023/09/11">
-    <!-- zawodzie ; z kolegami -->
+    <!-- ŻPAS: zawodzie ; z kolegami -->
     <ride dist="75" exdist="77.15" bike='fenix' gpx='20230911'>
       <by name='Gdańsk'/>
       <by name='Cedry Wielkie'/>
@@ -1208,8 +1208,14 @@
     </ride>
   </day>
   <day date="2023/09/14">
-    <!-- zawodzie ; z kolegami -->
+    <!-- zawodzie  -->
     <ride dist="35" exdist="37.10" bike='fenix' gpx='20230914'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
+  <day date="2023/09/15">
+    <!-- ŻPAS: z kolegami -->
+    <ride dist="90" exdist="91.10" bike='fenix' gpx='20230915'>
       <by name='Gdańsk'/>
     </ride>
   </day>
