@@ -1251,7 +1251,28 @@
       <by name='Gdańsk'/>
     </ride>
   </day>
-    
+
+  <day date="2023/09/20">  
+    <!-- zawodzie  -->
+    <ride dist="35" exdist="35.20" bike='fenix' gpx='20230920'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
+
+  <day date="2023/09/21">  
+    <!-- zawodzie  -->
+    <ride dist="30" exdist="31.10" bike='fenix' gpx='20230921'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
+  <day date="2023/09/22">  
+    <!-- ŻPAS: zawodzie  ; wyspa S -->
+    <ride dist="75" exdist="78.10" bike='fenix' gpx='20230922'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
+
+  
  </month>
    
 </year>
