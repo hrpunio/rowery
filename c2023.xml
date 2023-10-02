@@ -1291,6 +1291,7 @@
       <by name='Gdańsk'/>
     </ride>
   </day>
+
   <day date="2023/09/28">
     <!-- zawodzie -->
     <ride dist="35" exdist="38.10" bike='fenix' gpx='20230928'>
@@ -1298,6 +1299,28 @@
     </ride>
   </day>
 
- </month>
-   
+</month>
+
+<month no='10'>
+
+  <day date="2023/10/01">
+    <ride dist="105" exdist="106.10" bike='fenix' gpx='20231001'>
+      <by name='Gdańsk'/>
+      <by name='Kiezmark'/>
+      <by name='Ostaszewo'/>
+    </ride>
+    <ride dist="25" exdist="25.10" bike='fenix'>
+      <!-- Do roboty -->
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
+  <day date="2023/10/02">
+    <!-- zawodzie -->
+    <ride dist="35" exdist="37.10" bike='fenix' gpx='20231902'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
+
+</month>
+
 </year>
