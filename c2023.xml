@@ -1428,8 +1428,19 @@
   </day>
   <day date="2023/10/20">
     <!-- zawodzie -->
-    <ride dist="35" exdist="37.10" bike='fenix' gpx='20231920'>
+    <ride dist="35" exdist="37.10" bike='cx' gpx='20231920'>
       <by name='Gdańsk'/>
+    </ride>
+  </day>
+  <day date="2023/10/22">
+
+    <ride dist="65" exdist="65.10" bike='fenix' gpx='20231922'>
+      <by name='Gdańsk'/>
+      <by name='Miszewo'/>
+      <by name='Przodkowo'/>
+      <by name='Grzybno'/>
+      <by name='Żukowo'/>
+      <by name='Borcz'/>
     </ride>
   </day>
 
