@@ -1432,8 +1432,8 @@
       <by name='Gdańsk'/>
     </ride>
   </day>
-  <day date="2023/10/22">
 
+  <day date="2023/10/22">
     <ride dist="65" exdist="65.10" bike='fenix' gpx='20231922'>
       <by name='Gdańsk'/>
       <by name='Miszewo'/>
@@ -1443,9 +1443,31 @@
       <by name='Borcz'/>
     </ride>
   </day>
+  <day date="2023/10/23">
+    <!-- zawodzie -->
+    <ride dist="35" exdist="37.10" bike='fenix' gpx='20231923'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
+  <day date="2023/10/24">
+    <!-- zawodzie -->
+    <ride dist="35" exdist="37.10" bike='fenix' gpx='20231924'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
+  
+  <day date="2023/10/25">
+    <ride dist="30" exdist="30.10" bike='cx' gpx='20231925'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
 
-  
-  
+  <day date="2023/10/26">
+    <!-- zawodzie -->
+    <ride dist="35" exdist="37.10" bike='cx' gpx='20231926'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
   
 </month>
 
