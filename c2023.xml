@@ -1473,6 +1473,20 @@
       <by name='Gdańsk'/>
     </ride>
   </day>
+  <day date="2023/10/28">
+    <ride dist="85" exdist="84.10" bike='ridley' gpx='20231928'>
+      <by name='Gdańsk'/>
+      <by name='Pruszcz Gdański'/>
+      <by name='Cedry Wielkie'/>
+    </ride>
+  </day>
+  
+  <day date="2023/10/30">
+    <!-- zawodzie -->
+    <ride dist="35" exdist="37.10" bike='ridley' gpx='20231930'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
   
 </month>
 
