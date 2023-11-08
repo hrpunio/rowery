@@ -1520,7 +1520,13 @@
     </ride>
   </day>
   <day date="2023/11/06">
-    <ride dist="45" exdist="45.10" bike='ridley' gpx='20231106'>
+    <ride dist="45" exdist="45.10" bike='cx' gpx='20231106'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
+  <day date="2023/11/08">
+    <!-- zawodzie -->
+    <ride dist="40" exdist="42.10" bike='ridley' gpx='20231108'>
       <by name='Gdańsk'/>
     </ride>
   </day>
