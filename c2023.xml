@@ -1536,6 +1536,12 @@
       <by name='Gdańsk'/>
     </ride>
   </day>
+  <day date="2023/11/10">
+    <!-- zawodzie -->
+    <ride dist="50" exdist="51.10" bike='cx' gpx='20231110'>
+      <by name='Gdańsk'/>
+    </ride>
+  </day>
   
 </month>
 
