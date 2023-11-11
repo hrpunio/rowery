@@ -1544,7 +1544,7 @@
   </day>
   <day date="2023/11/11">
     <!-- zawodzie -->
-    <ride dist="50" exdist="51.10" bike='cx' gpx='20231111'>
+    <ride dist="100" exdist="99.10" bike='cx' gpx='20231111'>
       <by name='Gdańsk'/>
       <by name='Kiezmark'/>
       <by name='Cedry Wielkie'/>
