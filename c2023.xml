@@ -1474,7 +1474,7 @@
     </ride>
   </day>
   <day date="2023/10/28">
-    <ride dist="85" exdist="84.10" bike='ridley' gpx='20231028'>
+    <ride dist="85" exdist="84.10" bike='fenix' gpx='20231028'>
       <by name='Gdańsk'/>
       <by name='Pruszcz Gdański'/>
       <by name='Cedry Wielkie'/>
@@ -1483,12 +1483,12 @@
   
   <day date="2023/10/30">
     <!-- zawodzie -->
-    <ride dist="35" exdist="37.10" bike='ridley' gpx='20231030'>
+    <ride dist="35" exdist="37.10" bike='fenix' gpx='20231030'>
       <by name='Gdańsk'/>
     </ride>
   </day>
   <day date="2023/10/31">
-    <ride dist="25" exdist="26.10" bike='ridley' gpx='20231031'>
+    <ride dist="25" exdist="26.10" bike='fenix' gpx='20231031'>
       <by name='Gdańsk'/>
     </ride>
   </day>
@@ -1497,25 +1497,25 @@
 <month no='11'>
   <day date="2023/11/01">
     <!-- zawodzie -->
-    <ride dist="35" exdist="36.10" bike='ridley' gpx='20231101'>
+    <ride dist="35" exdist="36.10" bike='fenix' gpx='20231101'>
       <by name='Gdańsk'/>
     </ride>
   </day>
   <day date="2023/11/02">
     <!-- zawodzie -->
-    <ride dist="35" exdist="36.10" bike='ridley' gpx='20231102'>
+    <ride dist="35" exdist="36.10" bike='fenix' gpx='20231102'>
       <by name='Gdańsk'/>
     </ride>
   </day>
 
   <day date="2023/11/03">
-    <ride dist="35" exdist="35.10" bike='ridley' gpx='20231103'>
+    <ride dist="35" exdist="35.10" bike='fenix' gpx='20231103'>
       <by name='Gdańsk'/>
     </ride>
   </day>
 
   <day date="2023/11/04">
-    <ride dist="25" exdist="26.10" bike='ridley' gpx='20231104'>
+    <ride dist="25" exdist="26.10" bike='fenix' gpx='20231104'>
       <by name='Gdańsk'/>
     </ride>
   </day>
@@ -1526,7 +1526,7 @@
   </day>
   <day date="2023/11/08">
     <!-- zawodzie -->
-    <ride dist="40" exdist="42.10" bike='ridley' gpx='20231108'>
+    <ride dist="40" exdist="42.10" bike='fenix' gpx='20231108'>
       <by name='Gdańsk'/>
     </ride>
   </day>
@@ -1538,13 +1538,13 @@
   </day>
   <day date="2023/11/10">
     <!-- zawodzie -->
-    <ride dist="50" exdist="51.10" bike='ridley' gpx='20231110'>
+    <ride dist="50" exdist="51.10" bike='fenix' gpx='20231110'>
       <by name='Gdańsk'/>
     </ride>
   </day>
   <day date="2023/11/11">
     <!-- zawodzie -->
-    <ride dist="100" exdist="99.10" bike='ridley' gpx='20231111'>
+    <ride dist="100" exdist="99.10" bike='fenix' gpx='20231111'>
       <by name='Gdańsk'/>
       <by name='Kiezmark'/>
       <by name='Cedry Wielkie'/>
