@@ -1651,6 +1651,14 @@
     </ride>
   </day>
 
+  <day date="2023/12/26">
+    <!-- Ridley pojechał do Wrocławia -->
+    <ride dist="40" exdist="40.05" bike='ridley' gpx='20231226'>
+      <by name='Wrocław'/>
+    </ride>
+  </day>
+
+  
   
 </month>
 
