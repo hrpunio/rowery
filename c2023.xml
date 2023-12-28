@@ -1658,6 +1658,11 @@
     </ride>
   </day>
 
+  <day date="2023/12/28">
+    <ride dist="40" exdist="39.05" bike='cx' gpx='20231228'>
+      <by name='Chwaszczyno'/>
+    </ride>
+  </day>
   
   
 </month>
