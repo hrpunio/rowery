@@ -1668,6 +1668,13 @@
       <by name='Gdańsk'/>
     </ride>
   </day>
+  <day date="2023/12/31">
+    <ride dist="40" exdist="42.05" bike='cx' gpx='20231231'>
+      <by name='Gdańsk'/>
+      <by name='Pępowo'/>
+      <by name='Banino'/>
+    </ride>
+  </day>
   
   
 </month>
