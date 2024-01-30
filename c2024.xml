@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE year SYSTEM "rowery.dtd" >
+
+<year no="2024" done='300105'>
+  <month no="1">
+    <day date="2023/01/30">
+       <ride dist="35" exdist="37.46" bike='cx' gpx='20240130'>
+	 <by name='Gdańsk'/>
+       </ride>
+     </day>
+  
+</month>
+
+</year>
