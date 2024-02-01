@@ -3,17 +3,24 @@
 
 <year no="2024" done='300105'>
   <month no="1">
+    <!-- zawodzie -->
     <day date="2023/01/30">
-       <ride dist="35" exdist="37.46" bike='cx' gpx='20240130'>
-	 <by name='Gdańsk'/>
-       </ride>
-     </day>
+      <ride dist="35" exdist="37.46" bike='cx' gpx='20240130'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
     <day date="2023/01/31">
-       <ride dist="35" exdist="35.03" bike='fenix' gpx='20240131'>
-	 <by name='Gdańsk'/>
-       </ride>
-     </day>
-  
+      <ride dist="35" exdist="35.03" bike='fenix' gpx='20240131'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
+  </month>
+  <month no='2'>
+    <day date="2023/02/01">
+      <ride dist="30" exdist="29.90" bike='fenix' gpx='20240201'>
+	<by name='Gdańsk'/>
+      </ride>
+    </day>
 </month>
 
 </year>
